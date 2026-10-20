@@ -12,3 +12,7 @@ Add future materials in new topic/question files or append sections. Do not eras
 - Added separate shelves for verified PYQs, predicted questions, practice questions and answer keys.
 - Added topic finder, section finder, progress tracker and revision-sheet index.
 - Added preservation instructions to the subject dashboard and master index.
+
+
+- Additional detailed lesson pages, separated question sets, model answers, source register and BNS section finder added as new files. Existing topic roadmap files were preserved and linked to the new detailed lessons.
+- Semester 2–6 workspace templates and a Semester 1 subject-confirmation register added for future expansion. Subject names remain unconfirmed until checked against the applicable CCSU syllabus.
