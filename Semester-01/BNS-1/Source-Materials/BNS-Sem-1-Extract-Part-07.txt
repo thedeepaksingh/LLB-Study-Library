@@ -1,0 +1,2999 @@
+An imputation of truth is not defamation when:
+
+   1. it is true; and
+   2. its publication is for the public good.
+
+⚠️ Both aspects matter.
+<PARSED TEXT FOR PAGE: 455 / 748>
+⭐ Exam trap
+Do not simply write:
+
+        "Truth is always a defence."
+
+The statutory exception requires truth + public good.
+
+
+
+
+EXCEPTION 2 – PUBLIC CONDUCT OF
+PUBLIC SERVANTS
+An opinion expressed in good faith concerning the conduct of a public servant:
+
+    ●    in discharge of public functions; or
+    ●    concerning his character as revealed by that conduct,
+
+is protected within the statutory limits.
+
+
+
+
+EXCEPTION 3 – CONDUCT OF PERSON
+TOUCHING PUBLIC QUESTION
+Good-faith opinion concerning the conduct of a person regarding a public question may fall
+within the exception.
+
+
+
+
+EXCEPTION 4 – REPORT OF COURT
+PROCEEDINGS
+Publishing a substantially true report of proceedings of a Court, or the result of such
+proceedings, is protected subject to the statutory wording.
+<PARSED TEXT FOR PAGE: 456 / 748>
+EXCEPTION 5 – MERITS OF DECIDED
+CASE
+Good-faith opinion about:
+
+   ●   merits of a case decided by a Court; or
+   ●   conduct of parties/witnesses,
+
+may be protected.
+
+
+
+
+EXCEPTION 6 – PERFORMANCE
+Good-faith opinion concerning the merits of a performance submitted to the public may be
+protected.
+
+Example
+A critic honestly reviews a public theatrical performance and gives a negative opinion about the
+actor's performance.
+
+→ Not automatically defamation.
+
+
+
+
+EXCEPTION 7 – CENSURE BY PERSON
+HAVING LAWFUL AUTHORITY
+A person having lawful authority over another may, in good faith, pass a censure concerning
+conduct in relation to that authority.
+
+
+
+
+EXCEPTION 8 – ACCUSATION TO
+AUTHORISED PERSON
+Making an accusation in good faith against a person to someone who has lawful authority over
+that person regarding the subject matter of the accusation may be protected.
+<PARSED TEXT FOR PAGE: 457 / 748>
+Example
+An employee honestly reports suspected misconduct to an authorised disciplinary authority.
+
+
+
+
+EXCEPTION 9 – IMPUTATION FOR
+PROTECTION OF INTEREST
+An imputation made in good faith for protection of:
+
+   ●     one's own interests;
+   ●     another person's interests; or
+   ●     public good,
+
+may be protected.
+
+
+
+
+EXCEPTION 10 – CAUTION
+A good-faith caution conveyed to one person against another may be protected where the
+person giving the caution has lawful interest or acts in the public good.
+
+
+
+
+🔴 MEMORY TRICK FOR 10 EXCEPTIONS
+Think:
+
+TRUTH → PUBLIC SERVANT → PUBLIC QUESTION → COURT → CASE →
+PERFORMANCE → AUTHORITY → ACCUSATION → INTEREST → CAUTION
+
+You do not need to memorise them merely as numbers. Understand what each protects.
+
+
+
+
+⭐ Defamation – Civil vs Criminal
+            Civil Defamation              Criminal Defamation
+
+ Civil wrong/tort                         Criminal offence
+<PARSED TEXT FOR PAGE: 458 / 748>
+ Usually damages/other civil             Criminal punishment
+ remedies
+ Compensation is central                 Penal liability
+
+ Governed largely by civil law           BNS §356
+
+
+🔴 Exam point
+A single defamatory act may, depending upon circumstances, give rise to civil and criminal
+consequences.
+
+
+
+
+⭐INTIMIDATION
+    DEFAMATION vs CRIMINAL
+
+                  Defamation                                Criminal Intimidation
+
+ §356                                              §351
+
+ Imputation harming reputation                     Threat
+
+ Reputation is central                             Threatened injury/alarm is central
+
+ Past/present/future imputation may be             Threat of injury
+ relevant
+ Ten statutory exceptions                          No equivalent ten-exception
+                                                   structure
+
+
+
+
+PART VII – BREACH OF CONTRACT TO
+CARE FOR HELPLESS PERSON
+
+SECTION 357
+🔄 IPC → BNS
+IPC §491 → BNS §357
+<PARSED TEXT FOR PAGE: 459 / 748>
+This provision concerns a person who has contracted to:
+
+   ●   attend on;
+   ●   or supply the wants of
+
+a person who, by reason of:
+
+   ●   youth;
+   ●   age;
+   ●   disease; or
+   ●   mental/physical infirmity,
+
+is unable to provide for himself/herself.
+
+The offender voluntarily omits to perform that contractual duty.
+
+
+
+
+⭐ Example
+A enters into a contract to provide necessary care and supplies to an elderly person who cannot
+care for himself.
+
+A deliberately abandons the contractual duty.
+
+→ §357 may apply if the statutory requirements are satisfied.
+
+
+
+
+Punishment
+   ●   simple imprisonment up to 3 months, or
+   ●   fine up to ₹5,000, or
+   ●   both.
+
+
+
+
+🔥 MOST IMPORTANT DISTINCTIONS
+1. CRIMINAL INTIMIDATION vs
+INTENTIONAL INSULT
+<PARSED TEXT FOR PAGE: 460 / 748>
+               §351                                   §352
+
+ Threat                           Insult
+
+ Intention to cause               Intention/knowledge concerning provocation
+ alarm/compel
+ Threat of injury                 Words/conduct constituting intentional insult
+
+ Up to 2 years ordinarily         Up to 2 years
+
+
+Memory:
+       THREAT = 351
+
+       INSULT = 352
+
+
+
+
+2. CRIMINAL INTIMIDATION vs
+EXTORTION
+This is a very important connection with Chapter XVII.
+
+Criminal intimidation
+Threat is made to:
+
+   ●    cause alarm; or
+   ●    compel/omit conduct.
+
+Extortion
+Threat/fear is used to:
+
+       dishonestly induce delivery of property/valuable security.
+
+Golden line
+       Every extortion involves threatening conduct, but every criminal intimidation
+       is not extortion.
+
+
+
+
+3. DEFAMATION vs INSULT
+<PARSED TEXT FOR PAGE: 461 / 748>
+Insult
+The primary issue is:
+
+        provocation and breach of peace.
+
+Defamation
+The primary issue is:
+
+        harm to reputation through an imputation.
+
+
+
+
+4. DEFAMATION vs CRIMINAL
+INTIMIDATION
+Defamation
+        "I will tell everyone that you committed fraud."
+
+Depending on the circumstances, this may involve defamation.
+
+Intimidation
+        "Give me ₹1 lakh or I will burn your house."
+
+This involves a threat and may constitute criminal intimidation; if the statutory property-delivery
+requirements are met, it may additionally constitute extortion.
+
+
+
+
+🔴 CCSU EXAM – MUST PREPARE
+Long-answer questions
+⭐⭐⭐⭐⭐
+   1.    Define criminal intimidation under §351 BNS and explain its essential ingredients.
+   2.    What is intentional insult under §352? Distinguish it from criminal intimidation.
+   3.    Explain defamation under §356 BNS.
+   4.    Explain the ten exceptions to defamation.
+   5.    Distinguish civil defamation from criminal defamation.
+   6.    Explain the relationship between criminal intimidation and extortion.
+<PARSED TEXT FOR PAGE: 462 / 748>
+⭐⭐⭐⭐
+    7. Explain statements conducing to public mischief under §353.
+    8. Explain §354 concerning inducement by belief in divine displeasure.
+    9. Explain misconduct by a drunken person under §355.
+    10. Explain breach of contract to care for helpless persons under §357.
+
+
+
+
+🔴 PROBLEM QUESTIONS
+Problem 1 – Threat
+A tells B:
+
+      "If you go to the police, I will kill you."
+
+Answer
+Consider §351 – criminal intimidation.
+
+The threat concerns death and is intended to cause alarm/compel B's conduct.
+
+
+
+
+Problem 2 – Insult
+A deliberately abuses B with the intention of provoking B into fighting.
+
+Answer
+Consider §352, provided the statutory requirement regarding provocation and breach of peace
+is established.
+
+
+
+
+Problem 3 – Reputation
+A publishes a false allegation that B has committed theft, knowing the allegation will harm B's
+reputation.
+
+Answer
+<PARSED TEXT FOR PAGE: 463 / 748>
+Consider §356 – defamation, subject to the statutory ingredients and exceptions.
+
+
+
+
+Problem 4 – Truth
+A publishes a true statement about B.
+
+Question
+Is A automatically free from criminal defamation?
+
+Answer
+Not automatically.
+
+The first exception requires:
+
+      truth + public good.
+
+This is a classic examination trap.
+
+
+
+
+Problem 5 – Court reporting
+A publishes a substantially true report of court proceedings.
+
+Answer
+Consider Exception 4 to §356, subject to its statutory conditions.
+
+
+
+
+Problem 6 – Employer complaint
+An employee honestly reports another employee's suspected misconduct to the competent
+disciplinary authority.
+
+Answer
+The good-faith accusation exception may apply, subject to its requirements.
+<PARSED TEXT FOR PAGE: 464 / 748>
+Problem 7 – Threat + money
+A tells B:
+
+        "Give me ₹50,000 or I will destroy your business."
+
+Answer
+Depending on the precise facts:
+
+    ●    §351 – criminal intimidation may apply because of the threat.
+    ●    §308 – extortion may additionally apply if the statutory requirements for dishonest
+         inducement to deliver property are satisfied.
+
+
+
+
+🔴 HIGH-PRIORITY CASE LAW
+               Case                                           Principle
+
+ Manik Taneja v State of            Criminal intimidation; statutory ingredients
+ Karnataka
+
+ Subramanian Swamy v                Constitutional validity of criminal defamation
+ Union of India
+
+ Jeffrey J. Diermeier v State       Defamation/reputation
+ of West Bengal
+
+ S. Khushboo v Kanniammal           Mere expression/opinion does not automatically establish
+                                    criminal liability; context matters
+
+ R. Rajagopal v State of Tamil      Reputation/privacy and publication issues
+ Nadu
+
+
+
+
+🧠 CHAPTER XIX MASTER MEMORY
+351 – THREAT
+Criminal intimidation
+
+352 – INSULT
+<PARSED TEXT FOR PAGE: 465 / 748>
+Intentional insult + provocation
+
+353 – PUBLIC MISCHIEF
+Statements/rumours/reports
+
+354 – DIVINE DISPLEASURE
+Inducing conduct through belief in divine displeasure
+
+355 – DRUNK
+Public drunken misconduct
+
+356 – DEFAMATION
+Imputation + reputation
+
+357 – HELPLESS PERSON
+Breach of contract to care/supply
+
+
+
+
+🔥 FINAL EXAM FORMULA
+When you see a problem involving words or threats, ask:
+
+Is there a THREAT?
+
+→ §351
+
+Is there an INSULT intended/likely to provoke breach of peace?
+
+→ §352
+
+Is there a PUBLIC-MISCHIEF statement/rumour?
+
+→ §353
+
+Is someone being coerced through supposed DIVINE DISPLEASURE?
+
+→ §354
+
+Is a DRUNKEN person causing annoyance in public?
+<PARSED TEXT FOR PAGE: 466 / 748>
+→ §355
+
+Is there an IMPUTATION harming REPUTATION?
+
+→ §356
+
+Is there failure to care for a HELPLESS PERSON despite a contract?
+
+→ §357
+<PARSED TEXT FOR PAGE: 467 / 748>
+CHAPTER XX – REPEAL AND SAVINGS
+BNS §358
+🔴 SHORT CHAPTER — BUT MUST KNOW
+This is the final substantive provision of the Bharatiya Nyaya Sanhita, 2023.
+
+Unlike the previous chapters, there are no major offences to memorise here. The importance is
+legal transition from IPC, 1860 to BNS, 2023.
+
+
+
+
+SECTION 358 – REPEAL AND SAVINGS
+🔄 IPC → BNS
+Indian Penal Code, 1860 → Repealed by BNS §358
+
+Section 358 provides that the Indian Penal Code, 1860 is repealed.
+
+However, the repeal is subject to important savings clauses.
+
+
+
+
+I. WHAT DOES "REPEAL" MEAN?
+Repeal means:
+
+      The earlier law is formally revoked or taken off the statute book.
+
+Therefore, after BNS came into force:
+
+IPC → repealed
+
+BNS → principal substantive criminal law
+
+BNS came into force on 1 July 2024, except §106(2), which was excluded from the
+commencement notification.
+<PARSED TEXT FOR PAGE: 468 / 748>
+II. WHY IS A SAVINGS CLAUSE
+NECESSARY?
+Suppose:
+
+   ●    an offence occurred under the IPC before BNS commenced;
+   ●    an investigation was already pending;
+   ●    a trial was already going on;
+   ●    a conviction had already occurred;
+   ●    an appeal was pending.
+
+If repeal simply erased everything connected with the IPC, enormous legal uncertainty would
+result.
+
+Therefore:
+
+       Repeal does not mean that all previous legal consequences disappear.
+
+The savings clause preserves specified:
+
+   ●    previous operations;
+   ●    rights;
+   ●    liabilities;
+   ●    penalties;
+   ●    investigations;
+   ●    proceedings;
+   ●    remedies.
+
+
+
+
+⭐ CORE PRINCIPLE
+Remember:
+
+       REPEAL ≠ ERASURE OF PAST LEGAL CONSEQUENCES
+
+The repeal of IPC does not ordinarily make an act that was criminal when committed
+retrospectively lawful.
+
+This is particularly important because of Article 20(1) of the Constitution.
+<PARSED TEXT FOR PAGE: 469 / 748>
+III. ARTICLE 20(1) – IMPORTANT
+CONSTITUTIONAL CONNECTION
+Article 20(1) provides protection against:
+
+Ex post facto criminal laws.
+A person cannot be:
+
+   ●   convicted for an act which was not an offence when it was committed; or
+   ●   subjected to a greater penalty than what was applicable when the offence was
+       committed.
+
+⭐ Example
+Suppose:
+
+1 January 2024:
+A commits an offence under IPC.
+
+1 July 2024:
+BNS comes into force.
+
+A cannot simply be prosecuted under BNS merely because BNS is the law currently in force if
+doing so would violate Article 20(1).
+
+The law applicable to the offence at the relevant time remains constitutionally significant.
+
+
+
+
+IV. SAVING PENDING INVESTIGATIONS
+AND PROCEEDINGS
+Section 358 preserves the operation of the repealed IPC for specified matters arising before
+repeal.
+
+This includes, subject to the statutory wording:
+
+   ●   investigations;
+   ●   inquiries;
+   ●   proceedings;
+   ●   appeals;
+   ●   rights;
+   ●   liabilities;
+   ●   penalties;
+<PARSED TEXT FOR PAGE: 470 / 748>
+      ●   punishments.
+
+⭐ Exam principle
+If an offence was committed before BNS commenced, the repeal of IPC does not
+automatically terminate the criminal process relating to that offence.
+
+
+
+
+V. EXAMPLE – OFFENCE BEFORE BNS
+Suppose:
+
+20 June 2024
+A commits an offence corresponding to IPC §379 (theft).
+
+1 July 2024
+BNS comes into force.
+
+Question
+Does the prosecution disappear because IPC has been repealed?
+
+Answer
+No.
+
+The repeal-and-savings framework preserves the legal consequences of the earlier offence.
+
+The prosecution can continue under the applicable transitional legal framework.
+
+
+
+
+VI. WHY THIS MATTERS FOR
+EXAMINATION
+This provision tests whether you understand:
+
+Old law
+IPC 1860
+<PARSED TEXT FOR PAGE: 471 / 748>
+↓
+
+Repeal
+BNS §358
+
+↓
+
+Savings
+Previous:
+
+    ●    offences;
+    ●    liabilities;
+    ●    proceedings;
+    ●    investigations;
+    ●    penalties;
+    ●    rights
+
+are preserved to the extent specified by law.
+
+
+
+
+🔴 REPEAL vs SAVINGS
+                Repeal                                     Savings
+
+ Removes/revokes previous statute      Preserves specified legal consequences
+
+ IPC repealed                          Existing rights/liabilities/proceedings protected
+
+ Forward-looking legislative change    Prevents disruption of past legal matters
+
+
+
+
+⭐IMPORTANT
+    BNS TRANSITION – VERY
+
+You should remember this sequence:
+
+        IPC 1860 → BNS 2023 enacted → BNS commenced 1 July 2024 → IPC
+        repealed under §358 → savings preserve specified past matters
+<PARSED TEXT FOR PAGE: 472 / 748>
+🔥 CHAPTER XX – EXAM QUESTIONS
+⭐⭐⭐⭐⭐
+1. Explain the effect of repeal of the Indian Penal Code under §358 BNS.
+
+2. What is the significance of the savings clause in §358?
+
+3. Does repeal of IPC terminate pending investigations and proceedings?
+
+4. Explain the relationship between §358 BNS and Article 20(1) of the
+Constitution.
+
+
+
+
+📝 MODEL SHORT ANSWER
+Question:
+What is the effect of §358 BNS?
+
+Answer:
+Section 358 of the Bharatiya Nyaya Sanhita, 2023 repeals the Indian Penal Code, 1860.
+However, the repeal is accompanied by savings provisions which preserve specified rights,
+liabilities, penalties, punishments, investigations, inquiries, proceedings and other legal
+consequences arising under the repealed law. Therefore, repeal of the IPC does not
+automatically extinguish offences or proceedings relating to acts committed before the
+commencement of the BNS. The provision must also be understood consistently with Article
+20(1) of the Constitution, which prohibits retrospective criminalisation and retrospective
+enhancement of punishment.
+
+
+
+
+🧠 FINAL MEMORY
+§358 = REPEAL + SAVINGS
+Remember:
+IPC OUT
+<PARSED TEXT FOR PAGE: 473 / 748>
+↓
+
+PAST CASES PROTECTED
+
+↓
+
+PENDING PROCEEDINGS CONTINUE
+
+↓
+
+ARTICLE 20(1) PROTECTION
+
+
+
+
+🎯COMPLETED
+   BNS CHAPTERS – YOU HAVE NOW
+           THE MAIN ACT
+You have covered:
+
+ Chapter                     Subject            Sections
+
+ I         Preliminary                          §§1–3
+
+ II        Punishments                          §§4–13
+
+ III       General Exceptions                   §§14–44
+
+ IV        Abetment, Conspiracy & Attempt       §§45–62
+
+ V         Offences Against Woman & Child       §§63–99
+
+ VI        Offences Affecting Human Body        §§100–
+                                                146
+ VII       Offences Against State               §§147–
+                                                158
+ VIII      Army, Navy & Air Force               §§159–
+                                                168
+ IX        Offences Relating to Elections       §§169–
+                                                177
+ X         Coin, Currency & Government Stamps   §§178–
+                                                188
+ XI        Public Tranquillity                  §§189–
+                                                197
+ XII       Public Servants                      §§198–
+                                                205
+<PARSED TEXT FOR PAGE: 474 / 748>
+ XIII       Contempt of Lawful Authority                §§206–
+                                                        226
+ XIV        False Evidence & Public Justice             §§227–
+                                                        269
+ XV         Public Health, Safety, Decency & Morals     §§270–
+                                                        297
+ XVI        Offences Relating to Religion               §§298–
+                                                        302
+ XVII       Offences Against Property                   §§303–
+                                                        334
+ XVIII      Documents & Property Marks                  §§335–
+                                                        350
+ XIX        Intimidation, Insult, Defamation etc.       §§351–
+                                                        357
+ XX         Repeal & Savings                            §358
+
+
+
+
+🔴YOUR
+   NOW THE IMPORTANT PART FOR
+      LLB PREPARATION
+Completing the chapters is not the same thing as completing your preparation.
+
+The next stage should be much more exam-focused.
+
+I recommend we now build the material in this order:
+
+PART 1 –    🔴 BNS MASTER REVISION
+All 358 sections → one-line meaning + punishment + IPC equivalent
+
+PART 2 –    🔄 IPC → BNS MASTER TABLE
+A comprehensive table like:
+
+  IPC     BNS             Offence              Change
+
+ §299     §100   Culpable homicide          Renumbered
+
+ §300     §101   Murder                     Renumbered
+
+ §302     §103   Punishment for murder      Renumbered
+
+ §304A    §106   Death by negligence        Modified
+<PARSED TEXT FOR PAGE: 475 / 748>
+ §375      §63    Rape                       Restructured
+
+ §378      §303   Theft                      Modified
+
+ §390      §309   Robbery                    Restructured
+
+ §391      §310   Dacoity                    Renumbered
+
+ §405      §316   Criminal breach of trust   Consolidate
+                                             d
+ §415      §318   Cheating                   Consolidate
+                                             d
+ §463      §336   Forgery                    Consolidate
+                                             d
+ §499      §356   Defamation                 Restructured
+
+
+PART 3 –      🔴 MOST IMPORTANT BNS QUESTIONS
+We'll identify:
+
+    ●    20-mark questions
+    ●    15-mark questions
+    ●    10-mark questions
+    ●    5-mark short notes
+    ●    problem-based questions
+    ●    distinguish-between questions
+    ●    case-law questions
+
+PART 4 –      ⚖️ CASE LAW MASTER LIST
+One consolidated table:
+
+Case → Facts → Principle → BNS topic → How to use in exam
+
+PART 5 –      📝 MODEL ANSWERS
+Complete exam-ready answers for the highest-probability questions.
+
+PART 6 –      🔥 LAST-DAY REVISION
+A compact:
+
+        BNS 1-Day Revision Sheet
+
+with only the provisions, ingredients, punishments, distinctions and cases that you absolutely
+need to remember.
+<PARSED TEXT FOR PAGE: 476 / 748>
+That is the stage where your BNS preparation becomes exam-ready rather than merely
+chapter-complete.
+<PARSED TEXT FOR PAGE: 477 / 748>
+CCSU LL.B. SEMESTER I – K-1006
+
+LAW OF CRIMES – I
+QUESTION–ANSWER BANK – PART 6
+⚖️ CASE LAW MASTER BANK
+This is the case-law section you should attach to your main BNS notes. The objective is not
+to memorise entire judgments. For examination purposes, learn:
+
+Case name → legal principle → 1-line application
+
+
+
+
+UNIT I – GENERAL PRINCIPLES OF
+CRIMINAL LIABILITY
+🔴 1. Nathulal v State of Madhya Pradesh
+Principle
+Mens rea is generally presumed to be an essential ingredient of a criminal offence unless the
+statute expressly or by necessary implication excludes it.
+
+⭐ Remember
+Criminal liability ordinarily requires a guilty mind.
+
+
+
+
+🔴 2. State of Maharashtra v Mayer Hans George
+Principle
+The requirement of mens rea depends upon the language, purpose and scheme of the statute.
+
+⭐ Remember
+<PARSED TEXT FOR PAGE: 478 / 748>
+Mens rea can be excluded where the statutory scheme indicates strict liability.
+
+
+
+
+🔴 3. Barendra Kumar Ghosh v King-Emperor
+Principle
+Under the principle corresponding to common intention, a participant may be liable even though
+he did not personally perform the fatal physical act, where the act was done in furtherance of
+the common intention.
+
+⭐ Remember
+Common intention can create joint liability.
+
+
+
+
+🔴 4. Mahbub Shah v Emperor
+Principle
+Common intention requires a meeting of minds. Mere similarity of intention is insufficient.
+
+⭐ Remember
+Same intention ≠ common intention.
+
+
+
+
+UNIT II – STAGES OF CRIME
+🔴 5. Abhayanand Mishra v State of Bihar
+Principle
+Attempt begins when the accused moves beyond preparation and performs an act sufficiently
+connected with the commission of the offence.
+
+⭐ Remember
+Preparation = arranging means; attempt = commencement of execution.
+<PARSED TEXT FOR PAGE: 479 / 748>
+🔴 6. Malkiat Singh v State of Punjab
+Principle
+The distinction between preparation and attempt depends upon the proximity of the accused's
+conduct to completion of the offence.
+
+⭐ Remember
+Proximity is important.
+
+
+
+
+🔴 7. State of Maharashtra v Mohd. Yakub
+Principle
+The court examines whether the accused's acts were sufficiently proximate to the intended
+offence to constitute attempt.
+
+⭐ Remember
+Acts dangerously close to completion may amount to attempt.
+
+
+
+
+UNIT III – GENERAL EXCEPTIONS
+🔴 8. State of Orissa v Ram Bahadur Thapa
+Principle
+Mistake of fact may be relevant where the accused genuinely believed circumstances which, if
+true, would have justified the conduct.
+
+⭐ Remember
+Mistake must concern fact, not law.
+
+
+
+
+🔴 9. Dahyabhai Chhaganbhai Thakkar v State of Gujarat
+<PARSED TEXT FOR PAGE: 480 / 748>
+Principle
+The Supreme Court discussed the burden relating to the defence of insanity and the importance
+of the accused's mental condition at the time of the act.
+
+⭐ Remember
+Legal insanity is judged at the time of the offence.
+
+
+
+
+🔴 10. R v McNaughten
+Principle
+The famous McNaughten Rules form the historical foundation of the legal insanity test.
+
+The central idea concerns whether, because of mental disease, the accused understood the
+nature of the act or knew that it was wrong.
+
+⭐ Remember
+Insanity = incapacity to understand nature/wrongfulness of act.
+
+
+
+
+UNIT IV – PRIVATE DEFENCE
+🔴 11. Darshan Singh v State of Punjab
+Principle
+The right of private defence must be judged from the circumstances as they appeared to the
+accused at the relevant time.
+
+A person defending himself is not expected to calculate defensive force with mathematical
+precision.
+
+⭐ Remember
+Private defence is preventive, not punitive.
+<PARSED TEXT FOR PAGE: 481 / 748>
+🔴 12. James Martin v State of Kerala
+Principle
+The right of private defence is available where there is reasonable apprehension of danger,
+subject to statutory limitations.
+
+⭐ Remember
+Reasonable apprehension is central.
+
+
+
+
+🔴 13. Puran Singh v State of Punjab
+Principle
+Private defence must be assessed in the factual circumstances of the case, including the nature
+and seriousness of the threat.
+
+⭐ Remember
+Defensive force must be assessed realistically.
+
+
+
+
+UNIT V – ABETMENT
+🔴 14. Ramesh Kumar v State of Chhattisgarh
+Principle
+The concept of instigation requires active encouragement or provocation; mere casual words
+or ordinary disagreements do not automatically amount to instigation.
+
+⭐ Remember
+Instigation requires legally significant encouragement/incitement.
+
+
+
+
+🔴 15. Chitresh Kumar Chopra v State (NCT of Delhi)
+<PARSED TEXT FOR PAGE: 482 / 748>
+Principle
+Instigation involves provoking, inciting or encouraging another person to do an act.
+
+⭐ Remember
+Instigation = provoke/incite/encourage.
+
+
+
+
+UNIT VI – CRIMINAL CONSPIRACY
+🔴 16. State of Maharashtra v Som Nath Thapa
+Principle
+The essence of criminal conspiracy is the agreement between persons to pursue an unlawful
+object or unlawful means falling within the statutory definition.
+
+⭐ Remember
+Conspiracy = agreement / meeting of minds.
+
+
+
+
+🔴 17. Kehar Singh v State
+Principle
+Conspiracy is generally secretive and may be established through circumstantial evidence and
+coordinated conduct.
+
+⭐ Remember
+Conspiracy can be proved through circumstances.
+
+
+
+
+UNIT VII – CULPABLE HOMICIDE AND
+MURDER
+<PARSED TEXT FOR PAGE: 483 / 748>
+🔥 18. State of Andhra Pradesh v Rayavarapu Punnayya
+Principle
+The Supreme Court explained the relationship between culpable homicide and murder.
+
+⭐ Most important line
+       All murder is culpable homicide, but all culpable homicide is not murder.
+
+Exam use
+Use this case whenever asked:
+
+   ●    culpable homicide vs murder;
+   ●    murder;
+   ●    §100–§105;
+   ●    distinction between murder and culpable homicide.
+
+
+
+
+🔥 19. Virsa Singh v State of Punjab
+Principle
+For the relevant murder clause concerning bodily injury sufficient in the ordinary course of
+nature to cause death, the prosecution must establish the statutory requirements concerning the
+injury and the accused's intention to inflict that particular injury.
+
+⭐ Remember
+Particularly important for the third clause of murder.
+
+
+
+
+🔥Maharashtra
+   20. K.M. Nanavati v State of
+
+Principle
+The case is a leading authority on grave and sudden provocation.
+<PARSED TEXT FOR PAGE: 484 / 748>
+The court examines whether the accused was deprived of self-control by grave and sudden
+provocation and whether the statutory requirements are satisfied.
+
+⭐ Remember
+Provocation must be grave and sudden.
+
+
+
+
+🔴Andhra
+   21. Pulicherla Nagaraju v State of
+        Pradesh
+Principle
+The court may infer intention from circumstances such as:
+
+   ●   nature of weapon;
+   ●   part of body targeted;
+   ●   force used;
+   ●   severity of injury;
+   ●   circumstances of attack;
+   ●   conduct before and after the incident.
+
+⭐ Remember
+Intention is often inferred from surrounding circumstances.
+
+
+
+
+🔴 22. Bachan Singh v State of Punjab
+Principle
+The Supreme Court established the constitutional framework for the rarest of rare doctrine
+concerning the death penalty.
+
+⭐ Remember
+Death penalty = exceptional; life imprisonment is the norm.
+<PARSED TEXT FOR PAGE: 485 / 748>
+🔴 23. Machhi Singh v State of Punjab
+Principle
+The Court elaborated the application of the rarest-of-rare principle.
+
+⭐ Remember
+Death penalty only in exceptional cases satisfying constitutional standards.
+
+
+
+
+🔴 24. Mithu v State of Punjab
+Principle
+The Supreme Court declared the mandatory death penalty under the old IPC §303
+unconstitutional.
+
+⭐ Remember
+Mandatory death penalty provision struck down.
+
+Exam use
+Use in answers concerning:
+
+   ●   murder by life-convict;
+   ●   death penalty;
+   ●   constitutional criminal law.
+
+
+
+
+UNIT VIII – ABETMENT OF SUICIDE
+🔴 25. Ramesh Kumar v State of Chhattisgarh
+Principle
+Mere words such as “go and die” do not automatically establish abetment of suicide.
+
+The prosecution must establish the required intentional conduct amounting to instigation or
+other statutory abetment.
+<PARSED TEXT FOR PAGE: 486 / 748>
+⭐ Remember
+Mere harassment or isolated words ≠ automatically abetment of suicide.
+
+
+
+
+UNIT IX – DEATH BY NEGLIGENCE
+🔴 26. Jacob Mathew v State of Punjab
+Principle
+Criminal negligence requires a significantly higher degree of negligence than ordinary civil
+negligence.
+
+⭐ Remember
+Civil negligence ≠ automatically criminal negligence.
+
+Exam use
+Excellent for BNS §106 answers.
+
+
+
+
+UNIT X – HURT AND GRIEVOUS HURT
+There are fewer landmark Supreme Court authorities that you need to memorise specifically for
+the statutory definition.
+
+For examination purposes, focus on:
+
+   ●   §114 – hurt;
+   ●   §115 – voluntarily causing hurt;
+   ●   §116 – grievous hurt;
+   ●   §117 – voluntarily causing grievous hurt;
+   ●   §118 – dangerous weapons/means.
+
+⭐ Most important statutory point
+Fracture/dislocation of bone or tooth is grievous hurt.
+<PARSED TEXT FOR PAGE: 487 / 748>
+UNIT XI – WRONGFUL RESTRAINT AND
+CONFINEMENT
+🔴 27. State of Maharashtra v Ravi Kant S. Patil
+Principle
+The distinction between restraint and confinement depends upon the nature and extent of
+restriction imposed upon movement.
+
+⭐ Remember
+Restraint = restriction in a direction.
+
+Confinement = restriction within circumscribed limits.
+
+
+
+
+UNIT XII – KIDNAPPING AND ABDUCTION
+🔴 28. S. Varadarajan v State of Madras
+Principle
+The Supreme Court examined the distinction between taking and situations where a person
+voluntarily accompanies another.
+
+The case is important in analysing whether the accused actually took or enticed the minor from
+lawful guardianship.
+
+⭐ Remember
+“Taking” and voluntary accompanying are not automatically the same.
+
+
+
+
+UNIT XIII – RAPE AND SEXUAL
+OFFENCES
+<PARSED TEXT FOR PAGE: 488 / 748>
+🔥 29. State of Punjab v Gurmit Singh
+Principle
+The testimony of a sexual assault survivor can form the basis of conviction where it is
+trustworthy.
+
+Courts should avoid stereotypical assumptions about sexual assault.
+
+⭐ Remember
+Survivor testimony is not to be discarded merely because there is no independent
+corroboration.
+
+
+
+
+🔴State30.ofBharwada
+            Gujarat
+                    Bhoginbhai Hirjibhai v
+
+Principle
+The Supreme Court discussed why sexual assault cases should not be assessed through
+stereotypes requiring unrealistic corroboration.
+
+⭐ Remember
+Do not apply stereotypical expectations to sexual-assault victims.
+
+
+
+
+🔴India31. Independent Thought v Union of
+Principle
+The Supreme Court addressed the marital rape exception in relation to minor wives and
+emphasised protection of children from sexual exploitation.
+
+⭐ Remember
+Child protection prevails over an expansive interpretation of marital immunity.
+<PARSED TEXT FOR PAGE: 489 / 748>
+UNIT XIV – SEXUAL HARASSMENT
+🔴 32. Vishaka v State of Rajasthan
+Principle
+The Supreme Court laid down the famous Vishaka Guidelines concerning sexual harassment
+at the workplace in the absence of comprehensive legislation at the time.
+
+The judgment linked workplace sexual harassment with constitutional rights.
+
+⭐ Remember
+Vishaka = workplace sexual harassment + constitutional protection.
+
+
+
+
+UNIT XV – DOWRY DEATH AND CRUELTY
+🔥 33. Kans Raj v State of Punjab
+Principle
+The Supreme Court emphasised the importance of the required connection between dowry-
+related cruelty/harassment and the death.
+
+⭐ Remember
+Proximity between dowry harassment and death matters.
+
+
+
+
+🔴 34. Satvir Singh v State of Punjab
+Principle
+The Supreme Court examined the ingredients of dowry-related offences and the statutory
+meaning of dowry-related demands.
+
+⭐ Remember
+<PARSED TEXT FOR PAGE: 490 / 748>
+Dowry connection must satisfy the statutory requirements.
+
+
+
+
+🔴 35. Arnesh Kumar v State of Bihar
+Principle
+The Supreme Court issued important safeguards against automatic arrest in cases involving the
+former IPC §498A framework.
+
+⭐ Remember
+Arrest is not automatic merely because §498A-type allegations are made.
+
+
+
+
+UNIT XVI – THEFT AND PROPERTY
+OFFENCES
+🔴 36. Pyare Lal Bhargava v State of Rajasthan
+Principle
+The Supreme Court examined the concept of dishonest taking in relation to theft.
+
+⭐ Remember
+Temporary taking can still constitute theft if statutory dishonest intention exists.
+
+
+
+
+UNIT XVII – CHEATING
+🔥 37. Hridaya Ranjan Prasad Verma v State of Bihar
+Principle
+The distinction between cheating and breach of contract depends heavily upon the accused's
+intention at the inception of the transaction.
+<PARSED TEXT FOR PAGE: 491 / 748>
+⭐ Most important line
+Subsequent failure to keep a promise does not by itself establish cheating.
+
+
+
+
+🔥 38. Indian Oil Corporation v NEPC India Ltd.
+Principle
+A dispute having civil characteristics should not automatically be converted into a criminal
+prosecution. However, the same facts can sometimes give rise to both civil and criminal
+consequences where criminal ingredients are independently established.
+
+⭐ Remember
+Civil dispute ≠ automatically criminal cheating.
+
+
+
+
+UNIT XVIII – UNLAWFUL ASSEMBLY AND
+COMMON OBJECT
+🔥 39. Lalji v State of Uttar Pradesh
+Principle
+Under constructive liability arising from unlawful assembly, every member need not personally
+perform the act constituting the offence.
+
+⭐ Remember
+§190 can create liability through membership + common object.
+
+
+
+
+🔥 40. Masalti v State of Uttar Pradesh
+Principle
+A member of an unlawful assembly can be liable for an offence committed in prosecution of the
+common object when the statutory conditions are satisfied.
+<PARSED TEXT FOR PAGE: 492 / 748>
+⭐ Remember
+Individual overt act is not always essential for §190 liability.
+
+
+
+
+🔴 41. Kuldip Yadav v State of Bihar
+Principle
+Constructive liability cannot be imposed mechanically merely because a person was present.
+The prosecution must establish the statutory requirements concerning membership and
+common object.
+
+⭐ Remember
+Presence alone does not automatically establish constructive liability.
+
+
+
+
+UNIT XIX – PUBLIC SERVANTS / PUBLIC
+ORDER
+🔴 42. Manik Taneja v State of Karnataka
+Principle
+The Supreme Court examined the scope of obstruction of public servants and stressed that
+mere criticism or expression of grievance does not automatically constitute obstruction.
+
+⭐ Remember
+Criticism ≠ automatically obstruction.
+
+
+
+
+🔴 43. C. Muniappan v State of Tamil Nadu
+Principle
+For offences based upon disobedience of an order duly promulgated by a public servant, the
+statutory requirements must be strictly established.
+<PARSED TEXT FOR PAGE: 493 / 748>
+⭐ Remember
+§223-type disobedience requires proof of the statutory ingredients.
+
+
+
+
+UNIT XX – BNS §152 / SEDITION-RELATED
+CONSTITUTIONAL PRINCIPLES
+🔥 44. Kedar Nath Singh v State of Bihar
+Principle
+The Supreme Court upheld the constitutional validity of the former sedition provision subject to a
+restrictive interpretation concerning acts having the required connection with violence/public
+disorder and threats to the State.
+
+⭐ Remember
+Strong criticism of government is not automatically sedition.
+
+Exam use
+Use carefully in a BNS §152 answer.
+
+Do not say that Kedar Nath interpreted BNS §152. It interpreted the former IPC §124A.
+
+
+
+
+🔴 45. Balwant Singh v State of Punjab
+Principle
+Casual slogans, without the required intention or tendency to create public disorder or incite
+violence, do not automatically constitute sedition.
+
+⭐ Remember
+Casual slogans alone are not automatically sedition.
+<PARSED TEXT FOR PAGE: 494 / 748>
+🔴 46. S.G. Vombatkere v Union of India
+Principle
+The Supreme Court's sedition jurisprudence is important background for understanding the
+constitutional context of speech restrictions.
+
+⭐ Exam use
+Use this as constitutional background, not as a direct interpretation of BNS §152.
+
+
+
+
+UNIT XXI – FALSE EVIDENCE
+🔴 47. M.S. Ahlawat v State of Haryana
+Principle
+The Supreme Court emphasised the importance of the law concerning false evidence and
+prosecution for perjury.
+
+⭐ Remember
+False evidence is a serious offence against administration of justice.
+
+
+
+
+🔴 48. Santokh Singh v Izhar Hussain
+Principle
+The Court discussed the law concerning false evidence/perjury and the circumstances in which
+prosecution may be initiated.
+
+⭐ Remember
+Courts treat deliberate false evidence seriously because it attacks judicial administration.
+
+
+
+
+UNIT XXII – DOCUMENTS / FORGERY
+<PARSED TEXT FOR PAGE: 495 / 748>
+🔴 49. Mohd. Ibrahim v State of Bihar
+Principle
+A person is not guilty of making a false document merely because a document contains a false
+claim. The statutory requirements concerning creation of a false document must be satisfied.
+
+⭐ Remember
+False claim ≠ automatically false document.
+
+This is one of the best cases to use in a forgery answer.
+
+
+
+
+UNIT XXIII – DEFAMATION
+🔥 50. Subramanian Swamy v Union of India
+Principle
+The Supreme Court upheld the constitutional validity of criminal defamation.
+
+The right to reputation was recognised as an important component of constitutional protection.
+
+⭐ Remember
+Criminal defamation is constitutionally valid.
+
+
+
+
+🔴 51. R. Rajagopal v State of Tamil Nadu
+Principle
+The judgment is important concerning privacy, publication and reputation.
+
+⭐ Remember
+Freedom of expression must be balanced against privacy and reputation.
+<PARSED TEXT FOR PAGE: 496 / 748>
+🔴 52. S. Khushboo v Kanniammal
+Principle
+The Supreme Court cautioned against using criminal law merely because an expression is
+unpopular or socially disapproved, and examined the requirements for criminal liability.
+
+⭐ Remember
+Unpopular expression does not automatically constitute a criminal offence.
+
+
+
+
+🏆 TOP 25 CASES – MUST MEMORISE
+If you cannot memorise all 52 cases, learn these 25 first:
+
+ Rank              Case                        Remember this
+
+ 1       Rayavarapu Punnayya          Culpable homicide vs murder
+
+ 2       Virsa Singh                  Third clause of murder
+
+ 3       K.M. Nanavati                Grave & sudden provocation
+
+ 4       Darshan Singh                Private defence
+
+ 5       James Martin                 Private defence
+
+ 6       Abhayanand Mishra            Preparation vs attempt
+
+ 7       Mohd. Yakub                  Proximity in attempt
+
+ 8       Mahbub Shah                  Common intention
+
+ 9       Barendra Kumar Ghosh         Joint liability
+
+ 10      Som Nath Thapa               Conspiracy
+
+ 11      Kehar Singh                  Conspiracy/abetment
+
+ 12      Dahyabhai                    Legal insanity
+
+ 13      Gurmit Singh                 Rape/sexual-assault evidence
+
+ 14      Vishaka                      Sexual harassment
+<PARSED TEXT FOR PAGE: 497 / 748>
+ 15     Kans Raj                  Dowry death
+
+ 16     Arnesh Kumar              Arrest safeguards
+
+ 17     Hridaya Ranjan            Cheating vs breach of contract
+
+ 18     Indian Oil Corp. v NEPC   Civil vs criminal dispute
+
+ 19     Lalji                     Common object
+
+ 20     Masalti                   Unlawful assembly
+
+ 21     Kedar Nath Singh          Sedition/free speech
+                                  background
+ 22     Balwant Singh             Slogans/sedition
+
+ 23     Mohd. Ibrahim             False document/forgery
+
+ 24     Subramanian Swamy         Defamation
+
+ 25     Bachan Singh              Death penalty/rarest of rare
+
+
+
+
+🧠SHEET
+   ONE-LINE CASE LAW REVISION
+
+Memorise this before the exam:
+
+Nathulal → Mens rea
+Mayer Hans George → Statutory mens rea
+Barendra Kumar Ghosh → Common intention
+Mahbub Shah → Meeting of minds
+Abhayanand Mishra → Attempt
+Mohd. Yakub → Proximity
+Dahyabhai → Insanity
+Darshan Singh → Private defence
+James Martin → Private defence
+Ramesh Kumar → Instigation/abetment of suicide
+Som Nath Thapa → Conspiracy
+Kehar Singh → Conspiracy
+Rayavarapu Punnayya → Culpable homicide/murder
+Virsa Singh → Murder—third clause
+Nanavati → Provocation
+Pulicherla Nagaraju → Inferring intention
+<PARSED TEXT FOR PAGE: 498 / 748>
+Bachan Singh → Rarest of rare
+Mithu → Mandatory death penalty unconstitutional
+Jacob Mathew → Criminal negligence
+S. Varadarajan → Kidnapping/taking
+Gurmit Singh → Rape evidence
+Vishaka → Sexual harassment
+Kans Raj → Dowry death
+Arnesh Kumar → Arrest safeguards
+Pyare Lal Bhargava → Theft
+Hridaya Ranjan → Cheating
+Indian Oil v NEPC → Civil vs criminal
+Lalji → Common object
+Masalti → Unlawful assembly
+Kedar Nath Singh → Sedition constitutional limits
+Balwant Singh → Slogans
+Mohd. Ibrahim → False document
+Subramanian Swamy → Defamation
+
+
+
+
+⭐EXAMHOW TO USE CASE LAW IN THE
+Do not write five cases at the end without explaining them.
+
+Instead:
+
+      In Virsa Singh v State of Punjab, the Supreme Court explained the
+      requirements of the murder clause concerning bodily injury sufficient in the
+      ordinary course of nature to cause death. Therefore, where the accused
+      intentionally inflicts the particular injury and the statutory requirements are
+      satisfied, the case may fall within murder.
+
+That is much stronger than simply writing:
+
+      Case: Virsa Singh v State of Punjab.
+
+
+
+
+🔥MAJOR
+   CASE-LAW PAIRING FOR YOUR
+       QUESTIONS
+<PARSED TEXT FOR PAGE: 499 / 748>
+Culpable Homicide vs Murder
+Rayavarapu Punnayya + Virsa Singh + Nanavati
+
+Private Defence
+Darshan Singh + James Martin + Puran Singh
+
+Attempt
+Abhayanand Mishra + Mohd. Yakub
+
+Common Intention
+Mahbub Shah + Barendra Kumar Ghosh
+
+Conspiracy
+Som Nath Thapa + Kehar Singh
+
+Insanity
+Dahyabhai + McNaughten
+
+Negligent Death
+Jacob Mathew
+
+Rape
+Gurmit Singh + Bharwada Bhoginbhai
+
+Sexual Harassment
+Vishaka
+
+Dowry Death/Cruelty
+Kans Raj + Satvir Singh + Arnesh Kumar
+
+Cheating
+Hridaya Ranjan + Indian Oil v NEPC
+
+Unlawful Assembly
+Lalji + Masalti + Kuldip Yadav
+<PARSED TEXT FOR PAGE: 500 / 748>
+BNS §152
+Kedar Nath Singh + Balwant Singh
+
+Forgery
+Mohd. Ibrahim
+
+Defamation
+Subramanian Swamy + R. Rajagopal
+<PARSED TEXT FOR PAGE: 501 / 748>
+CCSU LL.B. SEMESTER I
+
+K-1006 – LAW OF CRIMES
+BHARATIYA NYAYA SANHITA, 2023
+
+🔴ANSWER
+   HIGH-PROBABILITY QUESTION–
+         BANK
+How to use this bank
+I am dividing questions into:
+
+   ●    🔴🟠 A+    = Must prepare — highest probability
+   ●
+   ●
+   ●
+         🟡⚪ BC == Important
+             A = Very high probability
+
+                  Complete-the-syllabus coverage
+
+And for every major question, the answer will be structured so you can write it directly in the
+examination:
+
+       Definition → Section → Ingredients → Explanation → Case Law → Example
+       → Conclusion
+
+
+
+
+PART I – GENERAL PRINCIPLES OF
+CRIMINAL LAW
+
+
+🔴essential
+    Q1. What is Crime? Explain the
+           elements of crime.
+Answer
+<PARSED TEXT FOR PAGE: 502 / 748>
+Introduction
+A crime is an act or omission prohibited by law and made punishable by the State.
+
+Unlike a purely private wrong, a crime is regarded as an offence against society and the State.
+
+
+
+
+Essential elements
+1. Human act or omission
+There must ordinarily be an act or legally punishable omission.
+
+2. Mens rea
+There must generally be a guilty mind such as:
+
+   ●    intention;
+   ●    knowledge;
+   ●    recklessness;
+   ●    dishonesty;
+   ●    negligence,
+
+depending upon the particular offence.
+
+3. Actus reus
+The prohibited physical act or omission must be established.
+
+4. Legally prohibited conduct
+The conduct must constitute an offence under law.
+
+5. Punishment
+The law must prescribe a criminal consequence.
+
+
+
+
+⭐ Maxim
+       Actus non facit reum nisi mens sit rea
+
+An act does not make a person criminally liable unless accompanied by a guilty mind, subject to
+statutory exceptions such as strict liability offences.
+<PARSED TEXT FOR PAGE: 503 / 748>
+Conclusion
+Thus, crime generally involves:
+
+       Actus Reus + Mens Rea + Prohibited Conduct + Punishment
+
+
+
+
+🔴importance
+    Q2. Explain Mens Rea and its
+            in criminal law.
+Answer
+Mens rea means the guilty mind or criminal mental element accompanying the prohibited
+conduct.
+
+It may take the form of:
+
+   ●    intention;
+   ●    knowledge;
+   ●    dishonesty;
+   ●    fraud;
+   ●    recklessness;
+   ●    negligence,
+
+depending upon the offence.
+
+Importance
+Mens rea distinguishes:
+
+   ●    accidental conduct from intentional crime;
+   ●    innocent conduct from criminal conduct;
+   ●    ordinary negligence from criminal negligence.
+
+⚠️ Exception
+Mens rea is not an absolute requirement for every statutory offence. Certain offences may
+impose liability on the basis prescribed by statute.
+
+⭐ Exam line
+       Mens rea is a fundamental principle of criminal responsibility, but its application
+       depends upon the wording, nature and object of the particular offence.
+<PARSED TEXT FOR PAGE: 504 / 748>
+🔴commission
+   Q3. Explain the stages in the
+            of a crime.
+Answer
+There are generally four stages:
+
+
+1. Intention
+The first stage is formation of criminal intention.
+
+Mere intention ordinarily is not punishable.
+
+
+
+
+2. Preparation
+Preparation means arranging the means necessary to commit the offence.
+
+Example
+A decides to rob a bank and obtains a weapon for that purpose.
+
+Ordinarily, preparation itself is not punishable unless the law specifically makes it an offence.
+
+
+
+
+3. Attempt
+Attempt begins when the accused performs an act sufficiently proximate to the commission of
+the offence.
+
+Under BNS §62, attempt to commit an offence punishable under the Sanhita, where no specific
+attempt provision exists, is punishable.
+
+
+
+
+4. Commission
+The final stage is completion of the offence.
+<PARSED TEXT FOR PAGE: 505 / 748>
+Formula
+
+      Intention → Preparation → Attempt → Commission
+
+⚖️ Cases
+  ●    Abhayanand Mishra v State of Bihar
+  ●    Malkiat Singh v State of Punjab
+  ●    State of Maharashtra v Mohd. Yakub
+
+
+
+
+🔴attempt.
+     Q4. Distinguish preparation from
+
+            Preparation                                    Attempt
+
+Arranging means                     Direct/proximate act towards commission
+
+Earlier stage                       Later stage
+
+Generally not punishable            Generally punishable
+
+Intention still capable of          Conduct has crossed preparation in relevant
+abandonment                         circumstances
+
+Example: obtaining weapon           Entering target premises and beginning execution
+
+
+⭐ Formula
+      Preparation = arranging
+
+      Attempt = executing
+
+
+
+
+🔴Absolute
+   Q5. Explain Strict Liability and
+          Liability in Criminal Law.
+Answer
+
+Strict liability
+<PARSED TEXT FOR PAGE: 506 / 748>
+Strict liability offences may impose criminal responsibility without requiring proof of mens rea in
+the usual manner.
+
+The legislative purpose and statutory language determine whether mens rea is excluded.
+
+
+
+
+Absolute liability
+Absolute liability is stronger: liability applies without the ordinary requirement of proving fault or
+a mental element, where the law clearly establishes such liability.
+
+⭐ Important
+Do not write that:
+
+         "Every criminal offence is a strict-liability offence."
+
+The general criminal-law principle is the importance of mens rea, subject to statutory
+exceptions.
+
+
+
+
+🔴BNS.Q6. Explain Common Intention under
+Section
+BNS §3(5)
+
+🔄 IPC
+IPC §34
+
+Where a criminal act is done by several persons in furtherance of the common intention of all,
+each person is liable as if he had done the act himself, subject to the statutory requirements.
+
+Essential elements
+    1.    Two or more persons.
+    2.    A common intention.
+    3.    Participation in the act.
+    4.    Act done in furtherance of that common intention.
+
+⚖️ Cases
+<PARSED TEXT FOR PAGE: 507 / 748>
+Barendra Kumar Ghosh v King-Emperor
+
+Mahbub Shah v Emperor
+
+⭐ Exam line
+       Common intention requires a meeting of minds and participation in furtherance of
+       that common design.
+
+
+
+
+🔴distinguish
+    Q7. Explain Common Object and
+             it from Common Intention.
+Common Object
+BNS §§189–190 deal with unlawful assembly and constructive liability.
+
+An unlawful assembly requires five or more persons sharing one of the legally specified
+common objects.
+
+Under §190, members may be liable for an offence committed in prosecution of the common
+object or one known to be likely to be committed.
+
+
+
+
+Common Intention vs Common Object
+  Common Intention                             Common Object
+
+ §3(5)                     §§189–190
+
+ Generally 2+ persons      5+ persons
+
+ Meeting of minds          Common object
+
+ Participation important   Membership of unlawful assembly + statutory conditions
+
+ Common design             Unlawful assembly
+
+
+⚖️ Cases
+   ●     Mahbub Shah v Emperor
+   ●     Lalji v State of U.P.
+   ●     Masalti v State of U.P.
+<PARSED TEXT FOR PAGE: 508 / 748>
+🔴 This is one of your highest-priority distinction questions.
+
+🔴under
+   Q8. Explain the various punishments
+       BNS.
+Section 4
+BNS recognises:
+
+   1.   Death
+   2.   Imprisonment for life
+   3.   Rigorous imprisonment
+   4.   Simple imprisonment
+   5.   Forfeiture of property
+   6.   Fine
+   7.   Community service
+
+⭐ Major BNS change
+Community service is expressly recognised as a punishment.
+
+⚖️ Important cases
+   ●    Bachan Singh v State of Punjab
+   ●    Machhi Singh v State of Punjab
+   ●    Mithu v State of Punjab
+
+
+
+
+🔴punishment.
+   Q9. Explain the theories of
+
+Major theories
+1. Retributive theory
+
+Punishment is justified as a deserved response to wrongdoing.
+
+2. Deterrent theory
+
+Punishment aims to discourage:
+<PARSED TEXT FOR PAGE: 509 / 748>
+   ●    the offender; and
+   ●    society generally
+
+from committing crime.
+
+3. Preventive theory
+
+The offender is prevented from committing further offences.
+
+4. Reformative theory
+
+The objective is rehabilitation and reform.
+
+5. Compensatory theory
+
+Focuses on compensation to the victim.
+
+⭐ Best conclusion
+Modern criminal justice generally combines deterrent, preventive, retributive and reformative
+considerations rather than relying exclusively on one theory.
+
+
+
+
+PART II – GENERAL EXCEPTIONS
+
+🔴Fact.Q10. Explain the defence of Mistake of
+BNS
+§§14 and 17 are particularly relevant.
+
+Principle
+A person acting under an honest and reasonable mistake of fact may be protected where the
+act would have been lawful if the facts were as honestly believed.
+
+⚠️ Mistake of law
+Generally:
+
+       Ignorance of law is no excuse.
+
+Difference
+<PARSED TEXT FOR PAGE: 510 / 748>
+             Mistake of Fact                     Mistake of Law
+
+ May provide defence                       Generally no defence
+
+ Wrong belief about circumstances          Wrong belief about law
+
+ Recognised in specified                   Ignorantia juris non
+ circumstances                             excusat
+
+
+
+
+🔴 Q11. Explain the defence of Accident.
+BNS §18
+An accidental act may be excused where:
+
+    ●    the act was lawful;
+    ●    done in a lawful manner;
+    ●    by lawful means;
+    ●    without criminal intention/knowledge;
+    ●    and occurred as a result of accident or misfortune.
+
+Example
+A is lawfully performing an activity with due care and accidentally causes harm.
+
+If statutory requirements are fulfilled:
+
+→ defence of accident.
+
+
+
+
+🔴 Q12. Explain the defence of Necessity.
+BNS §19
+The defence applies where an act is done:
+
+        to prevent greater harm.
+
+The circumstances must satisfy the statutory requirements.
+
+Example
+A breaks a locked door to rescue a person trapped inside a burning building.
+<PARSED TEXT FOR PAGE: 511 / 748>
+The destruction of property may be justified by necessity.
+
+
+
+
+🔴under
+   Q13. Explain the law relating to Child
+       BNS.
+§§20–21
+
+Child below 7
+A child below seven years is absolutely protected from criminal liability.
+
+Child above 7 and below 12
+Protection applies where the child has not attained sufficient maturity of understanding to judge
+the nature and consequences of the conduct.
+
+⭐ Distinction
+       Below 7 = absolute protection
+
+       7–12 = maturity of understanding test
+
+
+
+
+🔴a General
+    Q14. Explain unsoundness of mind as
+           Exception.
+BNS §22
+A person may be protected where, because of unsoundness of mind, at the time of the act he
+was incapable of:
+
+   ●    knowing the nature of the act; or
+   ●    knowing that what he was doing was wrong or contrary to law.
+
+⚖️ Case
+R v McNaghten
+
+⭐ Important
+<PARSED TEXT FOR PAGE: 512 / 748>
+The relevant question is the accused's mental condition at the time of the act, not merely
+whether he had a history of mental illness.
+
+
+
+
+🔴 Q15. Explain intoxication as a defence.
+§§23–24
+
+Involuntary intoxication
+May provide a defence where the accused became intoxicated without knowledge or against his
+will and satisfies the statutory requirements.
+
+Voluntary intoxication
+Generally does not completely excuse criminal responsibility merely because the accused
+voluntarily became intoxicated.
+
+⭐ Exam distinction
+       Involuntary intoxication may excuse.
+
+       Voluntary intoxication ordinarily does not.
+
+
+
+
+🔴Defence.
+    Q16. Explain the Right of Private
+
+BNS §§34–44
+Every person has a right, subject to statutory limitations, to defend:
+
+   ●    his own body;
+   ●    another person's body;
+   ●    his own property;
+   ●    another person's property.
+
+Property offences
+The right may operate against:
+
+   ●    theft;
+<PARSED TEXT FOR PAGE: 513 / 748>
+    ●    robbery;
+    ●    mischief;
+    ●    criminal trespass;
+    ●    attempts relating to these offences,
+
+subject to the statutory conditions.
+
+
+
+
+🔴defence
+    Q17. When does the right of private
+         extend to causing death?
+This is an extremely important long-answer question.
+
+The right may extend to causing death in the circumstances specifically enumerated by BNS,
+including certain situations involving reasonable apprehension of:
+
+    ●    death;
+    ●    grievous hurt;
+    ●    rape;
+    ●    kidnapping/abduction;
+    ●    wrongful confinement under circumstances preventing recourse to public authorities;
+    ●    certain acid attacks;
+    ●    specified serious property offences.
+
+⚖️ Cases
+    ●    Darshan Singh v State of Punjab
+    ●    James Martin v State of Kerala
+    ●    Puran Singh v State of Punjab
+
+⭐ Principle
+The right is:
+
+        defensive, not retaliatory.
+
+It cannot be used as a pretext for revenge.
+
+
+
+
+PART III – ABETMENT, CONSPIRACY AND
+ATTEMPT
+<PARSED TEXT FOR PAGE: 514 / 748>
+🔴forms.
+    Q18. Define Abetment and explain its
+
+BNS §45
+A person abets the doing of a thing by:
+
+   1. Instigation
+   2. Conspiracy
+   3. Intentional aid
+
+
+
+
+Instigation
+Provoking, inciting or encouraging another person to do the act.
+
+
+Conspiracy
+Two or more persons engage in conspiracy for doing the thing and an act/illegal omission
+occurs in pursuance of it, as required by the statutory provision.
+
+
+Intentional aid
+Knowingly helping the commission of the offence.
+
+⚖️ Cases
+   ●   Kehar Singh v State
+   ●   State of Maharashtra v Som Nath Thapa
+
+
+
+
+🔴Criminal
+    Q19. Distinguish Abetment and
+          Conspiracy.
+                Abetment                                 Criminal Conspiracy
+
+ §45                                          §61
+
+ Instigation, conspiracy or intentional aid   Agreement to commit offence/illegal act
+<PARSED TEXT FOR PAGE: 515 / 748>
+ Broader concept                              Specific independent offence
+
+ Conspiracy can be one form of                Conspiracy has independent criminal liability
+ abetment
+
+
+
+
+🔴 Q20. Explain Attempt under §62 BNS.
+Definition
+Attempt begins where the accused, having the requisite intention, performs an act towards
+commission of the offence but the offence is not completed.
+
+Formula
+
+       Intention → Preparation → Attempt → Failure/Interruption
+
+Cases
+   ●    Abhayanand Mishra v State of Bihar
+   ●    State of Maharashtra v Mohd. Yakub
+
+
+
+
+PART IV – OFFENCES AGAINST HUMAN
+BODY
+
+🔴 Q21. Define Culpable Homicide.
+BNS §100
+Culpable homicide is causing death by an act:
+
+   ●    with intention of causing death;
+   ●    with intention of causing bodily injury likely to cause death; or
+   ●    with knowledge that the act is likely to cause death.
+<PARSED TEXT FOR PAGE: 516 / 748>
+🔴amount
+   Q22. When does culpable homicide
+        to murder?
+BNS §101
+Culpable homicide amounts to murder subject to the statutory clauses and exceptions.
+
+The four principal clauses relate to:
+
+   1.   intention to cause death;
+   2.   intention to cause bodily injury known to be likely to cause death;
+   3.   intention to cause bodily injury sufficient in the ordinary course of nature to cause death;
+   4.   knowledge that the act is so imminently dangerous that it must, in all probability, cause
+        death, without justification for taking the risk.
+
+
+
+
+🔴murder.
+   Q23. Explain the five exceptions to
+
+Exception 1
+Grave and sudden provocation.
+
+Exception 2
+Exceeding the right of private defence in good faith.
+
+Exception 3
+Act of public servant exceeding powers in good faith.
+
+Exception 4
+Sudden fight without premeditation, in heat of passion and without undue advantage/cruelty.
+
+Exception 5
+Death caused with consent by a person above the prescribed age.
+<PARSED TEXT FOR PAGE: 517 / 748>
+🔴fromQ24.Murder.
+           Distinguish Culpable Homicide
+
+                  Culpable Homicide                                Murder
+
+ §100                                                       §101
+
+ Genus                                                      Species
+
+ Wider category                                             Narrower category
+
+ Degree of probability/mental element differs               More aggravated
+
+ Exceptions may reduce murder to culpable                   —
+ homicide
+
+⚖️ Cases
+State of A.P. v Rayavarapu Punnayya
+
+Virsa Singh v State of Punjab
+
+K.M. Nanavati v State of Maharashtra
+
+🔴 Learn this answer perfectly.
+
+🔴malice.
+   Q25. Explain the doctrine of transferred
+
+BNS §102
+Where an accused intends to cause death/injury to one person but causes death to another, the
+law may treat the liability according to the statutory principle.
+
+Example
+A shoots at B intending to kill B, but the bullet accidentally kills C.
+
+The principle of transferred malice becomes relevant.
+
+Latin idea
+        Malice follows the act.
+<PARSED TEXT FOR PAGE: 518 / 748>
+🔴for Q26. Explain murder and punishment
+     murder.
+BNS §103
+Punishment for murder may be:
+
+   ●    death; or
+   ●    imprisonment for life,
+   ●    and fine.
+
+Constitutional principle
+The death penalty is constitutionally permissible only within the established framework.
+
+⚖️ Cases
+   ●    Bachan Singh v State of Punjab
+   ●    Machhi Singh v State of Punjab
+
+⭐ Doctrine
+       Rarest of rare cases
+
+
+
+
+🔴negligent
+    Q27. Explain death caused by rash or
+           act.
+BNS §106
+This corresponds broadly to IPC §304A.
+
+The offence concerns causing death through a rash or negligent act which does not amount to
+culpable homicide.
+
+⭐ Distinction
+       Negligent death ≠ culpable homicide
+
+because the required intention/knowledge for culpable homicide is absent.
+<PARSED TEXT FOR PAGE: 519 / 748>
+🔴 Q28. Explain Hurt and Grievous Hurt.
+BNS §114
+"Hurt" includes:
+
+   ●    bodily pain;
+   ●    disease;
+   ●    infirmity.
+
+BNS §116
+Grievous hurt consists of the specifically enumerated serious injuries.
+
+There are eight traditional categories, including:
+
+   ●    emasculation;
+   ●    permanent loss of sight;
+   ●    permanent loss of hearing;
+   ●    privation of member/joint;
+   ●    destruction/permanent impairment of member/joint;
+   ●    permanent disfiguration of head/face;
+   ●    fracture/dislocation of bone or tooth;
+   ●    hurt endangering life or causing severe pain/incapacity for the statutory period.
+
+
+
+
+🔴Hurt.Q29. Distinguish Hurt and Grievous
+              Hurt                            Grievous Hurt
+
+ §114                            §116
+
+ Bodily pain/disease/infirmity   Specifically enumerated serious
+                                 injuries
+ Wider ordinary concept          Statutory categories
+
+ Less serious                    More serious
+<PARSED TEXT FOR PAGE: 520 / 748>
+🔴Wrongful
+   Q30. Explain Wrongful Restraint and
+          Confinement.
+BNS §126 – Wrongful Restraint
+Voluntarily obstructing a person so as to prevent him from proceeding in a direction in which he
+has a right to proceed.
+
+BNS §127 – Wrongful Confinement
+Wrongful restraint within circumscribed limits.
+
+
+
+
+Difference
+                   Restraint                                  Confinement
+
+ Prevents movement in a particular                Restricts movement within boundaries
+ direction
+ Partial restriction                              Total/circumscribed restriction
+
+ §126                                             §127
+
+
+⭐ Memory
+        Restraint = can't go that way
+
+        Confinement = can't get out
+
+🔴 This has appeared repeatedly in CCSU's older Law of Crimes papers.
+
+🔴Force.
+    Q31. Distinguish Assault and Criminal
+
+Criminal force
+BNS §129 framework concerns intentional use of force without consent to commit an offence or
+intending/knowing it likely to cause injury, fear or annoyance.
+
+Assault
+<PARSED TEXT FOR PAGE: 521 / 748>
+BNS §130 concerns gesture or preparation causing apprehension that criminal force is about to
+be used.
+
+⭐ Key distinction
+        Criminal force = actual force
+
+        Assault = apprehension of imminent force
+
+
+
+
+🔴Abduction.
+   Q32. Explain Kidnapping and
+
+Kidnapping
+BNS §137 covers kidnapping, including:
+
+   ●     kidnapping from India;
+   ●     kidnapping from lawful guardianship.
+
+Abduction
+BNS §138:
+
+        compelling or inducing a person by force or deceitful means to go from any place.
+
+Difference
+                Kidnapping                          Abduction
+
+ §137                                        §138
+
+ Specific statutory categories               Force/deceit
+
+ Consent/age important                       Force/deceit important
+
+ Generally complete upon taking/enticing     Continuing offence
+
+
+
+
+PART V – OFFENCES AGAINST WOMEN
+AND CHILDREN
+<PARSED TEXT FOR PAGE: 522 / 748>
+🔴 Q33. Define Rape under BNS.
+BNS §63
+Rape is defined through specified sexual acts committed in the circumstances enumerated by
+the section.
+
+The provision includes circumstances involving:
+
+    ●    penetration;
+    ●    lack of consent;
+    ●    absence of free and voluntary agreement;
+    ●    specified age;
+    ●    incapacity;
+    ●    coercion;
+    ●    deception in the circumstances specified by law.
+
+⭐ Important
+Consent must be understood as free and voluntary agreement.
+
+
+
+
+🔴 Q34. Explain consent in rape.
+Consent is not merely physical submission.
+
+It involves:
+
+        free and voluntary agreement to the specific sexual act.
+
+Absence of physical resistance does not necessarily establish consent.
+
+⚖️ Case
+State of Punjab v Gurmit Singh
+
+
+
+
+🔴 Q35. Explain punishment for rape.
+BNS §64
+Punishment depends upon the circumstances and statutory category.
+<PARSED TEXT FOR PAGE: 523 / 748>
+Aggravated situations involving:
+
+   ●   certain persons in authority;
+   ●   custodial circumstances;
+   ●   specified victims;
+   ●   repeat offenders;
+
+carry enhanced punishment under subsequent provisions.
+
+
+
+
+🔴 Q36. Explain Gang Rape.
+BNS §70
+Gang rape involves rape committed by one or more persons constituting the legally specified
+group acting in furtherance of common intention.
+
+Punishment
+Severe imprisonment penalties apply, including:
+
+   ●   minimum imprisonment prescribed by the section;
+   ●   imprisonment for life in specified circumstances;
+   ●   death in the aggravated case involving a victim below 18, as provided by the statute.
+
+
+
+
+🔴 Q37. Explain Sexual Harassment.
+BNS §75
+Sexual harassment includes specified conduct such as:
+
+   ●   unwelcome physical contact/advances;
+   ●   demand/request for sexual favours;
+   ●   showing pornography against the woman's will;
+   ●   sexually coloured remarks.
+
+
+
+
+🔴 Q38. Explain Voyeurism and Stalking.
+BNS
+<PARSED TEXT FOR PAGE: 524 / 748>
+§77 – Voyeurism
+
+§78 – Stalking
+
+Voyeurism
+Watching/capturing/disseminating the image of a woman engaging in a private act in
+circumstances covered by the provision.
+
+Stalking
+Includes repeatedly:
+
+   ●   following/contacting a woman;
+   ●   attempting to contact her;
+
+despite clear indication of disinterest, subject to statutory exceptions.
+
+
+
+
+🔴 Q39. Explain Dowry Death.
+BNS §80
+Where the statutory conditions are satisfied, including:
+
+   ●   death of a woman caused by burns/bodily injury or occurring otherwise than under
+       normal circumstances;
+   ●   within seven years of marriage;
+   ●   cruelty/harassment by husband or relatives;
+   ●   in connection with demand for dowry;
+   ●   soon before death,
+
+the offence of dowry death arises.
+
+⚖️ Case
+Kans Raj v State of Punjab
+
+
+
+
+🔴relatives.
+     Q40. Explain cruelty by husband or
+<PARSED TEXT FOR PAGE: 525 / 748>
+BNS §85 read with §86
+Cruelty includes conduct likely to drive the woman to:
+
+   ●     suicide; or
+   ●     cause grave injury/danger to life, limb or health;
+
+and harassment relating to unlawful demand for property/valuable security.
+
+⚖️ Case
+Arnesh Kumar v State of Bihar
+
+
+
+
+PART VI – OFFENCES AGAINST
+PROPERTY
+
+🔴ingredients.
+    Q41. Define Theft and explain its
+
+BNS §303
+Ingredients:
+
+   1.    Dishonest intention.
+   2.    Movable property.
+   3.    Property in possession of another.
+   4.    Without consent.
+   5.    Moving property to accomplish taking.
+
+Formula
+        Dishonest intention + Movable property + Another's possession + No consent
+        + Movement
+
+
+
+
+🔴 Q42. What is Snatching?
+BNS §304
+<PARSED TEXT FOR PAGE: 526 / 748>
+Snatching occurs where theft is committed by:
+
+   ●   sudden;
+   ●   quick; or
+   ●   forcible
+
+seizure/grabbing/taking away of movable property from a person or his possession.
+
+⭐ Important BNS development
+Snatching has been separately recognised under BNS.
+
+
+
+
+🔴 Q43. Define Extortion.
+BNS §308
+Essential ingredients:
+
+   1. Intentional putting in fear of injury.
+   2. Dishonest inducement.
+   3. Delivery of property/valuable security or specified thing.
+
+Formula
+
+       Fear → Inducement → Delivery
+
+
+
+
+🔴robbery?
+    Q44. When does theft become
+
+BNS §309
+Theft becomes robbery where, for committing/carrying away the stolen property, the offender
+voluntarily causes/attempts:
+
+   ●   death;
+   ●   hurt;
+   ●   wrongful restraint;
+   ●   fear of instant death;
+   ●   fear of instant hurt;
+   ●   fear of instant wrongful restraint.
+<PARSED TEXT FOR PAGE: 527 / 748>
+🔴robbery?
+    Q45. When does extortion become
+
+Extortion becomes robbery where:
+
+   ●     offender is present;
+   ●     victim is put in fear of instant death/hurt/wrongful restraint;
+   ●     victim is induced to deliver property then and there.
+
+
+
+
+🔴Robbery
+   Q46. Distinguish Theft, Extortion,
+         and Dacoity.
+⭐⭐⭐⭐⭐
+        Theft              Extortion                     Robbery                    Dacoity
+
+ §303                  §308                 §309                             §310
+
+ Taking                Threat + delivery    Theft/extortion + immediate      Robbery + 5+
+                                            violence/fear
+
+ No consent            Fear causes          Immediate statutory force/fear   5 or more persons
+                       delivery
+
+ Secret taking         Victim delivers      Immediate                        Conjoint
+ possible                                                                    participation
+
+
+Memory
+        Theft = Take
+
+        Extortion = Threat
+
+        Robbery = Immediate force/fear
+
+        Dacoity = 5+
+<PARSED TEXT FOR PAGE: 528 / 748>
+🔴 Q47. Define Criminal Misappropriation.
+BNS §314
+A person dishonestly:
+
+   ●     misappropriates; or
+   ●     converts to his own use
+
+movable property.
+
+⭐ Core distinction
+Initial possession may be innocent.
+
+
+
+
+🔴 Q48. Define Criminal Breach of Trust.
+BNS §316
+Essential ingredients:
+
+   1. Entrustment or dominion over property.
+   2. Dishonest misappropriation/conversion/use/disposal.
+   3. Contrary to law or contract.
+
+Formula
+        Entrustment + Dishonest Conversion = Criminal Breach of Trust
+
+
+
+
+🔴Misappropriation
+    Q49. Distinguish Criminal
+                  and Criminal Breach of
+Trust.
+        Misappropriation                    Breach of Trust
+
+ §314                              §316
+
+ Entrustment not essential         Entrustment essential
+<PARSED TEXT FOR PAGE: 529 / 748>
+ Dishonest conversion              Dishonest conversion after
+                                   entrustment
+ Property may come innocently      Property is entrusted
+
+
+⭐ Golden line
+        Misappropriation = dishonest conversion
+
+        Breach of trust = dishonest conversion of entrusted property
+
+
+
+
+🔴 Q50. Define Cheating.
+BNS §318
+Essential ingredients:
+
+   1. Deception.
+   2. Fraudulent/dishonest inducement.
+   3. Delivery/retention of property or conduct causing/likely to cause damage/harm as
+      specified.
+
+⭐ Critical principle
+Dishonest intention at the relevant initial stage is extremely important in distinguishing cheating
+from subsequent breach of contract.
+
+⚖️ Case
+Hridaya Ranjan Prasad Verma v State of Bihar
+
+
+
+
+🔴Breach
+    Q51. Distinguish Cheating and Criminal
+        of Trust.
+        Cheating         Criminal Breach of Trust
+
+ §318                    §316
+
+ Deception               Entrustment
+<PARSED TEXT FOR PAGE: 530 / 748>
+ Inducement             Dishonest conversion
+
+ Deception is central Trust relationship is central
+
+
+⭐ Memory
+       Cheating begins with deception.
+
+       Breach of trust begins with entrustment.
+
+
+
+
+PART VII – OFFENCES AGAINST STATE
+
+🔴against
+    Q52. Explain the offence of waging war
+         the Government of India.
+BNS §147
+The offence covers:
+
+   ●    waging war;
+   ●    attempting to wage war;
+   ●    abetting waging war
+
+against the Government of India.
+
+Punishment includes:
+
+   ●    death; or
+   ●    imprisonment for life;
+   ●    fine.
+
+⚖️ Case
+State v Navjot Sandhu
+<PARSED TEXT FOR PAGE: 531 / 748>
+🔴endangering
+    Q53. Explain BNS §152 – Act
+             sovereignty, unity and
+integrity of India.
+This is one of the most important BNS-specific questions.
+
+The provision covers specified acts, whether through:
+
+   ●   words;
+   ●   signs;
+   ●   visible representation;
+   ●   electronic communication;
+   ●   financial means;
+   ●   other means,
+
+which intentionally or knowingly excite or attempt to excite:
+
+   ●   secession;
+   ●   armed rebellion;
+   ●   subversive activities;
+   ●   separatist activities;
+
+or otherwise endanger the sovereignty, unity and integrity of India.
+
+⚠️ Important
+It is not simply a renumbering of IPC sedition.
+
+The provision has its own statutory wording.
+
+⭐ Explanation
+Legitimate criticism of government measures or actions, with the intention of obtaining alteration
+through lawful means, is protected by the statutory explanation.
+
+
+
+
+🔴 Q54. Explain Unlawful Assembly.
+BNS §189
+An assembly of five or more persons becomes unlawful when it has one of the legally
+specified common objects.
+
+Examples include:
+<PARSED TEXT FOR PAGE: 532 / 748>
+   ●    overawing government/public authority by criminal force;
+   ●    resisting execution of law;
+   ●    committing an offence;
+   ●    taking property by force;
+   ●    compelling a person to do/omit something.
+
+
+
+
+🔴 Q55. Explain Rioting.
+BNS §191
+When force or violence is used by an unlawful assembly or any member thereof in prosecution
+of the common object, the assembly commits rioting.
+
+Formula
+       Unlawful Assembly + Force/Violence = Rioting
+
+
+
+
+🔴 Q56. Explain Affray.
+BNS §194
+Affray occurs where:
+
+   ●    two or more persons;
+   ●    fight;
+   ●    in a public place;
+   ●    and thereby disturb public peace.
+
+⭐ Formula
+       2+ persons + fighting + public place + public peace disturbance
+
+
+
+
+🔴Rioting
+    Q57. Distinguish Unlawful Assembly,
+         and Affray.
+ Unlawful Assembly                      Rioting                          Affray
+<PARSED TEXT FOR PAGE: 533 / 748>
+ §189                     §191                                 §194
+
+ 5+ persons               Unlawful assembly + force/violence   2+ persons fighting
+
+ Common object            Violence                             Public place
+
+ Fighting not             Violence necessary                   Disturbance of public
+ necessary                                                     peace
+
+
+
+
+PART VIII – PUBLIC JUSTICE / FALSE
+EVIDENCE
+
+🟠 Q58. Define Giving False Evidence.
+BNS §227
+A person gives false evidence when, being legally bound by oath or law to state the truth, he
+makes a statement which is false and which he knows/believes to be false or does not believe
+to be true.
+
+
+
+
+🟠andQ59. Distinguish Giving False Evidence
+     Fabricating False Evidence.
+§227
+        Give false statement
+
+§228
+        Create false evidence
+
+Memory
+        227 = Speak falsely
+
+        228 = Make false evidence
+<PARSED TEXT FOR PAGE: 534 / 748>
+🟠evidence.
+    Q60. Explain causing disappearance of
+
+BNS §238
+A person may be liable where he:
