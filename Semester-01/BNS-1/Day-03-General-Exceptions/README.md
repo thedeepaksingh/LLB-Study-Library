@@ -22,3 +22,7 @@ For each exception, create a table with the statutory section, legal conditions,
 5. Explain the right of private defence and its limits.
 
 These are not verified PYQs. See the [official source register](../Bare-Act-and-References/official-sources.md).
+
+## Detailed lesson
+
+Read the expanded [DAY-03 detailed lesson](lesson.md) for a structured explanation of exceptions, private defence and practice questions.
