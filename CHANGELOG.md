@@ -27,3 +27,12 @@ For every accepted change, append:
 ## Preservation rule
 
 Do not rewrite or delete historical entries. If an entry needs correction, append a correction explaining the original statement, corrected information and supporting source.
+
+
+### 2026-10-20 — Study-first operating agreement and syllabus completeness tracking
+
+- **Branch:** `process/controlled-updates-and-review`
+- **Status:** Proposed; not merged to `main`.
+- **Files added:** BNS-1 content completeness matrix and study-maintenance agreement.
+- **Purpose:** make clear that the assistant handles repository organisation and study-content maintenance, while the owner focuses on learning and retains explicit approval authority for each merge.
+- **Preservation:** the BNS-1 collection stays under `Semester-01/BNS-1/`; completeness is tracked by topic instead of treating the existence of a file as proof that it is finished.
