@@ -40,3 +40,26 @@ Every question-paper entry should say whether the original paper has been inspec
 - [Verified PYQ shelf](Semester-01/BNS-1/Question-Bank/Verified-PYQ/README.md)
 - [Predicted-question shelf](Semester-01/BNS-1/Question-Bank/Predicted-Questions/README.md)
 - [Practice-question shelf](Semester-01/BNS-1/Question-Bank/Practice-Questions/README.md)
+
+
+## Expanded navigation — topic notes and future semesters
+
+### BNS-1 detailed lessons
+- [Day 2 — Liability and inchoate offences](Semester-01/BNS-1/Day-02-Liability-and-Inchoate-Offences/lesson.md)
+- [Day 3 — General exceptions and private defence](Semester-01/BNS-1/Day-03-General-Exceptions/lesson.md)
+- [Day 4 — Offences against the human body](Semester-01/BNS-1/Day-04-Offences-Against-Human-Body/lesson.md)
+- [Day 5 — Property offences](Semester-01/BNS-1/Day-05-Property-Offences/lesson.md)
+- [Day 6 — State, public tranquillity, women and children](Semester-01/BNS-1/Day-06-State-Public-Tranquillity-Women-Children/lesson.md)
+- [Quick BNS section finder](Semester-01/BNS-1/Section-Finder.md)
+- [Predicted long-answer bank](Semester-01/BNS-1/Question-Bank/predicted-long-answers.md)
+- [Original practice problems](Semester-01/BNS-1/Question-Bank/practice-problems.md)
+- [Verified PYQ register](Semester-01/BNS-1/Question-Bank/verified-pyq-register.md)
+
+### Future-semester workspaces
+- [Semester 2 workspace](Semester-02/README.md)
+- [Semester 3 workspace](Semester-03/README.md)
+- [Semester 4 workspace](Semester-04/README.md)
+- [Semester 5 workspace](Semester-05/README.md)
+- [Semester 6 workspace](Semester-06/README.md)
+
+These future-semester pages are blank templates. Populate specific subject names only after confirming the exact applicable CCSU syllabus.
