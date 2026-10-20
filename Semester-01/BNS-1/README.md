@@ -38,3 +38,17 @@ Each full lesson should have learning objectives, plain-English explanations, st
 
 ## Legal study disclaimer
 These are educational notes, not legal advice. The enacted text and applicable CCSU syllabus take priority over summaries.
+
+
+## Find material fast
+- [Topic Finder](TOPIC-INDEX.md)
+- [Section Finder](Section-Finder.md)
+- [Progress Tracker](Progress-Tracker.md)
+- [Revision Sheets](Revision-Sheets/README.md)
+- [Verified PYQs](Question-Bank/Verified-PYQ/README.md)
+- [Predicted Questions](Question-Bank/Predicted-Questions/README.md)
+- [Practice Questions](Question-Bank/Practice-Questions/README.md)
+- [Answer Keys](Question-Bank/Answer-Keys/README.md)
+
+## Preservation commitment
+This is a long-term subject library. New topics and question sets will be added as separate files or append-only sections. Existing notes, sources, past-paper records and earlier question-bank entries should not be overwritten or deleted when expanding the material. Material needing correction should be logged in [CHANGELOG.md](CHANGELOG.md).
