@@ -110,7 +110,7 @@ The following teaching resources have been drafted on `content/bns1-direct-learn
 | Resource | What it contains | Status |
 |---|---|---|
 | [Complete syllabus teaching notes](Complete-Notes/COMPLETE-SYLLABUS-TEACHING-NOTES.md) | Plain-English explanations of every syllabus area, statutory sections, key distinctions and answer structure | Expanded draft; review pending |
-| [BNS section-wise learning guide](Bare-Act-and-References/BNS-SECTION-WISE-LEARNING-GUIDE.md) | Core BNS section mapping, ingredients, topic-by-topic lookup and legacy IPC concordance | Expanded draft; exact text and amendment review pending |
+| [Core Bare Act extracts](Bare-Act-and-References/CORE-BARE-ACT-EXTRACTS.md) | Selected operative wording of core sections with direct ingredient notes | Expanded draft; full provision coverage remains incomplete |\n| [BNS section-wise learning guide](Bare-Act-and-References/BNS-SECTION-WISE-LEARNING-GUIDE.md) | Core BNS section mapping, ingredients, topic-by-topic lookup and legacy IPC concordance | Expanded draft; exact text and amendment review pending |
 | [Case-law casebook](Case-Laws/CASE-LAW-CASEBOOK.md) | Case facts, issue, principle, BNS syllabus connection and exam-use notes | Expanded draft; primary-report verification pending |
 | [Worked exam practice](Question-Bank/EXAM-PRACTICE-PROBLEMS-WITH-WORKED-ANSWERS.md) | Original long-answer plans, short notes and 12 hypothetical problems with worked answers | Practice draft; examiner-style review pending |
 
