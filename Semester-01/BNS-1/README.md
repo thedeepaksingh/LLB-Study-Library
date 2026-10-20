@@ -23,6 +23,7 @@
 - [Core Bare Act extracts — actual wording of selected sections with ingredient notes](Bare-Act-and-References/CORE-BARE-ACT-EXTRACTS.md)
 - [BNS section-wise learning guide — provision numbers and plain-English ingredients](Bare-Act-and-References/BNS-SECTION-WISE-LEARNING-GUIDE.md)
 - [Case-law casebook — facts, issues, holdings, principles and BNS connections](Case-Laws/CASE-LAW-CASEBOOK.md)
+- [Source preservation archive — extracted original material and reusable intake process](Source-Materials/README.md)
 - [Worked exam practice problems and answers](Question-Bank/EXAM-PRACTICE-PROBLEMS-WITH-WORKED-ANSWERS.md)
 - [Question bank](Question-Bank/README.md)
 - [Model answers](Model-Answers/README.md)
