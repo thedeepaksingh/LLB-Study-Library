@@ -36,3 +36,12 @@ Do not rewrite or delete historical entries. If an entry needs correction, appen
 - **Files added:** BNS-1 content completeness matrix and study-maintenance agreement.
 - **Purpose:** make clear that the assistant handles repository organisation and study-content maintenance, while the owner focuses on learning and retains explicit approval authority for each merge.
 - **Preservation:** the BNS-1 collection stays under `Semester-01/BNS-1/`; completeness is tracked by topic instead of treating the existence of a file as proof that it is finished.
+
+
+### 2026-10-20 — Direct BNS-1 study content proposed
+- **Branch:** `content/bns1-direct-learning-pack-2026-10-20`
+- **Status:** Draft for review; not merged into `main`.
+- **Subject path:** `Semester-01/BNS-1/`
+- **Files:** added direct full-syllabus teaching notes, BNS section-wise learning guide, 22-case casebook, and original worked exam problems/answers; updated subject navigation, section finder, case-law dashboard and subject changelog.
+- **Purpose:** replace a link-heavy framework with actual study text, statutory ingredients, section numbers, case facts/holdings and application problems in the same BNS-1 location.
+- **Limitations:** summaries need continuing legal review; IPC-era cases are not represented as automatic interpretations of BNS. Practice questions are not claimed to be actual CCSU PYQs. The direct-learning pack has not been merged to main.

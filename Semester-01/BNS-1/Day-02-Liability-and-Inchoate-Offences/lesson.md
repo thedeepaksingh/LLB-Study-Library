@@ -128,3 +128,14 @@ Preparation is generally not punishable by itself, but some preparatory conduct 
 ## Sources
 
 Use the BNS text linked in [Official Sources](../Bare-Act-and-References/official-sources.md). Verify the full wording of each provision before using this explanatory summary as an exam answer.
+
+
+## Case-law anchors for this lesson
+- **Nathulal v State of Madhya Pradesh, AIR 1966 SC 43:** general presumption of mens rea, unless the statute displaces it.
+- **State of Maharashtra v Mayer Hans George, AIR 1965 SC 722:** mens rea may be excluded in a particular regulatory provision by its statutory scheme.
+- **Mahbub Shah v King-Emperor, AIR 1945 PC 118, and Pandurang v State of Hyderabad, AIR 1955 SC 216:** similar intention is not automatically common intention; prove the shared intention and participation.
+- **Barendra Kumar Ghosh v King-Emperor, AIR 1925 PC 1:** differing physical roles do not automatically prevent joint liability where the statutory conditions for common intention are established.
+- **State of Maharashtra v Mohd. Yakub, (1980) 3 SCC 57, and Abhayanand Mishra v State of Bihar, AIR 1961 SC 1698:** attempt is a fact-sensitive step beyond preparation; a final act is not always required.
+- All these are legacy authorities; apply them only after comparing the current provision with the former IPC wording.
+
+Use the full [Case-Law Casebook](../Case-Laws/CASE-LAW-CASEBOOK.md) for material facts, issues and reasoning. For section wording, see [Core Bare Act Extracts](../Bare-Act-and-References/CORE-BARE-ACT-EXTRACTS.md).

@@ -28,3 +28,8 @@ These questions are not verified previous-year questions. Link every later quest
 - [Predicted long-answer questions](predicted-long-answers.md) — syllabus-based predictions, not confirmed past questions.
 - [Original practice problems](practice-problems.md) — hypothetical problem questions for application of law.
 - [Verified PYQ register](verified-pyq-register.md) — only record a verified question after checking the actual paper.
+
+
+## Direct worked practice
+- [Original exam practice problems with worked answers](EXAM-PRACTICE-PROBLEMS-WITH-WORKED-ANSWERS.md) — 10 long-answer plans, short notes, 12 fact patterns with reasoned answers and a section-identification self-test.
+- Every problem in this file is an original exercise. None is described as an actual CCSU past-paper question.

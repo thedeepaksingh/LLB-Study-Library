@@ -19,19 +19,24 @@
 - [Day 5 — Offences against property](Day-05-Property-Offences/README.md)
 - [Day 6 — State, public tranquillity, women and children](Day-06-State-Public-Tranquillity-Women-Children/README.md)
 - [Day 7 — Revision and mock test](Day-07-Revision-and-Mock-Test/README.md)
+- [Complete syllabus teaching notes — learn the prescribed topics directly](Complete-Notes/COMPLETE-SYLLABUS-TEACHING-NOTES.md)
+- [Core Bare Act extracts — actual wording of selected sections with ingredient notes](Bare-Act-and-References/CORE-BARE-ACT-EXTRACTS.md)
+- [BNS section-wise learning guide — provision numbers and plain-English ingredients](Bare-Act-and-References/BNS-SECTION-WISE-LEARNING-GUIDE.md)
+- [Case-law casebook — facts, issues, holdings, principles and BNS connections](Case-Laws/CASE-LAW-CASEBOOK.md)
+- [Worked exam practice problems and answers](Question-Bank/EXAM-PRACTICE-PROBLEMS-WITH-WORKED-ANSWERS.md)
 - [Question bank](Question-Bank/README.md)
 - [Model answers](Model-Answers/README.md)
 - [Case-law register](Case-Laws/README.md)
 - [Previous-year papers](Previous-Year-Papers/README.md)
-- [Official Bare Act and sources](Bare-Act-and-References/official-sources.md)
+- [Official Bare Act and source record](Bare-Act-and-References/official-sources.md)
 - [Subject changelog](CHANGELOG.md)
 
 ## Content status
-- Syllabus roadmap: entered from the linked CCSU syllabus; batch match still should be confirmed.
-- Day 1 foundation lesson: available.
-- Days 2–7: structure reserved; detailed lessons are to be added in separate files.
-- Question bank: index and classification rules available; do not treat predicted items as verified PYQs.
-- Verified past-paper questions: none added until actual paper text is inspected.
+- The direct-learning pack is now drafted on the feature branch: full-syllabus teaching notes, a BNS section-wise learning guide, a case-law casebook and worked exam problems with answers.
+- Existing day-by-day lessons, model answers, revision tools and question-bank shelves are preserved and remain useful companions.
+- The direct-learning pack is still pending branch review and owner approval; it is not a claim that every topic has passed independent legal review.
+- No question is labelled a verified PYQ unless the actual CCSU paper has been inspected.
+- Confirm that Paper IV / K-1006 is the syllabus applicable to your admission batch.
 
 ## How lessons are structured
 Each full lesson should have learning objectives, plain-English explanations, statutory sections verified against the Bare Act, illustrations, relevant judgments, long-answer format, short notes, question set, self-test and sources.

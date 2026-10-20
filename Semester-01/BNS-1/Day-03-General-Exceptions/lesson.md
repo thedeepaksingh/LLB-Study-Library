@@ -97,3 +97,12 @@ Private defence protects a person against specified threats to body or property,
 ## Source
 
 Read the official BNS chapter on general exceptions and the provisions governing private defence linked from [Official Sources](../Bare-Act-and-References/official-sources.md). This lesson is an explanatory summary, not a substitute for the enacted text.
+
+
+## Case-law anchors for this lesson
+- **Dahyabhai Chhaganbhai Thakkar v State of Gujarat, AIR 1964 SC 1563:** legal insanity depends on the statutory capacity test at the time of the act; a diagnosis alone is not sufficient.
+- **Basdev v State of PEPSU, AIR 1956 SC 488:** voluntary intoxication is not a blanket defence; analyse the provision's mental element and the evidence.
+- **Darshan Singh v State of Punjab, (2010) 2 SCC 333:** private defence protects against a real or reasonably apprehended danger; it is not a right of revenge and has legal limits.
+- The cases arose under the prior statutory scheme. Apply their principles with BNS sections 14–44 and the current evidence law.
+
+For detailed facts, holdings and exam-use notes, see the [Case-Law Casebook](../Case-Laws/CASE-LAW-CASEBOOK.md). The selected wording of key exceptions is in [Core Bare Act Extracts](../Bare-Act-and-References/CORE-BARE-ACT-EXTRACTS.md).
