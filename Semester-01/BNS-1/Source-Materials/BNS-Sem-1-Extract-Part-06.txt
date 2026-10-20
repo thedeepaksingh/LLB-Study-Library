@@ -1,0 +1,3000 @@
+Definition
+Theft becomes snatching when, in order to commit theft, the offender:
+
+   ●     suddenly,
+   ●     quickly, or
+   ●     forcibly
+
+seizes, secures, grabs or takes away movable property:
+
+   ●     from a person, or
+   ●     from that person's possession.
+
+Punishment
+<PARSED TEXT FOR PAGE: 382 / 748>
+    ●   imprisonment up to 3 years, and
+    ●   fine.
+
+Example
+A suddenly grabs B's mobile phone from B's hand and runs away.
+
+→ Snatching under §304.
+
+⭐ Key distinction
+Every snatching is theft, but every theft is not snatching.
+
+Snatching contains the additional element of sudden/quick/forcible taking from a person or
+possession.
+
+
+
+
+III. SECTION 305 – AGGRAVATED THEFT
+§305 covers theft in specified locations or concerning specified property.
+
+It includes theft:
+
+(a) In a building/tent/vessel
+Used as:
+
+    ●   human dwelling; or
+    ●   custody of property.
+
+(b) Of a means of transport
+Used for transporting:
+
+    ●   goods; or
+    ●   passengers.
+
+(c) Of goods/articles from such transport
+
+(d) Of an idol or icon
+From a place of worship.
+
+(e) Of Government/local authority property.
+
+Punishment
+<PARSED TEXT FOR PAGE: 383 / 748>
+   ●    imprisonment up to 7 years, and
+   ●    fine.
+
+🔄 IPC → BNS
+Primarily corresponds to IPC §380, but BNS expressly incorporates several categories beyond
+the traditional dwelling-house formulation.
+
+
+
+
+IV. SECTION 306 – THEFT BY CLERK OR
+SERVANT
+Where a:
+
+   ●    clerk; or
+   ●    servant
+
+commits theft of property:
+
+       in the possession of his master/employer.
+
+🔄 IPC → BNS
+IPC §381 → BNS §306
+
+Example
+A cashier steals ₹50,000 from the business cash entrusted to his workplace possession.
+
+If the statutory requirements are satisfied, §306 may apply.
+
+⭐ Why aggravated?
+The offence involves violation of a position of trust within the employment relationship.
+
+
+
+
+V. SECTION 307 – THEFT AFTER
+PREPARATION FOR CAUSING HURT ETC.
+This is more serious than ordinary theft.
+
+The offender commits theft after making preparation for causing:
+<PARSED TEXT FOR PAGE: 384 / 748>
+      ●   death;
+      ●   hurt; or
+      ●   wrongful restraint,
+
+to:
+
+      ●   a person in order to commit the theft; or
+      ●   a person in order to facilitate escape after committing the theft.
+
+🔄 IPC → BNS
+IPC §382 → BNS §307
+
+Example
+A enters a house to steal after preparing a weapon to restrain anyone who attempts to stop him.
+
+The additional preparation makes §307 relevant.
+
+⭐ Difference
+§303 Theft: ordinary theft.
+
+§307: theft + prior preparation for death/hurt/wrongful restraint.
+
+
+
+
+VI. EXTORTION
+
+🔴 SECTION 308 – EXTORTION
+This is one of the most important provisions in the entire chapter.
+
+The BNS consolidates the old IPC extortion provisions into §308 with multiple sub-sections.
+
+
+
+
+Definition
+A person commits extortion when he:
+
+      1. intentionally puts or attempts to put another person in fear of injury;
+      2. does so to that person or another;
+      3. thereby dishonestly induces the person put in fear;
+<PARSED TEXT FOR PAGE: 385 / 748>
+    4. to deliver property, valuable security or signed/sealed thing capable of becoming
+       valuable security.
+
+Simple formula
+
+        Fear of injury → Dishonest inducement → Delivery of property/security
+
+
+
+
+Example
+A tells B:
+
+        "Give me ₹50,000 or I will burn your shop."
+
+B, because of the threat, gives A ₹50,000.
+
+→ Extortion.
+
+
+
+
+⭐ Essential ingredients
+1. Intention
+The offender must intentionally create fear.
+
+2. Fear of injury
+"Injury" is broader than merely physical injury.
+
+3. Dishonest inducement
+The fear must cause the victim to deliver something.
+
+4. Delivery
+The victim must be induced to deliver:
+
+    ●    property;
+    ●    valuable security; or
+    ●    signed/sealed thing capable of becoming valuable security.
+<PARSED TEXT FOR PAGE: 386 / 748>
+🔴§308Important aggravated forms under
+The provision covers various forms of extortion involving fear of:
+
+     ●    injury;
+     ●    death;
+     ●    grievous hurt;
+     ●    serious criminal accusations.
+
+Some aggravated forms carry punishment extending to 10 years and fine.
+
+Example
+A threatens B:
+
+         "Give me ₹1 lakh or I will falsely accuse you of an offence punishable with life
+         imprisonment."
+
+This falls within the aggravated extortion framework.
+
+
+
+
+VII. ROBBERY
+
+🔴 SECTION 309 – ROBBERY
+This is a must-study provision.
+
+The BNS definition provides:
+
+         Every robbery contains either theft or extortion.
+
+Therefore:
+
+Formula
+Robbery = Theft + Immediate violence/fear
+
+OR
+
+Robbery = Extortion + Immediate fear + Presence
+<PARSED TEXT FOR PAGE: 387 / 748>
+A. Theft becomes robbery when:
+While committing theft, or carrying away/attempting to carry away stolen property, the offender
+voluntarily causes or attempts to cause:
+
+   ●    death;
+   ●    hurt;
+   ●    wrongful restraint;
+   ●    fear of instant death;
+   ●    fear of instant hurt; or
+   ●    fear of instant wrongful restraint.
+
+Example
+A grabs B's wallet and punches B to prevent resistance.
+
+→ Theft becomes robbery.
+
+
+
+
+B. Extortion becomes robbery when:
+The offender:
+
+   1. is present before the person put in fear;
+   2. creates fear of:
+          ○ instant death;
+          ○ instant hurt; or
+          ○ instant wrongful restraint;
+   3. thereby induces the victim to deliver the property then and there.
+
+Example
+A points a gun at B and says:
+
+       "Give me your wallet now."
+
+B immediately gives it.
+
+→ Robbery.
+
+
+
+
+⭐ THE MOST IMPORTANT DISTINCTION
+<PARSED TEXT FOR PAGE: 388 / 748>
+Theft vs Robbery
+           Theft                                          Robbery
+
+ Dishonest taking            Theft plus violence/fear
+
+ Consent absent              Consent absent or obtained through immediate fear
+
+ Violence is not essential   Violence/fear is essential
+
+ Can be committed            Generally involves immediate force/fear in the relevant
+ secretly                    circumstances
+
+ §303                        §309
+
+
+
+
+⭐ Extortion vs Robbery
+          Extortion                     Robbery by extortion
+
+ Fear of injury                 Fear of instant
+                                death/hurt/restraint
+ Victim may deliver later       Delivery is then and there
+
+ Offender need not be           Offender must be sufficiently near
+ present
+ §308                           §309
+
+
+⭐ Memory trick
+Extortion = Fear
+
+Robbery = Immediate Fear
+
+
+
+
+Punishment for robbery
+Under §309:
+
+   ●    rigorous imprisonment up to 10 years, and
+   ●    fine.
+
+If robbery is committed on a highway:
+<PARSED TEXT FOR PAGE: 389 / 748>
+       between sunset and sunrise,
+
+imprisonment may extend to 14 years.
+
+Attempt:
+
+   ●    rigorous imprisonment up to 7 years, and
+   ●    fine.
+
+Where hurt is voluntarily caused during robbery/attempted robbery:
+
+   ●    life imprisonment, or
+   ●    rigorous imprisonment up to 10 years, and
+   ●    fine.
+
+
+
+
+VIII. DACOITY
+
+🔴 SECTION 310 – DACOITY
+Dacoity is an aggravated form of robbery.
+
+Essential requirement
+Five or more persons must conjointly:
+
+   ●    commit robbery; or
+   ●    attempt to commit robbery.
+
+The statutory definition retains the crucial five-person threshold.
+
+Formula
+       Robbery + 5 or more persons = Dacoity
+
+
+
+
+Example
+A, B, C, D and E jointly stop a vehicle and forcibly take money from passengers.
+
+If the legal requirements of robbery are satisfied:
+
+→ Dacoity under §310.
+<PARSED TEXT FOR PAGE: 390 / 748>
+⭐ Robbery vs Dacoity
+            Robbery                                  Dacoity
+
+ §309                              §310
+
+ No minimum of 5 persons           5 or more persons
+
+ Theft/extortion + violence/fear   Robbery committed/attempted conjointly by 5+
+
+ Less aggravated                   More aggravated
+
+
+🔴 Remember: 5 is the magic number.
+
+IX. SECTION 311 – ROBBERY/DACOITY
+WITH ATTEMPT TO CAUSE DEATH OR
+GRIEVOUS HURT
+This provision corresponds broadly to IPC §397.
+
+Where, during:
+
+   ●    robbery; or
+   ●    dacoity,
+
+the offender:
+
+   ●    attempts to cause death; or
+   ●    attempts to cause grievous hurt,
+
+the aggravated punishment applies.
+
+⭐ Important principle
+The aggravated liability is connected to the offender's own conduct in the
+commission/attempt.
+<PARSED TEXT FOR PAGE: 391 / 748>
+X. SECTION 312 – ATTEMPTED
+ROBBERY/DACOITY WHILE ARMED
+If a person:
+
+   ●   attempts robbery or dacoity; and
+   ●   is armed with a deadly weapon,
+
+the aggravated provision applies.
+
+🔄 IPC → BNS
+IPC §398 → BNS §312
+
+⭐ Exam distinction
+§311 → attempt to cause death/grievous hurt.
+
+§312 → armed with deadly weapon during attempt.
+
+
+
+
+XI. SECTION 313 – BELONGING TO GANG
+OF ROBBERS ETC.
+This provision deals with membership of gangs associated with:
+
+   ●   robbery;
+   ●   dacoity;
+   ●   related property offences.
+
+🔄 IPC
+Corresponds to the old IPC provisions concerning membership of gangs of dacoits/thieves,
+particularly §§400–401.
+
+
+
+
+XII. CRIMINAL MISAPPROPRIATION
+<PARSED TEXT FOR PAGE: 392 / 748>
+🔴MISAPPROPRIATION
+    SECTION 314 – DISHONEST
+                     OF PROPERTY
+🔄 IPC → BNS
+IPC §403 → BNS §314
+
+The offence occurs where a person:
+
+   ●   dishonestly misappropriates; or
+   ●   converts to his own use
+
+movable property.
+
+
+
+
+⭐ Key concept
+Unlike theft, the property may initially come into the person's possession lawfully.
+
+Example
+A finds B's wallet on the road.
+
+A knows that it belongs to B.
+
+Instead of attempting to return it, A dishonestly keeps it.
+
+→ Criminal misappropriation.
+
+
+
+
+⭐Misappropriation
+    Theft vs Criminal
+
+                    Theft                                     Misappropriation
+
+ Initial taking is dishonest                  Initial possession may be innocent/lawful
+
+ Property taken from another's                Property may come into possession innocently
+ possession
+ Dishonest intention exists at time of        Dishonest conversion/misappropriation occurs
+ taking                                       later
+<PARSED TEXT FOR PAGE: 393 / 748>
+ §303                                         §314
+
+
+Golden distinction
+        Theft = dishonest taking.
+
+        Misappropriation = dishonest conversion.
+
+
+
+
+XIII. SECTION 315 – PROPERTY
+POSSESSED BY DECEASED PERSON
+This deals with dishonest misappropriation of property that was in the possession of a deceased
+person at the time of death.
+
+🔄 IPC → BNS
+IPC §404 → BNS §315
+
+Example
+A person dies leaving ₹2 lakh in his room.
+
+Before lawful distribution, B dishonestly takes the money for himself.
+
+The special provision may apply if statutory conditions are fulfilled.
+
+
+
+
+XIV. CRIMINAL BREACH OF TRUST
+
+🔴TRUST
+   SECTION 316 – CRIMINAL BREACH OF
+
+One of the most important long-answer topics.
+
+🔄 IPC → BNS
+IPC §§405–409 → BNS §316 framework
+<PARSED TEXT FOR PAGE: 394 / 748>
+BNS §316 consolidates the criminal breach of trust provisions.
+
+
+
+
+Definition
+The central requirement is:
+
+       Entrustment + dishonest misappropriation/use/disposal
+
+A person must have been:
+
+   ●    entrusted with property; or
+   ●    given dominion over property.
+
+Then he dishonestly:
+
+   ●    misappropriates it;
+   ●    converts it to his own use;
+   ●    uses/disposes of it contrary to law/contract; or
+   ●    knowingly allows another person to do so.
+
+
+
+
+⭐ Essential ingredients
+1. Entrustment
+There must be entrustment of property or dominion over property.
+
+2. Dishonest misappropriation/conversion
+The accused must dishonestly deal with the property.
+
+3. Violation of legal direction or contract
+The use/disposal must be contrary to:
+
+   ●    law; or
+   ●    contract governing the trust.
+
+
+
+
+Example
+<PARSED TEXT FOR PAGE: 395 / 748>
+A gives B ₹5 lakh specifically to purchase machinery for A's factory.
+
+B instead uses the money to purchase a car for himself.
+
+→ Criminal breach of trust, assuming the statutory requirements are established.
+
+
+
+
+⭐TheftCriminal Breach of Trust vs
+              Theft                             Criminal Breach of Trust
+
+ No entrustment required           Entrustment is essential
+
+ Dishonest taking                  Dishonest conversion/use after entrustment
+
+ §303                              §316
+
+ Property taken from               Property already entrusted/dominated by
+ possession                        accused
+
+
+
+
+⭐Misappropriation
+    Criminal Breach of Trust vs
+
+This distinction is very important for exams.
+
+            Misappropriation                             Criminal Breach of Trust
+
+ §314                                       §316
+
+ No entrustment necessary                   Entrustment essential
+
+ Property may come into possession          Property is entrusted
+ innocently
+
+ Later dishonest conversion                 Dishonest violation of trust
+
+ Simpler offence                            Aggravated because of fiduciary/entrustment
+                                            relationship
+
+
+Memory
+<PARSED TEXT FOR PAGE: 396 / 748>
+       Misappropriation = property comes to you.
+
+       Breach of trust = property is entrusted to you.
+
+
+
+
+XV. STOLEN PROPERTY
+
+SECTION 317
+BNS §317 deals with stolen property and offences relating to receiving/retaining/dealing with
+such property.
+
+🔄 IPC
+Broadly corresponds to:
+
+   ●    §410 – stolen property
+   ●    §411 – receiving stolen property
+   ●    §412 – property stolen in dacoity
+   ●    §413 – habitual dealing
+   ●    §414 – assisting concealment.
+
+
+
+
+⭐ Basic concept
+Property becomes "stolen property" when it has been transferred through offences such as:
+
+   ●    theft;
+   ●    extortion;
+   ●    robbery;
+   ●    dacoity;
+   ●    criminal misappropriation;
+   ●    criminal breach of trust.
+
+
+
+
+Dishonestly receiving stolen property
+A person commits the offence where he:
+
+   ●    receives or retains stolen property;
+   ●    knowing or having reason to believe that it is stolen.
+<PARSED TEXT FOR PAGE: 397 / 748>
+Example
+A buys a ₹1 lakh laptop for ₹5,000 from a person known to deal in stolen electronics.
+
+If A knows or has reason to believe it is stolen:
+
+→ offence under §317 may arise.
+
+
+
+
+🔴 Aggravated cases
+The BNS provides stronger punishment for:
+
+   ●   property known to have been obtained through dacoity;
+   ●   habitual dealing in stolen property;
+   ●   assisting in concealment/disposal.
+
+The dacoity-related offence can attract life imprisonment or rigorous imprisonment up to 10
+years and fine; habitual dealing can similarly attract life imprisonment or imprisonment up to 10
+years and fine.
+
+
+
+
+XVI. CHEATING
+
+🔴 SECTION 318 – CHEATING
+Another very important examination topic.
+
+🔄 IPC → BNS
+Broadly consolidates:
+
+   ●   IPC §415 – definition
+   ●   §417 – punishment
+   ●   §418 – special form
+   ●   §420 – cheating and dishonestly inducing delivery of property.
+
+
+
+
+Definition
+<PARSED TEXT FOR PAGE: 398 / 748>
+Cheating requires:
+
+1. Deception
+The accused deceives a person.
+
+2. Fraudulent or dishonest inducement
+The deception causes the person to:
+
+    ●   deliver property; or
+    ●   consent to retention of property; or
+    ●   do/omit something which causes or is likely to cause damage/harm.
+
+
+
+
+⭐dishonest
+    Most important principle:
+           intention from the
+beginning
+This is crucial.
+
+If a person merely fails to keep a later promise, that does not automatically constitute
+cheating.
+
+There generally must be fraudulent/dishonest intention associated with the inducement at the
+relevant initial stage.
+
+Example 1 – Cheating
+A never intends to supply goods but takes B's advance payment by falsely claiming that he has
+stock ready.
+
+→ Cheating may be established.
+
+Example 2 – Mere breach of contract
+A genuinely intends to supply goods but later becomes unable to deliver due to an unforeseen
+business problem.
+
+→ Ordinarily, this is not automatically cheating merely because the promise was broken.
+<PARSED TEXT FOR PAGE: 399 / 748>
+⚖️ Important case law – Cheating
+Hridaya Ranjan Prasad Verma v State of Bihar
+⭐ Principle:
+       Mere breach of contract does not automatically amount to cheating.
+
+The dishonest intention must be examined with reference to the relevant circumstances,
+particularly at the inception of the transaction.
+
+
+
+
+⭐ Punishment under §318
+The basic offence can attract:
+
+   ●    imprisonment up to 3 years, or
+   ●    fine, or
+   ●    both.
+
+Special circumstances attract higher punishment, including cheating a person whose interest
+the offender was legally or contractually bound to protect.
+
+
+
+
+XVII. SECTION 319 – CHEATING BY
+PERSONATION
+🔄 IPC → BNS
+IPC §§416 & 419 → BNS §319
+
+A person cheats by pretending to be:
+
+   ●    another person;
+   ●    some other person, real or imaginary;
+   ●    a person he substitutes for another.
+
+Example
+A pretends to be B and obtains a bank loan using B's identity.
+
+→ Cheating by personation.
+<PARSED TEXT FOR PAGE: 400 / 748>
+⭐TrustCheating vs Criminal Breach of
+                         Cheating                                Criminal Breach of Trust
+
+ Deception is central                                     Entrustment is central
+
+ Dishonest intention generally associated with            Dishonest conversion after
+ inducement                                               entrustment
+
+ Victim is induced to deliver/property or act             Property already entrusted
+
+ §318                                                     §316
+
+
+Golden exam line
+        Cheating begins with deception; criminal breach of trust begins with
+        entrustment.
+
+
+
+
+XVIII. FRAUDULENT DEEDS AND
+DISPOSITIONS
+§§320–323
+These provisions deal with fraudulent dealings intended to prejudice:
+
+   ●     creditors;
+   ●     persons entitled to property;
+   ●     lawful claims.
+
+§320
+Dishonest/fraudulent removal or concealment of property to prevent distribution among
+creditors.
+
+§321
+Dishonestly/fraudulently preventing a debt from being available to creditors.
+<PARSED TEXT FOR PAGE: 401 / 748>
+§322
+Dishonest/fraudulent execution of deed of transfer containing false statement of consideration.
+
+§323
+Dishonest/fraudulent removal or concealment of property.
+
+These correspond broadly to IPC §§421–424.
+
+
+
+
+XIX. MISCHIEF
+
+🔴 SECTION 324 – MISCHIEF
+🔄 IPC → BNS
+IPC §§425–426 → BNS §324
+
+A person commits mischief when, with intent to cause or knowing that he is likely to cause:
+
+      ●   wrongful loss or damage to the public or any person,
+
+he:
+
+      ●   destroys property; or
+      ●   changes property or its situation; or
+      ●   diminishes its value or utility; or
+      ●   affects it injuriously.
+
+
+
+
+⭐ Important point
+The offender need not necessarily gain personally.
+
+This is why mischief differs from theft.
+
+Example
+A intentionally breaks B's expensive window.
+
+A gains nothing.
+<PARSED TEXT FOR PAGE: 402 / 748>
+B suffers loss.
+
+→ Mischief.
+
+
+
+
+⚖️ Case law
+Indian Oil Corporation v NEPC India Ltd.
+The Supreme Court discussed the ingredients of criminal mischief and the importance of the
+statutory requirements.
+
+
+
+
+XX. SECTION 325 – MISCHIEF BY KILLING
+OR MAIMING ANIMAL
+This is an aggravated form of mischief.
+
+It deals with intentionally causing destruction/injury to animals in the circumstances specified by
+the provision.
+
+🔄 IPC
+Broadly derived from the old IPC animal-mischief provisions, particularly §§428–429.
+
+
+
+
+XXI. SECTION 326 – MISCHIEF BY INJURY,
+INUNDATION, FIRE OR EXPLOSIVE
+This covers aggravated forms involving:
+
+   ●   irrigation works;
+   ●   public infrastructure;
+   ●   inundation;
+   ●   drainage;
+   ●   fire;
+   ●   explosive substances;
+   ●   similar serious damage.
+<PARSED TEXT FOR PAGE: 403 / 748>
+XXII. SECTION 327 – MISCHIEF RELATING
+TO RAIL/AIRCRAFT/VESSEL
+This provision addresses mischief intended to:
+
+   ●   destroy; or
+   ●   make unsafe
+
+specified transport/infrastructure such as:
+
+   ●   rail;
+   ●   aircraft;
+   ●   decked vessel;
+   ●   vessel of specified burden.
+
+
+
+
+XXIII. SECTION 328 – RUNNING VESSEL
+AGROUND
+This provision concerns intentionally running a vessel:
+
+   ●   aground; or
+   ●   ashore,
+
+with the specified criminal intention, including intent connected with theft or other offences.
+
+
+
+
+XXIV. CRIMINAL TRESPASS
+
+🔴ANDSECTION 329 – CRIMINAL TRESPASS
+     HOUSE-TRESPASS
+This is another highly examinable topic.
+
+Criminal trespass
+<PARSED TEXT FOR PAGE: 404 / 748>
+A person commits criminal trespass where he:
+
+     1. enters into or upon property in possession of another;
+     2. with intent to commit an offence; or
+     3. to intimidate, insult or annoy the person in possession;
+
+OR
+
+having lawfully entered, unlawfully remains there with such intent.
+
+
+
+
+⭐ Essential ingredients
+1. Entry upon property
+The accused enters property in another's possession.
+
+2. Possession of another
+The focus is on possession rather than ownership.
+
+3. Criminal intention
+The entry or continued presence must be accompanied by the required intention.
+
+
+
+
+Example
+A enters B's private land intending to threaten and intimidate B.
+
+→ Criminal trespass.
+
+
+
+
+XXV. HOUSE-TRESPASS
+House-trespass is criminal trespass involving entry into or remaining in:
+
+     ●   a building;
+     ●   tent; or
+     ●   vessel
+<PARSED TEXT FOR PAGE: 405 / 748>
+used as:
+
+   ●   human dwelling;
+   ●   place of worship; or
+   ●   place for custody of property.
+
+
+
+
+⭐Trespass
+    Criminal Trespass vs House-
+
+      Criminal                  House-Trespass
+     Trespass
+ §329                 §329
+
+ General property     Building/tent/vessel of specified type
+
+ Broader              Specific form of criminal trespass
+
+
+
+
+XXVI. SECTION 330 – HOUSE-TRESPASS
+AND HOUSE-BREAKING
+The provision deals with:
+
+   ●   house-trespass;
+   ●   house-breaking;
+   ●   lurking house-trespass;
+   ●   related aggravated forms.
+
+The BNS structure consolidates the old IPC §§443–446 framework.
+
+
+
+
+⭐ What is house-breaking?
+Broadly, house-breaking occurs when entry/exit into a building is achieved through one of the
+legally specified modes, such as:
+
+   ●   making an entrance not intended for human entry;
+   ●   opening a passage;
+   ●   entering through a passage opened by the offender;
+<PARSED TEXT FOR PAGE: 406 / 748>
+   ●    using force or threats;
+   ●    unfastening a passage;
+   ●    climbing or other legally specified means.
+
+Exam warning
+Do not write merely:
+
+       "House-breaking means breaking a door."
+
+That is incomplete.
+
+The statutory definition covers specified methods of entry or exit, not merely physically
+breaking a door.
+
+
+
+
+XXVII. SECTION 331 – PUNISHMENT FOR
+HOUSE-TRESPASS/HOUSE-BREAKING
+Punishment varies according to the purpose and circumstances, particularly where the intended
+offence is more serious.
+
+Aggravated circumstances include house-trespass/house-breaking:
+
+   ●    to commit offences punishable with death;
+   ●    to commit offences punishable with life imprisonment;
+   ●    at night;
+   ●    after preparation for causing hurt, assault or wrongful restraint;
+   ●    where grievous hurt is caused.
+
+The structure derives from the old IPC §§449–460.
+
+
+
+
+XXVIII. SECTION 332 – HOUSE-TRESPASS
+IN ORDER TO COMMIT OFFENCE
+This applies where house-trespass is committed with the intention of committing another
+offence.
+
+Example
+A enters B's house intending to commit theft.
+<PARSED TEXT FOR PAGE: 407 / 748>
+→ House-trespass may be combined with the intended offence.
+
+
+
+
+XXIX. SECTION 333 – HOUSE-TRESPASS
+AFTER PREPARATION
+Where the offender commits house-trespass after preparing for:
+
+   ●   hurt;
+   ●   assault; or
+   ●   wrongful restraint,
+
+the aggravated provision applies.
+
+🔴 Compare with §307
+§307: theft + preparation for hurt/death/restraint.
+
+§333: house-trespass + preparation for hurt/assault/restraint.
+
+
+
+
+XXX. SECTION 334 – BREAKING OPEN
+RECEPTACLE
+Definition
+Dishonestly or with intent to commit mischief, a person:
+
+   ●   breaks open; or
+   ●   unfastens
+
+a closed receptacle containing or believed to contain property.
+
+Punishment
+Up to 2 years, or fine, or both.
+
+Where the person is entrusted with custody of the receptacle and lacks authority to open it:
+
+   ●   up to 3 years, or
+   ●   fine, or
+   ●   both.
+<PARSED TEXT FOR PAGE: 408 / 748>
+🔄 IPC → BNS
+IPC §§461–462 → BNS §334
+
+
+
+
+🔥FROM
+   THE MOST IMPORTANT DISTINCTIONS
+      CHAPTER XVII
+1. THEFT vs EXTORTION vs ROBBERY vs DACOITY
+   Feature         Theft             Extortion              Robbery            Dacoity
+
+ BNS            §303           §308                §309                      §310
+
+ Property       Movable        Property/security   Theft or extortion        Robbery
+
+ Consent        Without        Obtained through    Forced/induced in         Same as
+                consent        fear                statutory manner          robbery
+
+ Fear/          Not            Fear of injury      Immediate violence/fear   Same
+ violence       necessary
+ Number         Any            Any                 Any                       5+
+
+ Key feature    Dishonest      Fear induces        Theft/extortion +         Robbery by
+                taking         delivery            immediacy                 5+
+
+
+Memory:
+
+       THEFT → TAKE
+
+       EXTORTION → THREAT
+
+       ROBBERY → TAKE/THREAT + IMMEDIATE FORCE
+
+       DACOITY → ROBBERY + 5
+
+
+
+
+2. THEFT vs SNATCHING
+Theft: dishonest taking of movable property.
+<PARSED TEXT FOR PAGE: 409 / 748>
+Snatching: theft where property is suddenly/quickly/forcibly seized or grabbed from a person or
+his possession.
+
+
+
+
+3. MISAPPROPRIATION vs CRIMINAL
+BREACH OF TRUST
+🔴 Most important distinction
+      Misappropriation = no entrustment required.
+
+      Criminal breach of trust = entrustment required.
+
+
+
+
+4. CHEATING vs CRIMINAL BREACH OF
+TRUST
+      Cheating → deception at the inducement stage.
+
+      Criminal breach of trust → entrustment followed by dishonest
+      conversion/use.
+
+
+
+
+5. CRIMINAL TRESPASS vs HOUSE-
+TRESPASS
+      House-trespass is a specific form of criminal trespass involving a building,
+      tent or vessel of the specified kind.
+
+
+
+
+🔥 ONE-PAGE MEMORY CHART
+THEFT
+<PARSED TEXT FOR PAGE: 410 / 748>
+303 – TAKE
+
+SNATCHING
+304 – GRAB
+
+AGGRAVATED THEFT
+305 – HOUSE/TRANSPORT/WORSHIP/GOVT
+
+306 – CLERK/SERVANT
+
+307 – PREPARATION + THEFT
+
+EXTORTION
+308 – THREAT
+
+ROBBERY
+309 – THEFT/EXTORTION + IMMEDIATE FORCE/FEAR
+
+DACOITY
+310 – ROBBERY + 5
+
+AGGRAVATED ROBBERY/DACOITY
+311 – DEATH/GRIEVOUS HURT
+
+312 – DEADLY WEAPON
+
+313 – GANG
+
+MISAPPROPRIATION
+314 – CONVERT
+
+315 – DECEASED'S PROPERTY
+
+BREACH OF TRUST
+316 – ENTRUSTMENT + DISHONEST CONVERSION
+
+STOLEN PROPERTY
+317 – RECEIVE/DEAL
+
+CHEATING
+<PARSED TEXT FOR PAGE: 411 / 748>
+318 – DECEIVE
+
+319 – PERSONATION
+
+FRAUDULENT DEEDS
+320–323 – CREDITORS/PROPERTY
+
+MISCHIEF
+324–328 – DAMAGE
+
+TRESPASS
+329 – ENTER/REMAIN
+
+330 – HOUSE-BREAKING
+
+331 – PUNISHMENT
+
+332 – OFFENCE
+
+333 – PREPARATION + HURT
+
+334 – BREAK OPEN RECEPTACLE
+
+
+
+
+🔴QUESTIONS
+   CCSU EXAM – MUST PREPARE THESE
+
+Long-answer questions
+  1. Define theft under §303 BNS. Explain its essential ingredients and punishment.
+  2. What is snatching under §304? How is it different from theft?
+  3. Explain extortion under §308 BNS with examples.
+  4. Define robbery. Explain when theft and extortion become robbery.
+  5. Distinguish between theft, extortion and robbery.
+  6. What is dacoity? Distinguish dacoity from robbery.
+  7. Explain criminal misappropriation under §314.
+  8. Define criminal breach of trust. What are its essential ingredients?
+  9. Distinguish criminal misappropriation from criminal breach of trust.
+  10. What is cheating under §318 BNS? Explain its essential ingredients.
+  11. Distinguish cheating from criminal breach of trust.
+  12. Explain the offence of receiving stolen property under §317.
+  13. What is mischief? Explain its essential ingredients.
+<PARSED TEXT FOR PAGE: 412 / 748>
+   14. Define criminal trespass and house-trespass.
+   15. Explain house-breaking and distinguish it from house-trespass.
+
+
+
+
+🔴PRACTICE
+   PROBLEM QUESTIONS YOU MUST
+
+Problem 1
+A secretly removes B's mobile phone from B's table and runs away.
+
+Question: What offence?
+
+Answer: Theft under §303, assuming dishonest intention and other ingredients.
+
+
+
+
+Problem 2
+A suddenly grabs B's mobile phone from B's hand.
+
+Answer: Snatching under §304, because the theft is committed by sudden/quick/forcible
+seizure from the person/possession.
+
+
+
+
+Problem 3
+A points a gun at B and demands B's wallet. B immediately hands it over.
+
+Answer: Robbery under §309, because extortion becomes robbery where the required
+immediate fear and presence conditions are satisfied.
+
+
+
+
+Problem 4
+Five persons jointly commit the above robbery.
+
+Answer: Dacoity under §310, provided all five conjointly participate in committing/attempting
+the robbery.
+
+
+
+
+Problem 5
+<PARSED TEXT FOR PAGE: 413 / 748>
+A is entrusted with ₹10 lakh to purchase machinery. He dishonestly uses the money to
+purchase a personal car.
+
+Answer: Criminal breach of trust under §316, because entrustment followed by dishonest
+conversion/use is present.
+
+
+
+
+Problem 6
+A finds B's lost wallet and later decides to keep it dishonestly.
+
+Answer: Criminal misappropriation under §314, subject to the statutory requirements.
+
+
+
+
+Problem 7
+A takes an advance from B after falsely claiming that he possesses goods for immediate
+delivery, although A knows he has no intention of supplying them.
+
+Answer: Cheating under §318, because the dishonest deception/inducement existed at the
+relevant initial stage.
+
+
+
+
+Problem 8
+A enters B's property intending to intimidate B.
+
+Answer: Criminal trespass under §329, assuming the statutory elements are established.
+
+
+
+
+⭐ FINAL EXAM FORMULA
+For any property-offence problem, ask these questions in order:
+
+STEP 1
+What happened to the property?
+
+Taken?
+Threatened away?
+Converted?
+Entrusted?
+Received?
+<PARSED TEXT FOR PAGE: 414 / 748>
+Destroyed?
+Entered upon?
+
+STEP 2
+What was the mental element?
+
+Dishonest intention?
+Fraudulent intention?
+Knowledge?
+Intent to intimidate?
+
+STEP 3
+Was there consent?
+
+No consent → consider theft.
+
+Consent obtained by threat → consider extortion/robbery.
+
+STEP 4
+Was there violence or immediate fear?
+
+If yes → consider robbery.
+
+STEP 5
+Were there 5 or more persons?
+
+If yes → consider dacoity.
+
+STEP 6
+Was property entrusted?
+
+If yes → consider criminal breach of trust.
+
+STEP 7
+Was there deception from the beginning?
+
+If yes → consider cheating.
+
+STEP 8
+Was property simply converted dishonestly?
+<PARSED TEXT FOR PAGE: 415 / 748>
+Consider criminal misappropriation.
+
+STEP 9
+Was property damaged/destroyed?
+
+Consider mischief.
+
+STEP 10
+Was there unlawful entry/remain?
+
+Consider criminal trespass/house-trespass.
+<PARSED TEXT FOR PAGE: 416 / 748>
+CHAPTER XVIII – OFFENCES RELATING
+TO DOCUMENTS AND TO PROPERTY
+MARKS
+BNS §§335–350
+🔴 MUST STUDY CHAPTER
+This chapter is extremely important for LLB because it covers false documents, forgery,
+forged electronic records, valuable securities, wills, falsification of accounts and
+property marks.
+
+The enacted BNS places §§335–344 under Offences relating to Documents and §§345–350
+under Offences relating to Property Marks.
+
+
+
+
+I. QUICK SECTION MAP
+ BNS                             Offence                                  Main IPC
+                                                                       Correspondence
+
+ 335   Making a false document                                     §464
+
+ 336   Forgery                                                     §§463, 465, 468, 469
+                                                                   framework
+
+ 337   Forgery of record of Court/public register, etc.            §466
+
+ 338   Forgery of valuable security, will, etc.                    §467
+
+ 339   Possession of forged document described in §§337/338        §474
+
+ 340   Using forged document/electronic record as genuine          §471
+
+ 341   Counterfeit seal, plate, etc.                               §472–473
+
+ 342   Counterfeit device/mark for authentication                  §475–476
+
+ 343   Fraudulent cancellation/destruction of will, authority to   §477
+       adopt, valuable security
+<PARSED TEXT FOR PAGE: 417 / 748>
+ 344    Falsification of accounts                                   §477A
+
+ 345    Property mark                                               §479
+
+ 346    Tampering with property mark                                §480
+
+ 347    Counterfeiting property mark                                §481
+
+ 348    Instrument for counterfeiting property mark                 §482
+
+ 349    Selling goods with counterfeit property mark                §483
+
+ 350    False mark on receptacle containing goods                   §484
+
+
+⚠️mappings
+    Important: BNS has reorganised and consolidated several IPC provisions, so some
+           are best understood as functional correspondence, rather than assuming every
+BNS section has a single identical IPC section.
+
+
+
+
+PART A – DOCUMENT OFFENCES
+
+🔴DOCUMENT
+   SECTION 335 – MAKING A FALSE
+
+This is the foundation of the entire forgery chapter.
+
+The BNS expressly includes electronic records and electronic signatures, which is
+particularly important in modern criminal law.
+
+🔄 IPC → BNS
+IPC §464 → BNS §335
+
+
+
+
+⭐ What is a false document?
+A person makes a false document/electronic record when, dishonestly or fraudulently, he falls
+within one of the statutory categories.
+
+There are essentially three situations.
+<PARSED TEXT FOR PAGE: 418 / 748>
+1. Making a document in another person's name/authority
+A person:
+
+      ●    makes;
+      ●    signs;
+      ●    seals;
+      ●    executes
+
+a document, or
+
+      ●    makes/transmits an electronic record;
+      ●    affixes an electronic signature;
+      ●    makes a mark representing execution/authenticity,
+
+with the intention that it be believed that it was made or authorised by another person when he
+knows that it was not.
+
+Example
+A signs B's name on a sale agreement without B's authority.
+
+→ False document.
+
+
+
+
+2. Material alteration
+A person, without lawful authority:
+
+      ●    dishonestly or fraudulently;
+      ●    alters a document or electronic record;
+      ●    in a material part.
+
+Example
+A changes:
+
+          ₹50,000
+
+to:
+
+          ₹5,00,000
+
+in a signed agreement without authority.
+<PARSED TEXT FOR PAGE: 419 / 748>
+→ False document.
+
+
+
+
+3. Causing another person to execute a
+document by deception/incapacity
+A causes another person to:
+
+   ●   sign;
+   ●   seal;
+   ●   execute;
+   ●   alter a document/electronic record; or
+   ●   affix an electronic signature,
+
+while knowing that the person:
+
+   ●   cannot understand it because of unsoundness of mind/intoxication; or
+   ●   does not know its contents because of deception.
+
+
+
+
+⭐ Three-part memory
+335 = MAKE
+
+   1. Pretend to be another
+   2. Materially alter
+   3. Cause another to sign/alter through deception or incapacity
+
+
+
+
+🔴 SECTION 336 – FORGERY
+Forgery is based upon making a false document with the required fraudulent/dishonest
+purpose.
+
+🔄 IPC → BNS
+Broadly corresponds to the IPC framework of:
+
+   ●   §463 – forgery definition
+   ●   §465 – punishment
+<PARSED TEXT FOR PAGE: 420 / 748>
+   ●   §468 – forgery for cheating
+   ●   §469 – forgery for harming reputation.
+
+
+
+
+Definition
+A person commits forgery if he:
+
+   1. makes a false document/electronic record;
+   2. with the intention of:
+          ○ causing damage or injury;
+          ○ supporting a claim/title;
+          ○ causing a person to part with property;
+          ○ entering into an express or implied contract; or
+          ○ committing fraud.
+
+
+
+
+⭐forgery
+    Essential ingredients of
+
+1. Making a false document
+This is essential.
+
+2. Fraudulent/dishonest intention
+There must be the required criminal intention.
+
+3. Statutory purpose
+The false document must be made for one of the purposes specified in the section.
+
+
+
+
+⚖️ Important case law
+Mohd. Ibrahim v State of Bihar
+The Supreme Court explained an important principle concerning making a false document.
+<PARSED TEXT FOR PAGE: 421 / 748>
+A person does not automatically commit forgery merely because he executes a document
+concerning property to which he may not be entitled.
+
+The question is whether the statutory requirements for making a false document are actually
+satisfied.
+
+🔴 Exam principle:
+         Always establish the making of a "false document" before concluding that forgery
+         has been committed.
+
+
+
+
+⭐ Punishment under §336
+The BNS provides different punishments depending upon the purpose.
+
+Ordinary forgery
+Up to:
+
+   ●      2 years, or
+   ●      fine, or
+   ●      both.
+
+Forgery for purpose of cheating
+Up to:
+
+   ●      7 years, and
+   ●      fine.
+
+Forgery intended to harm reputation
+Up to:
+
+   ●      3 years, and
+   ●      fine.
+
+The BNS/NCRB schedule confirms these differentiated punishments.
+
+
+
+
+🔴RECORD/PUBLIC
+   SECTION 337 – FORGERY OF COURT
+                REGISTER
+<PARSED TEXT FOR PAGE: 422 / 748>
+This is an aggravated form of forgery.
+
+It covers forgery of specified official records such as:
+
+   ●   records of a Court;
+   ●   registers maintained by public servants;
+   ●   records relating to birth, marriage, etc.;
+   ●   documents purporting to be made by a public servant in official capacity.
+
+🔄 IPC → BNS
+IPC §466 → BNS §337
+
+Punishment
+   ●   imprisonment up to 7 years, and
+   ●   fine.
+
+
+
+
+Example
+A creates a fake entry in an official birth register showing a person as born on a particular date.
+
+→ §337 may apply if statutory requirements are satisfied.
+
+
+
+
+🔴VALUABLE
+   SECTION 338 – FORGERY OF
+          SECURITY, WILL, ETC.
+This is one of the most serious forgery offences.
+
+🔄 IPC → BNS
+IPC §467 → BNS §338
+
+It covers forgery involving:
+
+   ●   valuable security;
+   ●   will;
+   ●   authority to adopt;
+   ●   authority to make/transfer valuable security;
+   ●   documents relating to receipt/payment of money;
+   ●   specified valuable property interests.
+<PARSED TEXT FOR PAGE: 423 / 748>
+⭐ Why serious?
+Because such documents can:
+
+   ●   create legal rights;
+   ●   transfer property;
+   ●   create financial obligations;
+   ●   determine inheritance;
+   ●   affect valuable securities.
+
+Punishment
+   ●   life imprisonment, or
+   ●   imprisonment up to 10 years, and
+   ●   fine.
+
+
+
+
+⭐ Example
+A fabricates a will purporting to be executed by X, thereby attempting to transfer X's property to
+A.
+
+→ §338 may apply.
+
+
+
+
+🔴CERTAIN
+   SECTION 339 – POSSESSION OF
+         FORGED DOCUMENTS
+This provision deals with possession of forged documents described in:
+
+   ●   §337; or
+   ●   §338.
+
+The accused must:
+
+   1. possess the document;
+   2. know or have reason to believe it is forged;
+   3. intend to use it as genuine.
+
+🔄 IPC → BNS
+<PARSED TEXT FOR PAGE: 424 / 748>
+Broadly corresponds to IPC §474.
+
+
+
+
+⭐ Three ingredients
+       Possession + Knowledge + Intention to use as genuine
+
+Example
+A knowingly keeps a forged will intending to produce it before a court as genuine.
+
+→ §339.
+
+
+
+
+Punishment
+For documents covered by §337:
+
+   ●    imprisonment up to 7 years, and
+   ●    fine.
+
+For documents covered by §338:
+
+   ●    life imprisonment, or
+   ●    imprisonment up to 7 years, and
+   ●    fine.
+
+The official NCRB schedule reflects these categories.
+
+
+
+
+🔴DOCUMENT
+   SECTION 340 – USING FORGED
+          OR ELECTRONIC RECORD
+AS GENUINE
+🔄 IPC → BNS
+IPC §471 → BNS §340
+
+This is extremely important because actually creating the forgery is not necessary for liability
+under this provision.
+<PARSED TEXT FOR PAGE: 425 / 748>
+A person uses a forged:
+
+   ●     document; or
+   ●     electronic record
+
+as genuine when he:
+
+   1. fraudulently/dishonestly uses it;
+   2. knows or has reason to believe it is forged.
+
+
+
+
+Example
+A did not create a fake degree certificate.
+
+But A knows it is forged and submits it to an employer as genuine.
+
+→ §340.
+
+
+
+
+⭐ Punishment
+The punishment is linked to the punishment applicable to the forgery of that document.
+
+In simple terms:
+
+        Use forged document knowingly → punished as applicable to the forgery
+        involved.
+
+
+
+
+⭐DOCUMENT
+    FORGERY vs USING FORGED
+
+                 Forgery                               Using forged document
+
+ §336                                     §340
+
+ Making false document                    Using it as genuine
+
+ Accused creates/participates in          Accused may merely use it
+ creation
+<PARSED TEXT FOR PAGE: 426 / 748>
+ Knowledge + required intention           Knowledge/reason to believe + dishonest/fraudulent
+                                          use
+
+
+
+
+🔴PLATE
+   SECTION 341 – COUNTERFEIT SEAL,
+       ETC.
+This provision concerns:
+
+   ●   making/counterfeiting a seal;
+   ●   plate;
+   ●   other instrument;
+
+with the intention of committing certain forgery offences.
+
+It also covers possession of counterfeit instruments with the relevant intention/knowledge.
+
+🔄 IPC
+Broadly corresponds to IPC §§472–473.
+
+
+
+
+Punishment structure
+For instruments intended for forgery punishable under §338:
+
+   ●   life imprisonment, or
+   ●   imprisonment up to 7 years + fine.
+
+For other forgery:
+
+   ●   imprisonment up to 7 years + fine.
+
+There is also a provision concerning possession of counterfeit instruments without the specified
+intent, carrying imprisonment up to 3 years and fine.
+
+
+
+
+SECTION 342 – COUNTERFEIT
+AUTHENTICATION DEVICE/MARK
+<PARSED TEXT FOR PAGE: 427 / 748>
+This provision deals with:
+
+   ●   counterfeiting devices/marks;
+   ●   possessing counterfeit devices/material;
+
+used for authenticating documents covered by §338.
+
+🔄 IPC
+Broadly corresponds to IPC §§475–476.
+
+Example
+A creates a fake official authentication device intended to validate forged valuable securities.
+
+→ §342 may apply.
+
+
+
+
+🔴CANCELLATION/DESTRUCTION
+   SECTION 343 – FRAUDULENT
+
+This provision concerns fraudulent or dishonest:
+
+   ●   cancellation;
+   ●   destruction;
+   ●   defacement;
+
+of specified documents such as:
+
+   ●   will;
+   ●   authority to adopt;
+   ●   valuable security.
+
+🔄 IPC → BNS
+IPC §477 → BNS §343
+
+
+
+
+Example
+A secretly destroys B's genuine will in order to prevent B's testamentary wishes from taking
+effect.
+
+→ §343 may apply if statutory requirements are satisfied.
+<PARSED TEXT FOR PAGE: 428 / 748>
+🔴ACCOUNTS
+   SECTION 344 – FALSIFICATION OF
+
+🔄 IPC → BNS
+IPC §477A → BNS §344
+
+This is particularly important in:
+
+    ●   companies;
+    ●   businesses;
+    ●   employment;
+    ●   accounting;
+    ●   financial transactions.
+
+
+
+
+Offence
+A person in the relevant position falsifies, destroys, alters or makes false entries in:
+
+    ●   books;
+    ●   electronic records;
+    ●   accounts;
+    ●   financial documents,
+
+with the required fraudulent/dishonest intention.
+
+
+
+
+Example
+A company employee deliberately alters the company's electronic ledger to show that ₹20 lakh
+was spent when it was not.
+
+→ §344 may apply.
+
+
+
+
+PART B – PROPERTY MARKS
+<PARSED TEXT FOR PAGE: 429 / 748>
+🔴 SECTION 345 – PROPERTY MARK
+A property mark is a mark used to indicate that movable property belongs to a particular
+person.
+
+
+
+
+Example
+A manufacturer places a distinctive mark on goods to show that they belong to that
+manufacturer.
+
+That is a property mark.
+
+
+
+
+⭐ False property mark
+A person uses a false property mark where the mark is used in a way reasonably calculated to
+make people believe that goods belong to someone to whom they do not belong.
+
+Example
+A puts Company X's ownership mark on goods actually belonging to Company Y.
+
+→ False property mark.
+
+
+
+
+Punishment
+Using a false property mark:
+
+   ●   imprisonment up to 1 year, or
+   ●   fine, or
+   ●   both.
+
+The accused can avoid liability on this provision if he establishes that he acted without intent
+to defraud, subject to the statutory wording.
+<PARSED TEXT FOR PAGE: 430 / 748>
+SECTION 346 – TAMPERING WITH
+PROPERTY MARK
+A person commits this offence when he:
+
+   ●   removes;
+   ●   destroys;
+   ●   defaces; or
+   ●   adds to
+
+a property mark,
+
+with intention or knowledge that this may cause injury to another person.
+
+🔄 IPC → BNS
+IPC §480 → BNS §346
+
+Punishment
+   ●   imprisonment up to 1 year, or
+   ●   fine, or
+   ●   both.
+
+
+
+
+Example
+A removes the manufacturer's mark from goods so that their true ownership/origin cannot be
+identified.
+
+→ §346 may apply.
+
+
+
+
+🔴PROPERTY
+   SECTION 347 – COUNTERFEITING
+          MARK
+This involves making a property mark that imitates another's genuine property mark.
+
+🔄 IPC → BNS
+<PARSED TEXT FOR PAGE: 431 / 748>
+IPC §481 → BNS §347
+
+Example
+A creates a mark almost identical to a famous manufacturer's ownership mark and places it on
+his own goods.
+
+→ Counterfeit property mark.
+
+
+
+
+SECTION 348 – MAKING/POSSESSING
+INSTRUMENT FOR COUNTERFEITING
+PROPERTY MARK
+A person commits this offence by:
+
+   ●   making;
+   ●   possessing; or
+   ●   having an instrument
+
+for the purpose of counterfeiting a property mark.
+
+🔄 IPC → BNS
+IPC §482 → BNS §348
+
+Example
+A manufactures a metal stamping tool specifically designed to reproduce another company's
+property mark.
+
+→ §348.
+
+
+
+
+SECTION 349 – SELLING GOODS WITH
+COUNTERFEIT PROPERTY MARK
+This deals with selling or exposing for sale goods carrying a counterfeit property mark.
+
+🔄 IPC → BNS
+<PARSED TEXT FOR PAGE: 432 / 748>
+IPC §483 → BNS §349
+
+Example
+A sells shoes bearing a counterfeit manufacturer mark.
+
+→ §349 may apply.
+
+
+
+
+SECTION 350 – FALSE MARK ON
+RECEPTACLE
+This concerns making a false mark upon:
+
+    ●   a box;
+    ●   package;
+    ●   case;
+    ●   receptacle
+
+containing goods.
+
+🔄 IPC → BNS
+IPC §484 → BNS §350
+
+Example
+A places a false manufacturer's mark on boxes to make buyers believe the goods inside
+originated from that manufacturer.
+
+
+
+
+🔥DOCUMENT
+   MOST IMPORTANT CONCEPT – FALSE
+          → FORGERY
+This relationship must be crystal clear.
+
+STEP 1
+A person makes a false document.
+
+↓
+<PARSED TEXT FOR PAGE: 433 / 748>
+STEP 2
+He does so with the legally required dishonest/fraudulent purpose.
+
+↓
+
+STEP 3
+It becomes forgery.
+
+↓
+
+STEP 4
+If he knowingly possesses it intending to use it:
+
+§339 may apply for specified serious forged documents.
+
+↓
+
+STEP 5
+If he knowingly uses it as genuine:
+
+§340 may apply.
+
+
+
+
+⭐ VERY IMPORTANT DISTINCTIONS
+1. FALSE DOCUMENT vs FORGERY
+            False Document                                       Forgery
+
+ §335                                      §336
+
+ Defines the act of making false           Criminalises making it for specified
+ document/e-record                         fraudulent/dishonest purposes
+
+ Foundation                                Offence built upon false document
+
+
+Memory
+        335 = WHAT is a false document
+
+        336 = WHEN making it becomes forgery
+<PARSED TEXT FOR PAGE: 434 / 748>
+2. FORGERY vs USING FORGED
+DOCUMENT
+         Forgery                           Use
+
+ §336                     §340
+
+ Makes false              Uses forged document
+ document
+ Creation is central      Knowledge + use as genuine is
+                          central
+
+
+
+
+3. §337 vs §338
+§337
+Forgery of:
+
+   ●    Court records;
+   ●    public registers;
+   ●    specified official documents.
+
+§338
+Forgery of:
+
+   ●    valuable security;
+   ●    will;
+   ●    authority to adopt;
+   ●    specified high-value legal/financial documents.
+
+Memory
+        337 = COURT/PUBLIC RECORD
+
+        338 = VALUABLE SECURITY/WILL
+
+
+
+
+4. §339 vs §340
+<PARSED TEXT FOR PAGE: 435 / 748>
+§339
+Possession of specified forged document + knowledge + intent to use.
+
+§340
+Use of forged document/e-record as genuine + knowledge/reason to believe forged.
+
+Memory
+       339 = KEEP
+
+       340 = USE
+
+
+
+
+5. PROPERTY MARK vs TRADEMARK
+🔴 Do not confuse these in an examination.
+Property mark
+Indicates:
+
+       Who owns the movable property.
+
+Trademark
+Generally identifies:
+
+       Source/origin of goods or services in commercial activity.
+
+BNS Chapter XVIII specifically deals with property marks, not the complete law of trademarks.
+
+
+
+
+🔥 COMPLETE MEMORY CHART
+DOCUMENTS
+335 – FALSE DOCUMENT
+
+→ MAKE FALSE
+
+336 – FORGERY
+<PARSED TEXT FOR PAGE: 436 / 748>
+→ FORGE
+
+337 – COURT/PUBLIC REGISTER
+
+→ OFFICIAL RECORD
+
+338 – VALUABLE SECURITY/WILL
+
+→ HIGH-VALUE DOCUMENT
+
+339 – POSSESSION
+
+→ KEEP FORGED DOCUMENT
+
+340 – USE
+
+→ USE AS GENUINE
+
+341 – COUNTERFEIT SEAL
+
+→ SEAL/PLATE
+
+342 – COUNTERFEIT AUTHENTICATION
+
+→ AUTHENTICATION DEVICE
+
+343 – DESTROY/CANCEL
+
+→ WILL/SECURITY
+
+344 – ACCOUNTS
+
+→ FALSIFY ACCOUNTS
+
+
+
+
+PROPERTY MARKS
+345 – PROPERTY MARK
+
+→ IDENTIFY OWNER
+
+346 – TAMPER
+
+→ REMOVE/ALTER
+
+347 – COUNTERFEIT
+
+→ COPY MARK
+<PARSED TEXT FOR PAGE: 437 / 748>
+348 – INSTRUMENT
+
+→ TOOL TO COPY
+
+349 – SELL
+
+→ SELL GOODS WITH FALSE MARK
+
+350 – RECEPTACLE
+
+→ FALSE MARK ON PACKAGE
+
+
+
+
+🔴 CCSU EXAM – MUST PREPARE
+Long-answer questions
+   1. Define a false document under §335 BNS. Explain its ingredients.
+   2. What is forgery under §336 BNS? Explain its essential ingredients.
+   3. Distinguish between making a false document and forgery.
+   4. Explain forgery of Court records and public registers under §337.
+   5. Explain forgery of valuable security and will under §338.
+   6. What is the offence of possessing a forged document under §339?
+   7. Explain using a forged document/electronic record as genuine under §340.
+   8. Distinguish possession of forged document from using forged document.
+   9. Explain falsification of accounts under §344.
+   10. What is a property mark? Explain §345.
+   11. Explain counterfeiting and tampering with property marks.
+   12. Explain §§345–350 relating to property marks.
+
+
+
+
+🔴 PROBLEM QUESTIONS
+Problem 1
+A signs B's name on a sale deed without B's authority.
+
+Answer: First examine §335 – making a false document. If the required fraudulent/dishonest
+purpose exists, §336 forgery may follow.
+
+
+
+
+Problem 2
+<PARSED TEXT FOR PAGE: 438 / 748>
+A changes the amount in a signed agreement from ₹1 lakh to ₹10 lakh without authority.
+
+Answer: §335(B) – material alteration of a document.
+
+If the required purpose exists → forgery under §336.
+
+
+
+
+Problem 3
+A creates a fake birth-register entry.
+
+Answer: §337, provided the statutory requirements relating to the public register are satisfied.
+
+
+
+
+Problem 4
+A creates a fake will transferring B's property to A.
+
+Answer: §338 may apply because forgery of a will is specifically covered.
+
+
+
+
+Problem 5
+A did not create the forged will but knowingly keeps it intending to produce it as genuine.
+
+Answer: §339.
+
+
+
+
+Problem 6
+A knowingly submits a forged certificate as genuine.
+
+Answer: §340.
+
+
+
+
+Problem 7
+A deliberately changes the company's electronic accounts to conceal ₹50 lakh misappropriation.
+
+Answer: §344 – falsification of accounts, subject to its statutory ingredients.
+
+
+
+
+Problem 8
+<PARSED TEXT FOR PAGE: 439 / 748>
+A removes the manufacturer's ownership mark from goods and replaces it with another person's
+mark.
+
+Answer: Consider §346 and/or the other applicable property-mark provisions depending on the
+precise conduct.
+
+
+
+
+🔴 TOP 5 QUESTIONS FOR EXAM
+If you are short on time, make these perfect:
+
+⭐⭐⭐⭐⭐ 1.
+Define false document and explain the ingredients of §335.
+
+⭐⭐⭐⭐⭐ 2.
+Define forgery and distinguish it from making a false document.
+
+⭐⭐⭐⭐⭐ 3.
+Distinguish §§337, 338, 339 and 340.
+
+⭐⭐⭐⭐⭐ 4.
+Forgery vs using forged document as genuine.
+
+⭐⭐⭐⭐ 5.
+Explain property marks under §§345–350.
+
+
+
+
+🧠OFFENCES
+   MASTER FORMULA FOR DOCUMENT
+
+Whenever you see a problem involving a fake document, ask:
+
+Q1. Was a false document/e-record made?
+
+→ §335
+
+Q2. Was it made with the required dishonest/fraudulent purpose?
+<PARSED TEXT FOR PAGE: 440 / 748>
+→ §336
+
+Q3. Is it a Court/public register?
+
+→ §337
+
+Q4. Is it a will/valuable security?
+
+→ §338
+
+Q5. Was it merely possessed knowingly?
+
+→ §339
+
+Q6. Was it knowingly used as genuine?
+
+→ §340
+
+Q7. Was a counterfeit seal/device involved?
+
+→ §§341–342
+
+Q8. Was a will/security fraudulently cancelled/destroyed?
+
+→ §343
+
+Q9. Were accounts falsified?
+
+→ §344
+<PARSED TEXT FOR PAGE: 441 / 748>
+CHAPTER XIX – OFFENCES RELATING TO
+CRIMINAL INTIMIDATION, INSULT,
+ANNOYANCE, DEFAMATION, ETC.
+BNS §§351–357
+🔴 MUST STUDY CHAPTER
+This is a relatively short chapter, but §351 (Criminal Intimidation), §352 (Intentional Insult),
+and §356 (Defamation) are highly examinable.
+
+The chapter is especially useful for definition-based questions, distinctions, ingredients
+and problem questions.
+
+
+
+
+I. QUICK SECTION MAP
+ BNS                                 Offence                                        IPC
+                                                                              Correspondence
+
+ 351    Criminal intimidation                                               §§503–506
+
+ 352    Intentional insult with intent to provoke breach of peace           §504
+
+ 353    Statements conducing to public mischief                             §505
+
+ 354    Act caused by inducing belief of divine displeasure                 §508
+
+ 355    Misconduct in public by drunken person                              §510
+
+ 356    Defamation                                                          §§499–500
+
+ 357    Breach of contract to attend on and supply wants of helpless        §491
+        person
+
+
+⚠️§356Exam   point: BNS §351 is the principal provision to learn for criminal intimidation, while
+        is the principal provision for defamation.
+<PARSED TEXT FOR PAGE: 442 / 748>
+PART I – CRIMINAL INTIMIDATION
+
+🔴INTIMIDATION
+    SECTION 351 – CRIMINAL
+
+🔄 IPC → BNS
+IPC §503 → BNS §351(1)
+ IPC §506 → BNS §351(2)
+
+Criminal intimidation is essentially:
+
+         Threat + intention to cause alarm / compel conduct
+
+
+
+
+⭐ Definition
+A person commits criminal intimidation when he threatens another with:
+
+     ●    injury to person;
+     ●    injury to reputation;
+     ●    injury to property; or
+     ●    injury to the person or reputation of someone in whom that person is interested,
+
+with the intention to:
+
+Either
+A. cause alarm to that person
+
+OR
+
+B. cause that person to do something which he is not legally bound to do
+
+OR
+
+C. cause that person to omit something which he is legally entitled to do
+
+where such act/omission is intended to avoid execution of the threat.
+<PARSED TEXT FOR PAGE: 443 / 748>
+⭐ Simple formula
+      THREAT + INTENTION + ALARM/COMPEL = CRIMINAL INTIMIDATION
+
+
+
+
+Example 1 – Threat to person
+A tells B:
+
+      "If you testify against me, I will kill you."
+
+If the statutory requirements are established:
+
+→ Criminal intimidation under §351.
+
+
+
+
+Example 2 – Threat to reputation
+A tells B:
+
+      "Give me ₹1 lakh or I will publish false allegations about you."
+
+→ Threat to reputation + intended coercion.
+
+This can constitute criminal intimidation, subject to the statutory requirements.
+
+
+
+
+Example 3 – Threat to property
+A tells B:
+
+      "Do not file the case or I will burn your shop."
+
+→ Threat to property.
+<PARSED TEXT FOR PAGE: 444 / 748>
+🔴necessary
+    Important: Actual physical harm is NOT
+
+The offence is based on the threat and required intention.
+
+The offender does not necessarily have to actually carry out the threat.
+
+⭐ Exam point
+       Criminal intimidation is complete when the statutory ingredients of threatening
+       conduct and the requisite intention are established; actual execution of the threat is
+       not necessary.
+
+
+
+
+⭐ What can be threatened?
+Remember:
+
+P-R-P
+P – Person
+R – Reputation
+P – Property
+
+And also:
+
+       Person/reputation of someone in whom the victim is interested.
+
+
+
+
+Punishment
+Under §351, ordinary criminal intimidation is punishable with:
+
+   ●    imprisonment up to 2 years, or
+   ●    fine, or
+   ●    both.
+
+🔴 Aggravated intimidation
+Where the threat is to cause:
+
+   ●    death;
+<PARSED TEXT FOR PAGE: 445 / 748>
+   ●   grievous hurt;
+   ●   destruction of property by fire;
+   ●   an offence punishable with death/life imprisonment/imprisonment up to 7 years;
+   ●   imputing unchastity to a woman,
+
+the punishment may extend to:
+
+   ●   7 years, or
+   ●   fine, or
+   ●   both.
+
+
+
+
+⭐ Anonymous threats
+The provision also deals with threats communicated anonymously or where the offender
+conceals his identity/address.
+
+Additional punishment
+There can be an additional punishment of:
+
+   ●   imprisonment up to 2 years,
+
+in addition to the punishment for criminal intimidation.
+
+
+
+
+⚖️ Important case law
+Manik Taneja v State of Karnataka
+The Supreme Court discussed the ingredients of criminal intimidation and emphasised that the
+threat must fall within the statutory requirements.
+
+A mere expression of anger or criticism does not automatically constitute criminal intimidation.
+
+
+
+
+⭐Intimidation
+    Threat vs Criminal
+<PARSED TEXT FOR PAGE: 446 / 748>
+This is important.
+
+Not every threat is automatically criminal intimidation.
+
+You need:
+
+   1. threat of specified injury;
+   2. required intention;
+   3. intention to cause alarm OR compel/omit legally relevant conduct.
+
+
+
+
+PART II – INTENTIONAL INSULT
+
+🔴WITHSECTION 352 – INTENTIONAL INSULT
+       INTENT TO PROVOKE BREACH OF
+PEACE
+🔄 IPC → BNS
+IPC §504 → BNS §352
+
+
+
+
+Definition
+The offence requires:
+
+   1. intentional insult;
+   2. the insult must be of such a nature that the offender intends or knows it is likely to
+      provoke;
+   3. the person so provoked;
+   4. to break public peace or commit another offence.
+
+
+
+
+⭐ Formula
+      INTENTIONAL INSULT + PROVOCATION + INTENDED/LIKELY BREACH OF
+      PEACE
+<PARSED TEXT FOR PAGE: 447 / 748>
+Example
+A deliberately abuses B in a public place intending to provoke B into attacking him.
+
+If the statutory ingredients are established:
+
+→ §352.
+
+
+
+
+⚠️ Important
+A person being merely rude, abusive or insulting is not automatically enough.
+
+The prosecution must establish the statutory connection with:
+
+        provocation → breach of peace/offence.
+
+
+
+
+⭐Intentional
+    Criminal Intimidation vs
+             Insult
+             Criminal Intimidation                              Intentional Insult
+
+ §351                                             §352
+
+ Threat is central                                Insult is central
+
+ Threat of injury                                 Intentional insult/provocation
+
+ Intention to cause alarm/compel conduct          Intention/knowledge regarding breach of
+                                                  peace
+
+ Threat may concern person, reputation or         Insult itself is the operative conduct
+ property
+
+
+Memory
+        351 = THREAT
+<PARSED TEXT FOR PAGE: 448 / 748>
+       352 = INSULT
+
+
+
+
+PART III – STATEMENTS CONDUCING TO
+PUBLIC MISCHIEF
+
+SECTION 353 – STATEMENTS
+CONDUCING TO PUBLIC MISCHIEF
+🔄 IPC → BNS
+Broadly corresponds to IPC §505.
+
+This provision addresses specified statements, rumours or reports capable of causing
+consequences affecting:
+
+   ●    public order;
+   ●    members of the public;
+   ●    armed forces;
+   ●    public tranquillity;
+   ●    communal relations.
+
+
+
+
+⭐ Key idea
+The offence is concerned not merely with whether a statement is false, but with its potential
+public consequences and the required mental element.
+
+
+
+
+Important categories
+The provision covers statements/reports/rumours which may:
+
+1. Cause members of the armed forces to mutiny or disregard duty
+
+2. Cause fear/alarm to members of the public
+<PARSED TEXT FOR PAGE: 449 / 748>
+Where such fear may induce a person to commit an offence against the State or against public
+tranquillity.
+
+3. Promote or are likely to promote enmity/hatred/ill-will between different
+groups
+The provision must be read together with the relevant statutory exceptions and explanations.
+
+
+
+
+⭐ Example
+A knowingly circulates a false rumour that a particular community is about to attack another
+community, intending to create panic and hostility.
+
+→ §353 may become relevant, depending upon the exact facts and statutory
+requirements.
+
+
+
+
+⚠️ Do not confuse with §196
+BNS §196
+Promoting enmity between groups.
+
+BNS §353
+Statements/rumours/reports producing the specified public-mischief consequences.
+
+They can overlap factually, but their statutory ingredients are different.
+
+
+
+
+PART IV – DIVINE DISPLEASURE
+
+SECTION 354 – ACT CAUSED BY
+INDUCING PERSON TO BELIEVE HE WILL
+<PARSED TEXT FOR PAGE: 450 / 748>
+BECOME OBJECT OF DIVINE
+DISPLEASURE
+🔄 IPC → BNS
+IPC §508 → BNS §354
+
+This is an unusual but examinable provision.
+
+
+
+
+Meaning
+A person commits the offence where he voluntarily causes another person to do or omit
+something by inducing that person to believe that:
+
+      he will become an object of divine displeasure
+
+if he does not do/omit the required act.
+
+
+
+
+Example
+A falsely tells B:
+
+      "If you refuse to perform this act, divine punishment will fall upon you."
+
+A uses the threat of supposed divine displeasure to compel B's conduct.
+
+If the statutory requirements are satisfied:
+
+→ §354.
+
+
+
+
+⭐ Important distinction
+This provision is not concerned with ordinary religious discussion.
+
+It is concerned with using belief in divine displeasure as a means of coercion.
+<PARSED TEXT FOR PAGE: 451 / 748>
+PART V – DRUNKEN MISCONDUCT
+
+SECTION 355 – MISCONDUCT IN PUBLIC
+BY A DRUNKEN PERSON
+🔄 IPC → BNS
+IPC §510 → BNS §355
+
+A person commits this offence when:
+
+   1. he is intoxicated;
+   2. appears in a public place;
+   3. behaves in a manner causing annoyance to another person.
+
+
+
+
+⭐ Three ingredients
+       DRUNK + PUBLIC PLACE + ANNOYANCE
+
+
+
+
+Example
+A becomes heavily intoxicated, enters a public street and behaves in a disorderly manner,
+causing annoyance to people nearby.
+
+→ §355 may apply.
+
+
+
+
+Punishment
+   ●   simple imprisonment up to 24 hours, or
+   ●   fine up to ₹1,000, or
+   ●   both.
+
+The court may also impose:
+<PARSED TEXT FOR PAGE: 452 / 748>
+   ●   community service.
+
+🔴punishment
+    Exam point: This is one of the BNS provisions where community service appears as a
+            option.
+
+
+
+
+PART VI – DEFAMATION
+
+🔴 SECTION 356 – DEFAMATION
+This is one of the most important provisions of Chapter XIX.
+
+🔄 IPC → BNS
+IPC §499 → BNS §356(1)
+ IPC §500 → BNS §356(2)
+
+
+
+
+⭐ Definition
+A person commits defamation when he:
+
+   ●   makes or publishes an imputation concerning any person;
+   ●   intending to harm, or knowing/reasonably believing it will harm, that person's reputation.
+
+The imputation may be made through:
+
+   ●   words;
+   ●   signs;
+   ●   visible representations;
+   ●   electronic means.
+
+
+
+
+⭐ Formula
+       IMPUTATION + PUBLICATION + REPUTATION + REQUIRED
+       INTENTION/KNOWLEDGE = DEFAMATION
+<PARSED TEXT FOR PAGE: 453 / 748>
+🔴 The four key concepts
+1. Imputation
+There must be an assertion/imputation concerning a person.
+
+It can relate to:
+
+    ●   conduct;
+    ●   character;
+    ●   profession;
+    ●   actions;
+    ●   other matters affecting reputation.
+
+
+
+
+2. Concerning a person
+The imputation must relate to an identifiable person.
+
+That person may be:
+
+    ●   an individual;
+    ●   a company;
+    ●   an association;
+    ●   collection of persons,
+
+subject to the statutory requirements.
+
+
+
+
+3. Intention/knowledge
+The accused must:
+
+    ●   intend to harm reputation; OR
+    ●   know that the imputation will harm reputation; OR
+    ●   have reason to believe it will harm reputation.
+
+
+
+
+4. Reputation
+The imputation must be legally capable of harming the person's reputation.
+<PARSED TEXT FOR PAGE: 454 / 748>
+⭐ What is reputation?
+The law protects reputation as a social estimation of a person.
+
+The relevant question is not simply:
+
+      "Did the person feel insulted?"
+
+The question is whether the imputation is capable of lowering the person's reputation in the
+legally relevant sense.
+
+
+
+
+⚖️ Important case law
+Subramanian Swamy v Union of India
+The Supreme Court upheld the constitutional validity of criminal defamation.
+
+Exam principle
+The right to reputation is recognised as an important aspect of the protection of individual
+dignity, while freedom of speech under Article 19(1)(a) is subject to constitutionally permitted
+restrictions.
+
+
+
+
+🔴 THE 10 EXCEPTIONS TO DEFAMATION
+This is extremely important for examinations.
+
+BNS §356 retains the traditional IPC structure of ten exceptions.
+
+
+
+
+EXCEPTION 1 – TRUTH FOR PUBLIC GOOD
