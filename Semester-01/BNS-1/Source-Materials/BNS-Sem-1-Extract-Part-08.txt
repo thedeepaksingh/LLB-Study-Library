@@ -1,0 +1,3000 @@
+   ●   causes evidence of an offence to disappear; or
+   ●   gives false information,
+
+with the intention of screening the offender from legal punishment.
+
+🔄 IPC
+Broadly corresponds to IPC §201.
+
+
+
+
+PART IX – RELIGION
+
+🟠actsQ61. Explain deliberate and malicious
+      intended to outrage religious
+feelings.
+BNS §299
+Essential requirements include:
+
+   ●   deliberate conduct;
+   ●   malicious intention;
+   ●   insult/attempt to insult religion or religious beliefs of a class;
+   ●   intention to outrage religious feelings.
+
+⚠️ Important
+Every religious criticism or insult does not automatically constitute this offence.
+
+⚖️ Cases
+   ●   Ramji Lal Modi v State of U.P.
+   ●   Amish Devgan v Union of India
+<PARSED TEXT FOR PAGE: 535 / 748>
+🟠 Q62. Distinguish BNS §§299 and 302.
+             §299                             §302
+
+ Religious feelings of a       Religious feelings of an individual
+ class
+ Deliberate + malicious        Deliberate intention
+
+ Religion/religious beliefs    Words/sounds/gestures/object
+
+ Former IPC §295A              Former IPC §298
+
+
+
+
+PART X – DOCUMENTS & FORGERY
+
+🔴 Q63. What is a False Document?
+BNS §335
+The provision covers situations such as:
+
+   1. Making/signing/executing a document/electronic record as if made by another person.
+   2. Material alteration without authority.
+   3. Causing another person to execute/alter a document through deception or incapacity.
+
+
+
+
+🔴 Q64. Define Forgery.
+BNS §336
+Forgery involves making a false document/electronic record with the requisite
+fraudulent/dishonest purpose.
+
+⭐ Purposes include
+   ●   causing injury;
+   ●   supporting a claim;
+   ●   causing property to be delivered;
+<PARSED TEXT FOR PAGE: 536 / 748>
+   ●     entering into a contract;
+   ●     committing fraud.
+
+
+
+
+🔴Forgery.
+    Q65. Distinguish False Document and
+
+          False Document                           Forgery
+
+ §335                                §336
+
+ Defines making false                Criminal purpose makes it forgery
+ document
+ Foundation                          Offence based upon false
+                                     document
+
+Memory
+        335 = Make false
+
+        336 = Forge
+
+
+
+
+🔴as genuine.
+    Q66. Explain using a forged document
+
+BNS §340
+A person who:
+
+   ●     fraudulently/dishonestly uses a forged document/electronic record;
+   ●     knowing or having reason to believe it is forged,
+
+commits the offence.
+
+Example
+A knowingly submits a forged degree certificate.
+
+→ §340.
+<PARSED TEXT FOR PAGE: 537 / 748>
+PART XI – DEFAMATION & INTIMIDATION
+
+🔴 Q67. Define Criminal Intimidation.
+BNS §351
+Essential ingredients:
+
+   1. Threat.
+   2. Threat of injury to:
+          ○ person;
+          ○ reputation;
+          ○ property;
+          ○ person/reputation of someone in whom victim is interested.
+   3. Intention to cause alarm or compel/omit conduct as specified.
+
+Formula
+        Threat + Intention + Alarm/Compulsion
+
+
+
+
+🔴andQ68. Distinguish Criminal Intimidation
+     Extortion.
+           Intimidation                   Extortion
+
+ §351                           §308
+
+ Threat is central              Threat + dishonest
+                                inducement
+ Alarm/compulsion               Delivery of property/security
+
+ Property delivery not          Property delivery essential
+ essential
+
+
+
+
+🔴 Q69. Define Defamation.
+BNS §356
+Defamation involves making or publishing an imputation concerning a person with:
+<PARSED TEXT FOR PAGE: 538 / 748>
+   ●    intention to harm reputation; or
+   ●    knowledge/reason to believe it will harm reputation.
+
+It may be through:
+
+   ●    words;
+   ●    signs;
+   ●    visible representations;
+   ●    electronic means.
+
+
+
+
+🔴defamation.
+    Q70. Explain the ten exceptions to
+
+This is a must-learn answer.
+
+   1. Truth for public good.
+   2. Public conduct of public servants.
+   3. Conduct relating to public question.
+   4. Report of Court proceedings.
+   5. Merits of decided case and conduct of parties/witnesses.
+   6. Merits of public performance.
+   7. Censure by lawful authority.
+   8. Accusation to authorised person.
+   9. Imputation for protection of interest.
+   10. Caution for good faith/public interest.
+
+⚠️ Most common trap
+       Truth alone is not automatically sufficient under Exception 1; public good is
+       also required.
+
+⚖️ Case
+Subramanian Swamy v Union of India
+
+
+
+
+🔴Criminal
+    Q71. Distinguish Defamation and
+          Intimidation.
+  Defamation           Criminal Intimidation
+<PARSED TEXT FOR PAGE: 539 / 748>
+ §356            §351
+
+ Imputation      Threat
+
+ Reputation      Alarm/compulsion
+
+ Ten             Different statutory framework
+ exceptions
+
+
+
+
+PART XII – RAPID-FIRE SHORT
+QUESTIONS
+These are the questions I would prepare for the short-answer portion.
+
+🔴 DEFINITIONS
+   1. What is crime?
+   2. What is mens rea?
+   3. What is actus reus?
+   4. What is common intention?
+   5. What is common object?
+   6. What is abetment?
+   7. What is criminal conspiracy?
+   8. What is attempt?
+   9. What is mistake of fact?
+   10. What is good faith?
+   11. What is private defence?
+   12. What is culpable homicide?
+   13. What is murder?
+   14. What is hurt?
+   15. What is grievous hurt?
+   16. What is assault?
+   17. What is criminal force?
+   18. What is wrongful restraint?
+   19. What is wrongful confinement?
+   20. What is kidnapping?
+   21. What is abduction?
+   22. What is theft?
+   23. What is snatching?
+   24. What is extortion?
+   25. What is robbery?
+   26. What is dacoity?
+   27. What is misappropriation?
+   28. What is criminal breach of trust?
+   29. What is cheating?
+   30. What is unlawful assembly?
+<PARSED TEXT FOR PAGE: 540 / 748>
+   31. What is rioting?
+   32. What is affray?
+   33. What is false evidence?
+   34. What is forgery?
+   35. What is criminal intimidation?
+   36. What is defamation?
+
+
+
+
+🔥QUESTIONS
+   HIGHEST-PROBABILITY DISTINGUISH
+
+These deserve special preparation.
+
+⭐⭐⭐⭐⭐
+   1. Culpable Homicide vs Murder
+   2. Common Intention vs Common Object
+   3. Theft vs Extortion
+   4. Theft vs Robbery
+   5. Robbery vs Dacoity
+   6. Theft vs Snatching
+   7. Criminal Misappropriation vs Criminal Breach of Trust
+   8. Cheating vs Criminal Breach of Trust
+   9. Wrongful Restraint vs Wrongful Confinement
+   10. Assault vs Criminal Force
+   11. Kidnapping vs Abduction
+   12. Preparation vs Attempt
+   13. Abetment vs Criminal Conspiracy
+   14. False Document vs Forgery
+   15. Forgery vs Using Forged Document
+   16. Criminal Intimidation vs Extortion
+   17. Defamation vs Criminal Intimidation
+   18. Unlawful Assembly vs Rioting
+   19. Rioting vs Affray
+   20. Mistake of Fact vs Mistake of Law
+
+
+
+
+🔥QUESTIONS
+   HIGHEST-PROBABILITY LONG
+
+If I had to rank the first 20 topics you should master, I would put them in this order:
+<PARSED TEXT FOR PAGE: 541 / 748>
+ Rank                       Question                           Probability
+
+ 1       🔴 Culpable Homicide vs Murder                  ⭐⭐⭐⭐⭐
+ 2       🔴 Right of Private Defence                     ⭐⭐⭐⭐⭐
+ 3       🔴 Theft, Extortion, Robbery & Dacoity          ⭐⭐⭐⭐⭐
+ 4       🔴 Common Intention vs Common Object            ⭐⭐⭐⭐⭐
+ 5       🔴 Stages of Crime                              ⭐⭐⭐⭐⭐
+ 6       🔴 Abetment                                     ⭐⭐⭐⭐⭐
+ 7       🔴 Mens Rea                                     ⭐⭐⭐⭐⭐
+ 8       🔴 General Exceptions                           ⭐⭐⭐⭐⭐
+ 9       🔴 Criminal Breach of Trust vs Misappropriation ⭐⭐⭐⭐⭐
+ 10      🔴 Cheating                                     ⭐⭐⭐⭐⭐
+ 11      🔴 Rape and offences against women              ⭐⭐⭐⭐⭐
+ 12      🔴 Hurt & Grievous Hurt                         ⭐⭐⭐⭐
+ 13      🔴 Wrongful Restraint & Confinement             ⭐⭐⭐⭐
+ 14      🔴 Unlawful Assembly & Rioting                  ⭐⭐⭐⭐
+ 15      🔴 BNS §152                                     ⭐⭐⭐⭐
+ 16      🔴 Defamation                                   ⭐⭐⭐⭐
+ 17      🔴 Criminal Intimidation                        ⭐⭐⭐⭐
+ 18      🔴 Forgery                                      ⭐⭐⭐⭐
+ 19      🔴 Kidnapping & Abduction                       ⭐⭐⭐⭐
+ 20      🔴 Attempt                                      ⭐⭐⭐⭐
+This ranking is based on the CCSU syllabus + recurring Law of Crimes themes + the
+available CCSU/BNS paper evidence, rather than claiming certainty about the next paper. The
+updated CCSU syllabus itself specifically highlights the topics around culpable homicide/murder,
+hurt/grievous hurt, kidnapping/abduction, restraint/confinement, assault/criminal force,
+<PARSED TEXT FOR PAGE: 542 / 748>
+theft/extortion/robbery/dacoity, misappropriation/breach of trust/cheating, §152, unlawful
+assembly/rioting/affray, and rape/sexual harassment/voyeurism/stalking/dowry death.
+
+
+
+
+🔥MEMORISE
+   MOST IMPORTANT BNS SECTIONS TO
+
+You do not need to memorise all 358 sections equally.
+
+For CCSU K-1006, start with these:
+
+General Principles
+§3(5) – Common intention
+§4 – Punishments
+§5–13 – Punishment rules
+§14–44 – General Exceptions
+§45–48 – Abetment
+§61 – Criminal conspiracy
+§62 – Attempt
+
+Human Body
+§100 – Culpable homicide
+§101 – Murder
+§102 – Transferred malice
+§103 – Punishment for murder
+§105 – Culpable homicide not amounting to murder
+§106 – Death by negligence
+§109 – Attempt to murder
+§114 – Hurt
+§116 – Grievous hurt
+§126 – Wrongful restraint
+§127 – Wrongful confinement
+§129–130 – Criminal force/assault
+§137 – Kidnapping
+§138 – Abduction
+
+Women & Child
+§63 – Rape
+§64 – Punishment for rape
+§69 – Sexual intercourse by deceitful means
+§70 – Gang rape
+§74 – Outraging modesty
+§75 – Sexual harassment
+<PARSED TEXT FOR PAGE: 543 / 748>
+§77 – Voyeurism
+§78 – Stalking
+§80 – Dowry death
+§85–86 – Cruelty
+§87 – Kidnapping/abduction to compel marriage
+
+Property
+§303 – Theft
+§304 – Snatching
+§308 – Extortion
+§309 – Robbery
+§310 – Dacoity
+§314 – Misappropriation
+§316 – Criminal breach of trust
+§317 – Stolen property
+§318 – Cheating
+§329 – Criminal trespass
+
+State/Public Tranquillity
+§147 – Waging war
+§152 – Sovereignty, unity and integrity
+§189 – Unlawful assembly
+§190 – Common-object liability
+§191 – Rioting
+§194 – Affray
+
+Documents
+§335 – False document
+§336 – Forgery
+§337 – Court/public record forgery
+§338 – Valuable security/will
+§340 – Using forged document
+
+Reputation
+§351 – Criminal intimidation
+§352 – Intentional insult
+§356 – Defamation
+
+
+
+
+⚠️OURONEPREVIOUS
+          IMPORTANT CORRECTION TO
+                 NOTES
+<PARSED TEXT FOR PAGE: 544 / 748>
+Since we're now building an exam bank rather than just study notes, I want to be stricter
+about statutory accuracy.
+
+Some of the earlier chapter-by-chapter material used phrases such as "broadly corresponds
+to IPC" for provisions that have been reorganised by BNS. For this question bank, I will use:
+
+        Exact BNS section + exact legal proposition + IPC reference only where
+        useful
+
+rather than assuming every BNS provision is a perfect one-to-one IPC replacement.
+
+That is particularly important for:
+
+    ●    §69
+    ●    §103(2)
+    ●    §106
+    ●    §111–113
+    ●    §152
+    ●    §304
+    ●    §318
+    ●    §335–340
+    ●    §351
+    ●    §356.
+
+
+
+
+🎯 HOW WE SHOULD FINISH THIS
+This is not yet the entire answer bank—it is the master high-probability index + core
+answers.
+
+Because you said "it should include everything", I recommend we build the remaining bank
+systematically rather than giving you a superficial 300-question list.
+<PARSED TEXT FOR PAGE: 545 / 748>
+CCSU LL.B. SEMESTER I – K-1006
+
+LAW OF CRIMES – I
+QUESTION–ANSWER BANK – PART 2
+5-MARK / SHORT-ANSWER BANK
+This part is designed for short-note, definition, "explain briefly", and 5-mark questions. It
+covers the syllabus broadly so that the short-answer portion does not leave gaps.
+
+
+
+
+UNIT I – GENERAL PRINCIPLES
+🔴 Q1. What is Mens Rea?
+Answer:
+Mens rea means the guilty mind accompanying the commission of a criminal act. Depending
+upon the offence, it may take the form of intention, knowledge, dishonesty, fraud, recklessness
+or negligence.
+
+Mens rea is a fundamental principle of criminal liability because a person should ordinarily not
+be punished merely for an innocent act. However, the requirement depends upon the wording
+and nature of the particular offence.
+
+⭐ Exam line:
+       Mens rea refers to the legally required mental element of an offence.
+
+
+
+
+🔴 Q2. What is Actus Reus?
+Answer:
+Actus reus means the physical element of a crime. It may consist of:
+
+   ●    a positive act;
+   ●    an omission where there is a legal duty to act; or
+   ●    a prohibited state of affairs,
+<PARSED TEXT FOR PAGE: 546 / 748>
+depending upon the offence.
+
+For criminal liability, the actus reus must satisfy the requirements of the particular statutory
+offence.
+
+⭐ Formula:
+         Actus Reus = Physical element of crime
+
+
+
+
+🔴sit rea.
+     Q3. Explain the maxim Actus non facit reum nisi mens
+
+Answer:
+The maxim means:
+
+         "An act does not make a person guilty unless the mind is also guilty."
+
+It expresses the general principle that criminal liability ordinarily requires both:
+
+    ●     a prohibited act; and
+    ●     the required guilty mental state.
+
+However, the principle is subject to statutory exceptions.
+
+
+
+
+🔴 Q4. What is Common Intention?
+BNS §3(5)
+Common intention exists where several persons participate in a criminal act in furtherance of a
+common intention of all.
+
+Each participant may be liable as if he had done the act himself, subject to the statutory
+requirements.
+
+Essentials
+    1.    Two or more persons.
+    2.    Common intention.
+    3.    Participation.
+    4.    Act in furtherance of common intention.
+
+⚖️ Case
+<PARSED TEXT FOR PAGE: 547 / 748>
+Mahbub Shah v Emperor
+
+
+
+
+🔴 Q5. What is Common Object?
+BNS §§189–190
+Common object is the shared object of an unlawful assembly of five or more persons.
+
+Members can incur constructive liability for offences committed in prosecution of the common
+object, or which they knew were likely to be committed, subject to §190.
+
+⭐ Key point
+       Common object → 5 or more persons
+
+
+
+
+🔴Common
+   Q6. Distinguish Common Intention and
+         Object.
+    Common Intention                           Common Object
+
+ §3(5)                           §§189–190
+
+ Generally 2+ persons            5+ persons
+
+ Common intention                Common object
+
+ Participation relevant          Membership of unlawful assembly relevant
+
+ Criminal act in furtherance     Offence in prosecution/known likelihood
+
+
+
+
+🔴 Q7. What is an unlawful omission?
+An omission becomes criminal where:
+
+   ●     the law imposes a legal duty to act; and
+   ●     failure to act satisfies the ingredients of the offence.
+<PARSED TEXT FOR PAGE: 548 / 748>
+Example
+A person legally responsible for providing necessary care deliberately fails to perform a legally
+enforceable duty in circumstances creating criminal liability.
+
+⭐ Point
+        Every failure to act is not automatically a crime.
+
+
+
+
+🔴 Q8. What are the stages of crime?
+Four stages:
+
+   1.    Intention
+   2.    Preparation
+   3.    Attempt
+   4.    Commission
+
+Formula
+
+        I→P→A→C
+
+Mere intention is generally not punishable.
+
+Preparation is generally not punishable unless specifically criminalised.
+
+Attempt is ordinarily punishable.
+
+Commission completes the offence.
+
+
+
+
+🔴 Q9. What is Preparation?
+Preparation means:
+
+        Arranging the means or measures necessary to commit a crime.
+
+Example
+A purchases tools intending to break into a house.
+
+Ordinarily, this is preparation and not yet attempt.
+<PARSED TEXT FOR PAGE: 549 / 748>
+🔴 Q10. What is Attempt?
+Attempt begins when a person:
+
+   ●    has the required criminal intention; and
+   ●    performs an act sufficiently connected with the commission of the offence,
+
+but the offence is not completed.
+
+BNS §62
+Section 62 provides the general punishment framework for attempts where no specific provision
+exists.
+
+⚖️ Cases
+   ●    Abhayanand Mishra v State of Bihar
+   ●    State of Maharashtra v Mohd. Yakub
+
+
+
+
+🔴 Q11. What is Abetment?
+BNS §45
+A person abets an act by:
+
+   1. Instigating its commission;
+   2. engaging in a legally relevant conspiracy for doing it; or
+   3. intentionally aiding its commission.
+
+
+
+
+🔴 Q12. What is Instigation?
+Instigation means:
+
+       Provoking, inciting, urging or encouraging another person to do an act.
+
+The exact conduct must be assessed according to the statutory requirements.
+
+Mere presence or ordinary words of advice do not automatically amount to instigation.
+<PARSED TEXT FOR PAGE: 550 / 748>
+🔴 Q13. What is Criminal Conspiracy?
+BNS §61
+Criminal conspiracy involves an agreement between two or more persons to:
+
+   ●   do an illegal act; or
+   ●   do a legal act by illegal means,
+
+subject to the statutory requirements.
+
+⭐ Core element
+       Agreement
+
+
+
+
+🔴Abetment
+   Q14. What is the difference between
+          and Conspiracy?
+Abetment is a broader concept consisting of:
+
+   ●   instigation;
+   ●   conspiracy; or
+   ●   intentional aid.
+
+Criminal conspiracy under §61 is an independent offence centred upon an unlawful
+agreement.
+
+
+
+
+UNIT II – GENERAL EXCEPTIONS
+
+🔴 Q15. What is Mistake of Fact?
+A mistake of fact is an incorrect belief concerning circumstances or facts.
+
+Under the specified General Exceptions, an honest mistake of fact may protect a person where
+the statutory requirements are fulfilled.
+<PARSED TEXT FOR PAGE: 551 / 748>
+Example
+A arrests B believing, on reasonable factual grounds, that B is the person whom he is legally
+authorised to arrest.
+
+
+
+
+🔴 Q16. Is Mistake of Law a defence?
+Generally:
+
+       No.
+
+The principle is expressed through:
+
+       Ignorantia juris non excusat
+
+meaning ignorance of law is generally no excuse.
+
+
+
+
+🔴 Q17. What is the defence of Accident?
+BNS §18
+An accidental act may be protected where the statutory requirements are satisfied, including
+circumstances showing:
+
+   ●    absence of criminal intention/knowledge;
+   ●    lawful conduct;
+   ●    lawful means;
+   ●    proper care;
+   ●    accident/misfortune.
+
+
+
+
+🔴 Q18. What is Necessity?
+BNS §19
+Necessity is a defence where conduct is undertaken in circumstances covered by the provision
+to prevent greater harm.
+
+Example
+<PARSED TEXT FOR PAGE: 552 / 748>
+Breaking a door to rescue someone trapped inside a burning building.
+
+
+
+
+🔴responsibility
+    Q19. What is the age of criminal
+                under BNS?
+BNS §§20–21
+
+Below 7 years
+Absolute protection.
+
+7–12 years
+Protection where the child has not attained sufficient maturity of understanding to judge the
+nature and consequences of the conduct.
+
+⭐ Remember
+       <7 = absolute
+
+       7–12 = maturity test
+
+
+
+
+🔴Unsoundness
+   Q20. What is the defence of
+              of Mind?
+BNS §22
+A person may be protected if, because of unsoundness of mind, at the time of the act he was
+incapable of:
+
+   ●    knowing the nature of the act; or
+   ●    knowing that what he was doing was wrong or contrary to law.
+
+⚖️ Case
+R v McNaghten
+<PARSED TEXT FOR PAGE: 553 / 748>
+🔴 Q21. What is Voluntary Intoxication?
+Voluntary intoxication occurs when a person knowingly and willingly consumes an intoxicating
+substance.
+
+It does not ordinarily provide a complete defence merely because the person became
+intoxicated.
+
+The statutory provisions concerning intoxication and knowledge must be applied to the
+particular offence.
+
+
+
+
+🔴 Q22. What is Involuntary Intoxication?
+Where intoxication occurs:
+
+   ●    without knowledge; or
+   ●    against the person's will,
+
+the defence may apply if the statutory conditions are satisfied.
+
+⭐ Difference
+       Involuntary intoxication → possible defence
+
+       Voluntary intoxication → generally not complete defence
+
+
+
+
+🔴General
+   Q23. What is Consent under the
+         Exceptions?
+Consent is relevant to specified offences and circumstances.
+
+The validity of consent depends upon:
+
+   ●    age;
+   ●    capacity;
+   ●    voluntariness;
+   ●    absence of specified fear/misconception;
+   ●    statutory limitations.
+<PARSED TEXT FOR PAGE: 554 / 748>
+Consent obtained through legally recognised coercion, misconception or incapacity may not
+constitute valid consent.
+
+
+
+
+🔴Defence?
+    Q24. What is the Right of Private
+
+BNS §§34–44
+It is the right to defend:
+
+    ●    one's own body;
+    ●    another person's body;
+    ●    one's own property;
+    ●    another person's property,
+
+against specified unlawful acts, subject to statutory restrictions.
+
+⭐ Principle
+        Private defence is defensive, not retaliatory.
+
+
+
+
+🔴causing
+    Q25. Can private defence extend to
+         death?
+Yes, but only in the circumstances specifically recognised by law.
+
+These include specified situations involving apprehension of serious harm such as:
+
+    ●    death;
+    ●    grievous hurt;
+    ●    rape;
+    ●    kidnapping/abduction;
+    ●    certain forms of wrongful confinement;
+    ●    acid attack;
+    ●    specified serious property offences.
+<PARSED TEXT FOR PAGE: 555 / 748>
+UNIT III – PUNISHMENTS
+
+🔴BNS?Q26. What are the punishments under
+BNS §4
+Seven principal punishments:
+
+   1.   Death
+   2.   Imprisonment for life
+   3.   Rigorous imprisonment
+   4.   Simple imprisonment
+   5.   Forfeiture of property
+   6.   Fine
+   7.   Community service
+
+🔴 BNS CHANGE
+Community service is expressly recognised.
+
+
+
+
+🔴 Q27. What is Rigorous Imprisonment?
+Rigorous imprisonment means imprisonment involving hard labour.
+
+It is distinct from simple imprisonment.
+
+
+
+
+🔴 Q28. What is Simple Imprisonment?
+Simple imprisonment means imprisonment without hard labour.
+
+The distinction between rigorous and simple imprisonment is relevant where the statute gives
+the court the choice or prescribes a particular type.
+<PARSED TEXT FOR PAGE: 556 / 748>
+🔴 Q29. What is Imprisonment for Life?
+Life imprisonment means imprisonment for the remainder of the offender's natural life,
+subject to lawful remission/commutation.
+
+⚠️ Important
+       Life imprisonment is not automatically 14 years.
+
+
+
+
+UNIT IV – OFFENCES AGAINST HUMAN
+BODY
+
+🔴 Q30. Define Culpable Homicide.
+BNS §100
+Causing death with:
+
+   ●    intention to cause death;
+   ●    intention to cause bodily injury likely to cause death; or
+   ●    knowledge that the act is likely to cause death.
+
+
+
+
+🔴 Q31. Define Murder.
+BNS §101
+Culpable homicide becomes murder when it falls within the statutory clauses and is not
+protected by one of the specified exceptions.
+
+
+
+
+🔴Murder?
+   Q32. What are the four clauses of
+
+Murder covers, broadly:
+<PARSED TEXT FOR PAGE: 557 / 748>
+    1.   Intention to cause death.
+    2.   Intention to cause bodily injury known to be likely to cause death.
+    3.   Intention to cause bodily injury sufficient in the ordinary course of nature to cause death.
+    4.   Knowledge that the act is so imminently dangerous that it will probably cause death,
+         without justification for taking the risk.
+
+
+
+
+🔴Murder.
+   Q33. Name the five exceptions to
+
+    1.   Grave and sudden provocation.
+    2.   Exceeding private defence in good faith.
+    3.   Public servant exceeding powers in good faith.
+    4.   Sudden fight.
+    5.   Consent by person above the prescribed age.
+
+
+
+
+🔴 Q34. What is Transferred Malice?
+BNS §102
+Transferred malice applies where a person intends to cause death/injury to one person but
+instead causes the prohibited result to another.
+
+Example
+A shoots at B intending to kill B, but kills C.
+
+The doctrine becomes relevant to determining criminal liability.
+
+
+
+
+🔴 Q35. What is Attempt to Murder?
+BNS §109
+A person commits attempt to murder where:
+
+    ●    there is the required intention/knowledge; and
+    ●    an act is done towards causing death,
+<PARSED TEXT FOR PAGE: 558 / 748>
+but death does not occur.
+
+⭐ Key point
+Actual death is unnecessary.
+
+
+
+
+🔴amounting
+   Q36. What is Culpable Homicide not
+           to Murder?
+BNS §105
+It is culpable homicide where the case falls short of murder because:
+
+   ●    the statutory murder requirements are not satisfied; or
+   ●    one of the exceptions to murder applies.
+
+
+
+
+🔴 Q37. What is Death by Negligence?
+BNS §106
+Death caused by a rash or negligent act, where it does not amount to culpable homicide, may
+constitute the offence under §106.
+
+⭐ Key point
+       Criminal negligence is more than a mere civil mistake.
+
+
+
+
+🔴 Q38. What is Hurt?
+BNS §114
+Hurt includes:
+
+   ●    bodily pain;
+   ●    disease;
+   ●    infirmity.
+<PARSED TEXT FOR PAGE: 559 / 748>
+🔴 Q39. What is Grievous Hurt?
+BNS §116
+Grievous hurt consists of the specific categories of serious injury prescribed by law.
+
+The traditional categories include:
+
+   ●    emasculation;
+   ●    permanent loss of sight;
+   ●    permanent loss of hearing;
+   ●    loss/impairment of member or joint;
+   ●    permanent disfigurement;
+   ●    fracture/dislocation;
+   ●    life-endangering hurt;
+   ●    statutory prolonged severe pain/incapacity.
+
+
+
+
+🔴 Q40. What is Assault?
+BNS §130
+Assault involves a gesture or preparation causing a person to apprehend that criminal force is
+about to be used.
+
+⭐ Formula
+       Assault = apprehension of imminent criminal force
+
+
+
+
+🔴 Q41. What is Criminal Force?
+Criminal force involves intentional use of force without consent in circumstances covered by the
+provision, particularly where it is used to commit an offence or cause injury, fear or annoyance.
+
+⭐ Formula
+       Criminal force = actual use of force
+<PARSED TEXT FOR PAGE: 560 / 748>
+🔴Force.
+    Q42. Distinguish Assault and Criminal
+
+      Assault = apprehension
+
+      Criminal force = actual force
+
+
+
+
+🔴 Q43. What is Wrongful Restraint?
+BNS §126
+Voluntarily obstructing a person so as to prevent him from proceeding in a direction in which he
+has a right to proceed.
+
+Example
+A blocks B's path so B cannot proceed along a public road.
+
+
+
+
+🔴 Q44. What is Wrongful Confinement?
+BNS §127
+Wrongful confinement is wrongful restraint within circumscribed limits.
+
+Example
+A locks B inside a room and prevents B from leaving.
+
+
+
+
+🔴andQ45. Distinguish Wrongful Restraint
+     Wrongful Confinement.
+      Restraint = prevent movement in a particular direction.
+
+      Confinement = restrict movement within boundaries.
+<PARSED TEXT FOR PAGE: 561 / 748>
+🔴 Q46. What is Kidnapping?
+BNS §137
+Kidnapping includes:
+
+   ●     kidnapping from India; and
+   ●     kidnapping from lawful guardianship.
+
+
+
+
+🔴 Q47. What is Abduction?
+BNS §138
+Abduction occurs when a person is:
+
+        compelled by force or induced by deceitful means to go from any place.
+
+
+
+
+🔴Abduction.
+   Q48. Distinguish Kidnapping and
+
+                 Kidnapping                             Abduction
+
+ §137                                           §138
+
+ Specific statutory forms                       Force/deceit
+
+ Age/guardianship relevant in one form          Applies to a person
+                                                generally
+ Usually complete upon taking/enticement        Continuing nature
+
+
+
+
+UNIT V – WOMEN & CHILDREN
+<PARSED TEXT FOR PAGE: 562 / 748>
+🔴 Q49. What is Rape?
+BNS §63
+Rape consists of the specified sexual acts committed under the circumstances enumerated by
+the section, including circumstances involving:
+
+   ●    absence of valid consent;
+   ●    coercion;
+   ●    incapacity;
+   ●    specified age;
+   ●    deception where statutorily covered.
+
+
+
+
+🔴Offences?
+    Q50. What is Consent in Sexual
+
+Consent means:
+
+       free and voluntary agreement to the sexual act.
+
+Mere submission or absence of physical resistance does not automatically establish consent.
+
+
+
+
+🔴 Q51. What is Sexual Harassment?
+BNS §75
+Specified forms include:
+
+   ●    unwelcome physical contact/advances;
+   ●    demand/request for sexual favours;
+   ●    showing pornography against the woman's will;
+   ●    sexually coloured remarks.
+
+
+
+
+🔴 Q52. What is Voyeurism?
+BNS §77
+<PARSED TEXT FOR PAGE: 563 / 748>
+Voyeurism concerns:
+
+   ●   watching;
+   ●   capturing an image; or
+   ●   disseminating an image
+
+of a woman engaged in a private act in the circumstances specified by law.
+
+
+
+
+🔴 Q53. What is Stalking?
+BNS §78
+Stalking includes repeatedly:
+
+   ●   following a woman;
+   ●   attempting to contact her;
+
+despite a clear indication of disinterest, subject to statutory exceptions.
+
+It can also cover monitoring a woman's use of electronic communication/internet under the
+provision.
+
+
+
+
+🔴 Q54. What is Dowry Death?
+BNS §80
+Where a woman dies:
+
+   ●   by burns/bodily injury or otherwise than under normal circumstances;
+   ●   within seven years of marriage;
+   ●   and it is shown that soon before death she suffered cruelty/harassment;
+   ●   in connection with a demand for dowry,
+
+the statutory offence of dowry death may arise.
+
+
+
+
+🔴Relatives?
+    Q55. What is Cruelty by Husband or
+<PARSED TEXT FOR PAGE: 564 / 748>
+BNS §§85–86
+Cruelty includes conduct likely to:
+
+   ●    drive a woman to suicide;
+   ●    cause grave injury/danger to life, limb or health;
+
+and harassment relating to unlawful demands for property or valuable security.
+
+
+
+
+UNIT VI – PROPERTY OFFENCES
+
+🔴 Q56. Define Theft.
+BNS §303
+Theft requires:
+
+   1.   Dishonest intention.
+   2.   Movable property.
+   3.   Property in another's possession.
+   4.   Absence of consent.
+   5.   Movement of property.
+
+Memory
+        D+M+P+C+M
+
+
+
+
+🔴 Q57. What is Snatching?
+BNS §304
+Snatching is theft involving the:
+
+   ●    sudden;
+   ●    quick; or
+   ●    forcible
+
+seizure/grabbing/taking away of movable property from a person or his possession.
+
+⭐ BNS development
+<PARSED TEXT FOR PAGE: 565 / 748>
+Snatching is separately recognised.
+
+
+
+
+🔴 Q58. What is Extortion?
+BNS §308
+Extortion involves:
+
+      Fear of injury + dishonest inducement + delivery of property/valuable
+      security.
+
+
+
+
+🔴 Q59. What is Robbery?
+BNS §309
+Robbery is an aggravated form of theft or extortion.
+
+Formula
+      Theft + immediate violence/fear = Robbery
+
+or
+
+      Extortion + instant fear + immediate delivery = Robbery
+
+
+
+
+🔴 Q60. What is Dacoity?
+BNS §310
+Dacoity occurs where:
+
+      Five or more persons conjointly commit or attempt robbery.
+
+⭐ Magic number
+      5
+<PARSED TEXT FOR PAGE: 566 / 748>
+🔴 Q61. Define Criminal Misappropriation.
+BNS §314
+Dishonestly:
+
+    ●    misappropriating; or
+    ●    converting to one's own use
+
+movable property.
+
+
+
+
+🔴 Q62. Define Criminal Breach of Trust.
+BNS §316
+It requires:
+
+    1. Entrustment/dominion over property.
+    2. Dishonest misappropriation/conversion/use/disposal.
+    3. Contrary to law or contract.
+
+Formula
+        Entrustment + Dishonest Conversion
+
+
+
+
+🔴 Q63. What is Stolen Property?
+BNS §317
+Property derived from offences such as:
+
+    ●    theft;
+    ●    extortion;
+    ●    robbery;
+    ●    dacoity;
+    ●    criminal misappropriation;
+    ●    criminal breach of trust
+<PARSED TEXT FOR PAGE: 567 / 748>
+may constitute stolen property within the statutory definition.
+
+
+
+
+🔴 Q64. Define Cheating.
+BNS §318
+Cheating involves:
+
+   ●   deception;
+   ●   fraudulent/dishonest inducement;
+   ●   delivery/retention of property or specified harmful conduct.
+
+⭐ Key principle
+Dishonest intention at the relevant initial stage is critical in distinguishing cheating from a
+subsequent mere breach of contract.
+
+
+
+
+🔴 Q65. What is Cheating by Personation?
+BNS §319
+Cheating by personation occurs where a person cheats by pretending to be:
+
+   ●   another person;
+   ●   some other person;
+   ●   a real or imaginary person,
+
+or substituting one person for another.
+
+
+
+
+UNIT VII – PUBLIC TRANQUILLITY
+
+🔴 Q66. What is Unlawful Assembly?
+BNS §189
+<PARSED TEXT FOR PAGE: 568 / 748>
+An assembly of five or more persons having one of the legally specified common objects is an
+unlawful assembly.
+
+
+
+
+🔴 Q67. What is Rioting?
+BNS §191
+When force or violence is used by an unlawful assembly or any member in prosecution of its
+common object, rioting is committed.
+
+Formula
+       Unlawful Assembly + Force/Violence = Rioting
+
+
+
+
+🔴 Q68. What is Affray?
+BNS §194
+Affray requires:
+
+   ●    two or more persons;
+   ●    fighting;
+   ●    in a public place;
+   ●    disturbance of public peace.
+
+Formula
+       2+ + Fight + Public Place + Peace Disturbance
+
+
+
+
+🔴andQ69. Distinguish Unlawful Assembly
+     Affray.
+Unlawful assembly:
+
+   ●    five or more persons;
+   ●    common object;
+   ●    fighting not necessary.
+<PARSED TEXT FOR PAGE: 569 / 748>
+Affray:
+
+   ●      two or more persons;
+   ●      actual fighting;
+   ●      public place;
+   ●      disturbance of public peace.
+
+
+
+
+🔴 Q70. What is BNS §152?
+BNS §152
+It deals with acts intentionally or knowingly endangering the:
+
+   ●      sovereignty;
+   ●      unity;
+   ●      integrity
+
+of India, including specified conduct relating to:
+
+   ●      secession;
+   ●      armed rebellion;
+   ●      subversive activities;
+   ●      separatist activities.
+
+The provision expressly covers various modes of communication, including electronic
+communication.
+
+⚠️ Important
+It should not simply be described as "sedition renamed."
+
+The statutory wording is different.
+
+
+
+
+UNIT VIII – FALSE EVIDENCE & PUBLIC
+JUSTICE
+
+🟠 Q71. What is Giving False Evidence?
+BNS §227
+<PARSED TEXT FOR PAGE: 570 / 748>
+Giving false evidence involves making a statement which:
+
+   ●    the person is legally bound to make truthfully;
+   ●    is false;
+   ●    and which he knows/believes to be false or does not believe to be true.
+
+
+
+
+🟠Evidence?
+    Q72. What is Fabricating False
+
+BNS §228
+Fabricating false evidence means creating false circumstances, entries, documents or things
+with the intention that they appear in evidence and cause a person connected with judicial
+proceedings to form an erroneous opinion.
+
+
+
+
+🟠Fabricating
+    Q73. Distinguish Giving and
+             False Evidence.
+       §227 = false statement
+
+       §228 = false evidence created
+
+
+
+
+🟠of Evidence?
+    Q74. What is Causing Disappearance
+
+BNS §238
+A person may be liable where he:
+
+   ●    causes evidence of an offence to disappear; or
+   ●    gives false information,
+
+with the intention of screening the offender from punishment.
+<PARSED TEXT FOR PAGE: 571 / 748>
+UNIT IX – RELIGION
+
+🟠 Q75. What is BNS §299?
+It concerns deliberate and malicious acts intended to outrage religious feelings.
+
+Essential elements
+   ●    deliberate conduct;
+   ●    malicious intention;
+   ●    insult/attempt to insult religion or religious beliefs;
+   ●    intention to outrage religious feelings.
+
+⚖️ Case
+Ramji Lal Modi v State of U.P.
+
+
+
+
+🟠 Q76. What is BNS §302?
+It concerns deliberate words, sounds, gestures or objects intended to wound the religious
+feelings of an individual.
+
+⭐ Distinction
+       §299 → class/religion
+
+       §302 → individual
+
+
+
+
+UNIT X – DOCUMENTS & FORGERY
+
+🔴 Q77. What is a False Document?
+BNS §335
+It includes specified situations where a person:
+<PARSED TEXT FOR PAGE: 572 / 748>
+   ●    makes/signs/executes a document or electronic record as if made by another;
+   ●    materially alters a document/electronic record without authority; or
+   ●    causes another person to execute/alter one through deception or incapacity.
+
+
+
+
+🔴 Q78. What is Forgery?
+BNS §336
+Forgery involves making a false document/electronic record with the legally required
+fraudulent/dishonest purpose.
+
+Purposes may include:
+
+   ●    causing injury;
+   ●    supporting a claim;
+   ●    causing delivery of property;
+   ●    entering into a contract;
+   ●    committing fraud.
+
+
+
+
+🔴FalseQ79.Document
+            What is the difference between
+                     and Forgery?
+       §335 = false document
+
+       §336 = forgery
+
+A false document becomes the foundation for forgery when made with the requisite statutory
+purpose.
+
+
+
+
+🔴as Genuine?
+    Q80. What is Using a Forged Document
+
+BNS §340
+A person commits the offence where he:
+<PARSED TEXT FOR PAGE: 573 / 748>
+   ●    fraudulently/dishonestly uses a forged document/electronic record;
+   ●    knowing or having reason to believe it is forged.
+
+
+
+
+UNIT XI – CRIMINAL INTIMIDATION &
+DEFAMATION
+
+🔴 Q81. What is Criminal Intimidation?
+BNS §351
+It consists of threatening another with injury to:
+
+   ●    person;
+   ●    reputation;
+   ●    property;
+   ●    person/reputation of someone in whom the victim is interested,
+
+with the required intention to:
+
+   ●    cause alarm; or
+   ●    compel/omit specified conduct.
+
+Formula
+       Threat + Required Intention = Criminal Intimidation
+
+
+
+
+🔴 Q82. What is Intentional Insult?
+BNS §352
+Intentional insult becomes criminal where the offender:
+
+   ●    intentionally insults;
+   ●    intends or knows it is likely to provoke;
+   ●    and the provocation is connected with breach of peace or commission of an offence.
+<PARSED TEXT FOR PAGE: 574 / 748>
+🔴 Q83. What is Defamation?
+BNS §356
+Defamation involves making or publishing an imputation concerning a person with:
+
+      ●   intention to harm reputation; or
+      ●   knowledge/reason to believe it will harm reputation.
+
+It may be through:
+
+      ●   words;
+      ●   signs;
+      ●   visible representations;
+      ●   electronic means.
+
+
+
+
+🔴Defamation?
+    Q84. How many exceptions are there to
+
+There are 10 exceptions.
+
+Memory sequence
+      1. Truth + public good
+      2. Public servant
+      3. Public question
+      4. Court proceedings
+      5. Decided case
+      6. Public performance
+      7. Lawful authority
+      8. Authorised accusation
+      9. Protection of interest
+      10. Caution
+
+
+
+
+🔴criminal
+    Q85. Is truth always a defence to
+          defamation?
+No.
+<PARSED TEXT FOR PAGE: 575 / 748>
+Under the first exception, the imputation must be:
+
+   1. true, and
+   2. publication must be for the public good.
+
+⭐ Exam trap
+       Truth alone is not enough under Exception 1.
+
+
+
+
+PART XII – PROPERTY MARKS
+
+🟠 Q86. What is a Property Mark?
+BNS §345
+A property mark is a mark used to indicate that movable property belongs to a particular person.
+
+
+
+
+🟠Mark?
+   Q87. What is Counterfeiting a Property
+
+BNS §347
+Making a property mark that imitates another person's genuine property mark with the statutory
+fraudulent/dishonest purpose constitutes the offence.
+
+
+
+
+🟠 Q88. What is Falsification of Accounts?
+BNS §344
+It concerns specified dishonest/fraudulent falsification, alteration, destruction or false entries in:
+
+   ●    books;
+   ●    accounts;
+   ●    electronic records;
+<PARSED TEXT FOR PAGE: 576 / 748>
+   ●    financial records.
+
+
+
+
+🔥DEFINITELY
+   20 SHORT NOTES YOU SHOULD
+            MEMORISE
+If CCSU asks:
+
+       "Write a short note on..."
+
+these are particularly important:
+
+🔴 1.
+Mens Rea
+
+🔴 2.
+Actus Reus
+
+🔴 3.
+Common Intention
+
+🔴 4.
+Common Object
+
+🔴 5.
+Stages of Crime
+
+🔴 6.
+Abetment
+
+🔴 7.
+Criminal Conspiracy
+
+🔴 8.
+Attempt
+<PARSED TEXT FOR PAGE: 577 / 748>
+🔴 9.
+Private Defence
+
+🔴 10.
+Culpable Homicide
+
+🔴 11.
+Murder
+
+🔴 12.
+Wrongful Restraint
+
+🔴 13.
+Wrongful Confinement
+
+🔴 14.
+Theft
+
+🔴 15.
+Robbery
+
+🔴 16.
+Dacoity
+
+🔴 17.
+Criminal Breach of Trust
+
+🔴 18.
+Cheating
+
+🔴 19.
+Criminal Intimidation
+
+🔴 20.
+Defamation
+<PARSED TEXT FOR PAGE: 578 / 748>
+🧠 50-SECOND SECTION REVISION
+General
+
+3(5) → Common intention
+4 → Punishments
+14–44 → General Exceptions
+45 → Abetment
+61 → Conspiracy
+62 → Attempt
+
+Body
+
+100 → Culpable homicide
+101 → Murder
+102 → Transferred malice
+103 → Murder punishment
+105 → Culpable homicide not murder
+106 → Negligent death
+109 → Attempt murder
+114 → Hurt
+116 → Grievous hurt
+126 → Restraint
+127 → Confinement
+129–130 → Force/Assault
+137 → Kidnapping
+138 → Abduction
+
+Women/Children
+
+63 → Rape
+64 → Rape punishment
+69 → Deceitful sexual intercourse
+70 → Gang rape
+75 → Sexual harassment
+77 → Voyeurism
+78 → Stalking
+80 → Dowry death
+85–86 → Cruelty
+<PARSED TEXT FOR PAGE: 579 / 748>
+Property
+
+303 → Theft
+304 → Snatching
+308 → Extortion
+309 → Robbery
+310 → Dacoity
+314 → Misappropriation
+316 → Breach of trust
+317 → Stolen property
+318 → Cheating
+329 → Trespass
+
+Public order
+
+147 → Waging war
+152 → Sovereignty/unity/integrity
+189 → Unlawful assembly
+191 → Rioting
+194 → Affray
+
+Documents
+
+335 → False document
+336 → Forgery
+337 → Court/public record forgery
+338 → Valuable security/will
+340 → Use forged document
+344 → Falsification of accounts
+
+Reputation
+
+351 → Criminal intimidation
+352 → Intentional insult
+356 → Defamation
+
+
+
+
+🔴 PART 2 COMPLETION CHECK
+This short-answer bank now covers the major definitions and short-note areas across the
+entire K-1006 syllabus.
+<PARSED TEXT FOR PAGE: 580 / 748>
+But this is still only the 5-mark layer.
+
+The next layer is much more important for scoring:
+<PARSED TEXT FOR PAGE: 581 / 748>
+CCSU LL.B. SEMESTER I – K-1006
+
+LAW OF CRIMES – I
+QUESTION–ANSWER BANK – PART 3
+10-MARK QUESTIONS WITH FULL ANSWERS
+Below is the 10-mark level answer bank. These answers are designed so that you can directly
+learn the structure and reproduce them in the CCSU examination.
+
+
+
+
+UNIT I – GENERAL PRINCIPLES OF
+CRIMINAL LIABILITY
+🔴 Q1. Explain the essential elements of a crime.
+Answer
+A crime is an act or omission prohibited by law and made punishable by the State. Criminal
+liability generally requires both a prohibited conduct and a legally blameworthy mental element,
+subject to offences of strict liability.
+
+1. Human conduct
+There must ordinarily be a voluntary act or legally punishable omission.
+
+A person is not normally criminally liable merely for thoughts or intentions.
+
+Example:
+A intends to kill B but does nothing. Mere intention is ordinarily not murder.
+
+2. Actus Reus
+Actus reus means the physical element of the offence.
+
+It may consist of:
+
+   ●   an act;
+<PARSED TEXT FOR PAGE: 582 / 748>
+    ●    an omission where law imposes a duty;
+    ●    a prohibited consequence; or
+    ●    specified circumstances.
+
+3. Mens Rea
+Mens rea means the guilty mental state accompanying the prohibited conduct.
+
+Depending upon the offence, it may involve:
+
+    ●    intention;
+    ●    knowledge;
+    ●    reason to believe;
+    ●    recklessness;
+    ●    dishonesty;
+    ●    fraudulence.
+
+4. Concurrence of act and mental state
+Generally, the guilty mental state must coincide with the prohibited conduct.
+
+5. Causation
+Where an offence requires a particular result, the prosecution must establish the required
+causal connection between the accused's conduct and the result.
+
+Example: In a homicide case, the prosecution must establish that the accused's conduct
+caused the death.
+
+6. Legality
+No person can ordinarily be convicted unless the conduct was criminalised by law.
+
+This is reflected in the principle:
+
+        Nullum crimen sine lege — no crime without law.
+
+7. Punishment
+An act becomes a crime because the law attaches a criminal sanction to it.
+
+⭐ Exam conclusion
+Thus, the basic structure of criminal liability may be remembered as:
+
+Conduct + prohibited circumstances/result + required mens rea + causation, where
+applicable + absence of a valid defence = criminal liability.
+<PARSED TEXT FOR PAGE: 583 / 748>
+🔴importance
+    Q2. Explain Mens Rea and its
+            in criminal law.
+Answer
+Mens rea literally means a guilty mind. It refers to the mental element required by the definition
+of a criminal offence.
+
+The general principle is:
+
+       Actus non facit reum nisi mens sit rea.
+
+It means an act does not ordinarily make a person criminally liable unless accompanied by a
+guilty mind.
+
+Forms of mens rea
+1. Intention
+
+Intention is the conscious objective to bring about a particular consequence.
+
+Example: A deliberately shoots B intending to kill him.
+
+2. Knowledge
+
+A person may be liable where he knows that his conduct is likely to produce a prohibited
+consequence.
+
+3. Reason to believe
+
+Some offences use the statutory standard of having reason to believe a particular fact.
+
+4. Dishonesty
+
+Dishonesty is particularly important in property offences such as theft and criminal breach of
+trust.
+
+5. Fraudulence
+
+Fraudulent intention is relevant to offences involving deception and fraudulent conduct.
+
+Importance
+Mens rea:
+
+   ●    distinguishes accidental conduct from intentional crime;
+   ●    protects innocent persons;
+   ●    helps determine the degree of criminal responsibility;
+   ●    assists courts in interpreting statutory offences.
+<PARSED TEXT FOR PAGE: 584 / 748>
+Exceptions
+Mens rea is not an absolute requirement for every offence. Parliament may create offences
+where liability is based substantially on the prohibited act or conduct.
+
+⭐ Exam line
+Mens rea is the mental element of criminal liability, but the exact mental state must be
+determined from the ingredients of the particular offence.
+
+
+
+
+🔴crime.
+    Q3. Explain the different stages of
+
+Answer
+The commission of a crime generally passes through four stages:
+
+Intention → Preparation → Attempt → Commission
+
+
+
+
+1. Intention
+Intention is the mental decision to commit an offence.
+
+Mere intention is ordinarily not punishable.
+
+Example: A decides to kill B but takes no further step.
+
+
+
+
+2. Preparation
+Preparation means arranging the means or measures necessary for committing the offence.
+
+Example: A purchases poison intending to kill B.
+
+Preparation is generally not punishable, although specific statutes may criminalise particular
+preparatory conduct.
+
+
+
+
+3. Attempt
+<PARSED TEXT FOR PAGE: 585 / 748>
+Attempt begins when the accused moves beyond preparation and performs an act sufficiently
+proximate to the commission of the offence.
+
+Under BNS §62, attempt is punishable where the statutory requirements are satisfied.
+
+Example: A fires a gun at B intending to kill him, but B survives because the shot misses.
+
+
+
+
+4. Commission
+The final stage is completion of all ingredients of the offence.
+
+Example: A intentionally shoots B and B dies, satisfying the ingredients of murder.
+
+Important distinction
+    Stage           General position
+
+ Intention      Generally not
+                punishable
+ Preparation    Generally not
+                punishable
+ Attempt        Generally punishable
+
+ Commission     Fully punishable
+
+
+Cases
+⚖️ Abhayanand Mishra v State of Bihar
+The Supreme Court explained the distinction between preparation and attempt.
+
+⚖️ State of Maharashtra v Mohd. Yakub
+The Court examined proximity between the act performed and commission of the intended
+offence.
+
+⭐ Exam formula
+Intention is mental; preparation arranges the means; attempt is direct movement toward
+commission; commission completes the offence.
+<PARSED TEXT FOR PAGE: 586 / 748>
+🔴intention
+     Q4. Explain the doctrine of common
+           under BNS.
+Answer
+The principle of common intention is contained in BNS §3(5), corresponding broadly to IPC §34.
+
+It deals with situations where several persons participate in a criminal act pursuant to a common
+intention.
+
+Essential ingredients
+   1.   There must be two or more persons.
+   2.   There must be a common intention.
+   3.   The criminal act must be done in furtherance of that common intention.
+   4.   There must be participation in the act.
+
+Meaning of common intention
+Common intention means a shared intention or meeting of minds to commit the criminal act.
+
+The common intention may develop before the incident or, depending on circumstances, during
+the course of events.
+
+Example
+A and B decide to attack C. A restrains C while B causes the fatal injury. If the act was done
+pursuant to their common intention, both may incur liability for the criminal act.
+
+Important point
+Section 3(5) does not create a separate substantive offence. It is a principle of
+constructive/joint liability.
+
+Cases
+⚖️ Mahbub Shah v Emperor
+The Supreme Court stressed the requirement of a meeting of minds.
+
+⚖️ Barendra Kumar Ghosh v King-Emperor
+A participant may be liable even where he does not personally perform every physical act
+constituting the offence, provided the statutory requirements of common intention are
+established.
+
+⭐ Exam line
+<PARSED TEXT FOR PAGE: 587 / 748>
+Common intention is different from merely having the same intention independently;
+there must be a shared plan or meeting of minds accompanied by participation.
+
+
+
+
+🔴Common
+   Q5. Distinguish Common Intention and
+         Object.
+Answer
+Common intention under BNS §3(5) and common object under BNS §§189–190 are important
+principles of constructive criminal liability.
+
+           Common Intention                                 Common Object
+
+ BNS §3(5)                                 BNS §§189–190
+
+ Generally requires 2 or more persons      Requires unlawful assembly of 5 or more
+
+ Requires common intention/meeting of      Requires an unlawful common object
+ minds
+
+ Participation is important                Membership of unlawful assembly is central
+
+ More specific shared intention            Common object may be broader
+
+ Applies to criminal act done in           Liability arises for offence committed in prosecution
+ furtherance of common intention           of common object or known likely offence
+
+
+
+Example
+If A and B jointly plan and execute an assault, §3(5) may apply.
+
+If five or more persons form an unlawful assembly and an offence is committed in prosecution of
+its common object, §190 may impose constructive liability.
+
+⭐ Exam conclusion
+The key distinction is:
+
+Common intention = shared intention + participation.
+
+Common object = unlawful assembly of 5+ + statutory common object + constructive
+liability.
+<PARSED TEXT FOR PAGE: 588 / 748>
+UNIT II – GENERAL EXCEPTIONS
+
+🔴factQ6.under
+          Explain the defence of mistake of
+              BNS.
+Answer
+The BNS recognises certain circumstances where a person acts under a mistake of fact and
+therefore lacks the required criminal intention.
+
+Important provisions include BNS §§14 and 17.
+
+Mistake of fact
+A mistake of fact occurs when a person misunderstands an existing factual circumstance.
+
+Example: A reasonably believes that B is a dangerous armed intruder and acts in
+circumstances covered by the relevant statutory exception.
+
+Mistake of law
+Ignorance or misunderstanding of law generally does not excuse criminal liability.
+
+The maxim is:
+
+Ignorantia juris non excusat.
+
+Essential principle
+The mistake must generally be:
+
+   ●   a mistake of fact, not law;
+   ●   made in circumstances recognised by the statutory exception;
+   ●   honestly held; and
+   ●   sufficient to negate the required criminal intention where the provision so requires.
+
+Cases
+⚖️ State of Orissa v Ram Bahadur Thapa
+The Court considered the accused's mistaken belief concerning facts in determining criminal
+liability.
+<PARSED TEXT FOR PAGE: 589 / 748>
+⭐ Exam distinction
+Mistake of fact may excuse in circumstances recognised by law; mistake of law
+ordinarily does not.
+
+
+
+
+🔴under
+   Q7. Explain the defence of accident
+       BNS §18.
+Answer
+BNS §18 recognises the defence of accident in circumstances where harm occurs without
+criminal intention or knowledge while a person is performing a lawful act in a lawful manner and
+by lawful means, with proper care and caution.
+
+Essential ingredients
+   1.   There must be an accident.
+   2.   The act must be lawful.
+   3.   It must be done in a lawful manner.
+   4.   Lawful means must be used.
+   5.   There must be no criminal intention or knowledge.
+   6.   Proper care and caution must have been exercised.
+
+Example
+A is lawfully performing a lawful act with proper care. An unexpected accident occurs causing
+injury to another person. If the statutory requirements are fulfilled, criminal liability may be
+excluded.
+
+Important limitation
+The defence is unavailable where the accused's conduct itself constitutes negligence or
+recklessness of the kind required for criminal liability.
+
+⭐ Exam line
+Accident is a defence only when the harm is genuinely accidental and the statutory
+requirements of lawful conduct and due care are satisfied.
+<PARSED TEXT FOR PAGE: 590 / 748>
+🔴under
+   Q8. Explain the defence of necessity
+       BNS §19.
+Answer
+BNS §19 recognises circumstances involving an act done to prevent greater harm.
+
+The principle is based upon the idea that criminal law should not ordinarily punish conduct
+undertaken in circumstances where a person reasonably acts to avoid a greater harm.
+
+Essential elements
+   ●   There must be a situation involving danger or threatened harm.
+   ●   The accused must act to prevent that harm.
+   ●   The conduct must fall within the statutory protection.
+   ●   The circumstances must justify the interference with another interest.
+
+Example
+A breaks open a locked door to rescue a person trapped inside a burning building. The property
+damage may be justified if the statutory conditions are satisfied.
+
+Important point
+Necessity is not a blanket permission to commit offences. The precise statutory conditions must
+be satisfied.
+
+⭐ Exam distinction
+Necessity involves choosing conduct to prevent a greater harm; accident involves
+unintended harm arising during otherwise lawful conduct.
+
+
+
+
+🔴children
+    Q9. Explain criminal responsibility of
+          under BNS.
+Answer
+The BNS establishes different standards based on age.
+
+BNS §20 – Child under seven
+A child under seven years of age cannot commit an offence.
+<PARSED TEXT FOR PAGE: 591 / 748>
+This is an absolute rule of criminal immunity.
+
+BNS §21 – Child above seven and under twelve
+A child above seven but under twelve may be exempt where the child has not attained
+sufficient maturity of understanding to judge the nature and consequence of conduct.
+
+Thus, this is a qualified protection.
+
+Comparison
+           Age                                           Position
+
+ Below 7                   Absolute immunity
+
+ Above 7 but below 12      Depends upon maturity of understanding
+
+ 12 and above              Ordinary criminal responsibility, subject to other applicable defences
+
+
+⭐ Exam line
+Section 20 creates an age-based absolute exception; Section 21 introduces the test of
+sufficient maturity.
+
+
+
+
+🔴unsoundness
+    Q10. Explain the defence of
+               of mind.
+Answer
+The defence is contained in BNS §22, corresponding broadly to the old IPC §84.
+
+A person is protected where, at the time of doing the act, because of unsoundness of mind, the
+person is incapable of:
+
+    ●   knowing the nature of the act; or
+    ●   knowing that the act is wrong or contrary to law,
+
+subject to the statutory requirements.
+
+Important principle
+The relevant time is the time when the offence was committed.
+<PARSED TEXT FOR PAGE: 592 / 748>
+A person suffering from mental illness at some other time does not automatically receive the
+defence.
+
+Medical insanity vs legal insanity
+Medical insanity concerns medical diagnosis.
+
+Legal insanity concerns the statutory test for criminal responsibility.
+
+The court determines legal insanity.
+
+Burden
+⚖️ Dahyabhai Chhaganbhai Thakkar v State of Gujarat
+The Supreme Court discussed the burden relating to the insanity defence and the significance
+of the accused's mental condition at the time of the act.
+
+⭐ Exam line
+Every mentally ill person is not legally insane; the decisive question is whether the
+statutory test of incapacity existed at the time of the act.
+
+
+
+
+🔴intoxication
+    Q11. Explain the defence of
+              under BNS.
+Answer
+The BNS distinguishes between involuntary intoxication and intoxication voluntarily induced.
+
+BNS §23 – Involuntary intoxication
+Where intoxication is caused without the person's knowledge or against the person's will, the
+law may protect the person where the statutory conditions are fulfilled.
+
+BNS §24 – Intoxication and offences requiring particular knowledge or
+intention
+Voluntary intoxication does not generally provide a complete defence merely because the
+accused was drunk.
+
+The law generally attributes knowledge as if the person possessed the knowledge he would
+have had if not intoxicated, subject to the statutory provision.
+<PARSED TEXT FOR PAGE: 593 / 748>
+Important distinction
+          Involuntary intoxication                      Voluntary intoxication
+
+ May constitute defence                         Generally not a complete defence
+
+ Person intoxicated without knowledge/will      Person voluntarily consumes intoxicant
+
+ Statutory conditions must be satisfied         Mental element is assessed under §24
+
+
+⭐ Exam line
+Drunkenness is not automatically a defence to crime. The source and degree of
+intoxication and the mental element required by the offence are crucial.
+
+
+
+
+🔴defence.
+    Q12. Explain the right of private
+
+Answer
+The right of private defence is contained in BNS §§34–44.
+
+It is based on the principle that a person should be entitled to protect:
+
+   ●    his own body;
+   ●    another person's body;
+   ●    his own property;
+   ●    another person's property,
+
+against unlawful aggression, subject to statutory limitations.
+
+Essential requirements
+   1.   There must be a reasonable apprehension of danger.
+   2.   The danger must arise from conduct covered by the law.
+   3.   The right must be exercised while the danger continues.
+   4.   The force used must remain within statutory limits.
+   5.   The right cannot ordinarily be used for revenge.
+
+Protection of body
+Private defence may extend to circumstances involving serious offences and, in specified
+cases, may extend to causing death.
+<PARSED TEXT FOR PAGE: 594 / 748>
+Protection of property
+The right may arise against offences such as:
+
+   ●   robbery;
+   ●   theft;
+   ●   mischief;
+   ●   criminal trespass;
+   ●   house-trespass,
+
+subject to statutory requirements.
+
+Limitations
+The right does not permit:
+
+   ●   unlimited force;
+   ●   retaliation after danger has ended;
+   ●   revenge;
+   ●   use of force disproportionate to the circumstances beyond what law permits.
+
+Cases
+⚖️ Darshan Singh v State of Punjab
+The Supreme Court laid down important principles concerning reasonable apprehension and
+the limits of private defence.
+
+⚖️ James Martin v State of Kerala
+The Court emphasised that private defence must be assessed in the circumstances as they
+appeared to the accused at the relevant time.
+
+⭐ Exam formula
+Private defence is preventive, not punitive.
+
+
+
+
+UNIT III – ABETMENT, CONSPIRACY AND
+ATTEMPT
+
+🔴 Q13. Explain abetment under BNS §45.
+Answer
+<PARSED TEXT FOR PAGE: 595 / 748>
+BNS §45 defines abetment, broadly corresponding to IPC §107.
+
+A person abets an act when the person:
+
+   1. instigates another to do it;
+   2. engages with one or more persons in a conspiracy for doing it, where an act or illegal
+      omission occurs in pursuance of that conspiracy; or
+   3. intentionally aids the doing of the act.
+
+1. Instigation
+Instigation involves provoking, inciting, urging or encouraging another person to do the act.
+
+2. Conspiracy
+Conspiracy can constitute abetment when the statutory requirements are satisfied and an act or
+illegal omission occurs in pursuance of the conspiracy.
+
+3. Intentional aid
+Aid may be through:
+
+   ●   assistance;
+   ●   facilitation;
+   ●   supplying means;
+   ●   deliberate omission where legally relevant.
+
+Important principle
+Mere presence is ordinarily insufficient to establish abetment unless the circumstances establish
+intentional participation or assistance.
+
+Case
+⚖️ Kehar Singh v State
+The Supreme Court considered principles relating to abetment and conspiracy.
+
+⭐ Exam formula
+Abetment = Instigation + specified conspiracy + intentional aid.
+
+
+
+
+🔴BNSQ14.
+     §61.
+         Explain criminal conspiracy under
+<PARSED TEXT FOR PAGE: 596 / 748>
+Answer
+BNS §61 deals with criminal conspiracy and corresponds broadly to IPC §§120A–120B.
+
+Criminal conspiracy is essentially an agreement between two or more persons to commit an
+offence or to accomplish an unlawful object through unlawful means.
+
+Essential ingredients
+   1.   Two or more persons.
+   2.   Agreement between them.
+   3.   The object or means must fall within the statutory definition.
+   4.   Where the agreement is not itself to commit an offence, an additional act may be
+        required under the statutory scheme.
+
+Important feature
+The essence of conspiracy is the agreement.
+
+Therefore, it is fundamentally different from attempt, where the accused moves toward
+execution of the offence.
+
+Proof
+Conspiracy is frequently proved through:
+
+   ●    conduct;
+   ●    communications;
+   ●    surrounding circumstances;
+   ●    coordinated acts;
+   ●    relationship between acts.
+
+Direct evidence of the agreement may not always be available.
+
+Case
+⚖️ State of Maharashtra v Som Nath Thapa
+The Supreme Court discussed the ingredients and proof of criminal conspiracy.
+
+⭐ Exam line
+The gist of conspiracy is the meeting of minds manifested through an unlawful
+agreement.
+<PARSED TEXT FOR PAGE: 597 / 748>
+🔴fromQ15.preparation.
+            Explain attempt and distinguish it
+
+Answer
+Attempt is dealt with generally under BNS §62.
+
+Attempt represents the stage between preparation and commission.
+
+Essential elements
+   1.   Intention to commit the offence.
+   2.   Preparation toward commission.
+   3.   An act beyond mere preparation.
+   4.   The act must be sufficiently connected with the intended offence.
+   5.   The offence is not completed.
+
+Preparation
+Preparation consists of arranging the means necessary for committing the offence.
+
+Example: Purchasing a weapon to kill B.
+
+Attempt
+Attempt begins when the accused takes a direct step toward execution.
+
+Example: A fires the weapon at B intending to kill him, but misses.
+
+Case law
+⚖️ Abhayanand Mishra v State of Bihar
+Distinction between preparation and attempt.
+
+⚖️ Malkiat Singh v State of Punjab
+The Court examined proximity between preparation and attempt.
+
+⚖️ State of Maharashtra v Mohd. Yakub
+The Court emphasised the closeness of the act to completion of the intended offence.
+
+⭐ Exam line
+Preparation provides the means; attempt begins execution.
+<PARSED TEXT FOR PAGE: 598 / 748>
+UNIT IV – OFFENCES AGAINST HUMAN
+BODY
+
+🔴fromQ16.murder.
+           Distinguish culpable homicide
+
+Answer
+This is one of the highest-priority questions for the examination.
+
+BNS provisions
+   ●   §100 – Culpable homicide
+   ●   §101 – Murder
+   ●   §103 – Punishment for murder
+   ●   §105 – Culpable homicide not amounting to murder
+
+Murder is an aggravated form of culpable homicide.
+
+Culpable homicide
+A person commits culpable homicide where death is caused with the intention or knowledge
+specified in §100.
+
+Murder
+Under §101, culpable homicide becomes murder where the case falls within one of the statutory
+clauses and is not protected by any of the five exceptions.
+
+Four principal clauses of murder
+   1. Intention to cause death.
+   2. Intention to cause bodily injury known to be likely to cause death of that particular
+      person.
+   3. Intention to cause bodily injury sufficient in the ordinary course of nature to cause death.
+   4. Knowledge that the act is so imminently dangerous that it must in all probability cause
+      death or such bodily injury as is likely to cause death, without excuse for incurring the
+      risk.
+
+Five exceptions
+   ●   Grave and sudden provocation.
+   ●   Exceeding right of private defence.
+   ●   Public servant exceeding powers in good faith.
+<PARSED TEXT FOR PAGE: 599 / 748>
+   ●   Sudden fight without premeditation.
+   ●   Consent of person above eighteen to suffer death/risk of death.
+
+Case
+⚖️ State of Andhra Pradesh v Rayavarapu Punnayya
+The Supreme Court explained:
+
+“All murder is culpable homicide, but not all culpable homicide is murder.”
+
+⚖️ Virsa Singh v State of Punjab
+Important authority concerning the third clause relating to bodily injury sufficient in the ordinary
+course of nature to cause death.
+
+⭐ Exam conclusion
+The correct approach is:
+
+First determine culpable homicide → then determine whether §101 makes it murder
+→ then check the five exceptions.
+
+
+
+
+🔴murder.
+   Q17. Explain the five exceptions to
+
+Answer
+BNS §101 contains five exceptions under which culpable homicide does not amount to murder if
+the statutory conditions are fulfilled.
+
+1. Grave and sudden provocation
+Death caused while deprived of self-control by grave and sudden provocation may fall within the
+exception.
+
+2. Exceeding private defence
+If a person exceeds the right of private defence in good faith, without premeditation and without
+intending to cause more harm than necessary, the case may fall under the exception.
+
+3. Public servant exceeding powers
+<PARSED TEXT FOR PAGE: 600 / 748>
+A public servant or person assisting a public servant may receive the benefit where statutory
+conditions concerning good faith and excess of power are fulfilled.
+
+4. Sudden fight
+Requirements generally include:
+
+   ●   no premeditation;
+   ●   sudden fight;
+   ●   heat of passion;
+   ●   sudden quarrel;
+   ●   no undue advantage or cruel/unusual conduct.
+
+5. Consent
+Where a person above eighteen voluntarily suffers death or takes the risk of death, the case
+may fall within the statutory exception.
+
+Case
+⚖️ K.M. Nanavati v State of Maharashtra
+Important for understanding grave and sudden provocation.
+
+⭐ Exam tip
+In a problem question, always identify the exception after establishing that the case
+otherwise falls within murder.
+
+
+
+
+🔴malice.
+   Q18. Explain the doctrine of transferred
+
+Answer
+The principle of transferred malice is reflected in BNS §102, corresponding broadly to IPC §301.
+
+It applies where a person intends to cause death or culpable harm to one person but causes the
+prohibited result to another.
+
+Example
+A shoots at B intending to kill B, but the bullet misses B and kills C.
+<PARSED TEXT FOR PAGE: 601 / 748>
+A's intention toward B may be transferred so that liability is determined with reference to the
+death of C, subject to the statutory provision.
+
+Principle
+The law does not ordinarily allow an accused to escape liability merely because the actual
+victim was different from the intended victim.
+
+Important point
+The exact offence still depends upon:
+
+   ●    the original intention/knowledge;
+   ●    the actual result;
+   ●    the statutory ingredients.
+
+⭐ Exam line
+Transferred malice transfers the legal effect of the guilty intention from the intended
+victim to the actual victim, subject to the statutory conditions.
+
+
+
+
+🔴negligence
+    Q19. Explain death caused by
+            under BNS §106.
+Answer
+BNS §106 deals with causing death by negligence and corresponds broadly to IPC §304A.
+
+The offence concerns death caused by a rash or negligent act that does not amount to
+culpable homicide.
+
+Essential ingredients
+   1.   Death of a person.
+   2.   Death caused by the accused's act.
+   3.   The act was rash or negligent.
+   4.   The conduct did not amount to culpable homicide.
+
+Difference from culpable homicide
+Culpable homicide requires the statutory intention/knowledge.
+
+Negligent homicide is based on rashness or negligence rather than the intention/knowledge
+required for culpable homicide.
+<PARSED TEXT FOR PAGE: 602 / 748>
+Medical professionals
+BNS §106 contains a specific provision concerning death caused by negligence by a registered
+medical practitioner in certain circumstances.
+
+Important distinction
+Mere civil negligence is not automatically criminal negligence.
+
+The degree of negligence required for criminal liability is significantly higher.
+
+⭐ Exam line
+The prosecution must establish criminal rashness or negligence and causation; every
+error of judgment is not a criminal offence.
+
+
+
+
+🔴under
+   Q20. Explain hurt and grievous hurt
+       BNS.
+Answer
+
+Hurt – BNS §114
+Hurt means causing:
+
+   ●   bodily pain;
+   ●   disease; or
+   ●   infirmity
+
+to any person.
+
+Voluntarily causing hurt – §115
+A person voluntarily causes hurt where the statutory mental element is present and the act
+results in hurt.
+
+Grievous hurt – §116
+The law recognises eight categories of grievous hurt.
+
+These include, among others:
+
+   1. emasculation;
+   2. permanent loss of sight;
+<PARSED TEXT FOR PAGE: 603 / 748>
+   3.   permanent loss of hearing;
+   4.   deprivation of a member or joint;
+   5.   destruction/permanent impairment of member or joint;
+   6.   permanent disfiguration of head or face;
+   7.   fracture or dislocation of bone or tooth;
+   8.   hurt endangering life or causing severe bodily pain/inability to follow ordinary pursuits for
+        the statutory period.
+
+Distinction
+                Hurt                             Grievous Hurt
+
+ Bodily pain, disease or infirmity   Falls within statutory eight categories
+
+ Less serious                        More serious
+
+ §114                                §116
+
+
+⭐ Exam line
+Every grievous hurt is hurt, but every hurt is not grievous hurt.
+
+
+
+
+🔴wrongful
+    Q21. Distinguish wrongful restraint and
+          confinement.
+Answer
+
+BNS §126 – Wrongful restraint
+Wrongful restraint involves voluntarily obstructing a person so as to prevent that person from
+proceeding in a direction in which that person has a right to proceed.
+
+BNS §127 – Wrongful confinement
+Wrongful confinement is an aggravated form of restraint where a person is restrained within
+circumscribed limits.
+
+Example
+A blocks B's path so that B cannot proceed along a road.
+
+→ Wrongful restraint.
+
+A locks B inside a room.
+<PARSED TEXT FOR PAGE: 604 / 748>
+→ Wrongful confinement.
+
+Distinction
+             Wrongful Restraint                           Wrongful Confinement
+
+ Prevents movement in a particular             Restricts movement within defined
+ direction                                     boundaries
+ BNS §126                                      BNS §127
+
+ Narrower restriction                          More extensive restriction
+
+ Does not necessarily require enclosure        Circumscribed limits are essential
+
+
+⭐ Memory
+Restraint = stop the direction.
+
+Confinement = trap within limits.
+
+
+
+
+🔴abduction.
+    Q22. Distinguish kidnapping and
+
+Answer
+
+Kidnapping – BNS §137
+Kidnapping primarily involves:
+
+   ●    taking or enticing a person beyond the limits of India without consent; or
+   ●    taking/enticing a child or person of unsound mind out of lawful guardianship without
+        guardian's consent, as specified by law.
+
+Abduction – BNS §138
+Abduction involves compelling a person by force or inducing by deceitful means to go from any
+place.
+
+Major distinction
+                   Kidnapping                                      Abduction
+
+ §137                                              §138
+<PARSED TEXT FOR PAGE: 605 / 748>
+ Can involve taking child from lawful guardian    Applies to a person generally
+
+ Taking/enticing is central                       Force or deceitful inducement is central
+
+ Completion of movement is generally sufficient   Usually connected with an ulterior offence
+
+ Consent rules differ                             Force/deceit is essential
+
+
+⭐ Exam line
+Kidnapping is generally complete once the statutory taking/enticement occurs;
+abduction requires force or deceitful inducement and is ordinarily relevant as an element
+of another offence.
+
+
+
+
+UNIT V – OFFENCES AGAINST WOMAN
+AND CHILD
+
+🔴 Q23. Explain rape under BNS §63.
+Answer
+BNS §63 defines rape.
+
+The provision identifies specified forms of sexual intercourse by a man with a woman in
+circumstances where the law treats the act as rape.
+
+The circumstances include situations involving:
+
+   ●   against her will;
+   ●   without her consent;
+   ●   consent obtained through specified forms of fear or misconception;
+   ●   inability to communicate consent;
+   ●   incapacity to understand the nature and consequences of the act;
+   ●   circumstances involving age below the statutory threshold.
+
+Consent
+Consent is central to several clauses.
+
+Consent must be understood in the statutory context and cannot be inferred merely from
+absence of physical resistance.
+<PARSED TEXT FOR PAGE: 606 / 748>
+Exception concerning marital relationship
+The statutory framework contains a marital exception subject to its terms, while intercourse with
+a wife under the specified separation circumstances is separately dealt with by §67.
+
+Punishment
+Punishment is primarily dealt with under §64, with enhanced provisions for specified aggravated
+circumstances under subsequent sections.
+
+Case
+⚖️ State of Punjab v Gurmit Singh
+The Supreme Court emphasised the evidentiary significance of testimony of a sexual assault
+survivor and cautioned against applying stereotypical assumptions.
+
+⭐ Exam line
+The legal issue is not simply whether physical resistance occurred; the statutory
+question is whether the act occurred in circumstances constituting rape, particularly
+regarding consent and the specified statutory circumstances.
+
+
+
+
+🔴voyeurism
+    Q24. Explain sexual harassment,
+           and stalking under BNS.
+Answer
+The BNS retains and reorganises several important offences protecting women.
+
+§75 – Sexual harassment
+Includes specified conduct such as:
+
+   ●   unwelcome physical contact and advances;
+   ●   demand/request for sexual favours;
+   ●   showing pornography against the woman's will;
+   ●   sexually coloured remarks.
+
+§77 – Voyeurism
+Voyeurism concerns watching, capturing or disseminating the image of a woman engaging in a
+private act in circumstances covered by the statutory provision.
+<PARSED TEXT FOR PAGE: 607 / 748>
+§78 – Stalking
+Stalking includes:
+
+   ●   following a woman and contacting or attempting to contact her repeatedly despite clear
+       indication of disinterest;
+   ●   monitoring use of the internet, email or other electronic communication.
+
+Importance
+These provisions recognise that sexual offences may occur without physical sexual assault.
+
+⭐ Exam distinction
+Sexual harassment = unwelcome sexual conduct.
+
+Voyeurism = observing/capturing/disseminating private acts.
+
+Stalking = repeated unwanted following/contact/monitoring.
+
+
+
+
+🔴to aQ25. Explain dowry death and cruelty
+      married woman.
+Answer
+
+Dowry death – BNS §80
+The provision broadly corresponds to IPC §304B.
+
+The statutory framework concerns the death of a woman in circumstances where:
+
+   ●   death occurs otherwise than under normal circumstances;
+   ●   within the statutory period from marriage;
+   ●   she was subjected to cruelty or harassment;
+   ●   such cruelty/harassment was in connection with dowry;
+   ●   it occurred soon before her death.
+
+Where statutory requirements are established, the law treats the death as dowry death.
+
+Cruelty – BNS §85
+Section 85 concerns cruelty by the husband or relative of the husband.
+
+Cruelty includes
+<PARSED TEXT FOR PAGE: 608 / 748>
+   ●    wilful conduct likely to drive the woman to suicide or cause grave injury/danger to life,
+        limb or health; or
+   ●    harassment connected with unlawful demand for property or valuable security.
+
+Case
+⚖️ Kans Raj v State of Punjab
+Important authority concerning dowry death and the requirement of a proximate connection.
+
+⚖️ Arnesh Kumar v State of Bihar
+Important for safeguards concerning arrest in cases involving §498A IPC, relevant to the
+broader understanding of cruelty prosecutions under the corresponding BNS framework.
+
+⭐ Exam line
+Dowry death and cruelty are related but distinct offences; cruelty is not confined only to
+cases resulting in death.
+
+
+
+
+UNIT VI – OFFENCES AGAINST
+PROPERTY
+
+🔴fromQ26.snatching.
+            Explain theft and distinguish it
+
+Answer
+
+Theft – BNS §303
+Theft involves dishonest taking of movable property out of another person's possession without
+that person's consent, by moving the property in order to take it.
+
+Essential ingredients
+   1.   Dishonest intention.
+   2.   Movable property.
+   3.   Property in another person's possession.
+   4.   Taking without consent.
+   5.   Moving the property.
+<PARSED TEXT FOR PAGE: 609 / 748>
+Snatching – BNS §304
+BNS introduces a distinct offence of snatching.
+
+It concerns sudden or quick taking or grabbing of movable property from a person or
+possession.
+
+Difference
+                     Theft                                       Snatching
+
+ §303                                             §304
+
+ General dishonest taking                         Sudden/quick/forcible seizure-type taking
+
+ New standalone snatching offence under           Specific BNS offence
+ BNS
+
+⭐ Exam line
+Snatching is a specifically recognised BNS offence dealing with sudden/quick seizure of
+property from a person or possession.
+
+
+
+
+🔴robbery
+    Q27. Distinguish theft, extortion,
+         and dacoity.
+Answer
+This is an extremely important CCSU distinction question.
+
+Theft – §303
+Property is taken dishonestly without consent.
+
+Extortion – §308
+The offender intentionally puts a person in fear of injury and thereby dishonestly induces that
+person to deliver property or valuable security.
+
+Robbery – §309
+Robbery is an aggravated form of theft or extortion involving immediate violence/fear in the
+circumstances specified by law.
+<PARSED TEXT FOR PAGE: 610 / 748>
+Dacoity – §310
+Dacoity is robbery committed or attempted conjointly by five or more persons.
+
+Comparison

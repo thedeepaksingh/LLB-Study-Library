@@ -16,6 +16,7 @@ This is the central navigation page. Use the links below rather than searching t
 - [Previous-year-paper register](Semester-01/BNS-1/Previous-Year-Papers/README.md)
 - [Model answers index](Semester-01/BNS-1/Model-Answers/README.md)
 - [Case-law register](Semester-01/BNS-1/Case-Laws/README.md)
+- [Preserved source materials and reusable intake template](Semester-01/BNS-1/Source-Materials/README.md)
 - [Bare Act and sources](Semester-01/BNS-1/Bare-Act-and-References/official-sources.md)
 
 ## Find content quickly

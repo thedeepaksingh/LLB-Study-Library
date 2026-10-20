@@ -28,3 +28,13 @@ Add future materials in new topic/question files or append sections. Do not eras
 - **Important current-law note:** BNS section 106(2) was excluded from commencement and is stated as uncommenced as at 20 October 2026; section 106(1) is treated separately.
 - **Question provenance:** all new worked problems are original practice material, not verified PYQs.
 - Follow-up within the same proposed branch: added selected verbatim Bare Act extracts with ingredient notes, linked the core extracts from the Section Finder and dashboard, added topic-relevant case anchors to Day 1–Day 6 lessons, linked the worked-question set and expanded the official source register.
+
+
+## 2026-10-20 — Supplied BNS source material preserved as an extraction archive
+- **Branch:** `source/bns-sem1-source-preservation-2026-10-20`
+- **Status:** Proposed for review; not merged to `main`.
+- **Source:** `BNS-Sem 1.docx`, SHA-256 `9370cf06abc7b837d3c6346344ecd4d5de5bfceede9fe01b7177c75893fa9694`.
+- **Extraction:** 29,651 ordered text-parser lines split into ten contiguous parts, with all ranges recorded in the source extraction manifest.
+- **Additional capture:** visible text embedded in six images transcribed separately; image inventory and limitations documented.
+- **Reusable method:** added a source-ingestion template for future subject uploads.
+- **Preservation caveat:** transcript preserves extracted wording but not Word layout/pixel-for-pixel image geometry. The original uploaded DOCX remains the source of record in the conversation Library. The source has not been corrected or legally verified; keep any future corrections in separate notes.

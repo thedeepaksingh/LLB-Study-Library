@@ -1,0 +1,2651 @@
+
+
+
+UNIT IX – FALSE EVIDENCE
+
+🔴statement
+    Q43. A witness knowingly gives a false
+           in court after taking an oath.
+What offence?
+Answer
+BNS §227 – Giving false evidence.
+
+A is legally bound to speak the truth and knowingly gives false evidence.
+
+Conclusion
+A may be guilty of giving false evidence.
+
+
+
+
+🔴andQ44. A manufactures a fake document
+     plants it in a room so that the court
+<PARSED TEXT FOR PAGE: 687 / 748>
+will believe that B committed the offence.
+What offence?
+Answer
+BNS §228 – Fabricating false evidence.
+
+A has created false evidentiary material intending that it be used to cause a judicial authority to
+form an erroneous opinion.
+
+⭐ Difference
+§227 = false statement
+
+§228 = false evidentiary material
+
+
+
+
+UNIT X – FORGERY
+
+🔴document
+    Q45. A creates a fake electronic
+           intending to deceive B. What
+provisions may become relevant?
+Answer
+The starting point is BNS §335, concerning making a false document or false electronic record.
+
+If the additional statutory requirements of forgery are satisfied, §336 may apply.
+
+Depending upon the nature of the document, aggravated provisions such as §§337–338 may
+become relevant.
+
+Conclusion
+Electronic records are expressly incorporated into the BNS framework.
+<PARSED TEXT FOR PAGE: 688 / 748>
+🔴forged
+    Q46. A knows that a document is
+        but presents it in court as genuine.
+What offence may arise?
+Answer
+BNS §340 deals with using a forged document/electronic record as genuine.
+
+The prosecution must establish that:
+
+   ●   the document/e-record is forged;
+   ●   A knew or had the requisite knowledge regarding its forged character;
+   ●   A used it as genuine.
+
+Conclusion
+A may be liable under §340.
+
+
+
+
+UNIT XI – CRIMINAL INTIMIDATION
+
+🔴me,Q47.  A tells B, “If you testify against
+     I will kill you.” What offence may
+arise?
+Answer
+BNS §351 – Criminal intimidation.
+
+There is:
+
+   ●   threat of injury;
+   ●   threat to B's person;
+   ●   intention to compel B to refrain from a legally relevant act.
+
+Conclusion
+A may be liable for criminal intimidation, with the aggravated punishment provisions considered
+according to the nature of the threat.
+<PARSED TEXT FOR PAGE: 689 / 748>
+🔴butQ48. A insults B during an argument,
+    there is no intention to cause alarm or
+compel B to act. Is every insult criminal
+intimidation?
+Answer
+No.
+
+Criminal intimidation requires the statutory ingredients of a threat and the requisite intention.
+
+A mere insult may potentially fall under §352 if its own ingredients are satisfied, but it does not
+automatically constitute intimidation.
+
+⭐ Distinction
+Threat → §351
+
+Intentional insult provoking breach of peace → §352
+
+
+
+
+UNIT XII – DEFAMATION
+
+🔴B isQ49. A publishes a false statement that
+      a corrupt businessman, intending to
+damage B's reputation. What offence may
+arise?
+Answer
+BNS §356 – Defamation.
+
+The prosecution must establish:
+<PARSED TEXT FOR PAGE: 690 / 748>
+      1.   imputation concerning B;
+      2.   making/publication;
+      3.   requisite intention/knowledge regarding harm to reputation;
+      4.   absence of applicable statutory exception.
+
+Conclusion
+If established, A may be guilty of criminal defamation.
+
+
+
+
+🔴aboutQ50.a public
+            A makes a truthful statement
+                   servant's conduct while
+performing public functions. Is A
+automatically guilty of defamation?
+Answer
+No.
+
+The statutory exceptions to defamation must be considered.
+
+The first exception concerns truth when publication is for the public good, and other
+exceptions concern good-faith opinions regarding public servants and public questions.
+
+Conclusion
+A may fall within a statutory exception, depending upon the facts.
+
+
+
+
+🔥QUESTIONS
+   MOST IMPORTANT PROBLEM
+           TO PRACTISE
+If CCSU gives a factual/problem-based question, these are the highest-priority patterns:
+
+A+ PRIORITY
+      1.   🔴🔴 ACulpable
+                intends to kill B but kills C → Transferred malice §102
+      2.
+      3.    🔴 Sudden fight
+                        homicide or murder → §§100–105
+                            → Exception to murder
+<PARSED TEXT FOR PAGE: 691 / 748>
+   4.    🔴🔴 Private           defence → §§34–44
+   5.
+   6.     🔴🔴 Abetment Preparation vs attempt → §62
+                                  → §45
+   7.
+   8.      🔴🔴 Conspiracy
+                      Theft → §303
+                                    → §61
+
+   9.
+   10.      🔴🔴 Snatching          → §304
+                      Extortion → §308
+   11.
+   12.       🔴🔴 Robbery          → §309
+                      Dacoity → §310
+   13.
+   14.        🔴🔴 Misappropriation
+                      Cheating → §318
+                                         vs breach of trust → §§314, 316
+
+   15.
+   16.         🔴🔴 Unlawful       assembly → §189
+                      Constructive liability → §190
+   17.
+   18.          🔴🔴 Rioting    → §191
+                      Affray → §194
+   19.
+   20.           🔴🔴 Rape/consent      → §§63–64
+                      Kidnapping/abduction → §§137–138
+   21.
+   22.            🔴🔴 False   evidence → §§227–228
+                      Forgery → §§335–340
+   23.
+   24.
+   25.
+                   🔴🔴 Criminal  intimidation → §351
+                      Defamation → §356
+                      BNS §152 and lawful criticism
+
+
+
+
+🧠SHORTCUT
+   MASTER PROBLEM-QUESTION
+
+When you see a factual question, do not immediately jump to the punishment.
+
+Use this:
+
+HOMICIDE
+
+Death → Culpable homicide? → Murder? → 5 Exceptions? → Punishment
+
+PROPERTY
+
+Property → Theft? → Extortion? → Robbery? → Dacoity?
+
+PARTICIPATION
+
+Individual act → Common intention? → Abetment? → Conspiracy? → Common
+object?
+
+DEFENCE
+<PARSED TEXT FOR PAGE: 692 / 748>
+Act appears criminal → General Exception? → Private Defence? → Consent? →
+Necessity?
+
+SEXUAL OFFENCE
+
+Act → §63? → Consent? → Age? → Aggravating circumstances? → Punishment
+
+DOCUMENT
+
+False document → Forgery → Possession → Use as genuine → Aggravated document?
+
+REPUTATION
+
+Imputation → Publication → Intention/knowledge → Harm to reputation →
+Exceptions
+<PARSED TEXT FOR PAGE: 693 / 748>
+CCSU LL.B. SEMESTER I – K-1006
+
+LAW OF CRIMES – I
+QUESTION–ANSWER BANK – PART 7
+🔄 IPC → BNS MASTER CONVERSION TABLE
+Important: BNS is the law currently in force, so in the examination you should write the BNS
+section first. Use the IPC section only as a cross-reference when explaining the old law.
+
+The NCRB has published an official corresponding-section table for BNS and IPC, and the
+enacted BNS text is available through India Code.
+
+
+
+
+I. PRELIMINARY + GENERAL PRINCIPLES
+ IPC   BNS                      Subject                             Exam note
+
+ 1     §1      Title, extent, commencement            BNS application substantially
+
+                                                      🔴
+                                                      reorganised
+ 2     §1(3)   Offences committed within India
+
+ 3     §1(4)   Offences beyond India triable in       🔴
+               India
+ 4     §1(5)   Extra-territorial application          Expanded
+
+ 5     §1(6)   Saving of special laws                 🔴
+ 6     §3      General explanations                   Reorganised
+
+ 7     §2      Definitions                            Reorganised
+
+ 8     §2      Gender-related definitions etc.        Reorganised
+
+ 14    §2      “Public servant” etc.                  Definitions reorganised
+
+ 21    §2      Public servant                         Reorganised
+
+ 23    §2      Wrongfully/gain/loss concepts          Reorganised
+<PARSED TEXT FOR PAGE: 694 / 748>
+ 24     §2      Dishonestly                          §2(7)
+
+ 25     §2      Fraudulently                         Reorganised
+
+ 26     §2      Reason to believe                    Reorganised
+
+ 29     §2      Document                             Reorganised
+
+ 33     §2      Act/omission                         Reorganised
+
+ 34     §3(5)   Common intention                     🔴 MUST
+ 39     §2      Voluntarily                          Reorganised
+
+ 40     §2      Offence                              Reorganised
+
+ 43     §2      Illegal/legally bound                Reorganised
+
+ 46     §2      Death                                Reorganised
+
+ 52     §2      Good faith                           Reorganised
+
+ 57     §2      Omission                             Reorganised
+
+
+⭐ Most important
+IPC §34 → BNS §3(5)
+
+This is one of the numbers you should know without hesitation.
+
+
+
+
+II. PUNISHMENTS
+  IPC    BNS                            Subject
+
+ 53      §4      Punishments
+
+ 54      §5      Commutation of death sentence
+
+ 55      §5      Commutation of life imprisonment
+
+ 57      §6      Fractions of terms
+
+ 60      §7      Rigorous/simple imprisonment
+
+ 63–70 §8        Fine/default
+<PARSED TEXT FOR PAGE: 695 / 748>
+ 71       §9     Limit of punishment
+
+ 72       §10    Doubtful which offence
+
+ 73       §11    Solitary confinement
+
+ 74       §12    Limit of solitary confinement
+
+ 75       §13    Enhanced punishment after previous
+                 conviction
+
+⚠️ Major BNS change
+Community service has been introduced as one of the punishments under §4.
+
+⭐ Exam question
+       Discuss the punishments under BNS and explain the significance of
+       community service.
+
+
+
+
+III. GENERAL EXCEPTIONS
+A. Mistake, accident, necessity
+ IPC    BNS                       Subject
+
+ 76     §14     Act done under mistake/legal obligation
+
+ 77     §15     Judicial acts
+
+ 78     §16     Court order
+
+ 79     §17     Mistake of fact
+
+ 80     §18     Accident
+
+ 81     §19     Necessity
+
+
+🔴 Remember
+76 → 14
+
+79 → 17
+<PARSED TEXT FOR PAGE: 696 / 748>
+80 → 18
+
+81 → 19
+
+
+
+
+IV. CHILDREN, INSANITY AND
+INTOXICATION
+ IPC    BNS                   Subject
+
+82      §20   Child under 7
+
+83      §21   Child 7–12 with insufficient maturity
+
+84      §22   Unsoundness of mind
+
+85      §23   Involuntary intoxication
+
+86      §24   Intoxication and intention/knowledge
+
+
+🔴 Very important
+IPC §84 → BNS §22
+
+Case:
+
+Dahyabhai Chhaganbhai Thakkar v State of Gujarat
+
+
+
+
+V. CONSENT
+ IPC    BNS                                    Subject
+
+87      §25   Consent and acts not intended/known likely to cause death/grievous
+              hurt
+88      §26   Act done in good faith for benefit with consent
+
+89      §27   Act for benefit of child/person of unsound mind
+
+90      §28   Consent known to be invalid
+
+91      §29   Exclusion of acts independently criminal
+<PARSED TEXT FOR PAGE: 697 / 748>
+92     §30   Acts done in good faith without consent
+
+93     §31   Communication made in good faith
+
+
+⭐ Memory
+87 → 25
+
+88 → 26
+
+89 → 27
+
+90 → 28
+
+91 → 29
+
+92 → 30
+
+93 → 31
+
+
+
+
+VI. OTHER GENERAL EXCEPTIONS
+ IPC   BNS                            Subject
+
+94     §32   Compulsion by threats
+
+95     §33   Slight harm
+
+96     §34   Private defence
+
+97     §35   Private defence of body/property
+
+98     §36   Private defence against acts of persons of unsound mind
+             etc.
+99     §37   Restrictions on private defence
+
+100    §38   When defence of body extends to causing death
+
+101    §39   When lesser harm may be caused
+
+102    §40   Commencement/continuance of defence of body
+
+103    §41   When defence of property extends to causing death
+<PARSED TEXT FOR PAGE: 698 / 748>
+ 104    §42    When lesser harm may be caused
+
+ 105    §43    Commencement/continuance of defence of property
+
+ 106    §44    Risk to innocent person while exercising private defence
+
+
+🔥 Must learn
+IPC §§96–106 → BNS §§34–44
+
+This is one of the most useful conversion chains in the entire syllabus.
+
+
+
+
+VII. ABETMENT
+  IPC    BNS                                   Subject
+
+ 107     §45    Abetment
+
+ 108     §46    Abettor
+
+ 108A    §47    Abetment in India of offence outside India
+
+ —       §48    Abetment outside India for offence in India
+
+ 109     §49    Punishment where act abetted is committed
+
+ 110     §50    Different intention of person abetted
+
+ 111     §51    Different act committed
+
+ 112     §52    Cumulative punishment
+
+ 113     §53    Different effect caused
+
+ 114     §54    Abettor present when offence committed
+
+ 115     §55    Abetment of offence punishable with death/life
+
+ 116     §56    Abetment of offence punishable with imprisonment
+
+ 117     §57    Abetting commission of offence by public/general
+
+ 118     §58    Concealing design to commit offence punishable with death/life
+
+ 119     §59    Public servant concealing design
+<PARSED TEXT FOR PAGE: 699 / 748>
+ 120     §60   Concealing design to commit offence punishable with imprisonment
+
+
+⚠️ New structural point
+BNS §48 has no simple one-to-one IPC counterpart in the old Code.
+
+
+
+
+VIII. CRIMINAL CONSPIRACY AND
+ATTEMPT
+ IPC     BNS               Subject
+
+ 120A    §61   Criminal conspiracy – definition
+
+ 120B    §61   Punishment for conspiracy
+
+ 511     §62   Attempt
+
+
+🔴 Absolute must memorise
+IPC 120A/120B → BNS §61
+
+IPC §511 → BNS §62
+
+
+
+
+IX. OFFENCES AGAINST WOMEN
+Sexual offences
+        IPC       BNS                         Subject
+
+ 375              §63    Rape
+
+ 376              §64    Punishment for rape
+
+ 376AB etc.       §65    Rape in specified aggravated cases
+
+ 376A             §66    Rape causing death/persistent vegetative state
+
+ 376B             §67    Sexual intercourse by husband during
+                         separation
+<PARSED TEXT FOR PAGE: 700 / 748>
+ 376C              §68    Person in authority
+
+ —                 §69    Sexual intercourse by deceitful means
+
+ 376D              §70    Gang rape
+
+ 376E              §71    Repeat offenders
+
+ 228A              §72    Disclosure of victim identity
+
+ 228A(2)-related   §73    Publication of court proceedings
+
+
+⚠️ Major BNS development
+§69 – Sexual intercourse by deceitful means is a distinct BNS provision and has no exact
+IPC equivalent.
+
+
+
+
+X. OFFENCES AGAINST WOMEN –
+MODESTY/SEXUAL HARASSMENT
+ IPC    BNS                                Subject
+
+ 354    §74    Assault/criminal force to woman intending to outrage modesty
+
+ 354A   §75    Sexual harassment
+
+ 354B   §76    Assault/use of criminal force with intent to disrobe
+
+ 354C   §77    Voyeurism
+
+ 354D   §78    Stalking
+
+ 509    §79    Word/gesture/act intended to insult modesty
+
+
+🔥 Learn as a chain
+354 → 74
+
+354A → 75
+
+354B → 76
+
+354C → 77
+<PARSED TEXT FOR PAGE: 701 / 748>
+354D → 78
+
+509 → 79
+
+
+
+
+XI. DOWRY / MARRIAGE OFFENCES
+       IPC         BNS                            Subject
+
+304B               §80   Dowry death
+
+493                §81   Cohabitation caused by deceitful belief of lawful marriage
+
+494                §82   Marrying again during lifetime of spouse
+
+496                §83   Fraudulent marriage ceremony
+
+498                §84   Enticing/taking away/detaining married woman
+
+498A               §85   Cruelty by husband/relative
+
+498A Explanation   §86   Cruelty definition
+
+366                §87   Kidnapping/abducting/inducing woman to compel marriage
+
+
+🔴 Critical chain
+304B → 80
+
+498A → 85
+
+366 → 87
+
+
+
+
+XII. MISCARRIAGE-RELATED OFFENCES
+ IPC   BNS                                    Subject
+
+312    §88   Causing miscarriage
+
+313    §89   Causing miscarriage without woman's consent
+
+314    §90   Death caused by act intended to cause miscarriage
+<PARSED TEXT FOR PAGE: 702 / 748>
+ 315    §91    Act to prevent child being born alive / cause death after birth
+
+ 316    §92    Causing death of quick unborn child by act amounting to culpable homicide
+
+
+⭐ Memory
+312–316 → 88–92
+
+
+
+
+XIII. OFFENCES AGAINST CHILDREN
+  IPC    BNS                       Subject
+
+ 317    §93     Exposure/abandonment of child under 12
+
+ 318    §94     Concealment of birth
+
+ —      §95     Hiring/employing child to commit offence
+
+ 366A   §96     Procuration of child
+
+ 369    §97     Kidnapping child under 10 to steal property
+
+ 372    §98     Selling child for prostitution
+
+ 373    §99     Buying child for prostitution
+
+
+⚠️ New provision
+BNS §95 is a new specific provision concerning hiring/employing a child to commit an offence.
+
+
+
+
+XIV. OFFENCES AGAINST HUMAN BODY
+Homicide
+  IPC    BNS                             Subject
+
+ 299    §100    Culpable homicide
+
+ 300    §101    Murder
+<PARSED TEXT FOR PAGE: 703 / 748>
+301    §102    Death of person other than intended
+
+302    §103    Punishment for murder
+
+303    §104    Murder by life-convict
+
+304    §105    Culpable homicide not amounting to murder
+
+304A   §106    Death by negligence
+
+305    §107    Abetment of suicide of child/person of unsound mind
+
+306    §108    Abetment of suicide
+
+307    §109    Attempt to murder
+
+308    §110    Attempt to culpable homicide
+
+
+🔥 Absolute priority
+299 → 100
+
+300 → 101
+
+301 → 102
+
+302 → 103
+
+304 → 105
+
+304A → 106
+
+306 → 108
+
+307 → 109
+
+308 → 110
+
+
+
+
+XV. NEW ORGANIZED/ TERROR
+OFFENCES
+ IPC   BNS          Subject
+
+—      §11    Organised crime
+<PARSED TEXT FOR PAGE: 704 / 748>
+       1
+ —     §11    Petty organised
+       2      crime
+ —     §11    Terrorist act
+       3
+
+⚠️ Major BNS change
+These are important because they do not represent simple one-to-one IPC replacements.
+
+
+
+
+XVI. HURT
+        IPC           BNS                     Subject
+
+ 319                  §11    Hurt
+                      4
+ 321/323 framework    §11    Voluntarily causing hurt/grievous hurt
+                      5
+ 320                  §11    Grievous hurt
+                      6
+ 325                  §11    Voluntarily causing grievous hurt
+                      7
+ 324/326 framework    §11    Dangerous weapons/means
+                      8
+
+🔴 Must remember
+IPC §320 → BNS §116
+
+
+
+
+XVII. AGGRAVATED HURT OFFENCES
+        IPC           BNS                               Subject
+
+ 327–329 framework    §119      Hurt/grievous hurt to extort property/compel illegal act
+
+ 330–331              §120      Hurt/grievous hurt to extort confession/restore property
+
+ 332–333              §121      Hurt/grievous hurt to deter public servant
+
+ 334–335              §122      Hurt/grievous hurt on provocation
+<PARSED TEXT FOR PAGE: 705 / 748>
+ 328                     §123   Hurt by poison etc.
+
+ 326A–326B               §124   Acid attack
+
+ —                       §125   Act endangering life/personal safety
+
+
+⚠️ Important correction
+Do not confuse BNS §125 with wrongful restraint.
+
+Wrongful restraint = §126
+
+Wrongful confinement = §127
+
+
+
+
+XVIII. RESTRAINT AND CONFINEMENT
+     IPC           BNS                         Subject
+
+ 339        §126                Wrongful restraint
+
+ 340        §127                Wrongful confinement
+
+ 341        §126                Punishment for wrongful restraint
+
+ 342        §127                Punishment for wrongful confinement
+
+ 343–       §127 framework      Aggravated confinement provisions
+ 348
+
+🔥 Remember
+339 → 126
+
+340 → 127
+
+
+
+
+XIX. KIDNAPPING / ABDUCTION /
+TRAFFICKING
+     IPC           BNS                                 Subject
+
+ 359–       §137                Kidnapping
+<PARSED TEXT FOR PAGE: 706 / 748>
+ 361
+ 362         §138               Abduction
+
+ 363 etc.    §137 framework     Punishment/related kidnapping
+
+ —           §139               Kidnapping/maiming for begging
+
+ 365         §140               Kidnapping/abduction for wrongful confinement etc.
+
+ 366         §87                Woman compelled to marriage
+
+ —           §141               Importation of girl/boy from foreign country
+
+ 367         §140 framework     Kidnapping to subject to grievous hurt/slavery etc.
+
+ 368         §140 framework     Concealing/confined kidnapped person
+
+ 369         §97                Child under ten for stealing
+
+ —           §143               Trafficking
+
+ —           §144               Exploitation of trafficked person
+
+
+⚠️ Major changes
+§143 – Trafficking
+
+§144 – Exploitation of trafficked person
+
+These are important BNS provisions with no simple one-to-one IPC mapping.
+
+
+
+
+XX. OFFENCES AGAINST STATE
+ IPC        BNS                           Subject
+
+ 121    §147        Waging war against Government of India
+
+ 121A   §148        Conspiracy to commit §147 / overawe Government
+
+ 122    §149        Collecting arms to wage war
+
+ 123    §150        Concealing design to wage war
+
+ 124    §151        Assaulting President/Governor etc.
+<PARSED TEXT FOR PAGE: 707 / 748>
+ 124A    §152*     Former sedition-type area / sovereignty, unity, integrity
+
+
+⚠️ VERY IMPORTANT
+Do not write:
+
+       IPC §124A = BNS §152.
+
+Instead write:
+
+       BNS §152 is a distinct provision concerning acts endangering sovereignty,
+       unity and integrity of India. It replaced the old IPC sedition provision with a
+       differently structured offence.
+
+
+
+
+XXI. FOREIGN STATE
+ IPC    BNS                            Subject
+
+ 125    §153 Waging war against foreign State at peace with
+             India
+ 126    §154 Depredation on territory of foreign State
+
+ 127    §155 Receiving property taken by war/depredation
+
+
+
+
+XXII. ESCAPE OF STATE/PRISONERS
+ IPC    BNS                       Subject
+
+ 128    §156     Public servant voluntarily allowing escape
+
+ 129    §157     Public servant negligently allowing escape
+
+ 130    §158     Aiding/rescuing/harbouring prisoner
+
+
+
+
+XXIII. ARMY, NAVY AND AIR FORCE
+ IPC    BNS                      Subject
+<PARSED TEXT FOR PAGE: 708 / 748>
+131    §159   Abetting mutiny/seducing from duty
+
+132    §160   Abetment of mutiny if committed
+
+133    §161   Abetment of assault on superior officer
+
+134    §162   Assault on superior officer where
+              abetted
+135    §163   Abetment of desertion
+
+136    §164   Harbouring deserter
+
+137    §165   Deserter concealed on merchant vessel
+
+138    §166   Abetment of insubordination
+
+139    §167   Persons subject to certain Acts
+
+140    §168   Wearing military garb/token
+
+
+⭐ Easy chain
+131–140 → 159–168
+
+
+
+
+XXIV. ELECTION OFFENCES
+ IPC    BNS                      Subject
+
+171A   §169 Candidate/electoral right
+
+171B   §170 Bribery
+
+171C   §171 Undue influence
+
+171D   §172 Personation
+
+171E   §173 Punishment for bribery
+
+171F   §174 Punishment for undue
+            influence/personation
+171G   §175 False statement
+
+171H   §176 Illegal payments
+
+171I   §177 Failure to keep election accounts
+<PARSED TEXT FOR PAGE: 709 / 748>
+🔴 Must know
+171A–171I → 169–177
+
+
+
+
+XXV. COIN, CURRENCY AND BANK-
+NOTES
+The BNS reorganises the old IPC provisions.
+
+ IPC framework            BNS                            Subject
+
+ 230–235 etc.      §178              Counterfeiting coin/currency/bank-note
+
+ 239–240 etc.      §179              Using counterfeit as genuine
+
+ 242–243           §180              Possession of counterfeit
+
+ 255–256 etc.      §181              Instruments/material for counterfeiting
+
+ 489A              §178 framework    Counterfeit currency
+
+ 489B              §179 framework    Using counterfeit
+
+ 489C              §180 framework    Possession
+
+ 489D              §181 framework    Instruments
+
+ 489E              §182              Documents resembling currency/bank-
+                                     notes
+
+⭐ Memory
+178 = MAKE
+
+179 = USE
+
+180 = POSSESS
+
+181 = INSTRUMENT
+
+182 = RESEMBLING DOCUMENT
+<PARSED TEXT FOR PAGE: 710 / 748>
+XXVI. GOVERNMENT STAMPS
+ BNS                          Subject
+
+§183     Counterfeiting/altering Government stamp
+
+§184     Possession of counterfeit Government stamp
+
+§185     Possession with intent to use as genuine
+
+§186     Selling counterfeit stamp
+
+§187     Using counterfeit stamp
+
+§188     Erasing/removing writing from Government stamp
+
+
+
+
+XXVII. PUBLIC TRANQUILLITY
+   IPC      BNS                            Subject
+
+141–        §189    Unlawful assembly
+145
+149         §190    Liability of members
+
+146–        §191    Rioting
+148
+153         §192    Provocation to riot
+
+154         §193    Owner/occupier where riot occurs
+
+159         §194    Affray
+
+152         §195    Assault/obstruction of public servant suppressing riot
+
+153A        §196    Promoting enmity
+
+153B        §197    Imputations prejudicial to national integration
+
+
+🔥 Extremely important
+IPC §149 → BNS §190
+
+IPC §§141–145 → BNS §189
+
+IPC §§146–148 → BNS §191
+<PARSED TEXT FOR PAGE: 711 / 748>
+IPC §159 → BNS §194
+
+
+
+
+XXVIII. PUBLIC SERVANTS
+ IPC   BNS                     Subject
+
+166    §198   Public servant disobeying law
+
+166A   §199   Disobedience of specified legal directions
+
+166B   §200   Punishment for non-treatment
+
+167    §201   Incorrect document by public servant
+
+168    §202   Public servant unlawfully engaging in trade
+
+169    §203   Public servant unlawfully buying/bidding
+
+170    §204   Personating public servant
+
+171    §205   Wearing public servant garb/token
+
+
+⭐ Chain
+166–171 → 198–205
+
+
+
+
+XXIX. CONTEMPTS OF LAWFUL
+AUTHORITY
+ IPC   BNS                               Subject
+
+172    §206 Absconding to avoid service
+
+173    §207 Preventing service/publication
+
+174    §208 Non-attendance
+
+174A   §209 Non-appearance after proclamation
+
+175    §210 Failure to produce document
+<PARSED TEXT FOR PAGE: 712 / 748>
+ 176    §211 Failure to give information
+
+ 177    §212 False information
+
+ 178    §213 Refusal oath
+
+ 179    §214 Refusal answer
+
+ 180    §215 Refusal signature
+
+ 181    §216 False statement on oath
+
+ 182    §217 False information causing misuse of lawful power
+
+ 183    §218 Resistance to taking property
+
+ 184    §219 Obstructing sale
+
+ 185    §220 Illegal purchase/bid
+
+ 186    §221 Obstructing public servant
+
+ 187    §222 Omission to assist
+
+ 188    §223 Disobedience to promulgated order
+
+ 189    §224 Threat to public servant
+
+ 190    §225 Threat to induce person not to seek protection
+
+ —      §226 Attempt to commit suicide to compel/restrain public servant
+
+
+⚠️ New
+BNS §226 has no simple IPC equivalent.
+
+
+
+
+XXX. FALSE EVIDENCE
+ IPC    BNS                                 Subject
+
+ 191    §227   Giving false evidence
+
+ 192    §228   Fabricating false evidence
+
+ 193    §229   Punishment
+<PARSED TEXT FOR PAGE: 713 / 748>
+194    §230   False evidence to procure conviction for death offence
+
+195    §231   False evidence to procure conviction for life/imprisonment offence
+
+195A   §232   Threatening person to give false evidence
+
+196    §233   Using evidence known false
+
+197    §234   False certificate
+
+198    §235   Using false certificate
+
+199    §236   False declaration
+
+200    §237   Using false declaration
+
+
+🔥 Must know
+191 → 227
+
+192 → 228
+
+193 → 229
+
+195A → 232
+
+
+
+
+XXXI. SCREENING OFFENDERS / PUBLIC
+JUSTICE
+ IPC   BNS                              Subject
+
+201    §238 Disappearance of evidence/screening offender
+
+202    §239 Intentional omission to give information
+
+203    §240 False information respecting offence
+
+204    §241 Destruction/concealment of document/e-record
+
+205    §242 False personation in judicial proceeding
+
+206    §243 Fraudulent removal/concealment of property
+
+207    §244 Fraudulent claim
+<PARSED TEXT FOR PAGE: 714 / 748>
+208     §245 Fraudulently suffering decree
+
+209     §246 Dishonest/false claim in court
+
+210     §247 Fraudulently obtaining decree
+
+211     §248 False charge with intent to injure
+
+212     §249 Harbouring offender
+
+213     §250 Taking gift to screen offender
+
+214     §251 Offering gift to screen offender
+
+215     §252 Taking gift to recover stolen property
+
+216     §253 Harbouring escaped offender
+
+216A    §254 Harbouring robbers/dacoits
+
+217     §255 Public servant disobeying law to save
+             person/property
+218     §256 Incorrect record by public servant
+
+219     §257 Corrupt judicial proceeding/order
+
+220     §258 Unlawful commitment/confinement
+
+221     §259 Public servant negligently allowing escape
+
+
+
+
+XXXII. OTHER PUBLIC JUSTICE
+OFFENCES
+  IPC         BNS                                 Subject
+
+222        §264         Public servant omission to apprehend
+
+224        §261         Escape/rescue from custody
+
+225        §260         Resistance to lawful apprehension
+
+225A       §§262–       Related apprehension/custody offences
+etc.       265
+—          §266         Violation of remission condition
+<PARSED TEXT FOR PAGE: 715 / 748>
+—             §267        Insult/interruption to public servant in judicial proceeding
+
+—             §268        Personation of assessor
+
+—             §269        Failure to appear on bail/bond
+
+
+⚠️rather
+     These later-numbered provisions should be learned from the BNS text
+         than trying to reconstruct them solely from IPC numbering.
+
+
+
+
+XXXIII. PUBLIC HEALTH AND SAFETY
+ IPC   BNS                       Subject
+
+268    §270    Public nuisance
+
+269    §271    Negligent spread of infection
+
+270    §272    Malignant spread of infection
+
+271    §273    Disobedience of quarantine rule
+
+272    §274    Adulteration of food/drink
+
+273    §275    Sale of noxious food/drink
+
+274    §276    Adulteration of drugs
+
+275    §277    Sale of adulterated drugs
+
+276    §278    Selling drug as different drug
+
+277    §279    Fouling public water
+
+278    §280    Making atmosphere noxious
+
+279    §281    Rash driving/riding
+
+280    §282    Rash navigation
+
+281    §283    False light/mark/buoy
+
+282    §284    Unsafe/overloaded vessel
+
+283    §285    Danger/obstruction public way
+
+284    §286    Negligent conduct with poisonous
+               substance
+<PARSED TEXT FOR PAGE: 716 / 748>
+ 285    §287   Negligent conduct with fire
+
+ 286    §288   Negligent conduct with explosive
+
+ 287    §289   Negligent conduct with machinery
+
+ 288    §290   Negligent conduct with buildings
+
+ 289    §291   Negligent conduct with animals
+
+ 290    §292   Punishment public nuisance
+
+ 291    §293   Continuing nuisance
+
+
+🔥 Easy chain
+IPC 268–291 → BNS 270–293
+
+
+
+
+XXXIV. OBSCENITY / LOTTERY
+ IPC     BNS                 Subject
+
+ 292    §294    Obscene books/material
+
+ 293    §295    Obscene objects/material to
+                child
+ 294    §296    Obscene acts/songs
+
+ 294A   §297    Lottery office
+
+
+⚠️ BNS development
+§294 expressly accommodates electronic content, making this particularly relevant for modern
+digital conduct.
+
+
+
+
+XXXV. RELIGIOUS OFFENCES
+ IPC     BNS                           Subject
+
+ 295    §298    Defiling place of worship
+<PARSED TEXT FOR PAGE: 717 / 748>
+295A     §299   Deliberate/malicious acts outraging religious feelings
+
+296      §300   Disturbing religious assembly
+
+297      §301   Trespassing on burial places
+
+298      §302   Words/acts intended to wound religious feelings
+
+
+🔥 Perfect memory chain
+295 → 298
+
+295A → 299
+
+296 → 300
+
+297 → 301
+
+298 → 302
+
+
+
+
+XXXVI. PROPERTY OFFENCES
+Theft → Robbery → Dacoity
+   IPC             BNS                                  Subject
+
+378–        §303              Theft
+379
+—           §304              Snatching
+
+380         §305              Theft in dwelling house/transport/place of worship etc.
+
+381         §306              Theft by clerk/servant
+
+382         §307              Theft after preparation for hurt/restraint
+
+383–        §308              Extortion
+389
+390         §309              Robbery
+
+391         §310              Dacoity
+
+392–        §309 framework    Robbery punishment/aggravation
+<PARSED TEXT FOR PAGE: 718 / 748>
+ 394
+ 395–       §310 framework    Dacoity/punishment
+ 396
+ 397        §311              Robbery/dacoity with attempt to cause death/grievous
+                              hurt
+ 398        §312              Attempt robbery/dacoity armed with deadly weapon
+
+ 400–       §313              Gang of robbers etc.
+ 401
+
+🔥 Must memorise
+378 → 303
+
+383 → 308
+
+390 → 309
+
+391 → 310
+
+
+
+
+XXXVII. MISAPPROPRIATION / BREACH
+OF TRUST
+   IPC      BNS              Subject
+
+ 403        §314   Dishonest misappropriation
+
+ 404        §315   Property of deceased
+
+ 405–       §316   Criminal breach of trust
+ 409
+
+🔥 Most important
+IPC §§405–409 → BNS §316
+
+The BNS consolidates the former framework into one principal provision with differentiated
+treatment.
+
+
+
+
+XXXVIII. STOLEN PROPERTY
+<PARSED TEXT FOR PAGE: 719 / 748>
+    IPC      BNS        Subject
+
+ 410–        §317    Stolen property
+ 414
+
+The BNS provision expressly covers property transferred through theft, extortion, robbery,
+cheating, criminal misappropriation or criminal breach of trust.
+
+
+
+
+XXXIX. CHEATING
+ IPC      BNS                           Subject
+
+ 415      §318   Cheating
+
+ 417      §318   Punishment/framework
+
+ 418      §318   Cheating where interest protected
+
+ 420      §318   Cheating and dishonestly inducing delivery of property
+
+
+🔥 Very important
+IPC §§415, 417, 418, 420 → BNS §318
+
+The BNS consolidates these cheating provisions.
+
+
+
+
+XL. CHEATING BY PERSONATION
+ IPC      BNS           Subject
+
+ 416      §319   Cheating by
+                 personation
+ 419      §319   Punishment
+
+
+⭐
+416/419 → 319
+<PARSED TEXT FOR PAGE: 720 / 748>
+XLI. FRAUDULENT DEEDS /
+DISPOSITIONS
+IPC    BNS                               Subject
+
+421    §320   Fraudulent deed/disposition to prevent distribution
+
+422    §321   Fraudulent deed/disposition to prevent debt being
+              available
+423    §322   False statement of consideration
+
+424    §323   Dishonest/fraudulent execution of deed
+
+
+
+
+XLII. MISCHIEF
+ IPC        BNS                          Subject
+
+425–        §324   Mischief
+426
+428–        §325   Mischief by killing/maiming animal
+429
+430–        §326   Mischief by inundation/fire/explosive etc.
+436
+437         §327   Mischief to railway/aircraft/vessel
+
+439         §328   Running vessel aground/ashore to commit
+                   offence
+
+
+
+
+XLIII. CRIMINAL TRESPASS / HOUSE-
+TRESPASS
+      IPC          BNS                           Subject
+
+441–442        §329           Criminal trespass/house-trespass
+
+443–446        §330           House-trespass/house-breaking
+
+447–448        §§331–         Punishments/aggravated circumstances
+etc.           333
+452            §333           House-trespass after preparation for hurt
+<PARSED TEXT FOR PAGE: 721 / 748>
+                             etc.
+461–462         §334         Dishonestly breaking open receptacle
+
+
+🔴 Core memory
+441 → 329
+
+443–446 → 330
+
+
+
+
+XLIV. FALSE DOCUMENT / FORGERY
+      IPC       BNS                     Subject
+
+464             §335 Making false document
+
+463/465         §336 Forgery
+etc.
+466             §337 Forgery of court/public register
+
+467             §338 Forgery of valuable security/will
+
+474             §339 Possession of specified forged
+                     document
+471             §340 Using forged document as genuine
+
+472–473         §341 Counterfeit seal
+
+475–476         §342 Counterfeit authentication device
+
+477             §343 Fraudulent cancellation/destruction
+
+477A            §344 Falsification of accounts
+
+
+🔥 Critical
+464 → 335
+
+463 → 336 framework
+
+466 → 337
+
+467 → 338
+<PARSED TEXT FOR PAGE: 722 / 748>
+471 → 340
+
+477A → 344
+
+
+
+
+XLV. PROPERTY MARKS
+ IPC   BNS                   Subject
+
+479    §345 Property mark
+
+480    §346 Tampering with property mark
+
+481    §347 Counterfeiting property mark
+
+482    §348 Instrument for counterfeiting
+
+483    §349 Selling goods with counterfeit mark
+
+484    §350 False mark on receptacle
+
+
+⭐ Easy chain
+479–484 → 345–350
+
+
+
+
+XLVI. CRIMINAL INTIMIDATION / INSULT /
+DEFAMATION
+ IPC   BNS                             Subject
+
+503    §351   Criminal intimidation
+
+504    §352   Intentional insult
+
+505    §353   Statements conducing to public mischief
+
+508    §354   Act caused by inducing belief of divine displeasure
+
+510    §355   Misconduct by drunken person
+
+499    §356   Defamation
+<PARSED TEXT FOR PAGE: 723 / 748>
+ 500     §356    Punishment for defamation
+
+ 491     §357    Breach of contract to attend/supply wants of helpless
+                 person
+
+🔥 Must memorise
+503 → 351
+
+504 → 352
+
+505 → 353
+
+499/500 → 356
+
+
+
+
+XLVII. THE MOST IMPORTANT IPC →
+BNS NUMBERS
+If you want a one-page emergency revision, memorise these:
+
+   IPC          BNS                      Topic
+
+ 34         3(5)         Common intention
+
+ 53         4            Punishments
+
+ 76–81      14–19        General exceptions
+
+ 82–86      20–24        Child/insanity/intoxication
+
+ 87–93      25–31        Consent
+
+ 94–95      32–33        Threat/slight harm
+
+ 96–106     34–44        Private defence
+
+ 107        45           Abetment
+
+ 108        46           Abettor
+
+ 120A/B     61           Conspiracy
+
+ 511        62           Attempt
+<PARSED TEXT FOR PAGE: 724 / 748>
+375    63     Rape
+
+376    64     Rape punishment
+
+354    74     Modesty
+
+354A   75     Sexual harassment
+
+354B   76     Disrobing
+
+354C   77     Voyeurism
+
+354D   78     Stalking
+
+304B   80     Dowry death
+
+498A   85     Cruelty
+
+299    100    Culpable homicide
+
+300    101    Murder
+
+301    102    Transferred malice
+
+302    103    Murder punishment
+
+304    105    Culpable homicide not murder
+
+304A   106    Death by negligence
+
+306    108    Abetment suicide
+
+307    109    Attempt murder
+
+308    110    Attempt culpable homicide
+
+320    116    Grievous hurt
+
+339    126    Wrongful restraint
+
+340    127    Wrongful confinement
+
+359–   137–   Kidnapping/abduction
+362    138
+121    147    Waging war
+
+124A   152    Sovereignty/unity/integrity provision
+
+141–   189–   Unlawful assembly/common object
+149    190
+146–   191    Rioting
+<PARSED TEXT FOR PAGE: 725 / 748>
+148
+159    194   Affray
+
+191    227   False evidence
+
+192    228   Fabricating false evidence
+
+201    238   Disappearance of evidence
+
+268    270   Public nuisance
+
+269    271   Negligent infection
+
+279    281   Rash driving
+
+292    294   Obscene material
+
+295    298   Place of worship
+
+295A   299   Religious feelings
+
+296    300   Religious assembly
+
+297    301   Burial places
+
+298    302   Wounding religious feelings
+
+378    303   Theft
+
+—      304   Snatching
+
+383    308   Extortion
+
+390    309   Robbery
+
+391    310   Dacoity
+
+403    314   Misappropriation
+
+405    316   Criminal breach of trust
+
+410    317   Stolen property
+
+415    318   Cheating
+
+416    319   Personation
+
+441    329   Criminal trespass
+
+464    335   False document
+<PARSED TEXT FOR PAGE: 726 / 748>
+ 463       336        Forgery
+
+ 466       337        Court/public register forgery
+
+ 467       338        Valuable security/will
+
+ 471       340        Using forged document
+
+ 477A      344        Falsification accounts
+
+ 479       345        Property mark
+
+ 503       351        Criminal intimidation
+
+ 504       352        Intentional insult
+
+ 499/500   356        Defamation
+
+
+
+
+🔥BY 30HEART
+        BNS SECTIONS YOU MUST KNOW
+
+For CCSU K-1006, I would make these your first memorisation target:
+
+§3(5) – Common intention
+§4 – Punishments
+§17 – Mistake of fact
+§18 – Accident
+§19 – Necessity
+§20 – Child under 7
+§22 – Unsoundness of mind
+§34–44 – Private defence
+§45 – Abetment
+§61 – Criminal conspiracy
+§62 – Attempt
+§63 – Rape
+§69 – Deceitful means
+§70 – Gang rape
+§74–78 – Major offences against women
+§80 – Dowry death
+§85 – Cruelty
+§100 – Culpable homicide
+§101 – Murder
+§103 – Punishment for murder
+§105 – Culpable homicide not murder
+§106 – Death by negligence
+§109 – Attempt murder
+<PARSED TEXT FOR PAGE: 727 / 748>
+§116 – Grievous hurt
+§126–127 – Restraint/confinement
+§137–138 – Kidnapping/abduction
+§152 – Sovereignty/unity/integrity
+§189–191 – Assembly/common object/rioting
+§303–310 – Theft → dacoity
+§314–319 – Property offences
+§335–344 – Forgery
+§351 – Criminal intimidation
+§356 – Defamation
+
+
+
+
+⭐papers
+    One critical point about using old CCSU
+
+If you see an old question such as:
+
+      “Explain Section 300 IPC.”
+
+Your current-law answer should begin:
+
+      “The corresponding provision under the Bharatiya Nyaya Sanhita, 2023 is
+      Section 101, which deals with murder.”
+
+Then answer under BNS §101, not IPC §300.
+
+This is the safest approach for a BNS-based paper.
+
+The official NCRB corresponding-section table confirms the broad IPC→BNS mapping,
+while the enacted BNS should remain the controlling statutory text.
+<PARSED TEXT FOR PAGE: 728 / 748>
+CCSU LL.B. SEMESTER I – K-1006
+
+LAW OF CRIMES – I
+QUESTION–ANSWER BANK – PART 8
+🔥 MOST PROBABLE / HIGH-PRIORITY QUESTION MASTER BANK
+This is the consolidated exam-priority list. Use it after finishing the chapter notes, short
+answers, 10-mark answers, case laws, and IPC → BNS conversion table.
+
+      Important: “Most probable” means high-priority based on syllabus coverage,
+      recurring Law of Crimes examination themes, and the importance of the
+      provision. It is not a guarantee of the exact questions that will appear.
+
+
+
+
+🏆 PRIORITY SYSTEM
+🔴 A+ = MUST STUDY
+Do not enter the examination without preparing these.
+
+🟠 A = VERY IMPORTANT
+High-value questions; prepare thoroughly.
+
+🟡 B = IMPORTANT
+Prepare after A+ and A topics.
+
+
+
+
+PART A – 1/4/5-MARK QUESTIONS
+🔴 A+ PRIORITY – DEFINITIONS
+General Principles
+<PARSED TEXT FOR PAGE: 729 / 748>
+ 1. Define crime.
+ 2. What is mens rea?
+ 3. What is actus reus?
+ 4. Explain actus non facit reum nisi mens sit rea.
+ 5. What is criminal liability?
+ 6. What is strict liability?
+ 7. What is absolute liability?
+ 8. What is constructive liability?
+ 9. What is common intention?
+ 10. What is common object?
+ 11. Distinguish intention and motive.
+ 12. What is an unlawful omission?
+ 13. What are the stages of crime?
+ 14. What is preparation?
+ 15. What is attempt?
+ 16. What is commission of an offence?
+
+
+
+
+🔴 A+ – ABETMENT / CONSPIRACY / ATTEMPT
+ 17. Define abetment.
+ 18. Who is an abettor?
+ 19. What is instigation?
+ 20. What is intentional aid?
+ 21. What is criminal conspiracy?
+ 22. What is the essence of conspiracy?
+ 23. What is attempt under BNS §62?
+ 24. Distinguish preparation from attempt.
+
+
+
+
+🔴 GENERAL EXCEPTIONS
+ 25. What is mistake of fact?
+ 26. What is mistake of law?
+ 27. What is accident?
+ 28. What is necessity?
+ 29. What is legal insanity?
+ 30. What is medical insanity?
+ 31. What is involuntary intoxication?
+ 32. What is voluntary intoxication?
+ 33. What is consent?
+ 34. What is private defence?
+ 35. When may private defence extend to causing death?
+ 36. What is grave and sudden provocation?
+ 37. What is slight harm?
+ 38. What is compulsion by threats?
+<PARSED TEXT FOR PAGE: 730 / 748>
+🔴 HUMAN BODY
+ 39. Define culpable homicide.
+ 40. Define murder.
+ 41. What are the four clauses of murder?
+ 42. What are the five exceptions to murder?
+ 43. What is transferred malice?
+ 44. What is culpable homicide not amounting to murder?
+ 45. What is death by negligence?
+ 46. What is hurt?
+ 47. What is grievous hurt?
+ 48. What are the eight kinds of grievous hurt?
+ 49. What is assault?
+ 50. What is criminal force?
+ 51. What is wrongful restraint?
+ 52. What is wrongful confinement?
+ 53. What is kidnapping?
+ 54. What is abduction?
+ 55. What is trafficking?
+
+
+
+
+🔴 WOMEN AND CHILDREN
+ 56. Define rape.
+ 57. What is consent in sexual offences?
+ 58. What is sexual harassment?
+ 59. What is voyeurism?
+ 60. What is stalking?
+ 61. What is dowry death?
+ 62. What is cruelty?
+ 63. What is sexual intercourse by deceitful means under BNS §69?
+ 64. What is gang rape?
+ 65. What is procuration of child?
+ 66. What is selling a child for prostitution?
+
+
+
+
+🔴 PROPERTY
+ 67. Define theft.
+ 68. What is snatching?
+ 69. Define extortion.
+<PARSED TEXT FOR PAGE: 731 / 748>
+ 70. Define robbery.
+ 71. Define dacoity.
+ 72. What is dishonest misappropriation?
+ 73. What is criminal breach of trust?
+ 74. What is stolen property?
+ 75. What is cheating?
+ 76. What is cheating by personation?
+ 77. What is criminal trespass?
+ 78. What is house-trespass?
+ 79. What is forgery?
+ 80. What is a false document?
+ 81. What is a property mark?
+ 82. What is falsification of accounts?
+
+
+
+
+🔴 STATE / PUBLIC TRANQUILLITY
+ 83. What is waging war against the Government of India?
+ 84. Explain BNS §152.
+ 85. What is unlawful assembly?
+ 86. What is common object?
+ 87. What is rioting?
+ 88. What is affray?
+ 89. What is promoting enmity between groups?
+
+
+
+
+🔴 PUBLIC JUSTICE / REPUTATION
+ 90. What is giving false evidence?
+ 91. What is fabricating false evidence?
+ 92. What is disappearance of evidence?
+ 93. What is a false charge?
+ 94. What is criminal intimidation?
+ 95. What is intentional insult?
+ 96. What is defamation?
+ 97. What are the ten exceptions to defamation?
+ 98. What is public nuisance?
+ 99. What is rash driving?
+ 100.       What is an obscene publication?
+
+
+
+
+PART B – 10-MARK QUESTIONS
+<PARSED TEXT FOR PAGE: 732 / 748>
+🔥 A+ PRIORITY
+1. Explain the essential elements of a crime.
+Sections: General principles
+
+
+
+
+2. Explain mens rea and its importance in criminal law.
+Key concepts:
+Mens rea, actus reus, strict liability.
+
+
+
+
+3. Explain the different stages of crime.
+Key sections: §62 and specific attempt offences.
+
+
+
+
+4. Explain common intention under BNS §3(5).
+⚖️⚖️Barendra Kumar Ghosh
+    Mahbub Shah
+
+
+
+
+5. Distinguish common intention and common object.
+Sections: §3(5), §§189–190.
+
+🔥 Very likely distinction question.
+6. Explain the general exceptions under BNS.
+Sections: §§14–44.
+
+
+
+
+7. Explain mistake of fact and mistake of law.
+Sections: §§14, 17.
+<PARSED TEXT FOR PAGE: 733 / 748>
+8. Explain accident and necessity.
+Sections: §§18–19.
+
+
+
+
+9. Explain criminal responsibility of children.
+Sections: §§20–21.
+
+
+
+
+10. Explain insanity as a defence.
+Section: §22.
+
+⚖️ Dahyabhai
+
+11. Explain intoxication as a defence.
+Sections: §§23–24.
+
+
+
+
+12. Explain the right of private defence.
+Sections: §§34–44.
+
+🔥🔥 One of the highest-priority questions.
+13. Explain abetment and its modes.
+Section: §45.
+
+
+
+
+14. Explain criminal conspiracy.
+Section: §61.
+
+
+
+
+15. Distinguish preparation and attempt.
+Section: §62.
+<PARSED TEXT FOR PAGE: 734 / 748>
+🔥 HUMAN BODY – 10 MARKS
+16. Distinguish culpable homicide and murder.
+Sections: §§100–105.
+
+🔥🔥🔥 TOP PRIORITY
+17. Explain the five exceptions to murder.
+Section: §101.
+
+
+
+
+18. Explain transferred malice.
+Section: §102.
+
+
+
+
+19. Explain death caused by negligence.
+Section: §106.
+
+⚖️ Jacob Mathew
+
+20. Explain hurt and grievous hurt.
+Sections: §§114–118.
+
+
+
+
+21. Distinguish assault and criminal force.
+Sections: relevant BNS provisions.
+
+
+
+
+22. Distinguish wrongful restraint and wrongful confinement.
+Sections: §§126–127.
+<PARSED TEXT FOR PAGE: 735 / 748>
+23. Distinguish kidnapping and abduction.
+Sections: §§137–138.
+
+
+
+
+🔥 WOMEN / CHILDREN – 10 MARKS
+24. Explain rape and the concept of consent.
+Sections: §§63–64.
+
+⚖️ State of Punjab v Gurmit Singh
+
+25. Explain sexual harassment, voyeurism and stalking.
+Sections: §§75, 77, 78.
+
+
+
+
+26. Explain dowry death.
+Section: §80.
+
+⚖️ Kans Raj
+
+27. Explain cruelty by husband or relatives.
+Sections: §§85–86.
+
+⚖️ Arnesh Kumar
+
+🔥 PROPERTY – 10 MARKS
+28. Distinguish theft, extortion, robbery and dacoity.
+Sections: §§303–310.
+<PARSED TEXT FOR PAGE: 736 / 748>
+🔥🔥🔥 TOP PRIORITY
+29. Explain dishonest misappropriation and criminal breach of trust.
+Sections: §§314, 316.
+
+
+
+
+30. Explain cheating and distinguish it from breach of contract.
+Section: §318.
+
+⚖️ Hridaya Ranjan
+
+31. Explain criminal trespass and house-trespass.
+Sections: §§329–333.
+
+
+
+
+32. Explain forgery and false documents.
+Sections: §§335–340.
+
+⚖️ Mohd. Ibrahim
+
+🔥 PUBLIC TRANQUILLITY / STATE
+33. Explain unlawful assembly and constructive liability.
+Sections: §§189–190.
+
+⚖️ Lalji
+
+34. Distinguish unlawful assembly, rioting and affray.
+Sections: §§189, 191, 194.
+<PARSED TEXT FOR PAGE: 737 / 748>
+35. Explain BNS §152.
+
+🔥🔥 Very important BNS-specific question.
+
+🔥 PUBLIC JUSTICE / DEFAMATION
+36. Distinguish giving and fabricating false evidence.
+Sections: §§227–228.
+
+
+
+
+37. Explain criminal intimidation.
+Section: §351.
+
+
+
+
+38. Explain defamation and its ten exceptions.
+Section: §356.
+
+⚖️ Subramanian Swamy
+
+PART C – 20-MARK QUESTIONS
+These should be prepared as complete long answers.
+
+
+
+
+🔥🔥🔥 A+ MASTER QUESTIONS
+Q1. Explain culpable homicide and murder. Distinguish
+between them with reference to statutory provisions and
+leading cases.
+Sections:
+<PARSED TEXT FOR PAGE: 738 / 748>
+§§100, 101, 102, 103, 105
+
+Cases:
+   ●   Rayavarapu Punnayya
+   ●   Virsa Singh
+   ●   K.M. Nanavati
+   ●   Pulicherla Nagaraju
+
+Must include:
+   ●   definition;
+   ●   four clauses of murder;
+   ●   five exceptions;
+   ●   comparison table;
+   ●   cases;
+   ●   examples;
+   ●   conclusion.
+
+
+
+
+Q2. Explain the right of private defence
+under BNS.
+Sections:
+§§34–44
+
+Cases:
+   ●   Darshan Singh
+   ●   James Martin
+   ●   Puran Singh
+
+Must include:
+   ●   defence of body;
+   ●   defence of property;
+   ●   apprehension;
+   ●   limitations;
+   ●   when death can be caused;
+   ●   commencement/continuance;
+   ●   excessive force;
+   ●   examples.
+<PARSED TEXT FOR PAGE: 739 / 748>
+Q3. Explain general exceptions under
+BNS.
+Sections:
+§§14–44
+
+Must cover:
+   ●   mistake;
+   ●   accident;
+   ●   necessity;
+   ●   infancy;
+   ●   insanity;
+   ●   intoxication;
+   ●   consent;
+   ●   compulsion;
+   ●   slight harm;
+   ●   private defence.
+
+
+
+
+Q4. Explain abetment, criminal conspiracy
+and attempt and distinguish them.
+Sections:
+§§45–62
+
+Must include:
+
+Abetment → §45
+
+Conspiracy → §61
+
+Attempt → §62
+
+Cases:
+   ●   Kehar Singh
+   ●   Som Nath Thapa
+   ●   Abhayanand Mishra
+   ●   Mohd. Yakub
+<PARSED TEXT FOR PAGE: 740 / 748>
+Q5. Explain theft, extortion, robbery and
+dacoity and distinguish them.
+Sections:
+§§303–310
+
+Must include:
+   ●   theft;
+   ●   snatching;
+   ●   extortion;
+   ●   robbery;
+   ●   dacoity;
+   ●   essential ingredients;
+   ●   comparison table;
+   ●   examples.
+
+🔥 Very high probability topic.
+
+Q6. Explain common intention and
+common object and distinguish them.
+Sections:
+§3(5), §§189–190
+
+Cases:
+   ●   Barendra Kumar Ghosh
+   ●   Mahbub Shah
+   ●   Lalji
+   ●   Masalti
+
+Must include:
+Common intention = 2+ + meeting of minds
+
+Common object = 5+ + unlawful assembly
+<PARSED TEXT FOR PAGE: 741 / 748>
+Q7. Explain offences relating to rape and
+other sexual offences against women.
+Sections:
+§§63–79
+
+Must cover:
+   ●   rape;
+   ●   consent;
+   ●   aggravated rape;
+   ●   gang rape;
+   ●   repeat offenders;
+   ●   sexual intercourse by deceitful means;
+   ●   sexual harassment;
+   ●   disrobing;
+   ●   voyeurism;
+   ●   stalking;
+   ●   insulting modesty.
+
+
+
+
+Q8. Explain dowry death and cruelty
+against married women.
+Sections:
+§80, §§85–86
+
+Cases:
+   ●   Kans Raj
+   ●   Satvir Singh
+   ●   Arnesh Kumar
+
+Must distinguish:
+
+Cruelty ≠ Dowry death
+<PARSED TEXT FOR PAGE: 742 / 748>
+Q9. Explain offences relating to cheating,
+dishonest misappropriation and criminal
+breach of trust.
+Sections:
+§§314–318
+
+Cases:
+  ●   Hridaya Ranjan
+  ●   Indian Oil Corporation v NEPC
+  ●   Pyare Lal Bhargava
+
+
+
+
+Q10. Explain unlawful assembly, common
+object, rioting and affray.
+Sections:
+§§189–194
+
+Cases:
+  ●   Lalji
+  ●   Masalti
+  ●   Kuldip Yadav
+
+
+
+
+Q11. Explain BNS §152 in detail and
+discuss its constitutional relationship with
+freedom of speech.
+Must cover:
+  ●   ingredients;
+  ●   prohibited conduct;
+<PARSED TEXT FOR PAGE: 743 / 748>
+   ●   sovereignty;
+   ●   unity;
+   ●   integrity;
+   ●   secession;
+   ●   armed rebellion;
+   ●   subversive/separatist activities;
+   ●   electronic communication;
+   ●   lawful criticism;
+   ●   Article 19(1)(a);
+   ●   Article 19(2);
+   ●   former IPC §124A;
+   ●   Kedar Nath Singh;
+   ●   Balwant Singh.
+
+⚠️ Critical
+Do not simply call §152 “sedition”.
+
+
+
+
+Q12. Explain false evidence, fabrication of
+false evidence and related offences
+against public justice.
+Sections:
+§§227–241
+
+Cases:
+   ●   M.S. Ahlawat
+   ●   Santokh Singh
+
+
+
+
+Q13. Explain forgery and offences relating
+to false documents and property marks.
+Sections:
+§§335–350
+<PARSED TEXT FOR PAGE: 744 / 748>
+Cases:
+   ●   Mohd. Ibrahim
+
+Must include:
+   ●   false document;
+   ●   forgery;
+   ●   court record;
+   ●   valuable security;
+   ●   possession;
+   ●   use as genuine;
+   ●   counterfeit seal;
+   ●   falsification of accounts;
+   ●   property marks.
+
+
+
+
+Q14. Explain criminal intimidation and
+defamation with their essential ingredients
+and exceptions.
+Sections:
+§351 and §356
+
+Cases:
+   ●   Subramanian Swamy
+   ●   R. Rajagopal
+   ●   S. Khushboo
+
+
+
+
+🏆VERYTOPCLOSE
+         20 QUESTIONS – IF EXAM IS
+
+If you have very little time, do these in exactly this order:
+
+🔥 LEVEL 1 – DO NOT SKIP
+   1. Culpable homicide vs murder
+<PARSED TEXT FOR PAGE: 745 / 748>
+  2. Private defence
+  3. Theft, extortion, robbery and dacoity
+  4. Common intention vs common object
+  5. General exceptions
+  6. Abetment
+  7. Conspiracy
+  8. Attempt vs preparation
+  9. Unlawful assembly + common object + rioting
+  10. Cheating
+
+🔥 LEVEL 2
+  11. Rape + consent
+  12. Dowry death + cruelty
+  13. Kidnapping vs abduction
+  14. Hurt + grievous hurt
+  15. Criminal breach of trust vs misappropriation
+  16. BNS §152
+  17. Forgery + false document
+  18. Defamation
+  19. Criminal intimidation
+  20. False evidence/fabrication
+
+
+
+
+📊STRATEGY
+   SECTION-WISE PREPARATION
+
+           Area           Priority         What to prepare
+
+General principles        🔴 A+       Mens rea, stages, liability
+
+General exceptions        🔴 A+       §§14–44
+
+Abetment                  🔴 A+       §45
+
+Conspiracy                🔴 A+       §61
+
+Attempt                   🔴 A+       §62
+
+Homicide                  🔴 A+       §§100–106
+
+Private defence           🔴 A+       §§34–44
+
+Hurt                      🟠A         §§114–124
+
+Kidnapping                🟠A         §§137–144
+<PARSED TEXT FOR PAGE: 746 / 748>
+ Women                   🔴 A+       §§63–99
+
+ State                   🔴A         §§147–158
+
+ Public tranquillity     🔴 A+       §§189–197
+
+ Public justice          🟠A         §§227–269
+
+ Public health           🟡B         §§270–297
+
+ Religion                🟡B         §§298–302
+
+ Property                🔴 A+       §§303–334
+
+ Documents               🔴A         §§335–350
+
+ Intimidation/defamation 🔴 A        §§351–357
+
+ Repeal/savings          🟡B         §358
+
+
+
+
+🔥 BNS-ONLY / NEW-ERA QUESTIONS
+These deserve special attention because they distinguish your answer from an old IPC-based
+answer.
+
+
+🔴 Must study
+1. Community service as a punishment
+§4
+
+2. Sexual intercourse by deceitful means
+§69
+
+3. Organised crime
+§111
+
+4. Petty organised crime
+§112
+<PARSED TEXT FOR PAGE: 747 / 748>
+5. Terrorist act
+§113
+
+6. Snatching
+§304
+
+7. Trafficking
+§143
+
+8. Exploitation of trafficked person
+§144
+
+9. BNS §152
+Sovereignty, unity and integrity
+
+10. Attempt to commit suicide to compel/restrain public servant
+§226
+
+11. Hiring/employing child to commit offence
+§95
+
+
+
+
+🧠 FINAL 50-SECTION MEMORY LIST
+If you want the highest return per hour, memorise these:
+
+§3(5) – Common intention
+§4 – Punishments
+§14 – Legal obligation/mistake
+§17 – Mistake of fact
+§18 – Accident
+§19 – Necessity
+§20 – Child under 7
+§21 – Child 7–12
+§22 – Unsoundness
+§23–24 – Intoxication
+§25–31 – Consent
+§32 – Threats
+§34–44 – Private defence
+<PARSED TEXT FOR PAGE: 748 / 748>
+§45 – Abetment
+§61 – Conspiracy
+§62 – Attempt
+§63 – Rape
+§64 – Rape punishment
+§69 – Deceitful means
+§70 – Gang rape
+§74–79 – Women offences
+§80 – Dowry death
+§85–86 – Cruelty
+§100 – Culpable homicide
+§101 – Murder
+§102 – Transferred malice
+§103 – Murder punishment
+§105 – Culpable homicide not murder
+§106 – Death by negligence
+§109 – Attempt murder
+§114–118 – Hurt/grievous hurt
+§124 – Acid attack
+§126–127 – Restraint/confinement
+§137–138 – Kidnapping/abduction
+§143–144 – Trafficking
+§147–152 – State offences
+§189–194 – Assembly/riot/affray
+§196–197 – Enmity/national integration
+§227–228 – False evidence
+§238 – Disappearance of evidence
+§270–281 – Public health/safety
+§294–296 – Obscenity
+§298–302 – Religion
+§303–310 – Theft to dacoity
+§314–318 – Property offences
+§329–334 – Trespass etc.
+§335–344 – Forgery
+§345–350 – Property marks
+§351 – Criminal intimidation
+§356 – Defamation
+§358 – Repeal and savings

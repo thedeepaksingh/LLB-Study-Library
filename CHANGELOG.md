@@ -45,3 +45,12 @@ Do not rewrite or delete historical entries. If an entry needs correction, appen
 - **Files:** added direct full-syllabus teaching notes, BNS section-wise learning guide, 22-case casebook, and original worked exam problems/answers; updated subject navigation, section finder, case-law dashboard and subject changelog.
 - **Purpose:** replace a link-heavy framework with actual study text, statutory ingredients, section numbers, case facts/holdings and application problems in the same BNS-1 location.
 - **Limitations:** summaries need continuing legal review; IPC-era cases are not represented as automatic interpretations of BNS. Practice questions are not claimed to be actual CCSU PYQs. The direct-learning pack has not been merged to main.
+
+
+### 2026-10-20 — BNS-Sem 1 source extraction proposed
+- **Branch:** `source/bns-sem1-source-preservation-2026-10-20`
+- **Status:** Proposed in a review branch; not merged to `main`.
+- **Source identity:** `BNS-Sem 1.docx`, 1,293,193 bytes, SHA-256 `9370cf06abc7b837d3c6346344ecd4d5de5bfceede9fe01b7177c75893fa9694`.
+- **Repository additions:** source archive README, extraction manifest, ten ordered transcript parts, separate text transcript for visible wording in six embedded images, and reusable source-ingestion template.
+- **Navigation:** linked the source archive from the BNS-1 dashboard and master index; updated subject changelog and completeness matrix.
+- **Preservation/limits:** text wording was archived without editorial correction. Plain text does not reproduce Word layout or original image pixels; the unchanged source DOCX remains in the conversation Library. Any factual or legal review must be recorded separately instead of rewriting this source transcript.
