@@ -1,0 +1,2999 @@
+
+This is an important modern provision.
+
+It addresses situations where:
+
+   ●    the abetment occurs outside India; but
+   ●    the offence is committed in India.
+<PARSED TEXT FOR PAGE: 75 / 748>
+Example
+A is sitting outside India and intentionally instigates B to commit an offence in India.
+
+The fact that A is physically outside India does not necessarily prevent liability under the
+statutory provision.
+
+
+
+
+🔄 SECTION 47 vs SECTION 48   Section 47                   Section 48
+
+ Abetment               India                    Outside India
+
+ Principal offence      Outside India            India
+
+ Principle              Abetment from India      Abetment from outside India
+
+ IPC                    §108A                    New/restructured
+ correspondence                                  provision
+
+⭐ Easy memory
+      47 = Inside → Outside
+
+      48 = Outside → Inside
+
+
+
+
+SECTION 49 – PUNISHMENT OF
+ABETMENT IF ACT ABETTED IS
+COMMITTED IN CONSEQUENCE AND
+WHERE NO EXPRESS PROVISION IS
+MADE FOR ITS PUNISHMENT
+BNS Section: 49
+Corresponding IPC: §109
+
+🔴 VERY IMPORTANT
+Where:
+<PARSED TEXT FOR PAGE: 76 / 748>
+   1. a person abets an offence;
+   2. the offence is committed in consequence of the abetment; and
+   3. BNS does not provide a specific punishment for that abetment,
+
+the abettor may receive the punishment prescribed under Section 49.
+
+⭐ Key principle
+      Where the abetted offence is actually committed, the abettor can be punished
+      even though the abettor did not personally perform the act.
+
+
+
+
+Example
+A instigates B to commit an offence.
+
+B commits that offence because of A's instigation.
+
+A may be punished as an abettor under the applicable provision.
+
+
+
+
+SECTION 50 – PUNISHMENT OF
+ABETMENT IF PERSON ABETTED DOES
+ACT WITH DIFFERENT INTENTION FROM
+THAT OF ABETTOR
+BNS Section: 50
+Corresponding IPC: §110
+
+This provision deals with situations where:
+
+      The person who actually commits the act does so with a different intention or
+      knowledge from that of the abettor.
+
+Example
+A encourages B to cause a particular kind of harm.
+
+B commits the act with a different mental state.
+<PARSED TEXT FOR PAGE: 77 / 748>
+The liability of A must be determined according to the statutory rule concerning the abettor's
+intention/knowledge.
+
+⭐ Important
+The mental element of:
+
+Abettor
+
+and
+
+Principal offender
+
+may differ.
+
+
+
+
+SECTION 51 – LIABILITY OF ABETTOR
+WHEN ONE ACT IS ABETTED AND A
+DIFFERENT ACT IS DONE
+BNS Section: 51
+Corresponding IPC: §111
+
+This provision deals with a situation where:
+
+   ●   A abets one act;
+   ●   B performs a different act.
+
+The abettor may still be liable where the different act is a probable consequence of the
+abetment under the statutory conditions.
+
+Example
+A encourages B to commit a violent offence.
+
+B commits another act during the execution of the plan that was a probable consequence of A's
+abetment.
+
+A's liability is determined under Section 51.
+<PARSED TEXT FOR PAGE: 78 / 748>
+SECTION 52 – ABETTOR WHEN ACT
+ABETTED AND ACT DONE DIFFERENTLY
+BNS Section: 52
+Corresponding IPC: §112
+
+Where the act actually committed is different from the act abetted, and the circumstances attract
+separate criminal liability, the abettor may be punished for the abetted act and the additional act
+where the statutory requirements are satisfied.
+
+
+
+
+SECTION 53 – LIABILITY OF ABETTOR
+FOR EFFECT CAUSED BY ACT ABETTED
+DIFFERENT FROM THAT INTENDED BY
+ABETTOR
+BNS Section: 53
+Corresponding IPC: §113
+
+This deals with a different consequence arising from the abetted act.
+
+Example
+A encourages B to cause a particular injury.
+
+B's conduct causes a more serious consequence.
+
+The liability of A depends upon whether the consequence falls within the statutory rule.
+
+
+
+
+SECTION 54 – ABETTOR PRESENT WHEN
+OFFENCE IS COMMITTED
+BNS Section: 54
+Corresponding IPC: §114
+
+Where:
+<PARSED TEXT FOR PAGE: 79 / 748>
+   ●   a person would be punishable as an abettor if absent; and
+   ●   that person is present when the offence is committed,
+
+the law may treat the person as having committed the offence.
+
+⭐ Important
+Mere physical presence is not automatically abetment.
+
+The person must first satisfy the conditions for being an abettor.
+
+
+
+
+SECTION 55 – ABETMENT OF OFFENCE
+PUNISHABLE WITH DEATH OR
+IMPRISONMENT FOR LIFE
+BNS Section: 55
+Corresponding IPC: §115
+
+This deals with abetment of particularly serious offences punishable with:
+
+   ●   death; or
+   ●   imprisonment for life.
+
+The punishment depends upon whether:
+
+   ●   the offence is actually committed; or
+   ●   the offence is not committed.
+
+
+
+
+SECTION 56 – ABETMENT OF OFFENCE
+PUNISHABLE WITH IMPRISONMENT
+BNS Section: 56
+Corresponding IPC: §116
+
+This deals with abetment of offences punishable with imprisonment where the principal offence
+is not completed or where the statutory circumstances apply.
+<PARSED TEXT FOR PAGE: 80 / 748>
+SECTION 57 – ABETMENT OF OFFENCE
+BY PUBLIC OR BY MORE THAN TEN
+PERSONS
+BNS Section: 57
+
+This provision addresses abetment involving:
+
+   ●   the public generally; or
+   ●   more than ten persons.
+
+⭐ Exam point
+This provision targets situations where encouragement/instigation is directed toward a large
+group, rather than a single individual.
+
+
+
+
+SECTION 58 – CONCEALING DESIGN TO
+COMMIT OFFENCE PUNISHABLE WITH
+DEATH OR IMPRISONMENT FOR LIFE
+BNS Section: 58
+Corresponding IPC: §118
+
+A person who intentionally conceals the existence of a design to commit a serious offence may
+be liable where the statutory conditions are met.
+
+Example
+A learns that B and others are planning an offence punishable with life imprisonment.
+
+A deliberately conceals the plan, intending to facilitate its commission.
+
+A may incur liability under the provision.
+
+
+
+
+SECTION 59 – PUBLIC SERVANT
+CONCEALING DESIGN TO COMMIT
+<PARSED TEXT FOR PAGE: 81 / 748>
+OFFENCE WHICH IT IS HIS DUTY TO
+PREVENT
+BNS Section: 59
+Corresponding IPC: §119
+
+This is specifically applicable to public servants.
+
+Where a public servant:
+
+    ●   knows of a design to commit an offence;
+    ●   has a legal duty to prevent the offence; and
+    ●   intentionally conceals the design or provides information contrary to the statutory
+        requirement,
+
+criminal liability may arise.
+
+
+
+
+SECTION 60 – CONCEALING DESIGN TO
+COMMIT OFFENCE PUNISHABLE WITH
+IMPRISONMENT
+BNS Section: 60
+Corresponding IPC: §120
+
+This provision deals with concealment of a design to commit offences punishable with
+imprisonment.
+
+The punishment varies according to the seriousness of the offence intended.
+
+
+
+
+PART B – CRIMINAL CONSPIRACY
+
+SECTION 61 – CRIMINAL CONSPIRACY
+BNS Section: 61
+Corresponding IPC: §120A + §120B
+
+🔴 EXTREMELY IMPORTANT
+<PARSED TEXT FOR PAGE: 82 / 748>
+Criminal conspiracy is an agreement between two or more persons to:
+
+   1. do an illegal act; or
+   2. do a legal act by illegal means.
+
+⭐ Formula
+       Two or more persons + Agreement + Illegal object/illegal means = Criminal
+       conspiracy
+
+
+
+
+61.1 Essential Ingredients
+1. Two or More Persons
+A conspiracy requires at least:
+
+       Two persons
+
+A person cannot conspire with himself.
+
+
+
+
+2. Agreement
+There must be an agreement between the parties.
+
+The essence of conspiracy is:
+
+       Agreement
+
+
+
+
+3. Illegal Act or Illegal Means
+The agreement must relate to:
+
+   ●    doing an illegal act; OR
+   ●    doing a legal act through illegal means.
+<PARSED TEXT FOR PAGE: 83 / 748>
+61.2 When Is the Agreement Itself
+Enough?
+Where the agreement is to commit an offence, the agreement itself may constitute criminal
+conspiracy.
+
+Where the agreement concerns something other than an offence, an additional act in pursuance
+of the agreement may be required under the statutory rule.
+
+⭐ Very Important
+      Conspiracy is primarily an offence of agreement.
+
+
+
+
+⚖️ CASE LAW — CRIMINAL CONSPIRACY
+Kehar Singh v. State (Delhi Administration)
+The Supreme Court explained that conspiracy is generally hatched in secrecy and can often be
+proved through circumstances rather than direct evidence.
+
+Exam use
+Use in:
+
+      Definition and proof of conspiracy.
+
+
+
+
+State of Maharashtra v. Som Nath Thapa
+The Supreme Court discussed the ingredients of criminal conspiracy and the significance of the
+agreement.
+
+⭐ Exam use
+      Essential ingredients of conspiracy.
+<PARSED TEXT FOR PAGE: 84 / 748>
+CRIMINAL CONSPIRACY vs ABETMENT
+BY CONSPIRACY
+Very important distinction.
+
+                      Abetment by conspiracy                            Criminal
+                                                                       conspiracy
+
+ BNS §45                                                           BNS §61
+
+ One form of abetment                                              Independent offence
+
+ Requires act/illegal omission in pursuance in the circumstances   Agreement is central
+ specified
+
+ IPC §107                                                          IPC §§120A–120B
+
+
+⭐ Memory
+      §45 → Conspiracy as a METHOD of abetment
+
+      §61 → Conspiracy as an INDEPENDENT OFFENCE
+
+
+
+
+PART C – ATTEMPT
+
+SECTION 62 – PUNISHMENT FOR
+ATTEMPTING TO COMMIT OFFENCES
+PUNISHABLE WITH IMPRISONMENT FOR
+LIFE OR OTHER IMPRISONMENT
+BNS Section: 62
+Corresponding IPC: §511
+
+🔴 EXTREMELY IMPORTANT
+Attempt is the stage between:
+
+      Preparation
+<PARSED TEXT FOR PAGE: 85 / 748>
+and
+
+      Commission of the offence
+
+
+
+
+62.1 Stages of Crime
+This is a fundamental criminal-law concept.
+
+Stage 1 — Intention
+The person forms the intention to commit an offence.
+
+Stage 2 — Preparation
+The person makes arrangements to commit the offence.
+
+Stage 3 — Attempt
+The person performs an act towards the commission of the offence, going beyond mere
+preparation.
+
+Stage 4 — Commission
+The offence is completed.
+
+⭐ Formula
+      Intention → Preparation → Attempt → Commission
+
+
+
+
+62.2 Intention
+Intention alone is generally not punishable.
+
+Example
+A thinks about stealing B's car.
+
+No offence of theft has necessarily been committed merely because A formed the thought.
+<PARSED TEXT FOR PAGE: 86 / 748>
+62.3 Preparation
+Preparation consists of arranging the means necessary for committing the offence.
+
+Example
+A plans to rob a bank and purchases a mask and gloves.
+
+Generally, this remains preparation.
+
+
+
+
+62.4 Attempt
+Attempt begins when the person performs an act sufficiently proximate to the commission of the
+offence.
+
+Example
+A enters the bank with the weapon and begins demanding money.
+
+The conduct may amount to attempt depending upon the facts.
+
+
+
+
+62.5 Commission
+The offence is completed when all the essential ingredients of the substantive offence are
+fulfilled.
+
+
+
+
+⭐ PREPARATION vs ATTEMPT
+             Preparation                               Attempt
+
+ Arranging means                       Direct movement toward commission
+
+ Generally not punishable              Generally punishable
+
+ Earlier stage                         Later stage
+
+ Crime may still be abandoned          Offender has crossed closer to
+<PARSED TEXT FOR PAGE: 87 / 748>
+ easily                                 execution
+ Example: buying tools                  Example: using tools to commit offence
+
+
+⭐ Exam sentence
+      Preparation consists of arranging the means necessary for the commission
+      of an offence, whereas attempt begins when the accused performs an act
+      towards the actual commission of the offence after preparation is complete.
+
+
+
+
+⚖️ IMPORTANT CASE LAWS — ATTEMPT
+Abhayanand Mishra v. State of Bihar
+The Supreme Court explained the distinction between preparation and attempt.
+
+Principle
+Attempt involves an act done towards the commission of the offence, going beyond mere
+preparation.
+
+
+
+
+Malkiat Singh v. State of Punjab
+The case is useful for understanding the proximity test in distinguishing preparation from
+attempt.
+
+
+
+
+State of Maharashtra v. Mohd. Yakub
+A leading authority concerning the distinction between preparation and attempt.
+
+⭐ Exam use
+Use it when asked:
+
+      “When does preparation become attempt?”
+<PARSED TEXT FOR PAGE: 88 / 748>
+🔄TABLE
+   CHAPTER IV — COMPLETE IPC → BNS
+
+ BNS           IPC                             Subject
+
+ §45    §107            Abetment
+
+ §46    §108            Abettor
+
+ §47    §108A           Abetment in India of offence outside India
+
+ §48    —               Abetment outside India for offence in India
+
+ §49    §109            Punishment where abetted act committed
+
+ §50    §110            Different intention of person abetted
+
+ §51    §111            Different act done
+
+ §52    §112            Cumulative liability
+
+ §53    §113            Different effect caused
+
+ §54    §114            Abettor present
+
+ §55    §115            Abetment of serious offences
+
+ §56    §116            Abetment of offences punishable with imprisonment
+
+ §57    §117            Abetment by public / >10 persons
+
+ §58    §118            Concealing design of serious offence
+
+ §59    §119            Public servant concealing design
+
+ §60    §120            Concealing design to commit offence
+
+ §61    §§120A–120B     Criminal conspiracy
+
+ §62    §511            Attempt
+
+
+⚠️ Important
+BNS §48 has no exact standalone IPC equivalent.
+
+This is one of the areas where you should mark:
+
+       ⚠️ NEW / MODERNISED PROVISION
+<PARSED TEXT FOR PAGE: 89 / 748>
+rather than trying to force an IPC section number into the table.
+
+
+
+
+⭐ THREE CONCEPTS — ONE TABLE         Abetment                Conspiracy            Attempt
+
+ BNS                         §45                           §61              §62
+
+ Basic idea                  Encouraging/helping           Agreement        Direct act toward
+                                                                            commission
+
+ Persons                     Usually involves abettor +    At least 2       One person can
+                             principal                     conspirators     attempt
+
+ Completion of principal     Not always                    No               No
+ offence necessary?
+
+ Central element             Instigation/aid               Agreement        Act towards
+                                                                            commission
+
+ IPC                         §107 onward                   §§120A–120B      §511
+
+
+
+
+🔥 MOST IMPORTANT DISTINCTIONS
+1. Abetment vs Conspiracy
+Abetment: broader concept involving instigation, conspiracy or intentional aid.
+
+Conspiracy: agreement to commit an illegal act or legal act through illegal means.
+
+
+
+
+2. Conspiracy vs Attempt
+Conspiracy = Agreement
+
+Attempt = Act towards commission
+
+Easy memory:
+<PARSED TEXT FOR PAGE: 90 / 748>
+     Conspiracy happens in the mind through agreement between persons;
+     attempt manifests the criminal intention through conduct.
+
+
+
+
+3. Preparation vs Attempt
+Preparation → Arranging
+
+Attempt → Executing
+
+
+
+
+4. Intention vs Attempt
+Intention alone → Generally insufficient
+
+Attempt → Punishable where statutory requirements are satisfied
+
+
+
+
+⚖️ CASE LAW REVISION TABLE
+                  Case                                     Principle
+
+Kehar Singh v. State                       Criminal conspiracy
+
+State of Maharashtra v. Som Nath Thapa     Ingredients of conspiracy
+
+Abhayanand Mishra v. State of Bihar        Preparation vs attempt
+
+Malkiat Singh v. State of Punjab           Proximity between preparation and
+                                           attempt
+State of Maharashtra v. Mohd. Yakub        Attempt
+
+
+
+
+📝 IMPORTANT EXAM QUESTIONS
+5 Marks
+   1. Define abetment.
+   2. Who is an abettor?
+<PARSED TEXT FOR PAGE: 91 / 748>
+     3. What is instigation?
+     4. What is intentional aid?
+     5. What is criminal conspiracy?
+     6. What is an attempt?
+     7. Define preparation.
+     8. Distinguish preparation and attempt.
+     9. What is abetment by conspiracy?
+     10. Can a person be liable for abetment even if he did not personally commit the offence?
+
+
+
+
+🔴 10-MARK QUESTIONS
+1.
+Define abetment and explain its different modes under BNS.
+
+2.
+Explain criminal conspiracy and its essential ingredients.
+
+3.
+Distinguish between criminal conspiracy and abetment by conspiracy.
+
+4.
+Explain the difference between preparation and attempt.
+
+5.
+Discuss the law relating to attempt under BNS.
+
+
+
+
+🔴 15-MARK QUESTIONS
+Question 1
+“Abetment is a form of participation in crime.” Explain the concept of abetment and
+discuss its different forms under BNS.
+
+Question 2
+<PARSED TEXT FOR PAGE: 92 / 748>
+What is criminal conspiracy? Explain its essential ingredients and distinguish it from
+abetment by conspiracy.
+
+Question 3
+“The dividing line between preparation and attempt is very thin.” Discuss with the help of
+leading cases.
+
+Question 4
+Explain the various stages of commission of an offence and discuss the legal
+significance of attempt.
+
+
+
+
+🧠 CHAPTER IV — ONE-PAGE REVISION
+§§45–60 → ABETMENT
+
+§45 → What constitutes abetment
+§46 → Abettor
+§47 → India → offence outside India
+§48 → Outside India → offence in India
+§49–60 → Various forms and punishments of abetment
+
+§61 → CONSPIRACY
+
+     Agreement + illegal object/illegal means
+
+§62 → ATTEMPT
+
+     Act towards commission after preparation
+
+
+
+
+🔥 FINAL MEMORY FORMULA
+ABETMENT
+I+C+A
+
+     Instigation + Conspiracy + Intentional Aid
+<PARSED TEXT FOR PAGE: 93 / 748>
+CONSPIRACY
+A + 2+ Persons + Illegal Object/Means
+
+     Agreement is the heart of conspiracy.
+
+ATTEMPT
+
+Intention → Preparation → Attempt → Commission
+
+     Attempt begins where preparation ends.
+<PARSED TEXT FOR PAGE: 94 / 748>
+BNS – BHARATIYA NYAYA SANHITA,
+2023
+LLB – SEMESTER I
+
+CHAPTER V – OFFENCES AGAINST
+WOMAN AND CHILD
+BNS Sections: 63–99
+
+🔴 EXAM PRIORITY: EXTREMELY HIGH
+This chapter is one of the most important portions of BNS for examination purposes. It contains
+offences relating to:
+
+   1. Rape and sexual offences
+   2. Sexual intercourse by deceitful means
+   3. Gang rape
+   4. Sexual harassment
+   5. Assault or criminal force against women
+   6. Disrobing
+   7. Voyeurism
+   8. Stalking
+   9. Offences relating to marriage
+   10. Dowry death
+   11. Cruelty by husband or relatives
+   12. Causing miscarriage
+   13. Offences against children
+   14. Selling/buying children for prostitution and related purposes
+
+Important: BNS has reorganised this area substantially. Therefore, for your notes, we will
+always distinguish between an exact IPC equivalent, a modified provision, and a new BNS
+provision.
+
+
+
+
+PART A – SEXUAL OFFENCES
+
+SECTION 63 – RAPE
+<PARSED TEXT FOR PAGE: 95 / 748>
+BNS Section: 63
+Corresponding IPC: §375
+
+🔴 EXTREMELY IMPORTANT
+Section 63 defines the offence of rape.
+
+A man commits rape if he engages in any of the acts specified by the provision against a
+woman under the circumstances specified in Section 63.
+
+The provision covers four broad categories of sexual acts:
+
+   1. Penetration of the penis into the vagina, mouth, urethra or anus;
+   2. Insertion of an object or body part, other than the penis, into the vagina, urethra or anus;
+   3. Manipulation of any part of the body causing penetration into the vagina, urethra, anus
+      or other specified body parts; or
+   4. Applying the mouth to the vagina, anus or urethra,
+
+when the act occurs under one of the legally specified circumstances.
+
+The circumstances include:
+
+   ●   Against her will;
+   ●   Without her consent;
+   ●   With consent obtained by putting her or someone she is interested in in fear of death or
+       hurt;
+   ●   With consent where the man knows he is not her husband but she consents because
+       she believes he is another man to whom she is lawfully married;
+   ●   With consent where, because of unsoundness of mind or intoxication, she cannot
+       understand the nature and consequence of the act;
+   ●   With or without consent where she is under 18 years of age.
+
+
+
+
+1. CONSENT
+Consent is one of the most important aspects of Section 63.
+
+The law distinguishes between:
+
+Consent
+
+and
+
+Submission
+
+A mere absence of physical resistance should not automatically be treated as consent.
+
+⭐ Exam point
+<PARSED TEXT FOR PAGE: 96 / 748>
+Consent must be understood in the context of the statutory definition and surrounding
+circumstances.
+
+
+
+
+2. AGE OF THE WOMAN
+For the statutory definition of rape:
+
+      Sexual acts with a girl below 18 years fall within the statutory rape provision
+      irrespective of consent.
+
+Therefore:
+
+Below 18 years → Consent does not make the sexual act lawful under the statutory
+rape provision.
+
+
+
+
+3. MEDICAL PROCEDURE AND CONSENT
+Section 63 also contains an important exception concerning a medical procedure or
+intervention.
+
+A medical procedure/intervention does not become rape merely because it involves penetration
+where the statutory conditions of the exception are satisfied.
+
+
+
+
+4. MARITAL EXCEPTION
+BNS retains the statutory marital exception in its rape provision, subject to the specific wording
+and age-related qualification contained in the provision.
+
+However, sexual intercourse by a husband with his wife during separation, where the wife
+is living separately, is separately addressed under Section 67.
+
+This distinction is important.
+
+
+
+
+🔄 IPC → BNS
+<PARSED TEXT FOR PAGE: 97 / 748>
+       IPC         BNS
+
+ §375 –         §63 – Rape
+ Rape
+
+⚠️ IMPORTANT
+Although §63 broadly corresponds to IPC §375, you should study the actual BNS wording,
+particularly its structure and explanations, rather than memorising only the section number.
+
+
+
+
+SECTION 64 – PUNISHMENT FOR RAPE
+BNS Section: 64
+Corresponding IPC: §376
+
+🔴 EXTREMELY IMPORTANT
+Section 64 prescribes punishment for rape.
+
+For the ordinary category of rape, the punishment is:
+
+       Rigorous imprisonment of not less than 10 years, which may extend to
+       imprisonment for life, and fine.
+
+The provision also deals with aggravated situations involving specified categories of offenders
+and circumstances.
+
+These include, among others:
+
+   ●    Police officers;
+   ●    Public servants;
+   ●    Members of armed forces;
+   ●    Persons in management/control of institutions;
+   ●    Persons in positions of trust or authority;
+   ●    Persons involved in custodial situations;
+   ●    Rape of a pregnant woman;
+   ●    Rape of a woman incapable of giving consent;
+   ●    Rape causing serious injury;
+   ●    Rape of a woman under specified circumstances.
+
+⭐ Exam point
+When answering punishment questions, always distinguish:
+
+ordinary rape
+<PARSED TEXT FOR PAGE: 98 / 748>
+from
+
+aggravated rape
+
+
+
+
+SECTION 65 – PUNISHMENT FOR RAPE IN
+CERTAIN CASES
+BNS Section: 65
+Corresponding IPC: IPC §376AB and related provisions
+
+This section deals with rape of children below specified ages.
+
+Two important categories
+Child below 16 years
+
+and
+
+Child below 12 years
+
+The punishment becomes significantly more severe as the age decreases.
+
+For rape of a girl under 12 years, the statutory punishment can extend to:
+
+       Imprisonment for life or death, subject to the provision.
+
+🔴 Remember
+       Age of victim is a major sentencing factor under BNS.
+
+
+
+
+SECTION 66 – PUNISHMENT FOR
+CAUSING DEATH OR RESULTING IN
+PERSISTENT VEGETATIVE STATE OF
+VICTIM
+BNS Section: 66
+
+This provision deals with a situation where:
+<PARSED TEXT FOR PAGE: 99 / 748>
+   ●   the offence of rape is committed; and
+   ●   the act causes the death of the victim or causes her to enter a persistent vegetative
+       state.
+
+The punishment is extremely severe.
+
+🔄 IPC
+Broadly corresponds to the enhanced punishment framework under IPC §376A.
+
+
+
+
+SECTION 67 – SEXUAL INTERCOURSE BY
+HUSBAND UPON HIS WIFE DURING
+SEPARATION
+BNS Section: 67
+Corresponding IPC: §376B
+
+🔴 IMPORTANT
+Where a husband has sexual intercourse with his wife:
+
+   ●   while they are living separately;
+   ●   whether pursuant to a decree of separation or otherwise;
+
+and the circumstances fall within the provision, criminal liability may arise.
+
+⭐ Important distinction
+This is not the same provision as the general definition of rape under §63.
+
+
+
+
+SECTION 68 – SEXUAL INTERCOURSE BY
+PERSON IN AUTHORITY
+BNS Section: 68
+Corresponding IPC: §376C
+
+This provision addresses sexual intercourse by a person who is in a position of:
+
+   ●   authority;
+<PARSED TEXT FOR PAGE: 100 / 748>
+   ●    fiduciary relationship;
+   ●    dominance; or
+   ●    control,
+
+where the statutory circumstances are satisfied.
+
+Examples of relationships
+The provision can cover persons such as:
+
+   ●    persons managing institutions;
+   ●    persons in positions of authority;
+   ●    persons exercising fiduciary control.
+
+⭐ Concept
+       Abuse of authority + sexual intercourse + statutory circumstances = offence
+       under §68
+
+
+
+
+SECTION 69 – SEXUAL INTERCOURSE BY
+EMPLOYING DECEITFUL MEANS, ETC.
+BNS Section: 69
+
+⚠️ IMPORTANT NEW BNS PROVISION
+This provision does not cover intercourse amounting to rape.
+
+It applies where a person:
+
+   ●    employs deceitful means, or
+   ●    makes a promise to marry without any intention of fulfilling it,
+
+and thereby has sexual intercourse with a woman.
+
+The punishment may extend to:
+
+       10 years' imprisonment + fine
+
+The statutory explanation says that deceitful means includes inducement for, or false promise
+of:
+
+   ●    employment;
+   ●    promotion;
+   ●    marriage by suppressing identity.
+<PARSED TEXT FOR PAGE: 101 / 748>
+⚠️ IPC → BNS
+There is no direct IPC equivalent to Section 69.
+
+Therefore write:
+
+        IPC: No exact equivalent → BNS §69: New specific offence
+
+⭐ VERY IMPORTANT
+Do not write:
+
+        “Every broken promise to marry is rape.”
+
+That is legally incorrect.
+
+Section 69 specifically concerns the statutory circumstances and expressly applies to sexual
+intercourse not amounting to rape.
+
+
+
+
+SECTION 70 – GANG RAPE
+BNS Section: 70
+Corresponding IPC: §376D
+
+🔴 EXTREMELY IMPORTANT
+Where a woman is raped by:
+
+    ●    one or more persons constituting a group; or
+    ●    persons acting in furtherance of a common intention,
+
+each person is deemed to have committed the offence of rape.
+
+Punishment
+For the general category:
+
+        Rigorous imprisonment of not less than 20 years, extendable to imprisonment
+        for life, together with fine.
+
+The fine is directed toward being just and reasonable for:
+
+    ●    medical expenses; and
+    ●    rehabilitation of the victim,
+
+and is to be paid to the victim.
+<PARSED TEXT FOR PAGE: 102 / 748>
+For a woman under 18, Section 70(2) provides much more severe punishment, including life
+imprisonment for the remainder of natural life or death.
+
+
+
+
+SECTION 71 – PUNISHMENT FOR REPEAT
+OFFENDERS
+BNS Section: 71
+Corresponding IPC: §376E
+
+A person previously convicted of specified serious sexual offences who is subsequently
+convicted of another offence covered by the provision may receive:
+
+      Imprisonment for life for the remainder of natural life, or death.
+
+⭐ Memory
+      First conviction → normal statutory punishment
+
+      Repeat qualifying conviction → enhanced punishment
+
+
+
+
+SECTION 72 – DISCLOSURE OF IDENTITY
+OF VICTIM
+BNS Section: 72
+Corresponding IPC: §228A
+
+🔴 IMPORTANT
+A person who prints or publishes the name or other material that can reveal the identity of the
+victim of specified sexual offences may be punished.
+
+The general punishment under Section 72 is:
+
+      Imprisonment up to 2 years + fine
+
+There are statutory exceptions, including specified publication for lawful purposes.
+
+⭐ Principle
+      The identity of victims of specified sexual offences is legally protected.
+<PARSED TEXT FOR PAGE: 103 / 748>
+SECTION 73 – PRINTING OR PUBLISHING
+MATTER RELATING TO COURT
+PROCEEDINGS WITHOUT PERMISSION
+BNS Section: 73
+
+This provision protects the confidentiality surrounding proceedings concerning specified sexual
+offences.
+
+Publishing matter relating to court proceedings without the required permission can attract
+criminal liability, subject to the statutory exceptions.
+
+🔄 IPC
+Corresponds broadly to IPC §228A(2) framework.
+
+
+
+
+PART B – OFFENCES AGAINST WOMEN
+
+SECTION 74 – ASSAULT OR USE OF
+CRIMINAL FORCE TO WOMAN WITH
+INTENT TO OUTRAGE HER MODESTY
+BNS Section: 74
+Corresponding IPC: §354
+
+🔴 VERY IMPORTANT
+A person commits an offence where he:
+
+   ●   assaults a woman; or
+   ●   uses criminal force against a woman;
+
+with the intent to outrage or knowing it to be likely that he will thereby outrage her
+modesty.
+
+Punishment
+<PARSED TEXT FOR PAGE: 104 / 748>
+        Imprisonment of not less than 1 year and up to 5 years + fine.
+
+
+
+
+74.1 Essential Ingredients
+   1.    The victim is a woman.
+   2.    There is assault or criminal force.
+   3.    The accused intended to outrage her modesty, or knew it was likely.
+   4.    The act must satisfy the statutory requirements.
+
+⭐ Key phrase
+        Intent or knowledge regarding outraging modesty
+
+
+
+
+⚖️ CASE LAW
+Rupan Deol Bajaj v. K.P.S. Gill
+The Supreme Court examined the concept of outraging the modesty of a woman.
+
+Exam use
+Use this case when discussing:
+
+        IPC §354 / BNS §74
+
+
+
+
+SECTION 75 – SEXUAL HARASSMENT
+BNS Section: 75
+Corresponding IPC: §354A
+
+🔴 IMPORTANT
+Sexual harassment includes specified conduct such as:
+
+   1. Unwelcome and explicit sexual overtures;
+   2. Demand or request for sexual favours;
+   3. Showing pornography against the will of a woman;
+<PARSED TEXT FOR PAGE: 105 / 748>
+   4. Making sexually coloured remarks.
+
+Punishment
+Punishment depends upon the specific act.
+
+
+
+
+SECTION 76 – ASSAULT OR USE OF
+CRIMINAL FORCE TO WOMAN WITH
+INTENT TO DISROBE
+BNS Section: 76
+Corresponding IPC: §354B
+
+A person who assaults or uses criminal force against a woman, intending to:
+
+   ●    disrobe her; or
+   ●    compel her to be naked,
+
+commits the offence.
+
+Punishment
+       Imprisonment of not less than 3 years and up to 7 years + fine.
+
+
+
+
+SECTION 77 – VOYEURISM
+BNS Section: 77
+Corresponding IPC: §354C
+
+🔴 IMPORTANT
+Voyeurism involves watching or capturing the image of a woman engaging in a private act in
+circumstances where she would ordinarily expect privacy.
+
+It also covers dissemination of such images in circumstances prohibited by law.
+
+Example
+A secretly records B while she is changing clothes in a private room.
+<PARSED TEXT FOR PAGE: 106 / 748>
+The conduct may constitute voyeurism.
+
+
+
+
+SECTION 78 – STALKING
+BNS Section: 78
+Corresponding IPC: §354D
+
+A man commits stalking where he:
+
+   ●   follows a woman and repeatedly contacts or attempts to contact her to foster personal
+       interaction despite a clear indication of disinterest; or
+   ●   monitors her use of the internet, email or other electronic communication.
+
+⭐ Modern aspect
+Stalking therefore includes both:
+
+Physical stalking
+
+and
+
+Cyber/electronic stalking
+
+
+
+
+SECTION 79 – WORD, GESTURE OR ACT
+INTENDED TO INSULT MODESTY OF
+WOMAN
+BNS Section: 79
+Corresponding IPC: §509
+
+The offence concerns:
+
+   ●   words;
+   ●   sounds;
+   ●   gestures;
+   ●   objects;
+   ●   intrusion upon privacy;
+
+where the statutory intention is to insult the modesty of a woman.
+<PARSED TEXT FOR PAGE: 107 / 748>
+Example
+A deliberately makes an obscene gesture toward B intending to insult her modesty.
+
+
+
+
+🔄 SECTIONS 74–79 — QUICK TABLE
+ BNS     IPC                 Offence
+
+ §74    §354     Assault/criminal force to woman
+
+ §75    §354A    Sexual harassment
+
+ §76    §354B    Intent to disrobe
+
+ §77    §354C    Voyeurism
+
+ §78    §354D    Stalking
+
+ §79    §509     Word/gesture insulting modesty
+
+
+
+
+PART C – OFFENCES RELATING TO
+MARRIAGE
+
+SECTION 80 – DOWRY DEATH
+BNS Section: 80
+Corresponding IPC: §304B
+
+🔴 EXTREMELY IMPORTANT
+Where the statutory conditions are satisfied and a woman dies:
+
+   ●   from burns;
+   ●   bodily injury; or
+   ●   under other abnormal circumstances,
+
+within seven years of her marriage, and it is shown that:
+<PARSED TEXT FOR PAGE: 108 / 748>
+     soon before her death she was subjected to cruelty or harassment by her
+     husband or his relatives in connection with, or in relation to, demand for
+     dowry,
+
+the death is termed dowry death.
+
+Punishment
+     Imprisonment of not less than 7 years, which may extend to imprisonment for
+     life.
+
+
+
+
+80.1 Essential Ingredients
+Remember:
+
+1. Death of a woman
+
+2. Death within 7 years of marriage
+
+3. Death by burns, bodily injury or abnormal circumstances
+
+4. Cruelty/harassment
+
+5. By husband or his relatives
+
+6. In connection with dowry demand
+
+7. Cruelty/harassment occurred soon before death
+
+⭐ Formula
+     Death + 7 years + abnormal circumstances + dowry-related
+     cruelty/harassment + soon before death = Dowry Death
+
+
+
+
+⚖️ CASE LAW
+Kans Raj v. State of Punjab
+<PARSED TEXT FOR PAGE: 109 / 748>
+Important case concerning the scope of dowry death and the expression “soon before her
+death.”
+
+
+
+
+Satvir Singh v. State of Punjab
+Important for understanding the relationship between:
+
+   ●   dowry;
+   ●   dowry demand; and
+   ●   Section 304B-type liability.
+
+
+
+
+SECTION 81 – COHABITATION CAUSED
+BY MAN DECEITFULLY INDUCING BELIEF
+OF LAWFUL MARRIAGE
+BNS Section: 81
+Corresponding IPC: §493
+
+This provision deals with situations where a man causes a woman to believe that she is
+lawfully married to him, even though no lawful marriage exists, and thereby induces her to
+cohabit or have sexual intercourse with him.
+
+
+
+
+SECTION 82 – MARRYING AGAIN DURING
+LIFETIME OF HUSBAND OR WIFE
+BNS Section: 82
+Corresponding IPC: §494
+
+This provision concerns bigamy.
+
+A person who, while having a living spouse, contracts another marriage in circumstances where
+the second marriage is void because of the subsistence of the first marriage may incur criminal
+liability.
+
+⭐ Basic concept
+<PARSED TEXT FOR PAGE: 110 / 748>
+      Existing valid marriage + second marriage + statutory conditions = offence
+
+There are statutory exceptions.
+
+
+
+
+SECTION 83 – MARRIAGE CEREMONY
+FRAUDULENTLY GONE THROUGH
+WITHOUT LAWFUL MARRIAGE
+BNS Section: 83
+Corresponding IPC: §496
+
+A person who dishonestly or fraudulently goes through a marriage ceremony knowing that it
+does not create a lawful marriage may be liable.
+
+
+
+
+SECTION 84 – ENTICING OR DETAINING
+WITH CRIMINAL INTENT A MARRIED
+WOMAN
+BNS Section: 84
+Corresponding IPC: §498
+
+This provision concerns taking or detaining the wife of another man with the specified criminal
+intention.
+
+⚠️ Exam note
+This is an older IPC-era provision retained in substantially corresponding form.
+
+
+
+
+SECTION 85 – CRUELTY BY HUSBAND
+OR RELATIVES OF HUSBAND
+BNS Section: 85
+Corresponding IPC: §498A
+<PARSED TEXT FOR PAGE: 111 / 748>
+🔴 EXTREMELY IMPORTANT
+A husband or relative of the husband who subjects a woman to cruelty may be punished under
+Section 85.
+
+Punishment:
+
+       Imprisonment up to 3 years + fine.
+
+
+
+
+85.1 Meaning of Cruelty
+The statutory definition broadly covers two categories.
+
+Category 1 — Wilful conduct
+Wilful conduct of such a nature as is likely to:
+
+   ●    drive the woman to commit suicide; or
+   ●    cause grave injury or danger to her life, limb or health.
+
+This includes:
+
+   ●    physical health; and
+   ●    mental health.
+
+Category 2 — Dowry-related harassment
+Harassment where:
+
+   ●    the woman is harassed;
+   ●    with a view to coercing her or her relatives;
+   ●    to meet an unlawful demand for property or valuable security.
+
+
+
+
+⚖️ CASE LAW
+Arnesh Kumar v. State of Bihar
+Important authority concerning arrest and application of the law relating to cruelty under IPC
+§498A.
+
+Exam use
+<PARSED TEXT FOR PAGE: 112 / 748>
+Use when discussing:
+
+   ●    misuse concerns;
+   ●    arrest safeguards;
+   ●    procedural implications.
+
+Remember that procedure is now primarily governed by BNSS, not BNS.
+
+
+
+
+Sushil Kumar Sharma v. Union of India
+Important case discussing the constitutional context and concerns surrounding misuse of IPC
+§498A.
+
+
+
+
+SECTION 86 – DEFINITION OF “CRUELTY”
+BNS Section: 86
+Corresponding IPC: Explanation to §498A
+
+Section 86 provides the definition of cruelty for the preceding offence.
+
+⭐ Important
+Do not treat Section 85 and Section 86 as the same thing.
+
+       §85 = Punishable offence
+
+       §86 = Definition of cruelty
+
+
+
+
+SECTION 87 – KIDNAPPING, ABDUCTING
+OR INDUCING WOMAN TO COMPEL HER
+MARRIAGE, ETC.
+BNS Section: 87
+Corresponding IPC: §366
+
+This provision addresses kidnapping, abduction or inducement of a woman where the statutory
+intention is:
+<PARSED TEXT FOR PAGE: 113 / 748>
+   ●    to compel her to marry against her will; or
+   ●    to force or seduce her to illicit intercourse.
+
+⭐ Key idea
+       Kidnapping/abduction + specified matrimonial/sexual purpose
+
+
+
+
+PART D – CAUSING MISCARRIAGE
+
+SECTION 88 – CAUSING MISCARRIAGE
+BNS Section: 88
+Corresponding IPC: §312
+
+A person who voluntarily causes a woman with child to miscarry may incur liability, subject to
+the statutory exceptions.
+
+The provision contains an important exception relating to procedures carried out in good faith
+for the purpose of saving the life of the woman.
+
+
+
+
+SECTION 89 – CAUSING MISCARRIAGE
+WITHOUT WOMAN'S CONSENT
+BNS Section: 89
+Corresponding IPC: §313
+
+This is a more serious offence because miscarriage is caused:
+
+       without the woman's consent.
+
+
+
+
+SECTION 90 – DEATH CAUSED BY ACT
+DONE WITH INTENT TO CAUSE
+MISCARRIAGE
+<PARSED TEXT FOR PAGE: 114 / 748>
+BNS Section: 90
+Corresponding IPC: §314
+
+This provision deals with death resulting from an act intended to cause miscarriage.
+
+Punishment becomes more severe where the act is done without the woman's consent.
+
+
+
+
+SECTION 91 – ACT DONE WITH INTENT
+TO PREVENT CHILD BEING BORN ALIVE
+OR TO CAUSE IT TO DIE AFTER BIRTH
+BNS Section: 91
+Corresponding IPC: §315
+
+This provision deals with acts intended to:
+
+   ●   prevent a child from being born alive; or
+   ●   cause the child to die after birth.
+
+
+
+
+SECTION 92 – CAUSING DEATH OF
+QUICK UNBORN CHILD BY ACT
+AMOUNTING TO CULPABLE HOMICIDE
+BNS Section: 92
+Corresponding IPC: §316
+
+This provision concerns causing the death of a quick unborn child through an act which would
+amount to culpable homicide if death had been caused to a person.
+
+
+
+
+PART E – OFFENCES AGAINST
+CHILDREN
+<PARSED TEXT FOR PAGE: 115 / 748>
+SECTION 93 – EXPOSURE AND
+ABANDONMENT OF CHILD UNDER
+TWELVE YEARS BY PARENT OR PERSON
+HAVING CARE OF IT
+BNS Section: 93
+Corresponding IPC: §317
+
+Where a parent or person having care of a child under 12:
+
+   ●   exposes; or
+   ●   abandons
+
+the child with the intention of wholly abandoning it, criminal liability may arise.
+
+
+
+
+SECTION 94 – CONCEALING BIRTH BY
+SECRET DISPOSAL OF DEAD BODY
+BNS Section: 94
+Corresponding IPC: §318
+
+This provision deals with concealment of the birth of a child by secretly disposing of the dead
+body of the child.
+
+
+
+
+SECTION 95 – HIRING, EMPLOYING OR
+ENGAGING A CHILD TO COMMIT AN
+OFFENCE
+BNS Section: 95
+
+⚠️ IMPORTANT BNS PROVISION
+A person who hires, employs or engages a child to commit an offence may be punished.
+<PARSED TEXT FOR PAGE: 116 / 748>
+The provision is particularly important because it addresses the exploitation of children for
+criminal activity.
+
+⭐ Concept
+      Adult exploiting child for crime = separate criminal liability
+
+
+
+
+SECTION 96 – PROCURATION OF CHILD
+BNS Section: 96
+Corresponding IPC: §366A
+
+This provision concerns inducing a child to go from one place to another or to do an act with the
+statutory intention of causing or facilitating illicit intercourse.
+
+
+
+
+SECTION 97 – KIDNAPPING OR
+ABDUCTING CHILD UNDER TEN YEARS
+WITH INTENT TO STEAL FROM ITS
+PERSON
+BNS Section: 97
+Corresponding IPC: §369
+
+This provision specifically protects young children against kidnapping or abduction for the
+purpose of stealing property from their person.
+
+
+
+
+SECTION 98 – SELLING CHILD FOR
+PURPOSES OF PROSTITUTION, ETC.
+BNS Section: 98
+Corresponding IPC: §372
+
+Selling, letting to hire or otherwise disposing of a child with the statutory intention that the child
+will be used for:
+<PARSED TEXT FOR PAGE: 117 / 748>
+   ●   prostitution;
+   ●   illicit intercourse; or
+   ●   unlawful/immoral purposes covered by the provision
+
+is an offence.
+
+
+
+
+SECTION 99 – BUYING CHILD FOR
+PURPOSES OF PROSTITUTION, ETC.
+BNS Section: 99
+Corresponding IPC: §373
+
+This is the corresponding offence involving buying, hiring or obtaining possession of a child
+for the prohibited purposes.
+
+
+
+
+🔄TABLE
+   CHAPTER V — IPC → BNS MASTER
+
+ BNS               IPC                                        Subject
+
+ §63    §375                        Rape
+
+ §64    §376                        Punishment for rape
+
+ §65    §376AB / related            Rape of child / aggravated punishment
+        provisions
+
+ §66    §376A                       Rape causing death/vegetative state
+
+ §67    §376B                       Sexual intercourse by husband during separation
+
+ §68    §376C                       Sexual intercourse by person in authority
+
+ §69    No exact equivalent         Sexual intercourse by deceitful means
+
+ §70    §376D                       Gang rape
+
+ §71    §376E                       Repeat offenders
+
+ §72    §228A                       Disclosure of victim's identity
+<PARSED TEXT FOR PAGE: 118 / 748>
+§73   §228A(2) framework   Publication of court proceedings
+
+§74   §354                 Assault/criminal force to woman
+
+§75   §354A                Sexual harassment
+
+§76   §354B                Disrobing
+
+§77   §354C                Voyeurism
+
+§78   §354D                Stalking
+
+§79   §509                 Insulting modesty
+
+§80   §304B                Dowry death
+
+§81   §493                 Deceitful belief of lawful marriage
+
+§82   §494                 Bigamy
+
+§83   §496                 Fraudulent marriage ceremony
+
+§84   §498                 Taking/detaining married woman
+
+§85   §498A                Cruelty by husband/relatives
+
+§86   §498A Explanation    Definition of cruelty
+
+§87   §366                 Kidnapping/abduction to compel marriage
+
+§88   §312                 Causing miscarriage
+
+§89   §313                 Miscarriage without consent
+
+§90   §314                 Death caused by act intended to cause miscarriage
+
+§91   §315                 Preventing child being born alive / causing death after
+                           birth
+
+§92   §316                 Death of quick unborn child
+
+§93   §317                 Abandonment/exposure of child
+
+§94   §318                 Concealment of birth
+
+§95   No exact direct      Hiring/engaging child to commit offence
+      equivalent
+
+§96   §366A                Procuration of child
+<PARSED TEXT FOR PAGE: 119 / 748>
+ §97    §369                          Kidnapping/abducting child to steal
+
+ §98    §372                          Selling child
+
+ §99    §373                          Buying child
+
+
+
+
+🔥CHANGES
+   MOST IMPORTANT IPC → BNS
+         IN THIS CHAPTER
+1. IPC §375 → BNS §63
+Rape
+
+This is a direct structural successor, but always study the BNS wording.
+
+
+
+
+2. IPC §376 → BNS §64
+Punishment for rape
+
+
+
+
+3. IPC §376D → BNS §70
+Gang rape
+
+
+
+
+4. IPC §354A–D → BNS §§75–78
+This is a very easy conversion set:
+
+       354A → 75
+       354B → 76
+       354C → 77
+       354D → 78
+<PARSED TEXT FOR PAGE: 120 / 748>
+5. IPC §304B → BNS §80
+Dowry death
+
+
+
+
+6. IPC §498A → BNS §85
+Cruelty
+
+
+
+
+7. IPC §498A Explanation → BNS §86
+Definition of cruelty
+
+
+
+
+8. IPC §511-style numbering is NOT relevant here
+Do not mix the attempt provision with this chapter.
+
+
+
+
+⚠️ NEW BNS PROVISIONS TO REMEMBER
+BNS §69
+Sexual intercourse by employing deceitful means, etc.
+
+This is particularly important because it does not have a direct IPC equivalent.
+
+BNS §95
+Hiring, employing or engaging a child to commit an offence
+
+Again, this represents a specific BNS provision addressing exploitation of children in criminal
+activity.
+
+
+
+
+⚖️ IMPORTANT CASE LAW REVISION
+<PARSED TEXT FOR PAGE: 121 / 748>
+                      Case                                          Topic
+
+ State of Punjab v. Gurmit Singh                   Sexual offences / testimony of
+                                                   prosecutrix
+
+ Bharwada Bhoginbhai Hirjibhai v. State of         Appreciation of evidence in sexual
+ Gujarat                                           offences
+
+ Rupan Deol Bajaj v. K.P.S. Gill                   Outraging modesty
+
+ Vishaka v. State of Rajasthan                     Sexual harassment at workplace
+
+ Independent Thought v. Union of India             Sexual intercourse with minor wife
+
+ Kans Raj v. State of Punjab                       Dowry death
+
+ Satvir Singh v. State of Punjab                   Dowry death
+
+ Arnesh Kumar v. State of Bihar                    §498A arrest safeguards
+
+ Sushil Kumar Sharma v. Union of India             §498A and misuse concerns
+
+
+⚠️ Important
+These cases were decided under the IPC or related legal frameworks. They remain useful for
+legal principles, but in an examination answer concerning BNS you should:
+
+     Quote the BNS section first → then explain the corresponding IPC
+     provision/case-law principle.
+
+
+
+
+📝 MOST IMPORTANT EXAM QUESTIONS
+5 MARKS
+   1. Define rape under BNS.
+   2. What is consent?
+   3. What is gang rape?
+   4. What is sexual harassment?
+   5. Define voyeurism.
+   6. What is stalking?
+   7. What is dowry death?
+   8. What is cruelty?
+   9. What is bigamy?
+   10. What is sexual intercourse by deceitful means?
+<PARSED TEXT FOR PAGE: 122 / 748>
+     11. What is the punishment for gang rape?
+     12. What is meant by disclosure of the identity of a victim?
+     13. What is the offence of disrobing?
+     14. What is procuration of a child?
+     15. What is the offence of hiring a child to commit an offence?
+
+
+
+
+🔴 10-MARK QUESTIONS
+1.
+Define rape under BNS and explain its essential ingredients.
+
+2.
+Explain the concept of consent in relation to rape.
+
+3.
+Discuss the law relating to gang rape under BNS.
+
+4.
+Explain sexual harassment, voyeurism and stalking under BNS.
+
+5.
+Explain dowry death and discuss its essential ingredients.
+
+6.
+Explain cruelty by husband or relatives of husband under BNS.
+
+7.
+Discuss the offence of sexual intercourse by employing deceitful means under Section
+69.
+
+8.
+Explain the various offences against children under BNS.
+<PARSED TEXT FOR PAGE: 123 / 748>
+🔴 15-MARK QUESTIONS
+Question 1
+Define rape under BNS. Explain its essential ingredients, the concept of consent and the
+circumstances in which sexual intercourse constitutes rape.
+
+
+
+
+Question 2
+Discuss the offences against women under BNS with particular reference to sexual
+harassment, voyeurism, stalking and assault.
+
+
+
+
+Question 3
+What is dowry death? Explain the essential ingredients of the offence and distinguish it
+from cruelty under BNS.
+
+
+
+
+Question 4
+Explain the concept of cruelty by husband or relatives of husband under BNS. Discuss
+the relevant judicial principles.
+
+
+
+
+Question 5
+Discuss the various offences against children under BNS and explain the legislative
+approach towards protection of children from exploitation.
+
+
+
+
+🧠 CHAPTER V — ONE-PAGE REVISION
+SEXUAL OFFENCES
+<PARSED TEXT FOR PAGE: 124 / 748>
+§63 → Rape
+§64 → Punishment for rape
+§65 → Rape in certain cases
+§66 → Death/vegetative state
+§67 → Husband during separation
+§68 → Person in authority
+§69 → Deceitful means
+§70 → Gang rape
+§71 → Repeat offenders
+§72 → Identity of victim
+§73 → Court proceedings
+
+OFFENCES AGAINST WOMEN
+
+§74 → Outraging modesty
+§75 → Sexual harassment
+§76 → Disrobing
+§77 → Voyeurism
+§78 → Stalking
+§79 → Insulting modesty
+
+MARRIAGE
+
+§80 → Dowry death
+§81 → Deceitful belief of marriage
+§82 → Bigamy
+§83 → Fraudulent marriage ceremony
+§84 → Taking/detaining married woman
+§85 → Cruelty
+§86 → Cruelty definition
+§87 → Kidnapping/abduction for marriage
+
+MISCARRIAGE
+§88–92
+
+CHILDREN
+
+§93 → Abandonment
+§94 → Concealment of birth
+§95 → Child used for crime
+§96 → Procuration
+§97 → Kidnapping child for theft
+<PARSED TEXT FOR PAGE: 125 / 748>
+§98 → Selling child
+§99 → Buying child
+
+
+
+
+🔥 MUST MEMORISE FOR EXAM
+If you have limited revision time, learn these first:
+
+      §63 — Rape
+      §64 — Punishment for rape
+      §69 — Deceitful means
+      §70 — Gang rape
+      §74 — Outraging modesty
+      §75 — Sexual harassment
+      §77 — Voyeurism
+      §78 — Stalking
+      §80 — Dowry death
+      §85–86 — Cruelty
+      §87 — Kidnapping/abduction for marriage
+      §95 — Child used for crime
+
+IPC memory shortcuts
+
+375 → 63
+376 → 64
+376D → 70
+354 → 74
+354A → 75
+354B → 76
+354C → 77
+354D → 78
+304B → 80
+498A → 85
+366 → 87
+372 → 98
+373 → 99
+
+
+
+Source note: The section numbering and statutory provisions above are anchored to the
+enacted BNS text on India Code; for example, the official text confirms Sections 69–72 and their
+wording/punishments.
+<PARSED TEXT FOR PAGE: 126 / 748>
+BNS – BHARATIYA NYAYA SANHITA,
+2023
+LLB – SEMESTER I
+
+CHAPTER VI – OFFENCES AFFECTING
+THE HUMAN BODY
+BNS Sections: 100–146
+
+🔴 EXAM PRIORITY: EXTREMELY HIGH
+This is one of the most important chapters in the entire BNS paper.
+
+The chapter covers offences involving:
+
+   1. Culpable homicide
+   2. Murder
+   3. Death caused by negligence
+   4. Abetment of suicide
+   5. Attempt to murder
+   6. Attempt to commit culpable homicide
+   7. Causing hurt
+   8. Grievous hurt
+   9. Acid attacks
+   10. Wrongful restraint
+   11. Wrongful confinement
+   12. Assault and criminal force
+   13. Kidnapping
+   14. Abduction
+   15. Trafficking
+   16. Exploitation of trafficked persons
+   17. Organised crime
+   18. Petty organised crime
+   19. Terrorist acts
+
+
+
+
+PART A – CULPABLE HOMICIDE AND
+MURDER
+<PARSED TEXT FOR PAGE: 127 / 748>
+SECTION 100 – CULPABLE HOMICIDE
+BNS Section: 100
+Corresponding IPC: §299
+
+🔴 EXTREMELY IMPORTANT
+A person commits culpable homicide when he causes the death of a person by:
+
+   1. Intending to cause death; or
+   2. Intending to cause such bodily injury as is likely to cause death; or
+   3. Knowing that the act is likely to cause death.
+
+⭐ Formula
+       Death + intention/knowledge + statutory circumstances = Culpable homicide
+
+
+
+
+1. Essential Ingredients
+For culpable homicide, establish:
+
+1. Death
+A human being must have died.
+
+2. Causal connection
+The accused's act must have caused the death.
+
+3. Required mental element
+There must be:
+
+   ●    intention to cause death; OR
+   ●    intention to cause bodily injury likely to cause death; OR
+   ●    knowledge that the act is likely to cause death.
+
+
+
+
+2. Intention vs Knowledge
+This distinction is extremely important.
+<PARSED TEXT FOR PAGE: 128 / 748>
+Intention
+The person desires or consciously aims at the consequence.
+
+Knowledge
+The person may not desire the consequence but knows it is likely to occur.
+
+Example
+A deliberately shoots B intending to kill him.
+
+→ Intention
+
+A performs an extremely dangerous act knowing that death is likely, although death is not his
+desired outcome.
+
+→ Knowledge
+
+
+
+
+⚖️ CASE LAW
+State of A.P. v. Rayavarapu Punnayya
+One of the most important cases for:
+
+      Culpable homicide vs murder
+
+The Supreme Court described culpable homicide as the genus and murder as its species.
+
+⭐ Memorise
+      Every murder is culpable homicide, but every culpable homicide is not
+      murder.
+
+
+
+
+SECTION 101 – MURDER
+BNS Section: 101
+Corresponding IPC: §300
+
+🔴 EXTREMELY IMPORTANT
+<PARSED TEXT FOR PAGE: 129 / 748>
+Culpable homicide becomes murder where the circumstances specified in Section 101 are
+satisfied.
+
+Broadly, culpable homicide is murder where the act causing death falls within the statutory
+categories concerning:
+
+   1. Intention to cause death;
+   2. Intention to cause bodily injury known to be likely to cause death of that particular
+      person;
+   3. Intention to cause bodily injury sufficient in the ordinary course of nature to cause death;
+      or
+   4. Knowledge that the act is so imminently dangerous that it must, in all probability, cause
+      death or such bodily injury likely to cause death, and the act is done without justification
+      for incurring the risk.
+
+
+
+
+1. FOUR CLAUSES OF MURDER
+Clause 1 — Intention to Cause Death
+If a person intentionally causes death, the case falls within murder.
+
+Example
+A deliberately shoots B with the intention of killing him.
+
+
+
+
+Clause 2 — Particular Knowledge
+The accused intentionally causes bodily injury knowing that the particular victim has a special
+condition making death likely.
+
+Example
+A knows B suffers from a serious heart condition.
+
+A intentionally inflicts a bodily injury knowing that because of B's condition it is likely to cause
+death.
+
+
+
+
+Clause 3 — Injury Sufficient in Ordinary Course of Nature
+to Cause Death
+<PARSED TEXT FOR PAGE: 130 / 748>
+This is one of the most important murder principles.
+
+The accused:
+
+   ●    intends to cause a particular bodily injury;
+   ●    actually causes that injury; and
+   ●    the injury is sufficient in the ordinary course of nature to cause death.
+
+⚖️ CASE
+Virsa Singh v. State of Punjab
+
+This is a must-remember case.
+
+The Supreme Court laid down the classic test for the third clause of murder.
+
+⭐ Exam principle
+The prosecution must establish:
+
+   1.   A bodily injury was present;
+   2.   The nature of the injury was proved;
+   3.   The accused intended to inflict that particular injury; and
+   4.   The injury was sufficient in the ordinary course of nature to cause death.
+
+
+
+
+Clause 4 — Imminently Dangerous Act
+An act is murder where:
+
+   ●    it is imminently dangerous;
+   ●    it must, in all probability, cause death or such bodily injury as is likely to cause death;
+   ●    the accused knows the risk; and
+   ●    the act is committed without justification for taking that risk.
+
+
+
+
+SECTION 101 — EXCEPTIONS TO
+MURDER
+🔴 EXTREMELY IMPORTANT
+Culpable homicide may not amount to murder if one of the statutory exceptions applies.
+
+The five traditional exceptions are:
+<PARSED TEXT FOR PAGE: 131 / 748>
+Exception 1
+Grave and sudden provocation
+
+Exception 2
+Exceeding the right of private defence
+
+Exception 3
+Public servant exceeding powers
+
+Exception 4
+Sudden fight
+
+Exception 5
+Consent
+
+
+
+
+EXCEPTION 1 – GRAVE AND SUDDEN
+PROVOCATION
+A person may lose self-control because of:
+
+    ●    grave;
+    ●    sudden provocation;
+
+and cause the death of the person who gave the provocation, subject to the statutory conditions.
+
+⚠️ Important
+The provocation must be:
+
+        Grave + Sudden
+
+A trivial insult will not automatically qualify.
+<PARSED TEXT FOR PAGE: 132 / 748>
+EXCEPTION 2 – EXCESSIVE PRIVATE
+DEFENCE
+Where a person:
+
+   ●    acts in good faith;
+   ●    exercises private defence;
+   ●    exceeds the legal limits of that right;
+   ●    without premeditation;
+   ●    and without intending to cause more harm than necessary,
+
+the offence may fall within culpable homicide rather than murder, subject to the statutory
+conditions.
+
+
+
+
+EXCEPTION 3 – PUBLIC SERVANT
+A public servant, or person assisting a public servant, may fall within this exception where:
+
+   ●    the act is done while exercising powers;
+   ●    he exceeds those powers;
+   ●    he acts in good faith;
+   ●    and without ill-will toward the person killed.
+
+
+
+
+EXCEPTION 4 – SUDDEN FIGHT
+This exception applies where death occurs during:
+
+   ●    a sudden fight;
+   ●    in the heat of passion;
+   ●    without premeditation;
+   ●    without undue advantage or cruelty.
+
+⭐ Key elements
+       Sudden fight + heat of passion + no premeditation + no undue advantage
+<PARSED TEXT FOR PAGE: 133 / 748>
+EXCEPTION 5 – CONSENT
+Where a person who is:
+
+   ●    above 18 years of age,
+
+suffers death with his own consent, the case may fall within this exception subject to statutory
+conditions.
+
+
+
+
+🔥 CULPABLE HOMICIDE vs MURDER
+This is one of the highest-value questions in criminal law.
+
+        Basis             Culpable                                 Murder
+                          Homicide
+
+ BNS                  §100                  §101
+
+ IPC                  §299                  §300
+
+ Relationship         Genus                 Species
+
+ Mental element       Lower degree          Higher degree
+
+ Probability of       Likely                Higher degree / statutory conditions
+ death
+
+ Exceptions           —                     Five statutory exceptions can reduce it to culpable
+                                            homicide
+
+ Punishment           §105                  §103
+
+
+⭐ Best exam statement
+       “Culpable homicide is the genus and murder is its species.”
+
+
+
+
+⚖️ IMPORTANT CASES
+1. State of A.P. v. Rayavarapu Punnayya
+<PARSED TEXT FOR PAGE: 134 / 748>
+Principle: Culpable homicide is genus; murder is species.
+
+
+
+
+2. Virsa Singh v. State of Punjab
+Principle: Third clause of murder — injury sufficient in ordinary course of nature to cause
+death.
+
+
+
+
+3. K.M. Nanavati v. State of Maharashtra
+Principle: Grave and sudden provocation.
+
+
+
+
+4. Pulicherla Nagaraju v. State of A.P.
+Useful for determining whether the accused had the required intention for murder or culpable
+homicide.
+
+
+
+
+SECTION 102 – CAUSING DEATH OF
+PERSON OTHER THAN PERSON WHOSE
+DEATH WAS INTENDED
+BNS Section: 102
+Corresponding IPC: §301
+
+This applies to the principle commonly called:
+
+      Transferred malice
+
+Example
+A intends to kill B.
+
+A shoots at B but accidentally kills C.
+
+The law may attribute liability according to the statutory principle even though C was not the
+intended victim.
+<PARSED TEXT FOR PAGE: 135 / 748>
+⭐ Memory
+       Intention transfers from intended victim to actual victim.
+
+
+
+
+SECTION 103 – PUNISHMENT FOR
+MURDER
+BNS Section: 103
+Corresponding IPC: §302
+
+🔴 MUST MEMORISE
+Whoever commits murder shall be punished with:
+
+       Death or imprisonment for life, and fine.
+
+
+
+
+SECTION 103(2) – GROUP/MOB MURDER
+⚠️ IMPORTANT BNS CHANGE
+Where five or more persons, acting in concert, commit murder on the ground of:
+
+   ●    race;
+   ●    caste or community;
+   ●    sex;
+   ●    place of birth;
+   ●    language;
+   ●    personal belief; or
+   ●    similar ground,
+
+each member may be punished with:
+
+       Death or imprisonment for life, and fine.
+
+⭐ Important
+This provision specifically addresses group killings based on identity-based grounds.
+<PARSED TEXT FOR PAGE: 136 / 748>
+SECTION 104 – PUNISHMENT FOR
+MURDER BY LIFE-CONVICT
+BNS Section: 104
+Corresponding IPC: §303 — but IPC §303 was struck down as unconstitutional.
+
+Where a person already serving imprisonment for life commits murder, Section 104 provides:
+
+       Death or imprisonment for life for the remainder of natural life.
+
+⚠️ Important
+The corresponding IPC position changed because IPC §303 was declared unconstitutional in
+Mithu v. State of Punjab.
+
+
+
+
+SECTION 105 – PUNISHMENT FOR
+CULPABLE HOMICIDE NOT AMOUNTING
+TO MURDER
+BNS Section: 105
+Corresponding IPC: §304
+
+This section has two important categories.
+
+
+
+
+Part I — Intention
+Where the act is done:
+
+   ●    with intention to cause death; or
+   ●    with intention to cause bodily injury likely to cause death;
+
+the punishment is:
+
+       Imprisonment for life, or imprisonment of not less than 5 years and up to 10
+       years, and fine.
+<PARSED TEXT FOR PAGE: 137 / 748>
+Part II — Knowledge
+Where the act is done:
+
+   ●    with knowledge that it is likely to cause death;
+   ●    but without intention to cause death or such bodily injury,
+
+the punishment is:
+
+       Imprisonment up to 10 years, or fine, or both.
+
+⭐ Memory
+       Part I = Intention
+
+       Part II = Knowledge
+
+
+
+
+SECTION 106 – CAUSING DEATH BY
+NEGLIGENCE
+BNS Section: 106
+Corresponding IPC: §304A
+
+🔴 IMPORTANT
+A person who causes death by a rash or negligent act not amounting to culpable homicide
+may be punished under Section 106.
+
+General punishment
+       Imprisonment up to 5 years and fine.
+
+Where the offender is a registered medical practitioner performing a medical procedure, the
+provision provides a lower maximum punishment of:
+
+       2 years + fine
+
+subject to the statutory conditions.
+
+
+
+
+SECTION 106(2)
+<PARSED TEXT FOR PAGE: 138 / 748>
+This provision concerns causing death by rash and negligent driving followed by:
+
+       escaping without reporting the incident to a police officer or Magistrate soon
+       after the incident.
+
+It prescribes substantially more severe punishment.
+
+⚠️ IMPORTANT
+The commencement notification for BNS excluded Section 106(2) from the provisions brought
+into force on 1 July 2024.
+
+For your exam notes, mark:
+
+       ⚠️ Commencement exception — §106(2)
+
+SECTION 107 – ABETMENT OF SUICIDE
+OF CHILD OR PERSON OF UNSOUND
+MIND
+BNS Section: 107
+Corresponding IPC: §305
+
+This provision applies to abetment of suicide where the victim is:
+
+   ●    a child; or
+   ●    a person of unsound mind.
+
+The punishment is severe and can include:
+
+       Death, life imprisonment, or imprisonment as provided by the section.
+
+
+
+
+SECTION 108 – ABETMENT OF SUICIDE
+BNS Section: 108
+Corresponding IPC: §306
+
+Where a person abets another person's suicide, the person may be punished with:
+
+       Imprisonment up to 10 years + fine.
+<PARSED TEXT FOR PAGE: 139 / 748>
+⚖️ CASE LAW — ABETMENT OF SUICIDE
+Ramesh Kumar v. State of Chhattisgarh
+The Supreme Court explained the meaning of instigation in the context of abetment of suicide.
+
+⭐ Exam principle
+       Mere harassment or casual remarks do not automatically establish abetment; the
+       required intentional conduct and statutory elements must be proved.
+
+
+
+
+SECTION 109 – ATTEMPT TO MURDER
+BNS Section: 109
+Corresponding IPC: §307
+
+🔴 EXTREMELY IMPORTANT
+A person commits attempt to murder where he:
+
+   ●    does an act;
+   ●    with such intention or knowledge; and
+   ●    under such circumstances;
+
+that if death were caused, the act would amount to murder.
+
+⭐ Key point
+Actual death is NOT required.
+
+
+
+
+Example
+A shoots at B intending to kill him.
+
+B survives.
+
+A may still be guilty of attempt to murder.
+<PARSED TEXT FOR PAGE: 140 / 748>
+SECTION 109(2) – SERIOUS ATTEMPT TO
+MURDER
+Where a person already undergoing imprisonment for life commits an act constituting attempt to
+murder and causes hurt, the punishment can be extremely severe, including:
+
+      Death or imprisonment for life for the remainder of natural life.
+
+
+
+
+⚖️ CASE LAW
+State of Maharashtra v. Balram Bama Patil
+The Supreme Court explained that actual injury is not always necessary to establish attempt to
+murder; the intention and circumstances of the act are crucial.
+
+
+
+
+SECTION 110 – ATTEMPT TO COMMIT
+CULPABLE HOMICIDE
+BNS Section: 110
+Corresponding IPC: §308
+
+Where a person performs an act with the intention or knowledge that, if death were caused, it
+would amount to culpable homicide not amounting to murder, the offence may be attempt to
+commit culpable homicide.
+
+⭐ Distinction
+§109 → Attempt to murder
+
+§110 → Attempt to culpable homicide
+<PARSED TEXT FOR PAGE: 141 / 748>
+SECTION 111 – ORGANISED CRIME
+BNS Section: 111
+
+⚠️ MAJOR NEW BNS PROVISION
+Organised crime covers continuing unlawful activity carried out by:
+
+   ●   an individual or group;
+   ●   acting singly or jointly;
+   ●   as a member of an organised crime syndicate or on its behalf;
+
+using violence, threat of violence, intimidation, coercion or other unlawful means to obtain:
+
+   ●   direct or indirect material benefit;
+   ●   financial benefit;
+   ●   other specified advantage.
+
+Examples
+   ●   kidnapping rackets;
+   ●   extortion networks;
+   ●   contract killing;
+   ●   organised economic crime;
+   ●   cybercrime networks;
+   ●   trafficking syndicates.
+
+⭐ Important
+BNS specifically incorporates organised crime into the general penal code framework.
+
+
+
+
+SECTION 112 – PETTY ORGANISED
+CRIME
+BNS Section: 112
+
+Another new BNS provision.
+
+It addresses recurring organised forms of relatively lower-level criminal activity.
+
+Examples can include:
+
+   ●   theft-related groups;
+   ●   snatching;
+<PARSED TEXT FOR PAGE: 142 / 748>
+   ●    cheating;
+   ●    unauthorised ticket selling;
+   ●    betting/gambling-related activities;
+   ●    unauthorised selling of examination papers;
+   ●    similar organised petty criminal conduct.
+
+⭐ Exam point
+       §111 = Organised crime
+
+       §112 = Petty organised crime
+
+
+
+
+SECTION 113 – TERRORIST ACT
+BNS Section: 113
+
+⚠️ VERY IMPORTANT NEW/MAJOR PROVISION
+A terrorist act includes conduct intended to:
+
+   ●    threaten the unity, integrity, security or economic security of India;
+   ●    strike terror in people;
+   ●    cause or likely cause death, injury, destruction or disruption of critical infrastructure, etc.;
+
+where the statutory requirements are satisfied.
+
+Important
+BNS now expressly incorporates a definition and punishment framework for terrorist acts.
+
+
+
+
+SECTION 114 – HURT
+BNS Section: 114
+Corresponding IPC: §319
+
+A person causes hurt when he causes:
+
+       bodily pain, disease or infirmity
+
+to another person.
+
+⭐ Three words to memorise
+<PARSED TEXT FOR PAGE: 143 / 748>
+         Pain + Disease + Infirmity
+
+
+
+
+SECTION 115 – VOLUNTARILY CAUSING
+HURT OR GRIEVOUS HURT
+BNS Section: 115
+Corresponding IPC: §§321, 323, 325 framework
+
+Voluntarily causing hurt
+A person voluntarily causes hurt where he:
+
+     ●    intends to cause hurt; or
+     ●    knows himself likely to cause hurt;
+
+and actually causes hurt.
+
+Punishment
+For voluntarily causing hurt, the punishment may extend to:
+
+         1 year imprisonment, or fine up to ₹10,000, or both.
+
+The section separately addresses voluntarily causing grievous hurt with a more severe
+punishment.
+
+
+
+
+SECTION 116 – GRIEVOUS HURT
+BNS Section: 116
+Corresponding IPC: §320
+
+🔴 IMPORTANT
+The following are recognised forms of grievous hurt:
+
+1.
+Emasculation.
+
+2.
+<PARSED TEXT FOR PAGE: 144 / 748>
+Permanent loss of sight of either eye.
+
+3.
+Permanent loss of hearing of either ear.
+
+4.
+Loss of any member or joint.
+
+5.
+Destruction or permanent impairment of powers of any member or joint.
+
+6.
+Permanent disfigurement of head or face.
+
+7.
+Fracture or dislocation of a bone or tooth.
+
+8.
+Any hurt which:
+
+      endangers life, or causes severe bodily pain for 15 days, or makes the person
+      unable to follow ordinary pursuits for 15 days.
+
+⭐ Memorise the 8 categories.
+
+SECTION 117 – VOLUNTARILY CAUSING
+GRIEVOUS HURT
+BNS Section: 117
+Corresponding IPC: §325
+
+This is the offence of intentionally or knowingly causing grievous hurt.
+
+Punishment is more severe than ordinary hurt.
+
+⚠️ Special BNS provision
+<PARSED TEXT FOR PAGE: 145 / 748>
+The section also contains specific treatment of grievous hurt by a group of five or more
+persons acting in concert, in specified circumstances.
+
+
+
+
+SECTION 118 – VOLUNTARILY CAUSING
+HURT OR GRIEVOUS HURT BY
+DANGEROUS WEAPONS OR MEANS
+BNS Section: 118
+Corresponding IPC: §324 / §326 framework
+
+Dangerous weapons or means include circumstances involving:
+
+   ●   firearms;
+   ●   stabbing/cutting instruments;
+   ●   weapons likely to cause death;
+   ●   fire;
+   ●   heated substances;
+   ●   poison;
+   ●   corrosive substances;
+   ●   explosive substances;
+   ●   harmful substances.
+
+Punishment becomes more severe where grievous hurt is caused.
+
+
+
+
+SECTION 119 – VOLUNTARILY CAUSING
+HURT OR GRIEVOUS HURT TO EXTORT
+PROPERTY OR TO CONSTRAIN TO AN
+ILLEGAL ACT
+BNS Section: 119
+Corresponding IPC: §§327–329 framework
+
+This deals with causing hurt/grievous hurt for purposes such as:
+
+   ●   extorting property;
+   ●   obtaining valuable security;
+   ●   compelling a person to do something illegal.
+<PARSED TEXT FOR PAGE: 146 / 748>
+SECTION 120 – VOLUNTARILY CAUSING
+HURT OR GRIEVOUS HURT TO EXTORT
+CONFESSION, OR TO COMPEL
+RESTORATION OF PROPERTY
+BNS Section: 120
+Corresponding IPC: §§330–331
+
+This provision deals with causing hurt/grievous hurt to:
+
+   ●   extort confession;
+   ●   obtain information;
+   ●   compel restoration of property;
+   ●   compel satisfaction of a claim.
+
+⭐ Important
+This provision is particularly relevant to custodial violence and forced confession.
+
+
+
+
+SECTION 121 – VOLUNTARILY CAUSING
+HURT OR GRIEVOUS HURT TO DETER
+PUBLIC SERVANT FROM HIS DUTY
+BNS Section: 121
+Corresponding IPC: §§332–333
+
+This protects public servants from being assaulted or injured to prevent them from performing
+their lawful duties.
+<PARSED TEXT FOR PAGE: 147 / 748>
+SECTION 122 – VOLUNTARILY CAUSING
+HURT OR GRIEVOUS HURT ON
+PROVOCATION
+BNS Section: 122
+Corresponding IPC: §§334–335
+
+This deals with voluntarily causing hurt/grievous hurt in circumstances involving grave and
+sudden provocation, subject to statutory conditions.
+
+
+
+
+SECTION 123 – CAUSING HURT BY
+MEANS OF POISON, ETC., WITH INTENT
+TO COMMIT AN OFFENCE
+BNS Section: 123
+Corresponding IPC: §328
+
+This deals with administering:
+
+    ●   poison;
+    ●   stupefying;
+    ●   intoxicating;
+    ●   unwholesome drugs;
+    ●   other harmful substances,
+
+with the intention of:
+
+    ●   causing hurt; or
+    ●   facilitating an offence.
+
+
+
+
+SECTION 124 – VOLUNTARILY CAUSING
+GRIEVOUS HURT BY USE OF ACID, ETC.
+BNS Section: 124
+Corresponding IPC: §§326A–326B
+<PARSED TEXT FOR PAGE: 148 / 748>
+🔴 VERY IMPORTANT
+Acid attack provisions deal with:
+
+   ●    causing permanent/partial damage;
+   ●    deformity;
+   ●    burns;
+   ●    maiming;
+   ●    disfigurement;
+   ●    disability;
+   ●    grievous hurt,
+
+through acid or similar corrosive substances.
+
+The provision also addresses throwing/attempting to throw acid.
+
+⭐ Exam point
+Acid attack is treated as a specific and aggravated offence.
+
+
+
+
+PART B – WRONGFUL RESTRAINT AND
+CONFINEMENT
+
+SECTION 125 – WRONGFUL RESTRAINT
+BNS Section: 126
+Corresponding IPC: §339
+
+⚠️Wrongful
+    Note: BNS §125 is a different provision concerning an act endangering life/safety of others.
+           restraint begins at §126.
+
+A person wrongfully restrains another when he:
+
+       Voluntarily obstructs that person so as to prevent him from proceeding in a
+       direction in which he has a right to proceed.
+
+Example
+A deliberately blocks B's path and prevents B from going where B has a lawful right to go.
+<PARSED TEXT FOR PAGE: 149 / 748>
+SECTION 126 – WRONGFUL RESTRAINT
+BNS Section: 126
+
+⭐ Correction to numbering
+The offence of wrongful restraint is BNS §126, not §125.
+
+IPC §339 → BNS §126
+
+
+
+
+SECTION 127 – WRONGFUL
+CONFINEMENT
+BNS Section: 127
+Corresponding IPC: §340
+
+Wrongful confinement is a more serious form of restraint.
+
+It occurs where a person is:
+
+      Wrongfully restrained within circumscribed limits.
+
+Example
+A locks B inside a room and prevents B from leaving.
