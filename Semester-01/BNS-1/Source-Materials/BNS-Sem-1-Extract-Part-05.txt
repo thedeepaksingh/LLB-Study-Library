@@ -1,0 +1,2999 @@
+CERTIFICATE
+IPC equivalent
+IPC §198
+
+This is the corresponding offence involving use of the false certificate.
+
+
+
+
+SECTION 236 – FALSE STATEMENT IN
+DECLARATION RECEIVABLE AS
+EVIDENCE
+IPC equivalent
+IPC §199
+<PARSED TEXT FOR PAGE: 303 / 748>
+This concerns a declaration which:
+
+   ●   a person is legally competent/required to make;
+   ●   is receivable as evidence;
+   ●   contains a statement the person knows to be false.
+
+
+
+
+SECTION 237 – USING SUCH
+DECLARATION AS TRUE
+IPC equivalent
+IPC §200
+
+This provision addresses knowingly using such a false declaration as genuine/true.
+
+
+
+
+PART B – SCREENING OFFENDERS &
+DISAPPEARANCE OF EVIDENCE
+
+SECTION 238 – CAUSING
+DISAPPEARANCE OF EVIDENCE
+
+🔴🔴 VERY IMPORTANT
+IPC equivalent
+IPC §201
+
+This provision deals with:
+
+   ●   causing disappearance of evidence of an offence; or
+   ●   giving false information
+
+with the intention of screening the offender from legal punishment.
+<PARSED TEXT FOR PAGE: 304 / 748>
+Example
+A commits murder.
+
+B knows that A committed the murder.
+
+B burns the murder weapon and destroys CCTV footage to prevent police from discovering A's
+involvement.
+
+B may attract §238.
+
+
+
+
+⭐ THREE ELEMENTS
+1. Offence has been committed
+
+2. Evidence is destroyed/concealed OR false information is given
+
+3. Intention to screen offender from punishment
+
+
+
+
+⚠️ IMPORTANT
+The person committing the original offence and the person screening the offender can be
+different people.
+
+
+
+
+SECTION 239 – INTENTIONAL OMISSION
+TO GIVE INFORMATION
+IPC equivalent
+IPC §202
+
+A person legally bound to give information about an offence intentionally fails to provide it.
+<PARSED TEXT FOR PAGE: 305 / 748>
+SECTION 240 – GIVING FALSE
+INFORMATION ABOUT AN OFFENCE
+IPC equivalent
+IPC §203
+
+This is different from §238.
+
+§238
+False information/disappearance to screen offender.
+
+§240
+False information concerning an offence.
+
+
+
+
+SECTION 241 –
+DESTRUCTION/CONCEALMENT OF
+DOCUMENT OR ELECTRONIC RECORD
+🔴 IMPORTANT
+IPC equivalent
+IPC §204
+
+This is particularly relevant in the modern digital environment.
+
+A person who:
+
+   ●   destroys;
+   ●   secretes;
+   ●   obliterates; or
+   ●   renders illegible
+
+a document or electronic record which he is legally bound to produce as evidence,
+
+with the intention of preventing its production/use as evidence, may commit the offence.
+<PARSED TEXT FOR PAGE: 306 / 748>
+⭐ EXAMPLE
+A knows that an electronic record must be produced before a court.
+
+A deliberately deletes the record and destroys its backup so that it cannot be produced.
+
+This may attract §241.
+
+
+
+
+PART C – FALSE CLAIMS AND JUDICIAL
+PROCEEDINGS
+
+SECTION 242 – FALSE PERSONATION IN
+JUDICIAL PROCEEDINGS
+IPC equivalent
+IPC §205
+
+A person falsely personates another for the purpose of:
+
+   ●   an act;
+   ●   proceeding;
+   ●   suit;
+   ●   prosecution;
+
+before a court/public authority.
+
+
+
+
+SECTION 243 – FRAUDULENT
+REMOVAL/CONCEALMENT OF
+PROPERTY
+IPC equivalent
+IPC §206
+<PARSED TEXT FOR PAGE: 307 / 748>
+The offence concerns fraudulently:
+
+   ●   removing;
+   ●   concealing;
+   ●   delivering;
+   ●   transferring
+
+property to prevent lawful seizure or execution.
+
+
+
+
+SECTION 244 – FRAUDULENT CLAIM TO
+PROPERTY
+IPC equivalent
+IPC §207
+
+A person fraudulently makes a claim to property knowing that the claim is false, intending to
+prevent lawful seizure or execution.
+
+
+
+
+SECTION 245 – FRAUDULENTLY
+SUFFERING DECREE
+IPC equivalent
+IPC §208
+
+A person fraudulently allows a decree/order to be passed against himself for a sum or property
+not actually due, intending to cause loss or defeat another person's lawful claim.
+
+
+
+
+SECTION 246 – DISHONEST/FALSE CLAIM
+IN COURT
+
+🔴 IMPORTANT
+<PARSED TEXT FOR PAGE: 308 / 748>
+IPC equivalent
+IPC §209
+
+A person dishonestly makes a claim in a court knowing that the claim is false.
+
+
+
+
+Example
+A files a civil case claiming:
+
+       "B owes me ₹10 lakh."
+
+A knows that B owes him nothing.
+
+If the statutory ingredients are established, §246 may apply.
+
+
+
+
+SECTION 247 – FRAUDULENTLY
+OBTAINING DECREE
+IPC equivalent
+IPC §210
+
+This deals with fraudulently obtaining a decree/order for a sum not due.
+
+
+
+
+🔥 §246 VS §247
+§246
+False claim in Court
+
+§247
+Fraudulently obtaining decree
+<PARSED TEXT FOR PAGE: 309 / 748>
+SECTION 248 – FALSE CHARGE WITH
+INTENT TO INJURE
+
+🔴🔴 VERY IMPORTANT
+IPC equivalent
+IPC §211
+
+A person commits this offence when he:
+
+   ●   institutes or causes criminal proceedings against another;
+   ●   falsely charges that person with an offence;
+   ●   knowing there is no just or lawful ground;
+   ●   intending to cause injury.
+
+
+
+
+Example
+A knows B is innocent.
+
+A nevertheless files a criminal complaint accusing B of theft solely to damage B's reputation and
+cause legal harassment.
+
+This may attract §248.
+
+
+
+
+⭐ ESSENTIAL ELEMENTS
+FALSE CHARGE
+   ●
+
+KNOWLEDGE OF NO JUST GROUND
+   ●
+
+INTENTION TO INJURE
+<PARSED TEXT FOR PAGE: 310 / 748>
+⚖️Hussain
+    CASE LAW – Santokh Singh v Izhar
+
+The Supreme Court discussed the ingredients associated with false criminal charges under the
+old IPC framework.
+
+
+
+
+PART D – SCREENING AND
+HARBOURING OFFENDERS
+
+SECTION 249 – HARBOURING OFFENDER
+IPC equivalent
+IPC §212
+
+A person who:
+
+   ●   harbours or conceals an offender;
+   ●   knowing or having reason to believe that the person is an offender;
+
+with the intention of screening him from legal punishment may commit the offence.
+
+
+
+
+Example
+A knows B has committed a serious offence.
+
+A knowingly hides B in his house to prevent police from arresting him.
+
+§249 may apply.
+
+
+
+
+SECTION 250 – TAKING GIFT TO SCREEN
+OFFENDER
+<PARSED TEXT FOR PAGE: 311 / 748>
+IPC equivalent
+IPC §213
+
+A person accepts:
+
+   ●   gift;
+   ●   gratification;
+   ●   property;
+
+in consideration of screening an offender from punishment.
+
+
+
+
+SECTION 251 – OFFERING GIFT TO
+SCREEN OFFENDER
+IPC equivalent
+IPC §214
+
+Here the direction is reversed.
+
+A offers/gives gratification to another person to screen an offender.
+
+
+
+
+🔥 §250 VS §251
+§250 → TAKE
+
+§251 → GIVE/OFFER
+
+
+
+
+SECTION 252 – TAKING GIFT TO HELP
+RECOVER STOLEN PROPERTY
+IPC equivalent
+IPC §215
+<PARSED TEXT FOR PAGE: 312 / 748>
+This provision concerns accepting gratification in connection with helping recover property
+involved in an offence.
+
+
+
+
+SECTION 253 – HARBOURING OFFENDER
+WHO HAS ESCAPED
+IPC equivalent
+IPC §216
+
+This deals with harbouring/concealing a person who:
+
+   ●   has escaped from custody; or
+   ●   is subject to lawful apprehension,
+
+with the required knowledge/intention.
+
+
+
+
+SECTION 254 – HARBOURING ROBBERS
+OR DACOITS
+IPC equivalent
+IPC §216A
+
+This specifically addresses harbouring:
+
+   ●   robbers;
+   ●   dacoits.
+
+🔴 Special provision
+
+PART E – PUBLIC SERVANTS AND
+JUDICIAL POWER
+<PARSED TEXT FOR PAGE: 313 / 748>
+SECTION 255
+IPC equivalent
+IPC §217
+
+A public servant who knowingly disobeys law with the intention of:
+
+   ●   saving a person from punishment; or
+   ●   saving property from forfeiture;
+
+may be liable.
+
+
+
+
+SECTION 256
+IPC equivalent
+IPC §218
+
+Public servant knowingly prepares an incorrect record/writing with the intention of:
+
+   ●   saving a person from punishment; or
+   ●   saving property from forfeiture.
+
+
+
+
+SECTION 257
+IPC equivalent
+IPC §219
+
+Deals with corruptly making/reporting a judicial proceeding or order in a manner contrary to law.
+
+
+
+
+SECTION 258
+IPC equivalent
+IPC §220
+<PARSED TEXT FOR PAGE: 314 / 748>
+Deals with unlawful commitment or confinement by a person having judicial authority.
+
+
+
+
+PART F – ESCAPE AND LAWFUL
+APPREHENSION
+
+SECTION 259
+IPC equivalent
+IPC §221
+
+Deals with public servants who negligently allow persons in their custody to escape.
+
+
+
+
+SECTION 260 – RESISTING
+APPREHENSION OF ANOTHER PERSON
+IPC equivalent
+IPC §225
+
+A person voluntarily obstructs/resists the lawful apprehension of another person.
+
+
+
+
+SECTION 261 – ESCAPING FROM
+LAWFUL CUSTODY
+IPC equivalent
+IPC §224
+
+This deals with escape/rescue from lawful custody.
+<PARSED TEXT FOR PAGE: 315 / 748>
+SECTION 262 – PUBLIC SERVANT
+ALLOWING ESCAPE
+This covers specified failures by public servants relating to the custody/apprehension of
+persons.
+
+
+
+
+SECTION 263 – RESISTING OWN LAWFUL
+APPREHENSION
+This provision deals with resistance/obstruction relating to one's own lawful apprehension.
+
+
+
+
+⚠️ IMPORTANT
+The exact distinctions between escape, rescue, resistance and negligence by a public
+servant should be learned separately because they involve different actors.
+
+
+
+
+🔴CHAPTER
+   MOST IMPORTANT CONCEPTS OF
+         XIV
+1. Giving False Evidence
+§227
+
+Person speaks/lies.
+
+
+
+
+2. Fabricating False Evidence
+§228
+
+Person creates false evidence.
+<PARSED TEXT FOR PAGE: 316 / 748>
+3. Using False Evidence
+§233
+
+Person uses evidence knowing it is false.
+
+
+
+
+4. Destroying Evidence
+§238 / §241 depending on the circumstances
+
+Person destroys/conceals evidence.
+
+
+
+
+5. False Charge
+§248
+
+Person falsely accuses another of an offence.
+
+
+
+
+6. Harbouring Offender
+§249
+
+Person hides offender to protect him from punishment.
+
+
+
+
+🔥 FIVE-WAY DISTINCTION
+              Conduct                Sectio
+                                        n
+ Give false evidence                 §227
+
+ Fabricate false evidence            §228
+
+ Use false evidence                  §233
+
+ Destroy evidence to screen          §238
+<PARSED TEXT FOR PAGE: 317 / 748>
+ offender
+ Make false criminal charge             §248
+
+
+Memory:
+
+SPEAK → CREATE → USE → DESTROY → FALSELY CHARGE
+
+
+
+
+⚖️ IMPORTANT CASE LAWS
+M.S. Ahlawat v State of Haryana
+Important for prosecution relating to false evidence and judicial proceedings.
+
+
+
+
+Santokh Singh v Izhar Hussain
+Important for the offence of false charge.
+
+
+
+
+Iqbal Singh Marwah v Meenakshi Marwah
+🔴 VERY IMPORTANT
+The Supreme Court considered offences involving false documents/evidence and the
+interaction between criminal proceedings and judicial proceedings.
+
+Exam use
+Useful for questions concerning:
+
+   ●   fabricated documents;
+   ●   false evidence;
+   ●   offences affecting administration of justice.
+
+
+
+
+🔴 MOST IMPORTANT DISTINCTIONS
+<PARSED TEXT FOR PAGE: 318 / 748>
+A. Giving False Evidence vs Fabricating False Evidence
+§227 → false statement
+
+§228 → creating false evidence
+
+
+
+
+B. Fabricating vs Using False Evidence
+§228 → make
+
+§233 → use
+
+
+
+
+C. False Evidence vs False Charge
+False evidence
+False statement/evidence in circumstances contemplated by law.
+
+False charge
+Knowingly accusing another person of an offence without lawful ground with intent to injure.
+
+
+
+
+D. Harbouring vs Screening
+Harbouring
+Providing concealment/protection.
+
+Screening
+Broader objective of preventing offender from receiving legal punishment.
+
+Harbouring may be one means of screening.
+
+
+
+
+📝 PROBLEM QUESTION 1
+<PARSED TEXT FOR PAGE: 319 / 748>
+Facts
+A is a witness in a criminal trial.
+
+He knows that B was not present at the scene but deliberately tells the court:
+
+        "I saw B commit the offence."
+
+Answer
+This is potentially:
+
+BNS §227 – giving false evidence.
+
+The answer should identify:
+
+    ●    legal duty to tell truth;
+    ●    false statement;
+    ●    knowledge of falsity;
+    ●    judicial proceeding.
+
+
+
+
+📝 PROBLEM QUESTION 2
+A creates a fake CCTV recording showing B at the crime scene.
+
+Answer
+The relevant concept is:
+
+BNS §228 – fabricating false evidence.
+
+A has created false evidence intending that it be relied upon in a proceeding.
+
+
+
+
+📝 PROBLEM QUESTION 3
+A knows that B committed an offence.
+
+A burns the relevant documents and deletes electronic records to prevent B's arrest.
+
+Answer
+The facts may attract:
+<PARSED TEXT FOR PAGE: 320 / 748>
+BNS §238 – causing disappearance of evidence / false information to screen offender,
+subject to the statutory requirements.
+
+
+
+
+📝 PROBLEM QUESTION 4
+A files a criminal complaint against B.
+
+A knows B is innocent and has no lawful basis for the accusation.
+
+A files it solely to damage B's reputation.
+
+Answer
+Potential offence:
+
+BNS §248 – false charge of offence made with intent to injure.
+
+
+
+
+🧠 COMPLETE MEMORY MAP
+FALSE EVIDENCE
+
+227 → GIVE
+
+228 → FABRICATE
+
+229 → PUNISHMENT
+
+230 → DEATH OFFENCE
+
+231 → LIFE/IMPRISONMENT OFFENCE
+
+232 → THREATEN WITNESS
+
+233 → USE FALSE EVIDENCE
+
+234 → FALSE CERTIFICATE
+
+235 → USE FALSE CERTIFICATE
+
+236 → FALSE DECLARATION
+<PARSED TEXT FOR PAGE: 321 / 748>
+237 → USE FALSE DECLARATION
+
+
+
+
+SCREENING / FALSE INFORMATION
+
+238 → DISAPPEAR EVIDENCE
+
+239 → OMIT INFORMATION
+
+240 → FALSE INFORMATION
+
+241 → DESTROY DOCUMENT/E-RECORD
+
+
+
+
+JUDICIAL FRAUD
+
+242 → FALSE PERSONATION
+
+243 → REMOVE PROPERTY
+
+244 → FALSE PROPERTY CLAIM
+
+245 → FRAUDULENT DECREE
+
+246 → FALSE COURT CLAIM
+
+247 → FRAUDULENT DECREE OBTAINED
+
+248 → FALSE CRIMINAL CHARGE
+
+
+
+
+OFFENDER
+
+249 → HARBOUR
+
+250 → TAKE GIFT
+
+251 → GIVE GIFT
+
+252 → TAKE GIFT FOR STOLEN PROPERTY
+
+253 → HARBOUR ESCAPED OFFENDER
+
+254 → HARBOUR ROBBERS/DACOITS
+<PARSED TEXT FOR PAGE: 322 / 748>
+PUBLIC JUSTICE
+
+255 → PUBLIC SERVANT SAVING OFFENDER
+
+256 → INCORRECT RECORD
+
+257 → CORRUPT JUDICIAL ORDER
+
+258 → UNLAWFUL CONFINEMENT
+
+259 → ESCAPE THROUGH PUBLIC-SERVANT NEGLIGENCE
+
+260 → RESIST ANOTHER'S APPREHENSION
+
+261 → ESCAPE FROM CUSTODY
+
+262–263 → APPREHENSION/CUSTODY OFFENCES
+
+
+
+
+🔴 CCSU EXAM PRIORITY
+Tier 1 – MUST LEARN
+§227 – Giving false evidence
+
+§228 – Fabricating false evidence
+
+§229 – Punishment
+
+§230 – False evidence to procure death sentence
+
+§232 – Threatening witness
+
+§233 – Using false evidence
+
+§238 – Disappearance of evidence
+
+§248 – False charge
+
+§249 – Harbouring offender
+<PARSED TEXT FOR PAGE: 323 / 748>
+Tier 2 – VERY IMPORTANT
+§234–237 → False certificates/declarations
+
+§241 → Document/electronic record
+
+§250–254 → Screening/harbouring
+
+§255–258 → Public servants/judicial authority
+
+§259–263 → Escape/apprehension
+
+
+
+
+🔴QUESTIONS
+   MOST LIKELY LONG-ANSWER
+
+   1. Define giving false evidence under BNS §227 and explain its essential ingredients.
+   2. What is fabrication of false evidence under §228? Distinguish it from giving false
+       evidence.
+   3. Discuss the punishment for giving false evidence under BNS.
+   4. Explain the law relating to false evidence intended to procure conviction.
+   5. What is the offence of threatening a person to give false evidence?
+   6. Explain causing disappearance of evidence under §238.
+   7. Explain the offence of making a false charge under §248.
+   8. Distinguish false evidence, fabricated evidence and false charge.
+   9. Explain harbouring an offender under §249.
+   10. Discuss offences relating to screening offenders from punishment.
+   11. Explain offences committed by public servants affecting administration of justice.
+   12. Discuss offences relating to escape from lawful custody and resistance to
+       apprehension.
+
+
+
+
+⭐ SHORT QUESTIONS
+   ●   Define false evidence.
+   ●   What is fabrication of false evidence?
+   ●   Distinguish §227 and §228.
+   ●   What is false evidence in a judicial proceeding?
+   ●   What is the punishment for false evidence?
+   ●   What is a false certificate?
+   ●   What is a false declaration?
+   ●   What is causing disappearance of evidence?
+<PARSED TEXT FOR PAGE: 324 / 748>
+ ●   What is harbouring an offender?
+ ●   What is screening an offender?
+ ●   What is a false charge?
+ ●   What is fraudulent claim in court?
+ ●   What is resistance to lawful apprehension?
+ ●   What is escape from lawful custody?
+
+
+
+
+📌BOXGOOGLE DOCS – FINAL REVISION
+     🔴 CHAPTER XIV – FALSE EVIDENCE & PUBLIC JUSTICE
+     §227 → GIVING FALSE EVIDENCE
+
+     §228 → FABRICATING FALSE EVIDENCE
+
+     §229 → PUNISHMENT
+
+     §230 → FALSE EVIDENCE + DEATH-PUNISHABLE OFFENCE
+
+     §231 → FALSE EVIDENCE + LIFE/IMPRISONMENT OFFENCE
+
+     §232 → THREATENING WITNESS
+
+     §233 → USING FALSE EVIDENCE
+
+     §234–237 → FALSE CERTIFICATES/DECLARATIONS
+
+     §238 → DISAPPEARING EVIDENCE / SCREENING
+
+     §239–240 → INFORMATION OFFENCES
+
+     §241 → DOCUMENT/E-RECORD
+
+     §242–247 → JUDICIAL/PROPERTY FRAUD
+
+     §248 → FALSE CRIMINAL CHARGE
+
+     §249 → HARBOURING OFFENDER
+
+     §250–254 → SCREENING/HARBOURING
+
+     §255–258 → PUBLIC SERVANT/JUDICIAL OFFENCES
+<PARSED TEXT FOR PAGE: 325 / 748>
+§259–263 → ESCAPE & APPREHENSION
+
+🔥 GOLDEN DISTINCTION:
+§227 = SPEAK FALSELY
+
+§228 = CREATE FALSE EVIDENCE
+
+§233 = USE FALSE EVIDENCE
+
+§238 = DESTROY/DISAPPEAR EVIDENCE
+
+§248 = FALSELY ACCUSE
+<PARSED TEXT FOR PAGE: 326 / 748>
+CHAPTER XV – OFFENCES AFFECTING
+THE PUBLIC HEALTH, SAFETY,
+CONVENIENCE, DECENCY AND MORALS
+BNS §§270–297
+🔴 EXAM PRIORITY: VERY HIGH
+This is a broad chapter. It covers public nuisance, spread of dangerous diseases,
+quarantine, adulteration of food and drugs, public safety, rash driving/navigation,
+negligent conduct, obscene material and acts, and unauthorised lotteries.
+
+⚠️the Important   correction to the earlier roadmap: I have checked the enacted BNS text and
+       official/NCRB section tables before preparing this chapter. The numbering is:
+
+§270 Public nuisance → §297 Keeping lottery office, with religion beginning at §298.
+
+
+
+
+1. COMPLETE CHAPTER OVERVIEW
+ BNS                                    Offence                                   IPC
+
+ §270   Public nuisance                                                         §268
+
+ §271   Negligent act likely to spread infection of disease dangerous to life   §269
+
+ §272   Malignant act likely to spread infection of disease dangerous to life   §270
+
+ §273   Disobedience to quarantine rule                                         §271
+
+ §274   Adulteration of food/drink intended for sale                            §272
+
+ §275   Sale of noxious food/drink                                              §273
+
+ §276   Adulteration of drugs                                                   §274
+
+ §277   Sale of adulterated drugs                                               §275
+
+ §278   Sale of drug as a different drug/preparation                            §276
+
+ §279   Fouling water of public spring/reservoir                                §277
+<PARSED TEXT FOR PAGE: 327 / 748>
+§280   Making atmosphere noxious to health                                       §278
+
+§281   Rash driving/riding on public way                                         §279
+
+§282   Rash navigation of vessel                                                 §280
+
+§283   Exhibition of false light, mark or buoy                                   §281
+
+§284   Conveying person by water in unsafe/overloaded vessel                     §282
+
+§285   Danger/obstruction in public way or navigation                            §283
+
+§286   Negligent conduct with poisonous substance                                §284
+
+§287   Negligent conduct with fire/combustible matter                            §285
+
+§288   Negligent conduct with explosive substance                                §286
+
+§289   Negligent conduct with machinery                                          §287
+
+§290   Negligent conduct in pulling down/repairing/constructing buildings etc.   §288
+
+§291   Negligent conduct with animal                                             §289
+
+§292   Punishment for public nuisance where not otherwise provided               §290
+
+§293   Continuance of nuisance after injunction                                  §291
+
+§294   Sale etc. of obscene books/material                                       §292
+
+§295   Sale etc. of obscene objects to child                                     §293
+
+§296   Obscene acts and songs                                                    §294
+
+§297   Keeping lottery office                                                    §294A
+
+
+The NCRB's BNS section table confirms these IPC→BNS correspondences, including the
+important shift of IPC §268 to BNS §270 and IPC §279 to BNS §281.
+
+
+
+
+PART A – PUBLIC NUISANCE & PUBLIC
+HEALTH
+
+SECTION 270 – PUBLIC NUISANCE
+<PARSED TEXT FOR PAGE: 328 / 748>
+🔴🔴 VERY IMPORTANT
+IPC equivalent
+IPC §268
+
+A person is guilty of public nuisance when he:
+
+      ●   does an act; or
+      ●   is guilty of an illegal omission;
+
+which causes:
+
+      ●   common injury;
+      ●   danger;
+      ●   annoyance
+
+to:
+
+      ●   the public;
+      ●   people generally who dwell or occupy property in the vicinity;
+
+or which necessarily causes:
+
+      ●   injury;
+      ●   obstruction;
+      ●   danger;
+      ●   annoyance
+
+to persons using a public right.
+
+The section also makes clear that a common nuisance is not excused merely because it
+produces some convenience or advantage.
+
+
+
+
+⭐ Meaning of Public Nuisance
+Public nuisance is essentially an interference with a right or convenience enjoyed by the
+public generally, rather than merely an interference with one individual's private right.
+
+Example
+A person blocks a public road with construction material, preventing members of the public from
+using it.
+
+This may constitute public nuisance.
+<PARSED TEXT FOR PAGE: 329 / 748>
+🔥 PUBLIC VS PRIVATE NUISANCE
+           Public Nuisance                       Private Nuisance
+
+ Affects public/community              Primarily affects individual/property
+
+ Criminal law provision under §270     Primarily civil law concept
+
+ Common injury/danger/annoyance        Interference with private enjoyment
+
+ Public right may be affected          Private right/property affected
+
+
+
+
+SECTION 271 – NEGLIGENT ACT LIKELY
+TO SPREAD INFECTION
+IPC equivalent
+IPC §269
+
+A person commits the offence when he:
+
+   ●   unlawfully or negligently does an act;
+   ●   knows or has reason to believe that it is likely to spread;
+   ●   infection of a disease dangerous to life.
+
+Punishment
+Imprisonment up to 6 months, or fine, or both.
+
+
+
+
+Example
+A knowingly acts in a dangerously negligent manner despite knowing that the conduct is likely to
+spread a life-threatening infectious disease.
+
+The provision may apply.
+<PARSED TEXT FOR PAGE: 330 / 748>
+SECTION 272 – MALIGNANT ACT LIKELY
+TO SPREAD INFECTION
+IPC equivalent
+IPC §270
+
+This is more serious than §271 because it involves a malignant act.
+
+Punishment
+Imprisonment up to 2 years, or fine, or both.
+
+
+
+
+🔥 §271 VS §272
+§271
+NEGLIGENT
+
+§272
+MALIGNANT
+
+Memory:
+
+       Negligence → 271
+       Malicious/malignant conduct → 272
+
+
+
+
+SECTION 273 – DISOBEDIENCE TO
+QUARANTINE RULE
+IPC equivalent
+IPC §271
+
+A person knowingly disobeys a Government rule relating to:
+
+   ●    putting a mode of transport into quarantine;
+<PARSED TEXT FOR PAGE: 331 / 748>
+   ●   regulating intercourse involving a quarantined transport;
+   ●   regulating movement/intercourse between places where an infectious disease prevails
+       and other places.
+
+Punishment
+Imprisonment up to 6 months, or fine, or both.
+
+
+
+
+⭐ EXAM POINT
+Remember:
+
+§271 = spread through negligence
+
+§272 = spread through malignant act
+
+§273 = quarantine
+
+
+
+
+PART B – FOOD AND DRUG
+ADULTERATION
+
+SECTION 274 – ADULTERATION OF FOOD
+OR DRINK
+🔴 IMPORTANT
+IPC equivalent
+IPC §272
+
+The offence occurs where a person:
+
+   ●   adulterates food or drink;
+   ●   makes it noxious;
+   ●   intends it to be sold as food/drink; or
+   ●   knows it is likely to be sold as food/drink.
+
+Punishment
+<PARSED TEXT FOR PAGE: 332 / 748>
+   ●   imprisonment up to 6 months, or
+   ●   fine up to ₹5,000, or
+   ●   both.
+
+
+
+
+SECTION 275 – SALE OF NOXIOUS FOOD
+OR DRINK
+IPC equivalent
+IPC §273
+
+A person who knowingly sells, offers or exposes for sale food/drink which is noxious or unfit in
+the statutory sense may be liable.
+
+Punishment
+Imprisonment up to 6 months, or fine up to ₹5,000, or both.
+
+
+
+
+🔥 §274 VS §275
+§274
+ADULTERATE
+
+§275
+SELL
+
+This distinction is extremely easy to remember.
+
+
+
+
+SECTION 276 – ADULTERATION OF
+DRUGS
+IPC equivalent
+<PARSED TEXT FOR PAGE: 333 / 748>
+IPC §274
+
+A person who adulterates a drug so that its:
+
+   ●   quality;
+   ●   efficacy;
+   ●   nature
+
+is affected in the manner contemplated by the provision may be liable.
+
+Punishment
+Imprisonment up to 1 year, or fine up to ₹5,000, or both.
+
+
+
+
+SECTION 277 – SALE OF ADULTERATED
+DRUGS
+IPC equivalent
+IPC §275
+
+This concerns selling or offering for sale adulterated drugs.
+
+Punishment
+Imprisonment up to 6 months, or fine up to ₹5,000, or both.
+
+
+
+
+SECTION 278 – SELLING DRUG AS A
+DIFFERENT DRUG
+IPC equivalent
+IPC §276
+
+A person commits this offence where he knowingly sells, offers or exposes for sale a drug as a
+different drug/preparation.
+
+Example
+<PARSED TEXT FOR PAGE: 334 / 748>
+A sells Drug X while deliberately representing it as Drug Y.
+
+
+
+
+🧠 FOOD/DRUG MEMORY
+274 → Food adulteration
+
+275 → Noxious food sale
+
+276 → Drug adulteration
+
+277 → Adulterated drug sale
+
+278 → Wrong drug identity
+
+
+
+
+PART C – WATER AND ATMOSPHERE
+
+SECTION 279 – FOULING PUBLIC WATER
+IPC equivalent
+IPC §277
+
+A person voluntarily corrupts or fouls water of:
+
+    ●   public spring; or
+    ●   public reservoir;
+
+making it less fit for its ordinary purpose.
+
+Punishment
+Imprisonment up to 6 months, or fine up to ₹5,000, or both.
+<PARSED TEXT FOR PAGE: 335 / 748>
+SECTION 280 – MAKING ATMOSPHERE
+NOXIOUS
+IPC equivalent
+IPC §278
+
+A person voluntarily makes the atmosphere in a place noxious to the health of persons
+generally:
+
+   ●   living;
+   ●   working;
+   ●   carrying on business;
+   ●   passing along a public way.
+
+Punishment
+Fine up to ₹1,000.
+
+
+
+
+PART D – PUBLIC SAFETY & TRANSPORT
+
+SECTION 281 – RASH DRIVING OR RIDING
+
+🔴🔴 VERY IMPORTANT
+IPC equivalent
+IPC §279
+
+The offence is committed where a person:
+
+   ●   drives a vehicle; or
+   ●   rides;
+
+on a public way:
+
+   ●   rashly or negligently;
+   ●   in a manner endangering human life;
+   ●   or likely to cause hurt/injury.
+<PARSED TEXT FOR PAGE: 336 / 748>
+Punishment
+   ●   imprisonment up to 6 months, or
+   ●   fine up to ₹1,000, or
+   ●   both.
+
+
+
+
+⭐ IMPORTANT
+Actual injury is not necessary.
+
+The dangerous manner of driving itself is sufficient if the statutory ingredients are established.
+
+Example
+A drives extremely recklessly on a crowded public road in a manner likely to endanger
+pedestrians.
+
+Even if nobody is injured, §281 may apply.
+
+
+
+
+⚖️ CASE LAW
+Rathnashalvam v State of Karnataka
+Courts have emphasised that rashness/negligence must be proved; merely establishing that
+an accident occurred does not automatically establish criminal rash driving.
+
+
+
+
+SECTION 282 – RASH NAVIGATION OF
+VESSEL
+IPC equivalent
+IPC §280
+
+Similar principle to §281, but concerning navigation of a vessel.
+
+Example
+<PARSED TEXT FOR PAGE: 337 / 748>
+A operates a boat recklessly in a manner likely to endanger passengers or others.
+
+Punishment
+Up to 6 months, or fine up to ₹10,000, or both.
+
+
+
+
+SECTION 283 – FALSE LIGHT, MARK OR
+BUOY
+IPC equivalent
+IPC §281
+
+A person exhibits a:
+
+   ●   false light;
+   ●   false mark;
+   ●   false buoy;
+
+intending or knowing that it is likely to mislead a navigator.
+
+Punishment
+Imprisonment up to 7 years and fine of at least ₹10,000.
+
+
+
+
+SECTION 284 – UNSAFE/OVERLOADED
+VESSEL
+IPC equivalent
+IPC §282
+
+A person knowingly or negligently conveys, or causes to be conveyed for hire, a person by
+water in a vessel which is:
+
+   ●   in such a condition; or
+   ●   so loaded
+
+as to endanger that person's life.
+<PARSED TEXT FOR PAGE: 338 / 748>
+Punishment
+Up to 6 months, or fine up to ₹5,000, or both.
+
+
+
+
+SECTION 285 – DANGER/OBSTRUCTION
+IN PUBLIC WAY
+IPC equivalent
+IPC §283
+
+A person causes:
+
+   ●   danger;
+   ●   obstruction;
+   ●   injury
+
+to persons using a:
+
+   ●   public way; or
+   ●   public line of navigation,
+
+through an act or omission concerning property under his possession/control.
+
+Punishment
+Fine up to ₹5,000.
+
+
+
+
+PART E – NEGLIGENT CONDUCT
+
+SECTION 286 – POISONOUS SUBSTANCE
+IPC equivalent
+IPC §284
+
+It covers rash/negligent handling of poisonous substances where human life may be
+endangered.
+<PARSED TEXT FOR PAGE: 339 / 748>
+Punishment
+Up to 6 months, or fine up to ₹5,000, or both.
+
+
+
+
+SECTION 287 – FIRE OR COMBUSTIBLE
+MATTER
+IPC equivalent
+IPC §285
+
+Rash/negligent handling of:
+
+    ●   fire;
+    ●   combustible matter
+
+that endangers life or is likely to cause injury.
+
+Punishment
+Up to 6 months, or fine up to ₹2,000, or both.
+
+
+
+
+SECTION 288 – EXPLOSIVE SUBSTANCE
+IPC equivalent
+IPC §286
+
+Concerns rash/negligent conduct involving explosive substances.
+
+Punishment
+Up to 6 months, or fine up to ₹5,000, or both.
+
+
+
+
+SECTION 289 – MACHINERY
+<PARSED TEXT FOR PAGE: 340 / 748>
+IPC equivalent
+IPC §287
+
+Concerns negligent conduct with machinery which creates danger to human life.
+
+Punishment
+Up to 6 months, or fine up to ₹5,000, or both.
+
+
+
+
+SECTION 290 – BUILDINGS
+IPC equivalent
+IPC §288
+
+Concerns negligent conduct while:
+
+   ●   pulling down;
+   ●   repairing;
+   ●   constructing
+
+buildings or structures in a manner likely to cause danger.
+
+⚠️the Important   BNS change: the provision expressly extends to construction as well, whereas
+       old IPC provision focused on pulling down/repairing buildings.
+
+Punishment
+Up to 6 months, or fine up to ₹5,000, or both.
+
+
+
+
+SECTION 291 – ANIMAL
+IPC equivalent
+IPC §289
+
+A person having possession/control of an animal must take reasonable measures to prevent
+probable danger to:
+
+   ●   human life;
+   ●   health;
+<PARSED TEXT FOR PAGE: 341 / 748>
+   ●   safety.
+
+Negligent failure may constitute the offence.
+
+Example
+A knows that his animal is dangerous but deliberately leaves it uncontrolled in a crowded public
+area.
+
+
+
+
+🔥 NEGLIGENT CONDUCT MEMORY
+286 → POISON
+
+287 → FIRE
+
+288 → EXPLOSIVE
+
+289 → MACHINE
+
+290 → BUILDING
+
+291 → ANIMAL
+
+
+
+
+PART F – PUBLIC NUISANCE
+
+SECTION 292 – PUNISHMENT FOR
+PUBLIC NUISANCE
+IPC equivalent
+IPC §290
+
+Where a public nuisance is committed in circumstances for which no other specific punishment
+is provided, §292 provides the punishment.
+
+Punishment
+Fine up to ₹1,000.
+<PARSED TEXT FOR PAGE: 342 / 748>
+SECTION 293 – CONTINUING NUISANCE
+AFTER INJUNCTION
+IPC equivalent
+IPC §291
+
+Where a competent authority has issued an injunction directing a person to discontinue a
+nuisance, and the person knowingly continues it:
+
+Punishment
+   ●   simple imprisonment up to 6 months, or
+   ●   fine up to ₹5,000, or
+   ●   both.
+
+
+
+
+🔥 §270 VS §292 VS §293
+§270
+Defines public nuisance
+
+§292
+Punishment where no specific punishment otherwise provided
+
+§293
+Continues nuisance despite injunction
+
+
+
+
+PART G – OBSCENITY
+<PARSED TEXT FOR PAGE: 343 / 748>
+SECTION 294 – SALE ETC. OF OBSCENE
+BOOKS/MATERIAL
+
+🔴🔴 IMPORTANT
+IPC equivalent
+IPC §292
+
+The provision deals with obscene material including:
+
+   ●   books;
+   ●   pamphlets;
+   ●   papers;
+   ●   writings;
+   ●   drawings;
+   ●   paintings;
+   ●   representations;
+   ●   figures;
+   ●   other objects;
+
+and importantly, BNS expressly includes display of content in electronic form.
+
+
+
+
+Meaning of obscene
+The statutory test includes material that is:
+
+   ●   lascivious;
+   ●   appeals to prurient interest; or
+   ●   tends to deprave and corrupt persons likely to read, see or hear it,
+
+when considered in the statutory manner.
+
+
+
+
+⭐ BNS DIGITAL ELEMENT
+The inclusion of electronic content is highly relevant in modern application.
+
+Therefore, the offence is not limited to physical books.
+<PARSED TEXT FOR PAGE: 344 / 748>
+SECTION 295 – OBSCENE OBJECTS TO
+CHILD
+🔴 IMPORTANT
+IPC equivalent
+IPC §293
+
+A person who sells, lets to hire, distributes, exhibits or circulates an obscene object to a child
+may be liable.
+
+BNS uses "child" rather than the IPC expression "young person."
+
+Punishment
+
+First conviction:
+   ●   imprisonment up to 3 years;
+   ●   fine up to ₹2,000.
+
+Subsequent conviction:
+   ●   imprisonment up to 7 years;
+   ●   fine up to ₹5,000.
+
+
+
+
+🔥 §294 VS §295
+§294
+Obscene material generally.
+
+§295
+Obscene material provided to a child.
+<PARSED TEXT FOR PAGE: 345 / 748>
+SECTION 296 – OBSCENE ACTS AND
+SONGS
+IPC equivalent
+IPC §294
+
+A person commits the offence when, to the annoyance of others, he:
+
+   ●   does an obscene act in a public place; or
+   ●   sings, recites or utters an obscene song/ballad/words in or near a public place.
+
+Punishment
+   ●   imprisonment up to 3 months, or
+   ●   fine up to ₹1,000, or
+   ●   both.
+
+
+
+
+⭐ ESSENTIAL ELEMENTS
+OBSCENE ACT/WORDS
+   ●
+
+PUBLIC PLACE
+   ●
+
+ANNOYANCE OF OTHERS
+
+
+
+
+PART H – LOTTERY
+
+SECTION 297 – KEEPING LOTTERY
+OFFICE
+IPC equivalent
+<PARSED TEXT FOR PAGE: 346 / 748>
+IPC §294A
+
+This provision deals with unauthorised lotteries.
+
+§297(1)
+Keeping an office/place for drawing a lottery that is:
+
+   ●   not a State lottery; and
+   ●   not authorised by the State Government.
+
+Punishment
+   ●   imprisonment up to 6 months, or
+   ●   fine, or
+   ●   both.
+
+§297(2)
+Publishing proposals relating to such lottery can attract:
+
+   ●   fine up to ₹5,000.
+
+
+
+
+2. MOST IMPORTANT DISTINCTIONS
+A. §271 vs §272
+       §271             §272
+
+ Negligent act     Malignant act
+
+ Disease           Disease
+ spread            spread
+ IPC §269          IPC §270
+
+ Up to 6 months    Up to 2 years
+
+
+
+
+B. §274 vs §275
+§274 → adulterating food
+<PARSED TEXT FOR PAGE: 347 / 748>
+§275 → selling noxious food
+
+
+
+
+C. §276 vs §277
+§276 → adulterating drugs
+
+§277 → selling adulterated drugs
+
+
+
+
+D. §281 vs §282
+§281 → rash driving/riding
+
+§282 → rash navigation
+
+
+
+
+E. §270 vs §292
+§270 → public nuisance
+
+§292 → punishment where no specific punishment exists
+
+
+
+
+F. §294 vs §295 vs §296
+Sectio            Core subject
+   n
+§294     Obscene books/material
+
+§295     Obscene objects supplied to
+         child
+§296     Obscene acts/songs in public
+<PARSED TEXT FOR PAGE: 348 / 748>
+3. VERY IMPORTANT CONCEPT –
+RASHNESS VS NEGLIGENCE
+This chapter repeatedly uses:
+
+      rash or negligent
+
+You should understand the distinction.
+
+Rashness
+A person consciously takes a risk, knowing that his conduct may cause harmful consequences,
+but proceeds anyway.
+
+Negligence
+A person fails to exercise the reasonable care expected in the circumstances.
+
+Criminal negligence
+Not every ordinary mistake is criminal negligence.
+
+The conduct must satisfy the applicable criminal-law threshold.
+
+
+
+
+4. PUBLIC SAFETY SEQUENCE
+Memorise:
+
+281 → ROAD
+
+282 → VESSEL
+
+283 → NAVIGATION MARK
+
+284 → UNSAFE PASSENGER VESSEL
+
+285 → PUBLIC WAY
+
+286 → POISON
+<PARSED TEXT FOR PAGE: 349 / 748>
+287 → FIRE
+
+288 → EXPLOSIVE
+
+289 → MACHINE
+
+290 → BUILDING
+
+291 → ANIMAL
+
+
+
+
+5. OBSCENITY – EXAM CONCEPT
+A very important constitutional principle is that obscenity must be distinguished from mere
+offensiveness or unpopular expression.
+
+Courts have developed tests concerning:
+
+   ●   contemporary community standards;
+   ●   overall effect of the material;
+   ●   context;
+   ●   artistic/literary value.
+
+⚖️ Important cases
+Ranjit D. Udeshi v State of Maharashtra
+
+Important early Supreme Court case concerning obscenity.
+
+Aveek Sarkar v State of West Bengal
+
+🔴 Important
+The Supreme Court moved toward a more contemporary-community-standards approach rather
+than judging isolated words/images without context.
+
+
+
+
+6. IMPORTANT CASE – PUBLIC
+NUISANCE
+⚖️ Municipal Council, Ratlam v Vardhichand
+<PARSED TEXT FOR PAGE: 350 / 748>
+🔴 MUST STUDY
+The Supreme Court dealt with public nuisance and the responsibility of public authorities to
+address conditions affecting public health and sanitation.
+
+Exam use
+Excellent case for:
+
+        Public nuisance + public health + responsibility of authorities
+
+
+
+
+🔴 MOST IMPORTANT EXAM QUESTIONS
+Long-answer
+   1.  Define public nuisance under BNS §270 and explain its essential ingredients.
+   2.  Distinguish public nuisance from private nuisance.
+   3.  Explain negligent and malignant acts likely to spread dangerous diseases.
+   4.  Explain BNS provisions relating to adulteration of food and drugs.
+   5.  Discuss BNS §281 relating to rash driving or riding on a public way.
+   6.  Explain the various offences relating to public safety under §§281–291.
+   7.  Explain negligent conduct relating to poisonous substances, fire, explosives,
+       machinery and buildings.
+   8. Discuss the offences relating to obscene material under §§294–296.
+   9. What is obscenity? Discuss the judicial approach to obscenity.
+   10. Explain BNS §295 relating to obscene objects supplied to children.
+   11. Explain BNS §297 relating to unauthorised lottery offices.
+   12. Discuss the offences affecting public health and safety under BNS Chapter XV.
+
+
+
+
+⭐ SHORT QUESTIONS
+   ●     Define public nuisance.
+   ●     What is negligent spreading of infection?
+   ●     What is a malignant act under §272?
+   ●     What is a quarantine rule?
+   ●     What is food adulteration?
+   ●     What is a noxious article of food?
+   ●     What is drug adulteration?
+   ●     What is rash driving?
+   ●     What is rash navigation?
+   ●     What is a false buoy?
+<PARSED TEXT FOR PAGE: 351 / 748>
+   ●    What is negligent conduct with poisonous substances?
+   ●    What is public nuisance?
+   ●    Define obscenity.
+   ●    What is an obscene object?
+   ●    What is an obscene act?
+   ●    What is an unauthorised lottery?
+   ●    What is BNS §297?
+
+
+
+
+📝NUISANCE
+   PROBLEM QUESTION 1 – PUBLIC
+
+Facts
+A dumps large quantities of waste onto a public road, making it difficult and dangerous for
+pedestrians and vehicles to use the road.
+
+Answer
+The primary issue is public nuisance under §270.
+
+The answer should establish:
+
+   1. act/illegal omission;
+   2. common injury/danger/annoyance;
+   3. effect on public/public right.
+
+
+
+
+📝DRIVING
+   PROBLEM QUESTION 2 – RASH
+
+A drives a car at an extremely dangerous speed through a crowded market.
+
+No person is injured.
+
+Answer
+The absence of actual injury does not automatically prevent application of §281.
+
+The issue is whether the manner of driving was:
+
+   ●    rash or negligent;
+<PARSED TEXT FOR PAGE: 352 / 748>
+   ●   on a public way;
+   ●   endangering human life or likely to cause hurt/injury.
+
+
+
+
+📝 PROBLEM QUESTION 3 – FOOD
+A deliberately adulterates milk with a substance making it noxious, intending to sell it as milk.
+
+Answer
+The relevant provision is:
+
+§274 – adulteration of food/drink intended for sale.
+
+
+
+
+📝MATERIAL
+   PROBLEM QUESTION 4 – OBSCENE
+
+A sells obscene material to a child.
+
+Answer
+The specific provision is:
+
+§295 – sale etc. of obscene objects to child.
+
+The fact that the recipient is a child makes §295 particularly relevant.
+
+
+
+
+🧠 COMPLETE CHAPTER MEMORY MAP
+PUBLIC HEALTH
+270 → NUISANCE
+
+271 → INFECTION – NEGLIGENCE
+
+272 → INFECTION – MALIGNANT
+<PARSED TEXT FOR PAGE: 353 / 748>
+273 → QUARANTINE
+
+
+
+
+FOOD & DRUGS
+274 → FOOD ADULTERATION
+
+275 → NOXIOUS FOOD SALE
+
+276 → DRUG ADULTERATION
+
+277 → ADULTERATED DRUG SALE
+
+278 → WRONG DRUG
+
+
+
+
+ENVIRONMENT
+279 → WATER
+
+280 → ATMOSPHERE
+
+
+
+
+PUBLIC SAFETY
+281 → DRIVING
+
+282 → NAVIGATION
+
+283 → FALSE LIGHT/MARK/BUOY
+
+284 → UNSAFE VESSEL
+
+285 → PUBLIC WAY
+
+
+
+
+NEGLIGENCE
+286 → POISON
+<PARSED TEXT FOR PAGE: 354 / 748>
+287 → FIRE
+
+288 → EXPLOSIVE
+
+289 → MACHINE
+
+290 → BUILDING
+
+291 → ANIMAL
+
+
+
+
+NUISANCE
+292 → PUNISHMENT
+
+293 → CONTINUANCE
+
+
+
+
+OBSCENITY
+294 → OBSCENE MATERIAL
+
+295 → OBSCENE MATERIAL + CHILD
+
+296 → OBSCENE ACT/SONG
+
+
+
+
+LOTTERY
+297 → LOTTERY OFFICE
+
+
+
+
+🔄 IPC → BNS MASTER REVISION
+     IPC 268 → BNS 270
+      IPC 269 → BNS 271
+      IPC 270 → BNS 272
+      IPC 271 → BNS 273
+      IPC 272 → BNS 274
+<PARSED TEXT FOR PAGE: 355 / 748>
+      IPC 273 → BNS 275
+      IPC 274 → BNS 276
+      IPC 275 → BNS 277
+      IPC 276 → BNS 278
+      IPC 277 → BNS 279
+      IPC 278 → BNS 280
+      IPC 279 → BNS 281
+      IPC 280 → BNS 282
+      IPC 281 → BNS 283
+      IPC 282 → BNS 284
+      IPC 283 → BNS 285
+      IPC 284 → BNS 286
+      IPC 285 → BNS 287
+      IPC 286 → BNS 288
+      IPC 287 → BNS 289
+      IPC 288 → BNS 290
+      IPC 289 → BNS 291
+      IPC 290 → BNS 292
+      IPC 291 → BNS 293
+      IPC 292 → BNS 294
+      IPC 293 → BNS 295
+      IPC 294 → BNS 296
+      IPC 294A → BNS 297
+
+The official BNS text places Chapter XVI – Offences Relating to Religion beginning at §298,
+confirming that §297 is the final section of this chapter.
+
+
+
+
+📌BOXGOOGLE DOCS – FINAL REVISION
+     🔴MORALS
+        CHAPTER XV – PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY &
+
+
+     §270 → Public Nuisance
+
+     §271 → Negligent Spread of Disease
+
+     §272 → Malignant Spread of Disease
+
+     §273 → Quarantine
+<PARSED TEXT FOR PAGE: 356 / 748>
+§274 → Food Adulteration
+
+§275 → Noxious Food Sale
+
+§276 → Drug Adulteration
+
+§277 → Adulterated Drug Sale
+
+§278 → Selling Wrong Drug
+
+§279 → Fouling Water
+
+§280 → Noxious Atmosphere
+
+§281 → Rash Driving
+
+§282 → Rash Navigation
+
+§283 → False Light/Mark/Buoy
+
+§284 → Unsafe Vessel
+
+§285 → Public Way Obstruction
+
+§286 → Poison
+
+§287 → Fire
+
+§288 → Explosive
+
+§289 → Machinery
+
+§290 → Building
+
+§291 → Animal
+
+§292 → Public Nuisance Punishment
+
+§293 → Continuing Nuisance
+
+§294 → Obscene Material
+
+§295 → Obscene Material + Child
+
+§296 → Obscene Acts/Songs
+
+§297 → Lottery Office
+<PARSED TEXT FOR PAGE: 357 / 748>
+🔥 MUST REMEMBER:
+§270 – Public Nuisance
+
+§281 – Rash Driving
+
+§294 – Obscenity
+
+§295 – Obscenity + Child
+
+§296 – Obscene Act/Song
+
+§297 – Lottery
+<PARSED TEXT FOR PAGE: 358 / 748>
+CHAPTER XVI – OFFENCES RELATING TO
+RELIGION
+BNS §§298–302
+🔴 EXAM PRIORITY: HIGH
+This chapter is short—only 5 sections—but it is highly examinable because it deals with the
+sensitive balance between:
+
+   ●    freedom of religion,
+   ●    freedom of speech and expression, and
+   ●    protection against deliberate acts that interfere with religious worship or deliberately
+        outrage religious feelings.
+
+The chapter broadly carries forward the IPC provisions dealing with religious offences.
+
+
+
+
+1. CHAPTER OVERVIEW
+ BNS                                    Offence                                   IPC Equivalent
+
+ §298    Injuring/defiling place of worship with intent to insult religion       IPC §295
+
+ §299    Deliberate and malicious acts intended to outrage religious             IPC §295A
+         feelings
+ §300    Disturbing religious assembly                                           IPC §296
+
+ §301    Trespassing on burial places etc.                                       IPC §297
+
+ §302    Words/acts intended to wound religious feelings                         IPC §298
+
+
+🔴 Most important: §299
+
+SECTION 298 – INJURING OR
+DEFILEMENT OF PLACE OF WORSHIP
+<PARSED TEXT FOR PAGE: 359 / 748>
+🔴 IMPORTANT
+IPC equivalent
+IPC §295
+
+A person commits the offence when he:
+
+   ●   destroys;
+   ●   damages;
+   ●   defiles
+
+a place of worship or an object held sacred by a class of persons,
+
+with the intention of thereby insulting the religion of that class.
+
+
+
+
+⭐ Essential ingredients
+Remember:
+
+PLACE/OBJECT
+   ●
+
+DESTRUCTION/DAMAGE/DEFILEMENT
+   ●
+
+INTENTION TO INSULT RELIGION
+
+
+
+Example
+A deliberately damages a religiously sacred object belonging to a community with the intention
+of insulting that community's religion.
+
+The conduct may fall under §298.
+
+
+
+
+⚠️ INTENTION IS IMPORTANT
+<PARSED TEXT FOR PAGE: 360 / 748>
+Accidental damage does not automatically constitute the offence.
+
+The prosecution must establish the required intention.
+
+
+
+
+SECTION 299 – DELIBERATE AND
+MALICIOUS ACTS INTENDED TO
+OUTRAGE RELIGIOUS FEELINGS
+
+🔴🔴🔴 EXTREMELY IMPORTANT
+IPC equivalent
+IPC §295A
+
+This is one of the most important provisions in the chapter.
+
+A person commits the offence when he:
+
+      ●   deliberately; and
+      ●   maliciously;
+
+by:
+
+      ●   words, spoken or written;
+      ●   signs;
+      ●   visible representations;
+      ●   electronic communication;
+      ●   other means;
+
+outrages or attempts to outrage the religious feelings of any class of citizens by:
+
+      ●   insulting;
+      ●   attempting to insult;
+
+the religion or religious beliefs of that class.
+
+
+
+
+⭐ TWO KEY WORDS
+<PARSED TEXT FOR PAGE: 361 / 748>
+DELIBERATE
+The act is intentional.
+
+MALICIOUS
+The act is carried out with the specific wrongful/malicious intention contemplated by the
+provision.
+
+
+
+
+🔥RELIGION"
+   §299 IS NOT "ANY INSULT TO
+
+This is a very important examination point.
+
+The provision does not mean:
+
+       Every offensive statement about a religion is automatically criminal.
+
+The statutory requirement of:
+
+       deliberate + malicious intention
+
+is crucial.
+
+
+
+
+Example 1
+A accidentally makes an incorrect statement about a religious practice.
+
+There is no deliberate or malicious intention.
+
+Result
+§299 is not automatically attracted.
+
+
+
+
+Example 2
+<PARSED TEXT FOR PAGE: 362 / 748>
+A deliberately creates and publishes material specifically designed to insult the religious beliefs
+of a particular class, with malicious intent to outrage their religious feelings.
+
+Result
+The ingredients of §299 may be established.
+
+
+
+
+⭐ ELECTRONIC COMMUNICATION
+BNS expressly recognises modern communication methods.
+
+Therefore, the provision can apply to conduct involving:
+
+   ●   social media posts;
+   ●   digital messages;
+   ●   electronic publications;
+   ●   online visual representations;
+
+provided the statutory ingredients are satisfied.
+
+
+
+
+⚖️U.P.CASE LAW – Ramji Lal Modi v State of
+🔴 MUST KNOW
+The Supreme Court considered the constitutionality of IPC §295A.
+
+Principle
+The Court upheld the provision and interpreted it as targeting deliberate and malicious acts
+intended to outrage religious feelings.
+
+It is not aimed at every form of criticism or careless expression.
+
+
+
+
+⚖️Yerraguntla
+     CASE LAW – Mahendra Singh Dhoni v
+              Shyamsundar
+<PARSED TEXT FOR PAGE: 363 / 748>
+The Supreme Court stressed the importance of examining the statutory ingredients and the
+circumstances before treating allegedly offensive material as a criminal religious offence.
+
+Exam use
+Useful for discussing:
+
+intention + context + religious feelings
+
+
+
+
+🔥SPEECH
+   SECTION 299 AND FREEDOM OF
+
+This is a very good constitutional question.
+
+Article 19(1)(a)
+Provides:
+
+      Freedom of speech and expression.
+
+But Article 19(2) permits reasonable restrictions on specified grounds.
+
+Religious harmony and public order can therefore intersect with criminal provisions protecting
+religious peace.
+
+
+
+
+⭐ EXAM ANALYSIS
+A good answer should not simply say:
+
+      "Religious criticism is illegal."
+
+Instead write:
+
+      Legitimate criticism of religious ideas is not automatically criminal. The
+      prosecution must establish the specific statutory ingredients, including the
+      deliberate and malicious intention required by §299.
+<PARSED TEXT FOR PAGE: 364 / 748>
+SECTION 300 – DISTURBING RELIGIOUS
+ASSEMBLY
+IPC equivalent
+IPC §296
+
+A person commits the offence when he:
+
+   ●   voluntarily causes disturbance;
+   ●   to an assembly lawfully engaged in the performance of religious worship or religious
+       ceremonies.
+
+Punishment
+Imprisonment up to 1 year, or fine, or both.
+
+
+
+
+Example
+A group is lawfully conducting a religious ceremony.
+
+A intentionally creates a disturbance specifically to disrupt the ceremony.
+
+The conduct may attract §300.
+
+
+
+
+⭐ ESSENTIAL ELEMENTS
+LAWFUL RELIGIOUS ASSEMBLY
+   ●
+
+VOLUNTARY DISTURBANCE
+
+
+
+
+SECTION 301 – TRESPASSING ON
+BURIAL PLACES
+<PARSED TEXT FOR PAGE: 365 / 748>
+IPC equivalent
+IPC §297
+
+This provision protects:
+
+   ●   places of worship;
+   ●   places of burial;
+   ●   places set apart for funeral rites;
+   ●   human remains;
+
+from specified forms of trespass and indignity.
+
+
+
+
+Conduct covered
+The offence may involve:
+
+   ●   trespassing;
+   ●   causing indignity to a corpse;
+   ●   disturbing funeral ceremonies;
+   ●   offering indignity to places set apart for burial;
+
+with the required intention/knowledge contemplated by the section.
+
+
+
+
+Example
+A deliberately enters a burial place to insult mourners and disturb funeral rites.
+
+The provision may apply.
+
+
+
+
+⭐ IMPORTANT
+This provision protects not only religious sentiment, but also the dignity of the dead and
+sanctity of burial/funeral practices.
+<PARSED TEXT FOR PAGE: 366 / 748>
+SECTION 302 – WORDS OR ACTS
+INTENDED TO WOUND RELIGIOUS
+FEELINGS
+IPC equivalent
+IPC §298
+
+This provision is narrower than §299.
+
+A person commits the offence when he:
+
+   ●   utters words;
+   ●   makes sounds;
+   ●   makes gestures; or
+   ●   places an object in the sight of a person;
+
+with the deliberate intention of wounding that person's religious feelings.
+
+
+
+
+Example
+A deliberately uses an insulting religious expression directly toward B with the specific intention
+of wounding B's religious feelings.
+
+The conduct may attract §302.
+
+
+
+
+🔥 §299 VS §302
+This is an excellent examination distinction.
+
+                  §299                                             §302
+
+ Religious feelings of a class of          Religious feelings of a person
+ citizens
+
+ Deliberate + malicious                    Deliberate intention
+<PARSED TEXT FOR PAGE: 367 / 748>
+ Insult to religion/religious beliefs           Words/sounds/gestures/objects directed toward
+                                                person
+
+ IPC §295A                                      IPC §298
+
+ Generally broader                              More individual-focused
+
+
+Memory:
+
+§299 → CLASS
+
+§302 → PERSON
+
+
+
+
+2. §298 VS §299
+Another important distinction.
+
+               §298                                      §299
+
+ Place of worship/sacred                Religion/religious beliefs
+ object
+ Damage/defilement                      Words/signs/representations/other
+                                        acts
+ Intention to insult religion           Deliberate + malicious intention
+
+ IPC §295                               IPC §295A
+
+
+
+
+3. §300 VS §301
+§300
+Disturb religious assembly
+
+§301
+Trespass/burial/funeral-related offence
+<PARSED TEXT FOR PAGE: 368 / 748>
+4. COMPLETE CHAPTER LOGIC
+Think of the chapter as protecting five things:
+
+§298 → SACRED PLACE/OBJECT
+
+§299 → RELIGIOUS FEELINGS OF CLASS
+
+§300 → RELIGIOUS ASSEMBLY
+
+§301 → BURIAL/FUNERAL
+
+§302 → RELIGIOUS FEELINGS OF PERSON
+
+
+
+
+🧠 SECTION MEMORY TRICK
+298 → PLACE
+
+299 → CLASS
+
+300 → ASSEMBLY
+
+301 → BURIAL
+
+302 → PERSON
+
+This is probably the easiest way to remember the chapter.
+
+
+
+
+🔴 MOST IMPORTANT EXAM QUESTIONS
+Long-answer
+   1. Explain BNS §299 relating to deliberate and malicious acts intended to outrage
+      religious feelings.
+   2. Discuss the constitutional validity and scope of BNS §299.
+<PARSED TEXT FOR PAGE: 369 / 748>
+   3. Explain the relationship between BNS §299 and freedom of speech under Article
+      19(1)(a).
+   4. Explain BNS §298 relating to places of worship.
+   5. Explain BNS §300 relating to disturbance of religious assembly.
+   6. Explain the offence relating to burial places under BNS §301.
+   7. Explain BNS §302 relating to deliberate acts intended to wound religious feelings.
+   8. Distinguish BNS §§299 and 302.
+   9. Discuss all offences relating to religion under BNS §§298–302.
+
+
+
+
+⭐ SHORT QUESTIONS
+   ●    What is BNS §298?
+   ●    What is a place of worship?
+   ●    What is defilement?
+   ●    What is BNS §299?
+   ●    What is meant by "deliberate"?
+   ●    What is meant by "malicious"?
+   ●    What is the significance of Ramji Lal Modi?
+   ●    What is BNS §300?
+   ●    What is BNS §301?
+   ●    What is BNS §302?
+   ●    Distinguish §299 and §302.
+   ●    Can criticism of religion automatically constitute an offence under §299?
+   ●    What constitutional right is relevant to §299?
+
+
+
+
+📝 PROBLEM QUESTION 1 – §298
+Facts
+A deliberately destroys a sacred religious object belonging to a community for the purpose of
+insulting that community's religion.
+
+Answer
+The relevant provision is:
+
+BNS §298
+
+The prosecution would need to establish:
+
+   ●    destruction/damage/defilement;
+   ●    sacred place/object;
+<PARSED TEXT FOR PAGE: 370 / 748>
+   ●   class of persons;
+   ●   intention to insult their religion.
+
+
+
+
+📝 PROBLEM QUESTION 2 – §299
+A knowingly publishes an electronic message specifically designed to insult the religious beliefs
+of a particular class. The prosecution alleges that it was deliberately and maliciously intended to
+outrage their religious feelings.
+
+Answer
+The relevant provision is:
+
+BNS §299
+
+The important issues are:
+
+   ●   deliberate act;
+   ●   malicious intention;
+   ●   insult to religion/religious beliefs;
+   ●   intention to outrage religious feelings;
+   ●   mode of communication.
+
+
+
+
+📝 PROBLEM QUESTION 3 – §300
+A group is conducting a lawful religious ceremony.
+
+B deliberately creates a disturbance to interrupt the ceremony.
+
+Answer
+Potential offence:
+
+BNS §300 – disturbing religious assembly.
+
+
+
+
+📝 PROBLEM QUESTION 4 – §302
+<PARSED TEXT FOR PAGE: 371 / 748>
+A deliberately makes an insulting religious gesture directly toward B, intending to wound B's
+religious feelings.
+
+Answer
+The relevant provision is:
+
+BNS §302.
+
+The focus is on:
+
+deliberate intention + individual person's religious feelings.
+
+
+
+
+🔴 CONSTITUTIONAL ANGLE
+When answering a question on religious offences, remember:
+
+Article 19(1)(a)
+Freedom of speech and expression
+
+Article 25
+Freedom of conscience and free profession, practice and propagation of religion
+
+Criminal law
+Protects public order and individuals/groups from specified deliberate criminal conduct.
+
+Therefore, courts have to balance:
+
+FREE EXPRESSION
+
+against
+
+PUBLIC ORDER + RELIGIOUS HARMONY + PROTECTION FROM SPECIFIED
+DELIBERATE CONDUCT
+
+
+
+
+⚖️ IMPORTANT CASES TO REMEMBER
+Ramji Lal Modi v State of U.P.
+<PARSED TEXT FOR PAGE: 372 / 748>
+IPC §295A
+
+Constitutionality and scope of deliberate/malicious religious insult.
+
+Mahendra Singh Dhoni v Yerraguntla Shyamsundar
+Importance of statutory ingredients and context.
+
+Amish Devgan v Union of India
+🔴 Useful modern case
+The Supreme Court discussed hate speech, group-based targeting and the relationship
+between speech and criminal restrictions.
+
+
+
+
+📌BOXGOOGLE DOCS – FINAL REVISION
+      🔴 CHAPTER XVI – OFFENCES RELATING TO RELIGION
+      §298 → PLACE/OBJECT
+
+      Injuring or defiling place of worship/sacred object.
+
+      §299 → CLASS
+
+      Deliberate + malicious acts intended to outrage religious feelings.
+
+      §300 → ASSEMBLY
+
+      Disturbing religious assembly.
+
+      §301 → BURIAL
+
+      Trespass/indignity relating to burial places and funeral rites.
+
+      §302 → PERSON
+
+      Deliberate words/acts intended to wound religious feelings.
+
+      🔴 MOST IMPORTANT: §299
+      ⭐ KEY CASE: Ramji Lal Modi v State of U.P.
+      ⚖️ CONSTITUTIONAL LINK: Article 19(1)(a), Article 19(2), Article 25.
+<PARSED TEXT FOR PAGE: 373 / 748>
+🧠 MEMORY:
+298 = PLACE
+299 = CLASS
+300 = ASSEMBLY
+301 = BURIAL
+302 = PERSON
+<PARSED TEXT FOR PAGE: 374 / 748>
+CHAPTER XVII – OFFENCES AGAINST
+PROPERTY
+BNS §§303–334
+<PARSED TEXT FOR PAGE: 376 / 748>
+6
+
+🔴 MUST STUDY CHAPTER
+This is one of the highest-value chapters for LLB examinations because it contains several
+classic problem questions and distinctions: Theft, Snatching, Extortion, Robbery, Dacoity,
+Misappropriation, Criminal Breach of Trust, Receiving Stolen Property, Cheating,
+Mischief and Criminal Trespass.
+
+Chapter XVII contains BNS §§303–334. The official BNS text confirms this structure and the
+corresponding provisions.
+
+
+
+
+PART A – QUICK SECTION MAP
+ BNS                            Offence                                  IPC Reference
+<PARSED TEXT FOR PAGE: 377 / 748>
+303   Theft                                                          §§378–379
+
+304   Snatching                                                      New provision
+
+305   Theft in dwelling house, transport, place of worship, etc.     §380
+
+306   Theft by clerk or servant                                      §381
+
+307   Theft after preparation for causing death, hurt or restraint   §382
+
+308   Extortion                                                      §§383–389
+
+309   Robbery                                                        §390 + punishment
+                                                                     §§392–394
+
+310   Dacoity                                                        §391 + punishment
+                                                                     §§395–396
+
+311   Robbery/dacoity with attempt to cause death or grievous        §397
+      hurt
+
+312   Attempt to commit robbery/dacoity when armed with              §398
+      deadly weapon
+
+313   Belonging to gang of robbers, etc.                             §§400–401
+
+314   Dishonest misappropriation                                     §403
+
+315   Misappropriation of property possessed by deceased             §404
+
+316   Criminal breach of trust                                       §§405–409
+
+317   Stolen property                                                §§410–414
+
+318   Cheating                                                       §§415, 417, 418, 420
+
+319   Cheating by personation                                        §§416, 419
+
+320   Fraudulent removal/concealment to prevent distribution         §421
+      among creditors
+
+321   Preventing debt from being available to creditors              §422
+
+322   Fraudulent deed with false consideration                       §423
+
+323   Fraudulent removal/concealment of property                     §424
+
+324   Mischief                                                       §§425–426
+
+325   Mischief by killing/maiming animal                             §§428–429
+<PARSED TEXT FOR PAGE: 378 / 748>
+ 326    Mischief by injury, inundation, fire, explosive etc.          §§430–436
+
+ 327    Mischief relating to rail, aircraft, vessel etc.              §437
+
+ 328    Intentionally running vessel aground/ashore with intent to    §439
+        commit theft etc.
+
+ 329    Criminal trespass and house-trespass                          §§441–442, 447–448
+
+ 330    House-trespass and house-breaking                             §§443–446
+
+ 331    Punishment for house-trespass/house-breaking                  §§449–460
+
+ 332    House-trespass in order to commit offence                     §451 etc.
+
+ 333    House-trespass after preparation for hurt/assault/restraint   §452
+
+ 334    Dishonestly breaking open receptacle containing property      §§461–462
+
+
+The BNS deliberately consolidates several provisions that were spread across the IPC.
+
+
+
+
+I. THEFT
+🔴 SECTION 303 – THEFT
+🔄 IPC → BNS
+IPC §378 → BNS §303(1) – Definition
+ IPC §379 → BNS §303(2) – Punishment
+
+Definition
+A person commits theft when he:
+
+   1.   Intends dishonestly to take movable property;
+   2.   The property is in the possession of another person;
+   3.   Takes it without that person's consent; and
+   4.   Moves the property in order to take it.
+
+This is the basic statutory structure of §303.
+<PARSED TEXT FOR PAGE: 379 / 748>
+⭐ Five essential ingredients of theft
+Remember:
+
+        D-M-P-C-M
+
+D – Dishonest intention
+M – Movable property
+P – Possession of another
+C – Without consent
+M – Moving the property
+
+1. Dishonest intention
+The intention must be to cause:
+
+    ●   wrongful gain to one person; or
+    ●   wrongful loss to another.
+
+If there is no dishonest intention, there is no theft.
+
+Example
+A honestly believes that B's umbrella is his own and takes it.
+
+There is no dishonest intention → ordinarily, no theft.
+
+
+
+
+2. Property must be movable
+The subject matter of theft must be movable property.
+
+Land itself cannot be stolen.
+
+However, something attached to the earth can become capable of being stolen once it is
+severed.
+
+Example
+A cuts and removes B's tree.
+
+Once severed, the wood becomes movable property and may become the subject of theft.
+
+
+
+
+3. Property must be in possession of another
+The important concept is possession, not necessarily ownership.
+<PARSED TEXT FOR PAGE: 380 / 748>
+Example
+A lends his watch to B.
+
+B possesses the watch although A owns it.
+
+If C dishonestly takes the watch from B's possession, C may commit theft.
+
+
+
+
+4. Taking must be without consent
+Consent may be:
+
+   ●   express; or
+   ●   implied.
+
+If the person in possession freely consents to the taking, theft is not established.
+
+
+
+
+5. There must be movement
+The property must be moved in order to accomplish the taking.
+
+Even a very small movement can be sufficient.
+
+The BNS also treats removal of an obstacle or separation of property as movement for this
+purpose.
+
+
+
+
+⭐ Punishment under §303(2)
+Ordinarily:
+
+   ●   imprisonment up to 3 years, or
+   ●   fine, or
+   ●   both.
+
+⚠️ Important BNS change
+For a second or subsequent conviction, §303 provides:
+
+   ●   rigorous imprisonment of not less than 1 year and up to 5 years, and
+   ●   fine.
+
+Special first-time low-value theft rule
+<PARSED TEXT FOR PAGE: 381 / 748>
+Where:
+
+   ●     stolen property is worth less than ₹5,000;
+   ●     it is the person's first conviction; and
+   ●     the property/value is returned/restored,
+
+the punishment is community service.
+
+🔴 Exam Point: Community service is one of the notable changes introduced by BNS.
+
+⚖️ Important case law – Theft
+Pyare Lal Bhargava v State of Rajasthan
+The Supreme Court dealt with the concept of taking movable property and possession in the
+context of theft.
+
+Exam principle
+       Theft is primarily concerned with dishonest moving of movable property from
+       another's possession without consent.
+
+
+
+
+II. SECTION 304 – SNATCHING
+🔴 VERY IMPORTANT – NEW BNS OFFENCE
+There was no independent equivalent IPC provision specifically defining "snatching."
