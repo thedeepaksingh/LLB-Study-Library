@@ -1,0 +1,3000 @@
+
+ §180 Possession                           IPC §§242–243 / §489C framework
+
+ §181 Instruments/materials                IPC §§233–235 / §489D framework
+
+ §182 Documents resembling notes           IPC §489E
+
+ §183 Counterfeit Government stamp         IPC §255
+
+ §184 Possession of counterfeit stamp      IPC §256
+
+ §185 Possession intending genuine         IPC §257
+      use
+ §186 Selling counterfeit stamp            IPC §258
+
+ §187 Using counterfeit stamp              IPC §259
+
+ §188 Erasing/removing stamp writing       IPC §260
+
+
+⚠️ For your final IPC→BNS master table, we should use exact section-to-section
+mapping from the enacted BNS text rather than treating the broader IPC
+framework as a one-to-one mapping.
+<PARSED TEXT FOR PAGE: 228 / 748>
+🔴 MOST IMPORTANT EXAM QUESTIONS
+Long-answer
+ 1.   Explain the offence of counterfeiting currency-notes and bank-notes under BNS.
+ 2.   Explain the law relating to use of counterfeit currency as genuine.
+ 3.   Distinguish counterfeiting, possession and use of counterfeit currency.
+ 4.   Explain the offence of possessing instruments/materials for counterfeiting.
+ 5.   Discuss offences relating to Government stamps under BNS §§183–188.
+ 6.   Explain the different stages of criminal liability relating to counterfeit currency.
+
+
+
+
+⭐ SHORT QUESTIONS
+ ●    What is counterfeiting?
+ ●    What is a counterfeit currency-note?
+ ●    What is the difference between counterfeit currency and genuine currency?
+ ●    What is possession of counterfeit currency?
+ ●    Why is knowledge important in counterfeit-currency offences?
+ ●    What is the significance of intention to use as genuine?
+ ●    What is a counterfeit Government stamp?
+ ●    What is the offence of erasing writing from a Government stamp?
+ ●    What is the difference between counterfeiting and possession?
+ ●    What is the difference between possession and use?
+
+
+
+
+📌🔴CHAPTER X – FINAL REVISION BOX
+        COUNTERFEIT CURRENCY
+
+      §178 → MAKE / COUNTERFEIT
+
+      §179 → USE/DEAL AS GENUINE
+
+      §180 → POSSESSION
+
+      §181 → INSTRUMENTS/MATERIALS
+
+      §182 → DOCUMENTS RESEMBLING NOTES
+
+      🔴 GOVERNMENT STAMPS
+<PARSED TEXT FOR PAGE: 229 / 748>
+     §183 → COUNTERFEITING/ALTERING
+
+     §184 → POSSESSION
+
+     §185 → POSSESSION TO USE AS GENUINE
+
+     §186 → SELLING
+
+     §187 → USING
+
+     §188 → ERASING/REMOVING WRITING
+
+⭐ Golden rule for problem questions:
+Ask four questions:
+
+Was it MADE? → §178
+
+Was it POSSESSED? → §180
+
+Was it USED/DEALT WITH AS GENUINE? → §179
+
+Were the TOOLS/MATERIALS prepared? → §181
+<PARSED TEXT FOR PAGE: 230 / 748>
+CHAPTER XI – OFFENCES AGAINST THE
+PUBLIC TRANQUILLITY
+BNS §§189–197
+🔴 EXAM PRIORITY: VERY HIGH
+This is one of the most important chapters for LLB examinations because it contains the law
+relating to:
+
+   ●     unlawful assembly;
+   ●     common object;
+   ●     rioting;
+   ●     affray;
+   ●     promoting enmity between groups;
+   ●     imputations prejudicial to national integration.
+
+The most important concept is:
+
+        Five or more persons + common object = Unlawful Assembly
+
+And you must understand the distinction between:
+
+        Common intention under §3(5)
+        vs
+        Common object under §189
+
+
+
+
+1. CHAPTER OVERVIEW
+   BNS                                 Subject                        IPC Equivalent
+  Section
+
+ §189           Unlawful assembly                                IPC §§141–145, 147–
+                                                                 149 framework
+
+ §190           Liability of members for offences committed in   IPC §149
+                prosecution of common object
+
+ §191           Rioting                                          IPC §§146–148
+
+ §192           Provocation, with intent to cause riot           IPC §153
+<PARSED TEXT FOR PAGE: 231 / 748>
+ §193          Liability of owner/occupier etc. where unlawful       IPC §154
+               assembly/riot occurs
+
+ §194          Affray                                                IPC §159
+
+ §195          Assaulting/obstructing public servant when            IPC §152
+               suppressing riot etc.
+
+ §196          Promoting enmity between different groups             IPC §153A
+
+ §197          Imputations/assertions prejudicial to national        IPC §153B
+               integration
+
+
+⚠️several
+     Important: The BNS reorganises and consolidates provisions that were spread across
+          IPC sections. Therefore, do not assume that every BNS section has a single exact IPC
+counterpart.
+
+
+
+
+SECTION 189 – UNLAWFUL ASSEMBLY
+
+🔴🔴 EXTREMELY IMPORTANT
+This is the foundation of the chapter.
+
+IPC equivalent
+Primarily IPC §141, with the subsequent IPC unlawful-assembly provisions incorporated into the
+BNS framework.
+
+
+
+
+Definition
+An assembly of five or more persons becomes an unlawful assembly if the common object of
+the persons falls within any of the categories specified by the section.
+
+
+
+
+⭐ FIVE OR MORE PERSONS
+<PARSED TEXT FOR PAGE: 232 / 748>
+This is the first thing you should remember.
+
+Minimum:
+5 persons
+
+So:
+
+      ●   2 persons → cannot constitute unlawful assembly under §189.
+      ●   4 persons → cannot constitute unlawful assembly under §189.
+      ●   5 or more → may constitute unlawful assembly, provided the common-object
+          requirement is satisfied.
+
+⚠️ Five people alone are NOT enough.
+There must also be a legally prohibited common object.
+
+
+
+
+FIVE COMMON OBJECTS
+An assembly becomes unlawful if its common object is one of the statutory objects, including:
+
+1. To overawe Government/public authority
+To overawe by criminal force or show of criminal force:
+
+      ●   Central Government;
+      ●   State Government;
+      ●   Parliament;
+      ●   State Legislature;
+      ●   public servant in exercise of lawful powers.
+
+
+
+
+2. To resist execution of law
+To resist the execution of any law or legal process.
+
+Example
+Five persons gather and use force to prevent police officers from lawfully executing a court
+order.
+
+
+
+
+3. To commit an offence
+<PARSED TEXT FOR PAGE: 233 / 748>
+To commit:
+
+   ●   mischief;
+   ●   criminal trespass; or
+   ●   any other offence.
+
+
+
+
+4. To take property by force
+To take possession of property or obtain a right over property by:
+
+   ●   criminal force;
+   ●   show of criminal force.
+
+
+
+
+5. To compel someone
+To compel a person to do something he is not legally bound to do, or prevent him from doing
+something he is legally entitled to do.
+
+
+
+
+🧠 EASY MEMORY
+Remember the five purposes:
+
+GOVERNMENT
+
+LAW
+
+OFFENCE
+
+PROPERTY
+
+COMPULSION
+If five or more persons assemble with one of these unlawful common objects, §189 becomes
+relevant.
+
+
+
+
+⭐ COMMON OBJECT
+<PARSED TEXT FOR PAGE: 234 / 748>
+The term common object is extremely important.
+
+It means the object shared by the members of the unlawful assembly.
+
+Important:
+All members do not necessarily need to perform the same physical act.
+
+What matters is whether they shared the relevant common object or knowingly became
+members of the assembly having that object.
+
+
+
+
+🔥INTENTION
+    COMMON OBJECT VS COMMON
+
+This is one of the most important exam distinctions.
+
+             Common Intention                                 Common Object
+
+ BNS §3(5)                                      BNS §189 / §190 framework
+
+ IPC §34                                        IPC §141/149 framework
+
+ Generally requires participation in a common   Requires unlawful assembly of 5 or more
+ intention
+
+ Prior meeting of minds is important            Common object may develop at the spot
+
+ Criminal act done by several persons in        Liability can arise for offence committed in
+ furtherance of common intention                prosecution of common object
+
+ Number not fixed by §3(5)                      Minimum 5 persons
+
+
+🔴 Memory:
+§3(5) → COMMON INTENTION → 2 or more
+
+§189/190 → COMMON OBJECT → 5 or more
+<PARSED TEXT FOR PAGE: 235 / 748>
+SECTION 190 – LIABILITY OF MEMBERS
+OF UNLAWFUL ASSEMBLY
+🔴🔴 VERY IMPORTANT
+IPC equivalent
+IPC §149
+
+This is one of the most important provisions in the entire BNS for examination.
+
+
+
+
+Basic principle
+If an offence is committed by any member of an unlawful assembly:
+
+   ●     in prosecution of the common object of that assembly; or
+   ●     is an offence which the members knew to be likely to be committed in prosecution of
+         that object,
+
+then:
+
+        Every person who, at the time of committing that offence, is a member of that
+        assembly is guilty of that offence.
+
+
+
+
+⭐ Why is §190 important?
+Because a person does not necessarily have to:
+
+   ●     personally strike the victim;
+   ●     personally carry the weapon;
+   ●     personally cause the injury.
+
+If the statutory conditions are established, membership in the unlawful assembly can result in
+liability.
+
+
+
+
+Example
+<PARSED TEXT FOR PAGE: 236 / 748>
+Five persons go to attack X.
+
+A carries a knife.
+
+B, C, D and E surround X.
+
+A stabs X.
+
+If the stabbing was committed in prosecution of the common object, or was an offence the
+members knew was likely to be committed, §190 may make the other members liable as
+well, depending on the facts.
+
+
+
+
+⚠️ IMPORTANT
+Mere presence is not automatically enough.
+The prosecution must establish that the accused was a member of the unlawful assembly
+and that the statutory common-object/knowledge requirements are satisfied.
+
+
+
+
+⚖️🔴 CASE LAW – Lalji v State of U.P.
+   MUST KNOW
+
+The Supreme Court explained the principle of constructive liability under the old IPC §149.
+
+Principle
+Once the necessary ingredients of unlawful assembly and common object are established, each
+member can be held liable for the offence committed in prosecution of that common object.
+
+
+
+
+⚖️ CASE LAW – Masalti v State of U.P.
+The Supreme Court recognised that in cases involving large unlawful assemblies, it is not
+always necessary to prove that every individual member committed a specific physical act.
+
+The focus is on:
+
+   ●   membership;
+<PARSED TEXT FOR PAGE: 237 / 748>
+     ●    common object;
+     ●    participation in the unlawful assembly;
+     ●    statutory requirements for constructive liability.
+
+
+
+
+SECTION 191 – RIOTING
+🔴 VERY IMPORTANT
+IPC equivalent
+IPC §§146–148
+
+An unlawful assembly becomes a riot when:
+
+         force or violence is used by the unlawful assembly, or by any member
+         thereof, in prosecution of the common object.
+
+
+
+
+Formula
+UNLAWFUL ASSEMBLY
+5+ persons + unlawful common object
+
+⬇️
+RIOTING
+Unlawful assembly + force/violence
+
+
+
+
+Example
+Five people assemble with the common object of forcibly taking possession of property.
+
+They begin attacking the occupants and damaging property.
+
+The assembly may constitute rioting.
+<PARSED TEXT FOR PAGE: 238 / 748>
+⭐ IMPORTANT
+Every riot involves an unlawful assembly.
+But:
+
+Every unlawful assembly is NOT necessarily a riot.
+Why?
+
+Because an unlawful assembly can exist without actual force or violence.
+
+
+
+
+🔥 UNLAWFUL ASSEMBLY VS RIOTING
+   Unlawful Assembly                              Rioting
+
+ §189                       §191
+
+ 5 or more persons          Unlawful assembly + force/violence
+
+ Unlawful common object     Force/violence used in prosecution of common
+                            object
+ Violence not essential     Violence/force essential
+
+ Earlier stage              Aggravated stage
+
+
+Memory:
+Assembly = 5 + object
+
+Riot = Assembly + violence
+
+
+
+
+SECTION 192 – PROVOCATION WITH
+INTENT TO CAUSE RIOT
+IPC equivalent
+IPC §153
+<PARSED TEXT FOR PAGE: 239 / 748>
+A person commits the offence where he:
+
+   ●   maliciously or wantonly does an illegal act;
+   ●   gives provocation to another person;
+   ●   intending or knowing it to be likely that such provocation will cause rioting.
+
+
+
+
+Example
+A deliberately makes an inflammatory act designed to provoke a crowd into violence.
+
+If the statutory requirements are satisfied, §192 may apply.
+
+
+
+
+⭐ IMPORTANT
+The provision focuses on:
+
+provocation + intention/knowledge regarding rioting.
+
+
+
+
+SECTION 193 – LIABILITY OF
+OWNER/OCCUPIER ETC.
+IPC equivalent
+IPC §154
+
+This provision deals with situations where:
+
+   ●   unlawful assembly; or
+   ●   riot
+
+takes place on land or premises.
+
+It imposes obligations/liability on persons such as:
+
+   ●   owner;
+   ●   occupier;
+   ●   person having interest in the land;
+   ●   person having management/control in the circumstances specified by law.
+<PARSED TEXT FOR PAGE: 240 / 748>
+Basic idea
+The law seeks to prevent people controlling property from knowingly permitting or facilitating
+unlawful assemblies or riots on that property.
+
+
+
+
+SECTION 194 – AFFRAY
+🔴 IMPORTANT SHORT-NOTE TOPIC
+IPC equivalent
+IPC §159
+
+Affray occurs when:
+
+      two or more persons fight in a public place and disturb the public peace.
+
+
+
+
+THREE ESSENTIAL ELEMENTS
+Remember:
+
+2+ PERSONS
+
+FIGHT
+
+PUBLIC PLACE
+And the fight must:
+
+DISTURB PUBLIC PEACE
+
+
+
+
+Example
+<PARSED TEXT FOR PAGE: 241 / 748>
+A and B start physically fighting each other in a crowded public street, causing public
+disturbance.
+
+This may amount to affray.
+
+
+
+
+🔥 AFFRAY VS RIOTING
+                  Affray                                     Rioting
+
+ §194                                        §191
+
+ Minimum 2 persons                           Unlawful assembly requires 5+
+
+ Fighting in public place                    Force/violence by unlawful assembly
+
+ No unlawful common object requirement       Unlawful common object required
+
+ Public peace disturbed                      Common object + force/violence
+
+
+Memory:
+AFFRAY = 2 + FIGHT + PUBLIC PLACE
+
+RIOT = 5 + UNLAWFUL OBJECT + VIOLENCE
+
+
+
+
+SECTION 195 – ASSAULTING OR
+OBSTRUCTING PUBLIC SERVANT
+IPC equivalent
+IPC §152
+
+This provision protects public servants who are acting to:
+
+   ●    disperse an unlawful assembly;
+   ●    suppress a riot;
+   ●    suppress an affray.
+
+A person who assaults, threatens or obstructs such public servant in the manner specified by
+the provision may be punished.
+<PARSED TEXT FOR PAGE: 242 / 748>
+⭐ WHY THIS PROVISION EXISTS
+Police/public authorities may have to intervene to restore public order.
+
+The law therefore provides protection against people who use force or obstruction to prevent
+them from performing that function.
+
+
+
+
+SECTION 196 – PROMOTING ENMITY
+BETWEEN DIFFERENT GROUPS
+
+🔴🔴 VERY IMPORTANT
+IPC equivalent
+IPC §153A
+
+This provision concerns conduct that promotes or attempts to promote:
+
+   ●   disharmony;
+   ●   feelings of enmity;
+   ●   hatred;
+   ●   ill-will
+
+between different:
+
+   ●   religious groups;
+   ●   racial groups;
+   ●   place-of-birth groups;
+   ●   residence groups;
+   ●   language groups;
+   ●   caste or community groups;
+
+or other groups covered by the statutory language.
+
+
+
+
+Important forms of conduct
+<PARSED TEXT FOR PAGE: 243 / 748>
+The offence may involve:
+
+   ●    words;
+   ●    signs;
+   ●    visible representations;
+   ●    other acts;
+
+where the statutory ingredients are satisfied.
+
+
+
+
+Example
+A knowingly publishes inflammatory material intended to make one community hate another and
+thereby disturb communal harmony.
+
+The conduct may attract §196.
+
+
+
+
+⭐ IMPORTANT
+The offence is not simply:
+
+       "Someone said something controversial."
+
+The prosecution must establish the statutory elements, including the required
+intent/knowledge and the prohibited effect or likelihood contemplated by the provision.
+
+
+
+
+SECTION 197 – IMPUTATIONS
+PREJUDICIAL TO NATIONAL
+INTEGRATION
+IPC equivalent
+IPC §153B
+
+This provision addresses certain assertions, imputations or statements that are prejudicial to
+national integration.
+<PARSED TEXT FOR PAGE: 244 / 748>
+It includes statutory situations involving claims that particular persons:
+
+   ●   cannot bear true faith and allegiance to the Constitution of India;
+   ●   should not be allowed to enjoy rights as citizens because of their membership in a
+       particular group;
+
+and other specified assertions prejudicial to national integration.
+
+
+
+
+🔥 SECTION 196 VS 197
+               §196                                               §197
+
+ Promoting enmity between            Imputations prejudicial to national integration
+ groups
+
+ Focus on inter-group hostility      Focus on assertions/imputations affecting national
+                                     integration
+
+ IPC §153A                           IPC §153B
+
+
+
+
+2. MOST IMPORTANT CONCEPT –
+CONSTRUCTIVE LIABILITY
+BNS §190
+This is a major examination concept.
+
+Suppose:
+
+A+B+C+D+E
+
+form an unlawful assembly.
+
+They share a common object.
+
+A commits an offence while pursuing that object.
+
+Under §190, the other members may also be held liable if the statutory conditions are satisfied.
+<PARSED TEXT FOR PAGE: 245 / 748>
+⚠️ BUT REMEMBER
+It is wrong to write:
+
+        "Every member is automatically guilty of every offence committed by any member."
+
+That is too broad.
+
+Correct statement:
+
+        Every member may be liable where the offence was committed in prosecution of
+        the common object, or where the offence was one that the members knew was
+        likely to be committed in prosecution of that object.
+
+
+
+
+3. COMMON OBJECT CAN DEVELOP
+Another important point:
+
+A common object does not necessarily have to be formed after a long prior conspiracy.
+
+Persons can assemble for one lawful purpose and subsequently develop an unlawful common
+object.
+
+Example
+Five people initially gather for a lawful purpose.
+
+During the gathering, they collectively decide to use force to attack X.
+
+If the statutory ingredients are subsequently established, the assembly can become unlawful.
+
+
+
+
+4. COMMON OBJECT VS COMMON
+INTENTION
+🔴 VERY LIKELY EXAM QUESTION
+Common intention – §3(5)
+Requires:
+
+    ●    common intention;
+<PARSED TEXT FOR PAGE: 246 / 748>
+    ●   participation;
+    ●   act done in furtherance of common intention.
+
+Common object – §§189–190
+Requires:
+
+    ●   unlawful assembly;
+    ●   minimum five members;
+    ●   common object;
+    ●   offence committed in prosecution of that object or known likely offence.
+
+
+
+
+5. RIOTING – COMPLETE FORMULA
+Step 1
+5 or more persons
+
+↓
+
+Step 2
+Unlawful common object
+
+↓
+
+Step 3
+Assembly exists
+
+↓
+
+Step 4
+Force/violence is used
+
+↓
+
+RESULT
+RIOTING
+<PARSED TEXT FOR PAGE: 247 / 748>
+6. AFFRAY – COMPLETE FORMULA
+2 OR MORE PERSONS
+    ●
+
+FIGHT
+    ●
+
+PUBLIC PLACE
+    ●
+
+DISTURBANCE OF PUBLIC PEACE
+=
+
+AFFRAY
+
+
+
+
+🔴 MOST IMPORTANT DISTINCTIONS
+A. Unlawful Assembly vs Affray
+    Unlawful Assembly                    Affray
+
+ Minimum 5                   Minimum 2
+
+ Common object required      Common object not
+                             necessary
+ Need not involve fighting   Fighting required
+
+ §189                        §194
+
+
+
+
+B. Unlawful Assembly vs Rioting
+§189 = assembly
+
+§191 = violence
+<PARSED TEXT FOR PAGE: 248 / 748>
+C. Rioting vs Affray
+Riot
+5+ + unlawful object + force/violence
+
+Affray
+2+ + fight + public place + public peace disturbance
+
+
+
+
+7. IMPORTANT CASE LAWS
+⚖️ Lalji v State of U.P.
+Principle concerning constructive liability/common object.
+
+
+
+
+⚖️ Masalti v State of U.P.
+Important for understanding liability of members of a large unlawful assembly.
+
+
+
+
+⚖️ Kuldip Yadav v State of Bihar
+The Supreme Court emphasised that liability under the old §149 IPC requires proof of the
+necessary ingredients of unlawful assembly and common object.
+
+Exam use:
+Use it to avoid the incorrect proposition that mere presence automatically creates liability.
+
+
+
+
+🔴 MOST IMPORTANT EXAM QUESTIONS
+Long-answer questions
+<PARSED TEXT FOR PAGE: 249 / 748>
+   1. Define unlawful assembly and explain its essential ingredients under BNS §189.
+   2. Explain the concept of common object under BNS.
+   3. Explain constructive liability under BNS §190.
+   4. Distinguish common intention from common object.
+   5. What is rioting? Explain BNS §191.
+   6. Distinguish unlawful assembly from rioting.
+   7. What is affray? Explain its essential ingredients.
+   8. Distinguish rioting from affray.
+   9. Explain BNS §196 relating to promoting enmity between different groups.
+   10. Explain BNS §197 relating to imputations prejudicial to national integration.
+   11. Discuss the offences against public tranquillity under BNS.
+
+
+
+
+⭐ SHORT QUESTIONS
+   ●    Define unlawful assembly.
+   ●    What is common object?
+   ●    How many persons are required for unlawful assembly?
+   ●    What is constructive liability?
+   ●    What is rioting?
+   ●    What is affray?
+   ●    Define public tranquillity.
+   ●    Distinguish common intention and common object.
+   ●    What is the significance of BNS §190?
+   ●    What is meant by promoting enmity?
+   ●    What is national integration?
+   ●    What is the difference between riot and affray?
+
+
+
+
+📝 PROBLEM QUESTION 1
+Facts
+A, B, C, D and E assemble with the common object of forcibly taking possession of X's land.
+
+They attack X's family.
+
+Question
+What offences may arise?
+
+Answer approach
+There are:
+<PARSED TEXT FOR PAGE: 250 / 748>
+   ●    five persons;
+   ●    a common object;
+   ●    intention to obtain property by force;
+   ●    use of violence.
+
+Therefore:
+
+§189 → unlawful assembly
+
+and because force/violence is used:
+
+§191 → rioting
+
+If a further offence is committed in prosecution of the common object, §190 may impose
+constructive liability on the members, subject to its statutory requirements.
+
+
+
+
+📝 PROBLEM QUESTION 2
+Facts
+A and B fight each other in a public market.
+
+No other persons are involved.
+
+Answer
+This cannot constitute unlawful assembly because there are fewer than five persons.
+
+However, if the statutory requirements are satisfied, the conduct may constitute:
+
+Affray under §194
+
+because:
+
+   ●    two persons are fighting;
+   ●    the fight occurs in a public place;
+   ●    public peace is disturbed.
+
+
+
+
+📝 PROBLEM QUESTION 3
+Facts
+<PARSED TEXT FOR PAGE: 251 / 748>
+Five people gather peacefully.
+
+Later, they collectively decide to attack X and begin using force.
+
+Answer
+The relevant question is whether they subsequently formed the required unlawful common
+object.
+
+If established:
+
+§189 → unlawful assembly
+
+and once force/violence is used:
+
+§191 → rioting
+
+
+
+
+🧠 CHAPTER XI MEMORY MAP
+189 → ASSEMBLY
+
+190 → COMMON OBJECT LIABILITY
+
+191 → RIOT
+
+192 → PROVOCATION
+
+193 → OWNER/OCCUPIER
+
+194 → AFFRAY
+
+195 → PUBLIC SERVANT
+
+196 → ENMITY
+
+197 → NATIONAL INTEGRATION
+
+
+
+
+🔄 IPC → BNS QUICK MAP
+<PARSED TEXT FOR PAGE: 252 / 748>
+IPC §141 → BNS §189 framework
+
+Unlawful assembly
+
+IPC §149 → BNS §190
+
+Common-object constructive liability
+
+IPC §§146–148 → BNS §191
+
+Rioting
+
+IPC §153 → BNS §192
+
+Provocation to cause riot
+
+IPC §154 → BNS §193
+
+Owner/occupier liability
+
+IPC §159 → BNS §194
+
+Affray
+
+IPC §152 → BNS §195
+
+Assault/obstruction of public servant suppressing riot
+
+IPC §153A → BNS §196
+
+Promoting enmity
+
+IPC §153B → BNS §197
+
+National integration
+
+
+
+
+📌BOXGOOGLE DOCS – FINAL REVISION
+         🔴 CHAPTER XI – PUBLIC TRANQUILLITY
+         §189 → UNLAWFUL ASSEMBLY
+
+         5 OR MORE + UNLAWFUL COMMON OBJECT
+<PARSED TEXT FOR PAGE: 253 / 748>
+§190 → CONSTRUCTIVE LIABILITY
+
+§191 → RIOTING
+
+UNLAWFUL ASSEMBLY + FORCE/VIOLENCE
+
+§192 → PROVOCATION TO CAUSE RIOT
+
+§193 → OWNER/OCCUPIER
+
+§194 → AFFRAY
+
+2+ PERSONS + FIGHT + PUBLIC PLACE + PUBLIC PEACE
+
+§195 → PUBLIC SERVANT
+
+§196 → PROMOTING ENMITY
+
+§197 → NATIONAL INTEGRATION
+
+⭐Common
+   MOST IMPORTANT:
+        object
+Common intention vs common object
+§189 + §190
+Unlawful assembly vs rioting
+Rioting vs affray
+§196 and §197
+<PARSED TEXT FOR PAGE: 254 / 748>
+CHAPTER XII – OFFENCES BY OR
+RELATING TO PUBLIC SERVANTS
+BNS §§198–205
+🔴 EXAM PRIORITY: HIGH
+This chapter is important because it deals with misconduct by public servants as well as
+deception involving public-servant status.
+
+The central themes are:
+
+   ●    disobedience of law by a public servant;
+   ●    incorrect documents;
+   ●    unlawful trade by public servants;
+   ●    unlawful purchase/bid for property;
+   ●    personating a public servant;
+   ●    fraudulent use of public-servant garb/token.
+
+
+
+
+1. CHAPTER OVERVIEW
+    BNS                                    Subject                               IPC
+   Section                                                                    Equivalent
+
+ §198           Public servant disobeying law, with intent to cause injury   IPC §166
+
+ §199           Public servant disobeying direction under law                IPC §166A
+
+ §200           Punishment for non-treatment of victim                       IPC §166B
+
+ §201           Public servant framing incorrect document with intent to     IPC §167
+                cause injury
+
+ §202           Public servant unlawfully engaging in trade                  IPC §168
+
+ §203           Public servant unlawfully buying/bidding for property        IPC §169
+
+ §204           Personating a public servant                                 IPC §170
+
+ §205           Wearing garb/token used by public servant with fraudulent    IPC §171
+                intent
+<PARSED TEXT FOR PAGE: 255 / 748>
+SECTION 198 – PUBLIC SERVANT
+DISOBEYING LAW WITH INTENT TO
+CAUSE INJURY
+🔴 IMPORTANT
+IPC equivalent
+IPC §166
+
+A public servant commits the offence when:
+
+   1. he knowingly disobeys a direction of law;
+   2. the direction regulates how he is to conduct himself as a public servant; and
+   3. he does so with the intention of causing injury to a person.
+
+
+
+
+⭐ THREE KEY ELEMENTS
+PUBLIC SERVANT
+   ●
+
+KNOWING DISOBEDIENCE OF LAW
+   ●
+
+INTENT TO CAUSE INJURY
+
+
+
+Example
+A public official is legally required to process a person's application according to a prescribed
+procedure.
+
+He deliberately violates that legal requirement because he wants to cause financial loss to the
+applicant.
+
+The ingredients of §198 may be attracted.
+<PARSED TEXT FOR PAGE: 256 / 748>
+⚠️ IMPORTANT
+Mere mistake ≠ automatically an offence.
+
+The provision requires the relevant knowledge and intention.
+
+
+
+
+SECTION 199 – PUBLIC SERVANT
+DISOBEYING DIRECTION UNDER LAW
+🔴🔴 VERY IMPORTANT
+IPC equivalent
+IPC §166A
+
+This is particularly important because it deals with certain duties of public servants in relation to
+investigation and registration of offences.
+
+The provision covers specified failures by public servants, including disobedience of legal
+directions relating to:
+
+    ●   investigation of offences;
+    ●   recording information relating to offences;
+    ●   matters concerning investigation/prosecution as specified by law.
+
+
+
+
+⭐ Why important?
+It creates criminal liability for certain deliberate failures by public servants to perform legally
+mandated duties.
+
+
+
+
+SECTION 200 – PUNISHMENT FOR NON-
+TREATMENT OF VICTIM
+<PARSED TEXT FOR PAGE: 257 / 748>
+IPC equivalent
+IPC §166B
+
+This provision concerns failure by a person who is required to provide treatment to a victim to
+comply with the legal requirement of treatment.
+
+It is connected particularly with statutory obligations relating to victims of specified offences.
+
+
+
+
+🔴 EXAM POINT
+Remember:
+
+§199 → Disobedience by public servant
+
+§200 → Failure to provide required treatment
+
+
+
+
+SECTION 201 – PUBLIC SERVANT
+FRAMING INCORRECT DOCUMENT
+IPC equivalent
+IPC §167
+
+A public servant commits this offence when:
+
+   ●   he is charged with preparing/translating a document;
+   ●   he knowingly prepares/translates it incorrectly;
+   ●   and he does so with intent to cause injury.
+
+
+
+
+Example
+A government official is responsible for preparing an official land record.
+
+He deliberately records false information knowing that it is incorrect, intending to cause loss to a
+particular person.
+
+This may attract §201.
+<PARSED TEXT FOR PAGE: 258 / 748>
+🔥 §198 VS §201
+         §198                         §201
+
+ Disobeying law           Framing incorrect document
+
+ Public servant           Public servant
+
+ Intent to cause injury   Intent to cause injury
+
+ IPC §166                 IPC §167
+
+
+Memory:
+198 = LAW
+
+201 = DOCUMENT
+
+
+
+
+SECTION 202 – PUBLIC SERVANT
+UNLAWFULLY ENGAGING IN TRADE
+IPC equivalent
+IPC §168
+
+A public servant commits this offence when:
+
+   ●   he is legally prohibited from engaging in trade;
+   ●   but nevertheless engages in trade.
+
+
+
+
+Example
+A public servant is prohibited under applicable service rules/law from conducting a particular
+private business.
+
+Despite that prohibition, he knowingly operates such trade.
+
+The provision may apply.
+<PARSED TEXT FOR PAGE: 259 / 748>
+⭐THIS?WHY DOES THE LAW RESTRICT
+The objective is to prevent:
+
+   ●   conflict of interest;
+   ●   misuse of official position;
+   ●   corruption risks;
+   ●   divided loyalty.
+
+
+
+
+SECTION 203 – PUBLIC SERVANT
+UNLAWFULLY BUYING OR BIDDING FOR
+PROPERTY
+IPC equivalent
+IPC §169
+
+This provision deals with public servants who are prohibited from purchasing or bidding for
+certain property but nevertheless:
+
+   ●   purchase;
+   ●   bid; or
+   ●   otherwise participate in the prohibited transaction.
+
+
+
+
+Example
+A government officer is legally prohibited from bidding for property that he is responsible for
+disposing of.
+
+He secretly participates in the auction.
+
+The conduct may attract §203.
+<PARSED TEXT FOR PAGE: 260 / 748>
+🔥 §202 VS §203
+§202
+Unlawful trade
+
+§203
+Unlawful purchase/bid for property
+
+
+
+
+SECTION 204 – PERSONATING A PUBLIC
+SERVANT
+🔴 IMPORTANT
+IPC equivalent
+IPC §170
+
+A person commits this offence when he:
+
+   1.    pretends to hold a particular office as a public servant;
+   2.    knows that he does not hold that office;
+   3.    acts under colour of that assumed character; and
+   4.    thereby performs or attempts to perform an act under that assumed authority.
+
+
+
+
+Example
+A falsely claims:
+
+        "I am a police officer."
+
+He then uses that false identity to stop people and demand documents.
+
+This may amount to personating a public servant.
+<PARSED TEXT FOR PAGE: 261 / 748>
+⭐ IMPORTANT
+There are two separate ideas:
+
+False identity
+"I am a police officer."
+
+    ●
+
+Acting under that assumed authority
+"Therefore you must obey me."
+
+Both are important to the offence.
+
+
+
+
+SECTION 205 – WEARING GARB OR
+CARRYING TOKEN OF PUBLIC SERVANT
+IPC equivalent
+IPC §171
+
+This provision deals with wearing:
+
+    ●   garb; or
+    ●   carrying a token
+
+that resembles that used by a class of public servants.
+
+The person must have the fraudulent intention that others may believe that he belongs to that
+class of public servants.
+
+
+
+
+Example
+A civilian deliberately wears a police-style uniform and carries an imitation police badge
+intending members of the public to believe that he is a police officer.
+
+The conduct may attract §205.
+<PARSED TEXT FOR PAGE: 262 / 748>
+🔥 §204 VS §205
+             §204                                    §205
+
+ Personates public servant       Wears garb/carries token
+
+ Pretends to hold office         Appearance designed to create belief
+
+ Acts under assumed              Fraudulent representation through
+ authority                       garb/token
+ IPC §170                        IPC §171
+
+
+
+
+2. MOST IMPORTANT CONCEPT – PUBLIC
+SERVANT
+Many provisions in this chapter depend upon whether the person is a public servant.
+
+Therefore, you must understand the BNS definition of public servant in the preliminary
+definitions.
+
+It covers various categories of persons performing public functions.
+
+🔴whether
+   Exam tip: If a problem question involves a government employee or official, first determine
+         that person falls within the statutory definition of public servant.
+
+
+
+
+3. IMPORTANT DISTINCTIONS
+A. §198 vs §199
+              §198                                            §199
+
+ Public servant knowingly        Specific statutory directions/duties
+ disobeys law
+
+ Intent to cause injury          Covers specified duties, including certain
+                                 investigation/registration obligations
+<PARSED TEXT FOR PAGE: 263 / 748>
+ IPC §166                       IPC §166A
+
+
+
+
+B. §198 vs §201
+§198
+Disobey law
+
+§201
+Incorrect document
+
+
+
+
+C. §204 vs §205
+§204
+Pretending to be a public servant + acting under assumed authority
+
+§205
+Garb/token used with fraudulent intent
+
+
+
+
+4. CONCEPTUAL MAP
+Think of Chapter XII as having two sides:
+
+MISCONDUCT BY ACTUAL PUBLIC SERVANTS
+
+§198 → Disobeying law
+
+§199 → Specific legal duties
+
+§200 → Non-treatment
+
+§201 → Incorrect document
+
+§202 → Unlawful trade
+<PARSED TEXT FOR PAGE: 264 / 748>
+§203 → Unlawful property transaction
+
+⬇️
+DECEPTION INVOLVING PUBLIC SERVANTS
+
+§204 → Personating
+
+§205 → Garb/token
+
+
+
+
+🧠 SECTION MEMORY TRICK
+198 → LAW
+
+199 → LEGAL DIRECTION
+
+200 → TREATMENT
+
+201 → DOCUMENT
+
+202 → TRADE
+
+203 → PROPERTY
+
+204 → PERSONATION
+
+205 → GARB
+
+
+
+
+🔄 IPC → BNS
+  IPC   BNS             Keyword
+
+§166    §198 Public servant disobeying law
+
+§166A   §199 Specified legal duties
+
+§166B   §200 Non-treatment
+<PARSED TEXT FOR PAGE: 265 / 748>
+§167     §201 Incorrect document
+
+§168     §202 Unlawful trade
+
+§169     §203 Unlawful purchase/bid
+
+§170     §204 Personating public servant
+
+§171     §205 Garb/token
+
+
+
+
+🔴 MOST IMPORTANT EXAM QUESTIONS
+Long-answer
+  1. Explain BNS §198 relating to disobedience of law by a public servant.
+  2. Discuss the liability of public servants for disobedience of legal directions under
+     BNS.
+  3. Explain BNS §201 relating to framing an incorrect document by a public servant.
+  4. Explain the offences of unlawful trade and unlawful purchase/bidding by public
+     servants.
+  5. What is personation of a public servant? Explain BNS §204.
+  6. Explain BNS §205 relating to wearing garb or carrying token of a public servant.
+  7. Distinguish personation of a public servant from merely wearing a similar uniform.
+  8. Discuss the offences by and relating to public servants under BNS §§198–205.
+
+
+
+
+⭐ SHORT QUESTIONS
+  ●    Who is a public servant?
+  ●    What is BNS §198?
+  ●    What is BNS §199?
+  ●    What is BNS §200?
+  ●    What is meant by framing an incorrect document?
+  ●    What is unlawful trade by a public servant?
+  ●    What is unlawful purchase/bidding by a public servant?
+  ●    Define personation of a public servant.
+  ●    What is fraudulent use of public-servant garb?
+  ●    Distinguish §204 and §205.
+<PARSED TEXT FOR PAGE: 266 / 748>
+📝 PROBLEM QUESTION
+Facts
+A is not a police officer.
+
+He wears a police uniform, carries an imitation badge and approaches a shopkeeper saying:
+
+      "I am a police officer. You must come with me."
+
+Analysis
+There are two possible issues:
+
+§204 → personation
+
+A is falsely representing himself as a public servant and acting under that assumed authority.
+
+§205 → garb/token
+
+The use of police-style garb/token with fraudulent intent may separately attract the relevant
+provision.
+
+The exact liability depends upon the facts and statutory ingredients proved.
+
+
+
+
+📝 ANOTHER PROBLEM
+A is a public servant responsible for preparing official records.
+
+He knowingly inserts false information into a document intending to cause financial loss to X.
+
+Answer
+The facts point toward:
+
+BNS §201 – framing an incorrect document by a public servant with intent to cause
+injury.
+
+
+
+
+📌BOXGOOGLE DOCS – FINAL REVISION
+<PARSED TEXT FOR PAGE: 267 / 748>
+     🔴 CHAPTER XII – PUBLIC SERVANTS
+     §198 → PUBLIC SERVANT + DISOBEDIENCE OF LAW
+
+     §199 → SPECIFIED LEGAL DUTIES
+
+     §200 → NON-TREATMENT
+
+     §201 → INCORRECT DOCUMENT
+
+     §202 → UNLAWFUL TRADE
+
+     §203 → UNLAWFUL PROPERTY PURCHASE/BID
+
+     §204 → PERSONATING PUBLIC SERVANT
+
+     §205 → PUBLIC-SERVANT GARB/TOKEN
+
+     ⭐ Must remember:
+     198 = LAW
+     201 = DOCUMENT
+     202 = TRADE
+     203 = PROPERTY
+     204 = PERSONATION
+     205 = GARB
+
+
+
+
+⚠️ ONE IMPORTANT EXAM NOTE
+Do not confuse BNS §204 with BNS §205:
+
+     §204 = pretending to be a public servant and acting under that assumed
+     authority.
+
+     §205 = wearing/carrying public-servant garb/token with fraudulent intention.
+
+That distinction is a very good short-note/problem-question topic.
+<PARSED TEXT FOR PAGE: 268 / 748>
+CHAPTER XIII – CONTEMPTS OF THE
+LAWFUL AUTHORITY OF PUBLIC
+SERVANTS
+BNS §§206–226
+🔴 EXAM PRIORITY: VERY HIGH
+This chapter deals with acts that obstruct, frustrate, deceive, or disobey the lawful authority of
+public servants.
+
+The chapter is largely based on the old IPC Chapter X, but BNS has reorganised the
+provisions.
+
+Core idea
+
+       Public servant exercises lawful authority → citizen has a corresponding
+       legal duty → deliberate disobedience/obstruction/deception may
+       constitute an offence.
+
+
+
+
+1. CHAPTER OVERVIEW
+ BNS                          Main Subject                                 IPC Equivalent
+
+ §20    Absconding to avoid service of summons/proceeding           IPC §172
+ 6
+ §20    Preventing service/publication of summons                   IPC §173
+ 7
+ §20    Non-attendance in obedience to order from public            IPC §174
+ 8      servant
+
+ §20    Non-appearance in response to proclamation                  IPC §174A
+ 9
+ §21    Omission to produce document/e-record to public             IPC §175
+ 0      servant
+
+ §21    Omission to give notice/information                         IPC §176
+ 1
+ §21    Furnishing false information                                IPC §177
+<PARSED TEXT FOR PAGE: 269 / 748>
+ 2
+ §21   Refusing oath/affirmation when required                   IPC §178
+ 3
+ §21   Refusing to answer public servant authorised to           IPC §179
+ 4     question
+ §21   Refusing to sign statement                                IPC §180
+ 5
+ §21   False statement on oath/affirmation                       IPC §181
+ 6
+ §21   False information intending to cause public servant to    IPC §182
+ 7     use lawful power to injury of another
+
+ §21   Resistance to taking of property by lawful authority      IPC §183
+ 8
+ §21   Obstructing sale of property offered for sale by public   IPC §184
+ 9     authority
+
+ §22   Illegal purchase/bid for property offered by public       IPC §185
+ 0     servant
+
+ §22   Obstructing public servant in discharge of public         IPC §186
+ 1     functions
+
+ §22   Omission to assist public servant when legally bound      IPC §187
+ 2
+ §22   Disobedience to order duly promulgated by public          IPC §188
+ 3     servant
+
+ §22   Threat of injury to public servant                        IPC §189
+ 4
+ §22   Threat of injury to induce person to refrain from         IPC §190
+ 5     applying for protection to public servant
+
+ §22   Attempt to commit suicide to compel/restrain exercise     New BNS provision / no
+ 6     of lawful power                                           exact IPC equivalent
+
+
+⚠️addition/restructuring.
+     Important: §§206–225 broadly correspond to IPC §§172–190, while §226 is a notable BNS
+
+
+
+
+SECTION 206 – ABSCONDING TO AVOID
+SERVICE OF SUMMONS
+<PARSED TEXT FOR PAGE: 270 / 748>
+IPC equivalent
+IPC §172
+
+A person commits the offence when he:
+
+    ●    absconds;
+    ●    conceals himself; or
+    ●    otherwise avoids service
+
+of a:
+
+    ●    summons;
+    ●    notice; or
+    ●    order
+
+issued by a public servant lawfully competent to issue it.
+
+
+
+
+Example
+A receives information that a lawful summons is going to be served upon him.
+
+He deliberately hides at another location to prevent service.
+
+This may attract §206.
+
+
+
+
+⭐ EXAM POINT
+The offence is not simply:
+
+        "I did not receive the summons."
+
+The important issue is deliberately avoiding service.
+
+
+
+
+SECTION 207 – PREVENTING SERVICE
+OR PUBLICATION OF SUMMONS
+IPC equivalent
+<PARSED TEXT FOR PAGE: 271 / 748>
+IPC §173
+
+This provision deals with intentionally preventing or interfering with the lawful:
+
+   ●   service of a summons/notice/order; or
+   ●   publication of such summons/notice/order.
+
+Example
+A deliberately destroys a summons posted at the place where it was lawfully required to be
+displayed.
+
+The conduct may fall within §207.
+
+
+
+
+🔥 §206 VS §207
+§206 → Avoiding service yourself
+
+§207 → Preventing service/publication
+
+
+
+
+SECTION 208 – NON-ATTENDANCE IN
+OBEDIENCE TO ORDER
+IPC equivalent
+IPC §174
+
+A person who is legally bound to attend at a certain:
+
+   ●   place;
+   ●   time;
+
+in obedience to an order from a public servant,
+
+but intentionally fails to attend, may commit an offence.
+
+
+
+
+Example
+<PARSED TEXT FOR PAGE: 272 / 748>
+A is lawfully directed by a competent public servant to appear at a specified place and time.
+
+A deliberately fails to appear.
+
+§208 may apply.
+
+
+
+
+SECTION 209 – NON-APPEARANCE IN
+RESPONSE TO PROCLAMATION
+🔴 IMPORTANT
+IPC equivalent
+IPC §174A
+
+This provision deals with failure to appear in response to a proclamation issued according to
+law.
+
+This is more serious than ordinary non-attendance.
+
+
+
+
+⭐ Distinction
+§208
+Failure to attend pursuant to an order.
+
+§209
+Failure to appear pursuant to a proclamation.
+
+
+
+
+SECTION 210 – OMISSION TO PRODUCE
+DOCUMENT/ELECTRONIC RECORD
+IPC equivalent
+<PARSED TEXT FOR PAGE: 273 / 748>
+IPC §175
+
+A person legally bound to produce:
+
+    ●   a document; or
+    ●   an electronic record
+
+to a public servant fails to do so.
+
+
+
+
+🔥 BNS UPDATE
+The express reference to electronic records is particularly relevant in the modern statutory
+framework.
+
+Example
+A is legally required to produce a specified electronic record before a competent public servant
+but deliberately refuses to produce it.
+
+The provision may apply.
+
+
+
+
+SECTION 211 – OMISSION TO GIVE
+NOTICE OR INFORMATION
+IPC equivalent
+IPC §176
+
+Where a person is legally bound to give:
+
+    ●   notice; or
+    ●   information
+
+to a public servant but deliberately fails to do so, the offence may arise.
+<PARSED TEXT FOR PAGE: 274 / 748>
+SECTION 212 – FURNISHING FALSE
+INFORMATION
+IPC equivalent
+IPC §177
+
+A person who is legally bound to furnish information to a public servant but knowingly gives
+information that is false may be liable.
+
+
+
+
+⭐ §211 VS §212  §211                                §212
+
+ Failure to give required information    Giving false information
+
+ Omission                                False statement
+
+ IPC §176                                IPC §177
+
+
+
+
+SECTION 213 – REFUSING TO TAKE
+OATH/AFFIRMATION
+IPC equivalent
+IPC §178
+
+Where a person is legally required to:
+
+   ●   take an oath; or
+   ●   make an affirmation
+
+before a public servant,
+
+and refuses to do so, the provision may apply.
+<PARSED TEXT FOR PAGE: 275 / 748>
+SECTION 214 – REFUSING TO ANSWER
+IPC equivalent
+IPC §179
+
+Where a person is legally bound to state the truth on a subject to a public servant authorised to
+question him, refusal to answer may constitute an offence.
+
+
+
+
+SECTION 215 – REFUSING TO SIGN
+STATEMENT
+IPC equivalent
+IPC §180
+
+Where a person is legally required to sign a statement made by him before a public servant and
+refuses to sign, the provision may apply.
+
+
+
+
+SECTION 216 – FALSE STATEMENT ON
+OATH/AFFIRMATION
+IPC equivalent
+IPC §181
+
+This concerns making a statement which is false while under:
+
+   ●   oath; or
+   ●   affirmation,
+
+in circumstances where the law requires truthfulness.
+<PARSED TEXT FOR PAGE: 276 / 748>
+SECTION 217 – FALSE INFORMATION TO
+CAUSE PUBLIC SERVANT TO USE
+LAWFUL POWER TO INJURY OF
+ANOTHER
+🔴 IMPORTANT
+IPC equivalent
+IPC §182
+
+This is different from ordinary false information.
+
+The accused:
+
+   1.    gives information to a public servant;
+   2.    knows or believes it to be false;
+   3.    intends that the public servant will use his lawful power;
+   4.    thereby intends to cause injury/annoyance to another person.
+
+
+
+
+Example
+A knowingly tells the police:
+
+        "B has committed an offence."
+
+A knows this is completely false and makes the allegation intending that police action will cause
+B injury or harassment.
+
+This may attract §217.
+
+
+
+
+⭐ IMPORTANT DISTINCTION
+§212
+False information generally.
+
+§217
+<PARSED TEXT FOR PAGE: 277 / 748>
+False information specifically intended to cause a public servant to use lawful authority to the
+injury of another person.
+
+
+
+
+SECTION 218 – RESISTING TAKING OF
+PROPERTY
+IPC equivalent
+IPC §183
+
+This provision concerns resistance to the taking of property by a public servant when the public
+servant is lawfully authorised to take that property.
+
+
+
+
+SECTION 219 – OBSTRUCTING SALE OF
+PROPERTY
+IPC equivalent
+IPC §184
+
+This concerns intentionally obstructing or interfering with a lawful sale of property by a public
+servant.
+
+
+
+
+SECTION 220 – ILLEGAL PURCHASE OR
+BID
+IPC equivalent
+IPC §185
+
+This provision concerns a person who unlawfully:
+
+   ●   purchases;
+   ●   bids for; or
+   ●   participates in the purchase/bidding of
+<PARSED TEXT FOR PAGE: 278 / 748>
+property being sold by a public servant in circumstances where the law prohibits that
+participation.
+
+
+
+
+🔥 §§218–220 MEMORY
+218 → TAKE
+
+Resisting taking of property.
+
+219 → SALE
+
+Obstructing sale.
+
+220 → BID
+
+Illegal purchase/bid.
+
+
+
+
+SECTION 221 – OBSTRUCTING PUBLIC
+SERVANT
+
+🔴🔴 VERY IMPORTANT
+IPC equivalent
+IPC §186
+
+A person commits the offence when he:
+
+    ●   voluntarily obstructs;
+    ●   a public servant;
+    ●   while the public servant is discharging public functions.
+
+
+
+
+Example
+A police officer is lawfully performing an official duty.
+<PARSED TEXT FOR PAGE: 279 / 748>
+A intentionally blocks the officer from carrying out that duty.
+
+This may constitute §221.
+
+
+
+
+⭐ Essential ingredients
+1. Accused obstructs
+
+2. Obstruction is voluntary
+
+3. Victim is a public servant
+
+4. Public servant is discharging public functions
+
+
+
+
+⚠️ IMPORTANT
+"Argument with police" ≠ automatically §221.
+
+There must be actual obstruction of the public servant in the discharge of public functions.
+
+
+
+
+⚖️Karnataka
+     CASE LAW – Manik Taneja v State of
+
+The Supreme Court considered the ingredients of the old IPC §186.
+
+Principle
+Mere words or complaints do not automatically constitute obstruction.
+
+There must be conduct amounting to actual obstruction of the public servant in the discharge of
+public functions.
+<PARSED TEXT FOR PAGE: 280 / 748>
+SECTION 222 – OMISSION TO ASSIST
+PUBLIC SERVANT
+IPC equivalent
+IPC §187
+
+Where a person is legally bound to provide assistance to a public servant but deliberately fails
+to do so, liability may arise.
+
+
+
+
+Example
+A is legally required to assist a police officer in a specified lawful task.
+
+A deliberately refuses without lawful justification.
+
+§222 may apply.
+
+
+
+
+SECTION 223 – DISOBEDIENCE TO
+ORDER DULY PROMULGATED BY
+PUBLIC SERVANT
+
+🔴🔴 EXTREMELY IMPORTANT
+IPC equivalent
+IPC §188
+
+This is one of the most frequently discussed provisions in this chapter.
+
+
+
+
+Basic ingredients
+There must be:
+<PARSED TEXT FOR PAGE: 281 / 748>
+   1.   an order duly promulgated by a public servant;
+   2.   the public servant must be lawfully empowered to issue the order;
+   3.   the accused must know of the order;
+   4.   the accused disobeys it;
+   5.   the disobedience causes or tends to cause one of the consequences specified by law.
+
+These consequences include situations involving:
+
+   ●    obstruction;
+   ●    annoyance;
+   ●    injury;
+   ●    danger to human life;
+   ●    health or safety;
+   ●    riot or affray.
+
+
+
+
+Example
+A competent public authority orders that a particular area must not be entered because of an
+imminent public-safety threat.
+
+A knowingly violates the order and enters the restricted area, creating the statutory
+consequences contemplated by §223.
+
+
+
+
+🔥 §221 VS §223
+            §221                        §223
+
+ Obstructs public           Disobeys promulgated
+ servant                    order
+ Focus = obstruction        Focus = disobedience
+
+ IPC §186                   IPC §188
+
+
+
+
+⚖️TamilCASE LAW – C. Muniappan v State of
+         Nadu
+The Supreme Court discussed the legal requirements associated with prosecution under IPC
+§188.
+<PARSED TEXT FOR PAGE: 282 / 748>
+Exam principle
+The prosecution must establish:
+
+    ●    existence of a lawful order;
+    ●    promulgation/communication as required;
+    ●    knowledge;
+    ●    disobedience;
+    ●    statutory consequence.
+
+
+
+
+SECTION 224 – THREAT OF INJURY TO
+PUBLIC SERVANT
+IPC equivalent
+IPC §189
+
+A person who threatens a public servant with injury in order to:
+
+    ●    induce the public servant to do something;
+    ●    refrain from doing something;
+    ●    delay something;
+
+in relation to official duties may commit an offence.
+
+
+
+
+Example
+A threatens a public official:
+
+        "If you issue this lawful order, I will harm you."
+
+The threat may attract §224 if the statutory ingredients are satisfied.
+<PARSED TEXT FOR PAGE: 283 / 748>
+SECTION 225 – THREAT TO INDUCE
+PERSON TO REFRAIN FROM SEEKING
+PROTECTION
+IPC equivalent
+IPC §190
+
+This provision is different from §224.
+
+Here the threat is intended to prevent a person from:
+
+   ●    applying to a public servant for protection;
+   ●    seeking lawful assistance/protection from public authority.
+
+
+
+
+Example
+A threatens B:
+
+       "Do not report this matter to the police, or I will injure you."
+
+If the statutory ingredients are established, §225 may apply.
+
+
+
+
+🔥 §224 VS §225
+§224
+Threat directed at:
+
+PUBLIC SERVANT
+
+§225
+Threat directed at:
+
+PERSON SEEKING PUBLIC PROTECTION
+<PARSED TEXT FOR PAGE: 284 / 748>
+SECTION 226 – ATTEMPT TO COMMIT
+SUICIDE TO COMPEL OR RESTRAIN
+EXERCISE OF LAWFUL POWER
+
+🔴 IMPORTANT BNS PROVISION
+This is a notable BNS provision.
+
+It addresses an attempt to commit suicide when the purpose is to:
+
+   ●   compel a public servant to do something; or
+   ●   restrain a public servant from doing something,
+
+in relation to the exercise of lawful powers.
+
+Example
+A attempts suicide specifically to force a public authority to cancel a lawful governmental action.
+
+The statutory provision may apply.
+
+
+
+
+⚠️ IMPORTANT EXAM POINT
+Do not treat §226 as a general offence of attempted suicide.
+
+It is specifically concerned with an attempt to commit suicide for the purpose of compelling or
+restraining a public servant in the exercise of lawful power.
+
+
+
+
+2. THE MOST IMPORTANT CONCEPTUAL
+GROUPS
+The chapter becomes much easier if you divide it into five groups.
+<PARSED TEXT FOR PAGE: 285 / 748>
+GROUP 1 – AVOIDING LEGAL PROCESS
+§206 → Avoid service
+
+§207 → Prevent service/publication
+
+§208 → Don't attend
+
+§209 → Don't appear after proclamation
+
+
+
+GROUP 2 – DOCUMENTS & INFORMATION
+§210 → Don't produce document/e-record
+
+§211 → Don't give information
+
+§212 → Give false information
+
+§213 → Refuse oath
+
+§214 → Refuse answer
+
+§215 → Refuse signature
+
+§216 → False statement on oath
+
+§217 → False information to injure another
+
+
+
+GROUP 3 – PROPERTY
+§218 → Resist taking
+
+§219 → Obstruct sale
+
+§220 → Illegal purchase/bid
+<PARSED TEXT FOR PAGE: 286 / 748>
+GROUP 4 – PUBLIC SERVANT
+§221 → Obstruct
+
+§222 → Don't assist
+
+§223 → Disobey order
+
+§224 → Threaten public servant
+
+§225 → Threaten person seeking protection
+
+
+
+GROUP 5 – SPECIAL BNS PROVISION
+§226 → Attempted suicide to compel/restrain public servant
+
+
+
+
+🔴 MOST IMPORTANT DISTINCTIONS
+1. §206 vs §207
+206 → avoiding service
+
+207 → preventing service
+
+
+
+
+2. §208 vs §209
+208 → failure to attend
+
+209 → failure to appear after proclamation
+
+
+
+
+3. §211 vs §212
+211 → failure to give information
+<PARSED TEXT FOR PAGE: 287 / 748>
+212 → giving false information
+
+
+
+
+4. §212 vs §217
+212 → false information
+
+217 → false information intended to cause public servant to use lawful power to
+injure another
+
+
+
+
+5. §221 vs §223
+221 → obstruct public servant
+
+223 → disobey public servant's duly promulgated order
+
+
+
+
+6. §224 vs §225
+224 → threat to public servant
+
+225 → threat to person seeking protection
+
+
+
+
+🧠 CHAPTER XIII MEMORY MAP
+206 → AVOID
+
+207 → PREVENT
+
+208 → DON'T ATTEND
+
+209 → PROCLAMATION
+
+210 → DOCUMENT
+<PARSED TEXT FOR PAGE: 288 / 748>
+211 → NO INFORMATION
+
+212 → FALSE INFORMATION
+
+213 → NO OATH
+
+214 → NO ANSWER
+
+215 → NO SIGNATURE
+
+216 → FALSE OATH
+
+217 → FALSE INFO TO INJURE
+
+218 → RESIST TAKING
+
+219 → STOP SALE
+
+220 → ILLEGAL BID
+
+221 → OBSTRUCT
+
+222 → DON'T ASSIST
+
+223 → DISOBEY ORDER
+
+224 → THREAT PUBLIC SERVANT
+
+225 → THREAT PERSON SEEKING PROTECTION
+
+226 → SUICIDE ATTEMPT TO COMPEL PUBLIC POWER
+
+
+
+
+🔄 IPC → BNS QUICK REVISION
+IPC §172 → BNS §206
+
+IPC §173 → BNS §207
+
+IPC §174 → BNS §208
+<PARSED TEXT FOR PAGE: 289 / 748>
+IPC §174A → BNS §209
+
+IPC §175 → BNS §210
+
+IPC §176 → BNS §211
+
+IPC §177 → BNS §212
+
+IPC §178 → BNS §213
+
+IPC §179 → BNS §214
+
+IPC §180 → BNS §215
+
+IPC §181 → BNS §216
+
+IPC §182 → BNS §217
+
+IPC §183 → BNS §218
+
+IPC §184 → BNS §219
+
+IPC §185 → BNS §220
+
+IPC §186 → BNS §221
+
+IPC §187 → BNS §222
+
+IPC §188 → BNS §223
+
+IPC §189 → BNS §224
+
+IPC §190 → BNS §225
+
+BNS §226 → notable new BNS provision
+
+
+
+
+🔴 MOST IMPORTANT EXAM QUESTIONS
+Long-answer
+   1. Explain BNS §221 relating to obstruction of a public servant.
+   2. Explain BNS §223 relating to disobedience of an order duly promulgated by a
+      public servant.
+<PARSED TEXT FOR PAGE: 290 / 748>
+    3.  Explain the offences relating to summons, notices and proclamations under BNS.
+    4.  Discuss offences relating to false information supplied to public servants.
+    5.  Distinguish BNS §§212 and 217.
+    6.  Explain the offences relating to obstruction and non-assistance of public
+        servants.
+    7. Distinguish BNS §§221 and 223.
+    8. Explain the provisions relating to threats to public servants and persons seeking
+        public protection.
+    9. Explain BNS §226.
+    10. Discuss the offences constituting contempt of the lawful authority of public
+        servants.
+
+
+
+
+⭐ SHORT QUESTIONS
+    ●    What is BNS §206?
+    ●    What is a proclamation?
+    ●    What is BNS §209?
+    ●    What is the difference between §211 and §212?
+    ●    What is false information?
+    ●    What is BNS §217?
+    ●    What is obstruction of a public servant?
+    ●    What is BNS §221?
+    ●    What is BNS §222?
+    ●    What is a duly promulgated order?
+    ●    What is BNS §223?
+    ●    What is the difference between §224 and §225?
+    ●    Explain BNS §226.
+
+
+
+
+📝 PROBLEM QUESTION
+Facts
+A police officer is lawfully performing his official duty.
+
+B deliberately stands in the officer's way, prevents him from entering a premises and refuses to
+move despite being directed to do so.
+
+Answer
+The central provision is:
+
+BNS §221 – voluntarily obstructing a public servant in discharge of public functions.
+<PARSED TEXT FOR PAGE: 291 / 748>
+The answer should establish:
+
+   1. the officer is a public servant;
+   2. he was discharging public functions;
+   3. B voluntarily obstructed him.
+
+
+
+
+📝 PROBLEM QUESTION 2
+A District Magistrate lawfully promulgates an order prohibiting entry into a particular area.
+
+B knows about the order but deliberately enters the area, causing the consequences specified
+by the provision.
+
+Answer
+The relevant provision is:
+
+BNS §223 – disobedience to order duly promulgated by public servant.
+
+The answer should discuss:
+
+   ●    lawful authority;
+   ●    promulgation;
+   ●    knowledge;
+   ●    disobedience;
+   ●    statutory consequence.
+
+
+
+
+📌BOXGOOGLE DOCS – FINAL REVISION
+       🔴 CHAPTER XIII – CONTEMPTS OF LAWFUL AUTHORITY
+       §206 → Avoiding service
+
+       §207 → Preventing service
+
+       §208 → Non-attendance
+
+       §209 → Proclamation
+
+       §210 → Document/e-record
+<PARSED TEXT FOR PAGE: 292 / 748>
+§211 → Omission to give information
+
+§212 → False information
+
+§213 → Refusal of oath
+
+§214 → Refusal to answer
+
+§215 → Refusal to sign
+
+§216 → False statement on oath
+
+§217 → False information to cause injury
+
+§218 → Resist taking property
+
+§219 → Obstruct sale
+
+§220 → Illegal purchase/bid
+
+§221 → Obstruct public servant
+
+§222 → Omit assistance
+
+§223 → Disobey public order
+
+§224 → Threaten public servant
+
+§225 → Threaten person seeking protection
+
+§226 → Attempt to commit suicide to compel/restrain public servant
+
+🔴 TOP PRIORITY: §221, §223, §217, §206–209, §226.
+<PARSED TEXT FOR PAGE: 293 / 748>
+CHAPTER XIV – FALSE EVIDENCE AND
+OFFENCES AGAINST PUBLIC JUSTICE
+BNS §§227–269
+🔴 EXAM PRIORITY: VERY HIGH
+This is one of the most important chapters in BNS for LLB Semester I. It covers offences
+that interfere with the administration of justice, especially:
+
+   ●     false evidence;
+   ●     fabricated evidence;
+   ●     false declarations;
+   ●     disappearance of evidence;
+   ●     false charges;
+   ●     screening offenders;
+   ●     harbouring offenders;
+   ●     escape from custody;
+   ●     obstruction of lawful apprehension;
+   ●     contempt of judicial authority.
+
+The first concept you must master is:
+
+        Giving false evidence ≠ Fabricating false evidence.
+
+
+
+
+1. CHAPTER OVERVIEW
+  BNS                               Main Subject                           IPC Equivalent
+
+ §227       Giving false evidence                                         IPC §191
+
+ §228       Fabricating false evidence                                    IPC §192
+
+ §229       Punishment for false evidence                                 IPC §193
+
+ §230       Giving/fabricating false evidence to procure conviction for   IPC §194
+            capital offence
+
+ §231       Giving/fabricating false evidence to procure conviction for   IPC §195
+            offence punishable with life imprisonment/imprisonment
+<PARSED TEXT FOR PAGE: 294 / 748>
+§232   Threatening person to give false evidence                       IPC §195A
+
+§233   Using evidence known to be false                                IPC §196
+
+§234   Issuing/signing false certificate                               IPC §197
+
+§235   Using certificate known to be false                             IPC §198
+
+§236   False statement made in declaration receivable as evidence      IPC §199
+
+§237   Using such declaration knowing it to be false                   IPC §200
+
+§238   Causing disappearance of evidence / false information to        IPC §201
+       screen offender
+
+§239   Intentional omission to give information of offence by person   IPC §202
+       bound to inform
+
+§240   Giving false information respecting an offence                  IPC §203
+
+§241   Destruction/concealment of document/electronic record to        IPC §204
+       prevent production as evidence
+
+§242   False personation for purpose of act/proceeding in              IPC §205
+       suit/prosecution
+
+§243   Fraudulent removal/concealment of property to prevent           IPC §206
+       seizure
+
+§244   Fraudulent claim to property to prevent seizure                 IPC §207
+
+§245   Fraudulently suffering decree for sum not due                   IPC §208
+
+§246   Dishonestly making false claim in Court                         IPC §209
+
+§247   Fraudulently obtaining decree for sum not due                   IPC §210
+
+§248   False charge of offence made with intent to injure              IPC §211
+
+§249   Harbouring offender                                             IPC §212
+
+§250   Taking gift etc. to screen offender                             IPC §213
+
+§251   Offering gift/restoration to screen offender                    IPC §214
+
+§252   Taking gift to help recover stolen property                     IPC §215
+
+§253   Harbouring offender who has escaped from custody / whose        IPC §216
+       apprehension ordered
+<PARSED TEXT FOR PAGE: 295 / 748>
+ §254     Penalty for harbouring robbers/dacoits                            IPC §216A
+
+ §255     Public servant disobeying law to save person from                 IPC §217
+          punishment/property from forfeiture
+
+ §256     Public servant framing incorrect record/writing to save           IPC §218
+          person/property
+
+ §257     Public servant unlawfully reporting/trying judicial proceedings   IPC §219
+
+
+ §258     Corruptly making/reporting order by person sitting judicially     IPC §220
+
+ §259     Escape from confinement/custody negligently suffered by           IPC §221
+          public servant
+
+ §260     Resistance/obstruction to lawful apprehension of another          IPC §225
+          person
+
+ §261     Escape/rescue from lawful custody                                 IPC §224
+
+ §262     Omission to apprehend/allowing escape by public servant           IPC §221/222
+                                                                            framework
+
+ §263     Resistance/obstruction to own lawful apprehension                 IPC §224A/225
+                                                                            framework
+
+ §264–    Related offences concerning custody, judicial process and         IPC corresponding
+ 269      public justice                                                    framework
+
+
+⚠️ Important: BNS reorganises several of these offences. For your final master IPC→BNS
+table, use the exact enacted statutory mapping, especially in the §§259–269 area.
+
+
+
+
+PART A – FALSE EVIDENCE
+
+SECTION 227 – GIVING FALSE EVIDENCE
+
+🔴🔴 EXTREMELY IMPORTANT
+IPC equivalent
+<PARSED TEXT FOR PAGE: 296 / 748>
+IPC §191
+
+This is one of the most important definitions in the entire chapter.
+
+A person gives false evidence when:
+
+   1. he is legally bound by an oath or by an express provision of law to state the truth; or
+   2. he is required by law to make a declaration upon any subject;
+
+and
+
+   3. he makes a statement which is false;
+   4. he either:
+         ○ knows it to be false, or
+         ○ believes it to be false, or
+         ○ does not believe it to be true.
+
+
+
+
+⭐ What is a "statement"?
+A statement can concern:
+
+   ●    facts;
+   ●    opinions;
+   ●    beliefs;
+   ●    matters relevant to the proceeding,
+
+depending upon the statutory circumstances.
+
+
+
+
+Example
+A witness is asked:
+
+       "Did you see X at the place of occurrence?"
+
+A knows that he did not see X but deliberately says:
+
+       "Yes, I saw him."
+
+A may be giving false evidence.
+<PARSED TEXT FOR PAGE: 297 / 748>
+🔥 IMPORTANT
+False evidence is not limited to statements made in a courtroom.
+
+The provision can operate wherever the person is legally bound to state the truth under the
+circumstances contemplated by the law.
+
+
+
+
+SECTION 228 – FABRICATING FALSE
+EVIDENCE
+
+🔴🔴 EXTREMELY IMPORTANT
+IPC equivalent
+IPC §192
+
+This is different from giving false evidence.
+
+A person fabricates false evidence when he:
+
+   ●   causes a circumstance to exist;
+   ●   makes a false entry in a book/record/electronic record;
+   ●   makes a document/electronic record containing a false statement;
+
+with the intention that it may appear in evidence in a judicial proceeding or proceeding before a
+public servant, arbitrator, etc., and that it may cause the person who relies upon it to form an
+erroneous opinion on a material point.
+
+
+
+
+Example
+A wants to falsely implicate B.
+
+A creates a fake electronic record showing that B transferred money to the victim.
+
+A intends the record to be produced as evidence.
+
+This may constitute fabrication of false evidence.
+<PARSED TEXT FOR PAGE: 298 / 748>
+🔥 GIVING vs FABRICATING
+        Giving False Evidence                 Fabricating False Evidence
+
+ §227                                      §228
+
+ False statement                           False
+                                           circumstance/document/record
+ Person personally gives false             Person creates evidence to mislead
+ evidence
+ IPC §191                                  IPC §192
+
+
+Memory:
+GIVING = SPEAK
+
+FABRICATING = CREATE
+
+
+
+
+⚖️Haryana
+     CASE LAW – M.S. Ahlawat v State of
+
+The Supreme Court discussed prosecution relating to false evidence and the importance of
+following the statutory procedure for offences affecting administration of justice.
+
+Exam use
+Useful when discussing:
+
+   ●    false evidence;
+   ●    prosecution for offences affecting judicial proceedings.
+
+
+
+
+SECTION 229 – PUNISHMENT FOR FALSE
+EVIDENCE
+IPC equivalent
+IPC §193
+<PARSED TEXT FOR PAGE: 299 / 748>
+The punishment depends upon whether the false evidence is given in:
+
+   ●    a judicial proceeding; or
+   ●    another situation contemplated by the provision.
+
+General principle
+False evidence is treated particularly seriously when it is given in a judicial proceeding,
+because it can result in wrongful conviction or miscarriage of justice.
+
+
+
+
+⭐ WHY IS FALSE EVIDENCE SERIOUS?
+Because it can:
+
+   ●    convict an innocent person;
+   ●    acquit a guilty person;
+   ●    distort judicial findings;
+   ●    waste judicial resources;
+   ●    undermine public confidence in courts.
+
+
+
+
+SECTION 230 – FALSE EVIDENCE TO
+PROCURE CONVICTION FOR CAPITAL
+OFFENCE
+🔴 VERY IMPORTANT
+IPC equivalent
+IPC §194
+
+This provision applies where a person gives or fabricates false evidence intending to procure
+the conviction of another person for an offence punishable with death.
+
+Why more serious?
+Because the fabricated/false evidence can potentially result in:
+
+       wrongful execution of an innocent person.
+
+Therefore, the law imposes an extremely severe punishment.
+<PARSED TEXT FOR PAGE: 300 / 748>
+SECTION 231 – FALSE EVIDENCE TO
+PROCURE CONVICTION FOR LIFE
+IMPRISONMENT ETC.
+IPC equivalent
+IPC §195
+
+This deals with false evidence intended to procure conviction for offences punishable with:
+
+   ●   imprisonment for life; or
+   ●   imprisonment for a specified period.
+
+
+
+
+🔥 §230 VS §231
+§230 → Capital/death-punishable offence
+
+§231 → Life imprisonment/other imprisonment offence
+
+
+
+
+SECTION 232 – THREATENING A PERSON
+TO GIVE FALSE EVIDENCE
+IPC equivalent
+IPC §195A
+
+A person commits the offence when he:
+
+   ●   threatens another person;
+   ●   with injury to:
+           ○ person;
+           ○ reputation;
+           ○ property;
+           ○ another person;
+<PARSED TEXT FOR PAGE: 301 / 748>
+in order to cause that person to give false evidence.
+
+
+
+
+Example
+A threatens a witness:
+
+       "If you don't lie in court, I will harm your family."
+
+The conduct may attract §232.
+
+
+
+
+⭐ IMPORTANT
+This offence protects the freedom of witnesses and integrity of judicial proceedings.
+
+
+
+
+SECTION 233 – USING EVIDENCE KNOWN
+TO BE FALSE
+IPC equivalent
+IPC §196
+
+A person who:
+
+   ●    corruptly uses or attempts to use;
+   ●    evidence;
+   ●    knowing it to be false or fabricated;
+
+may be punished.
+
+
+
+
+🔥 DISTINCTION
+§228
+<PARSED TEXT FOR PAGE: 302 / 748>
+Create false evidence
+
+§233
+Use false evidence
+
+
+
+
+SECTION 234 – ISSUING OR SIGNING
+FALSE CERTIFICATE
+IPC equivalent
+IPC §197
+
+A person who issues or signs a certificate that is legally required to contain a particular truth but
+knows it to be false may commit the offence.
+
+
+
+
+SECTION 235 – USING FALSE
