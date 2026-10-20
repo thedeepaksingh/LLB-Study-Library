@@ -27,3 +27,7 @@ For each offence, identify the property element, required mental state, consent 
 5. Distinguish cheating from criminal breach of trust.
 
 These are not verified PYQs. See the [official source register](../Bare-Act-and-References/official-sources.md).
+
+## Detailed lesson
+
+Read the expanded [DAY-05 detailed lesson](lesson.md) for the major property offences, distinctions and examples.
