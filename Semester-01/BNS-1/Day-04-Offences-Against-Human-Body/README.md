@@ -29,3 +29,7 @@ For each offence, record the exact BNS section, ingredients, punishment only aft
 5. Discuss homicide by rash or negligent act.
 
 These are not verified PYQs. See the [official source register](../Bare-Act-and-References/official-sources.md).
+
+## Detailed lesson
+
+Read the expanded [DAY-04 detailed lesson](lesson.md) for offence-by-offence analysis and key distinctions.
