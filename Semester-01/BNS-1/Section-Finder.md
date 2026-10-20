@@ -2,7 +2,8 @@
 
 Use this page to jump from the offence/topic to the **plain-English section explanation** and core study notes. Section titles and ingredients are summarised here; when quoting law, confirm the exact current wording in the enacted BNS. The section-wise guide itself is intended to be readable without opening external websites.
 
-**Primary in-repository guide:** [BNS Section-Wise Learning Guide](Bare-Act-and-References/BNS-SECTION-WISE-LEARNING-GUIDE.md)
+**Read the actual statutory extracts first:** [Core Bare Act Extracts](Bare-Act-and-References/CORE-BARE-ACT-EXTRACTS.md).  
+**Then use the broader provision map:** [BNS Section-Wise Learning Guide](Bare-Act-and-References/BNS-SECTION-WISE-LEARNING-GUIDE.md)
 
 | Topic you need | BNS section(s) | What to check |
 |---|---:|---|
