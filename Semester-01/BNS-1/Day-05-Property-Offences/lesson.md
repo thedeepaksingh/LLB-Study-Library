@@ -79,3 +79,13 @@ For each property problem, identify the offence suggested by the facts, write th
 - [ ] I checked all BNS section numbers and punishment provisions.
 
 [Official source](../Bare-Act-and-References/official-sources.md)
+
+
+## Case-law anchors for this lesson
+- **K.N. Mehra v State of Rajasthan, AIR 1957 SC 369:** temporary use does not by itself rule out theft; test the statutory ingredients and dishonest intention.
+- **Pyare Lal Bhargava v State of Rajasthan, AIR 1963 SC 1094:** later return of temporarily removed property does not automatically negate theft if the required dishonest elements are proved.
+- **R.K. Dalmia v Delhi Administration, AIR 1962 SC 1821:** criminal breach of trust requires entrustment/dominion and dishonest dealing in the prohibited way.
+- **Hridaya Ranjan Prasad Verma v State of Bihar, (2000) 4 SCC 168:** a mere later breach of contract does not automatically amount to cheating; deception, inducement and the relevant intention must be examined.
+- These are former-IPC authorities. Match the principle to BNS sections 303–319 and do not assume old penalties or every detail carried over unchanged.
+
+See the [Case-Law Casebook](../Case-Laws/CASE-LAW-CASEBOOK.md) for the material facts and ratio. The [Core Bare Act Extracts](../Bare-Act-and-References/CORE-BARE-ACT-EXTRACTS.md) reproduces the operative definitions for theft, extortion, breach of trust and cheating.
