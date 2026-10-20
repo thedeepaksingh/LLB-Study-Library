@@ -30,3 +30,13 @@ Use GitHub repository search with:
 
 ## Evidence labels
 Every question-paper entry should say whether the original paper has been inspected. A third-party listing alone is not enough to mark a question as a verified previous-year question.
+
+
+## BNS-1 study navigation aids
+- [Topic Finder](Semester-01/BNS-1/TOPIC-INDEX.md) — stable topic IDs and day links
+- [Section Finder](Semester-01/BNS-1/Section-Finder.md) — statutory lookup aid; verify in the Bare Act
+- [Progress Tracker](Semester-01/BNS-1/Progress-Tracker.md) — mark study and revision progress
+- [Revision Sheets](Semester-01/BNS-1/Revision-Sheets/README.md)
+- [Verified PYQ shelf](Semester-01/BNS-1/Question-Bank/Verified-PYQ/README.md)
+- [Predicted-question shelf](Semester-01/BNS-1/Question-Bank/Predicted-Questions/README.md)
+- [Practice-question shelf](Semester-01/BNS-1/Question-Bank/Practice-Questions/README.md)
