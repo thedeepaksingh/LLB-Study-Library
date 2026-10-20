@@ -63,3 +63,13 @@ Every question-paper entry should say whether the original paper has been inspec
 - [Semester 6 workspace](Semester-06/README.md)
 
 These future-semester pages are blank templates. Populate specific subject names only after confirming the exact applicable CCSU syllabus.
+
+
+## Completeness and update controls
+
+- [BNS-1 syllabus-wide completeness matrix](Semester-01/BNS-1/CONTENT-COMPLETENESS-MATRIX.md)
+- [BNS-1 study-maintenance agreement](Semester-01/BNS-1/STUDY-MAINTENANCE-MODE.md)
+- [Contribution and branch workflow](CONTRIBUTING.md)
+- [Review and approval policy](REVIEW-AND-APPROVAL-POLICY.md)
+- [Review checklist](docs/REVIEW-CHECKLIST.md)
+- [Repository changelog](CHANGELOG.md)

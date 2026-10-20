@@ -1,0 +1,65 @@
+name: Study material request
+description: Request a new or expanded topic, question bank, case-law note or syllabus check
+title: "[Study request]: "
+labels: ["study-material"]
+body:
+  - type: dropdown
+    id: semester
+    attributes:
+      label: Semester
+      options:
+        - Semester 1
+        - Semester 2
+        - Semester 3
+        - Semester 4
+        - Semester 5
+        - Semester 6
+        - Other / not sure
+    validations:
+      required: true
+  - type: input
+    id: subject
+    attributes:
+      label: Subject name and code
+      description: Use the official university wording if known.
+      placeholder: "BNS-1 — Law of Crimes I (K-1006)"
+    validations:
+      required: true
+  - type: input
+    id: topic
+    attributes:
+      label: Topic or study day
+      placeholder: "Day 3 — General exceptions / private defence"
+    validations:
+      required: true
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: Type of update
+      options:
+        - New detailed notes
+        - Expand existing notes
+        - Question bank
+        - Model answers
+        - Verified previous-year paper
+        - Case law
+        - Statutory correction
+        - Syllabus verification
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source or evidence
+      description: Add official links or describe the supplied paper. Do not include confidential personal data.
+    validations:
+      required: false
+  - type: checkboxes
+    id: authenticity
+    attributes:
+      label: Question status (if applicable)
+      options:
+        - label: I understand a predicted question is not a verified previous-year question.
+        - label: If requesting a verified PYQ, I can provide or identify the actual paper.
+          required: false

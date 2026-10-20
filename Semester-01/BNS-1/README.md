@@ -52,3 +52,12 @@ These are educational notes, not legal advice. The enacted text and applicable C
 
 ## Preservation commitment
 This is a long-term subject library. New topics and question sets will be added as separate files or append-only sections. Existing notes, sources, past-paper records and earlier question-bank entries should not be overwritten or deleted when expanding the material. Material needing correction should be logged in [CHANGELOG.md](CHANGELOG.md).
+
+
+## Completeness and maintenance controls
+
+- [Syllabus-wide content completeness matrix](CONTENT-COMPLETENESS-MATRIX.md) — every mapped syllabus area and its current review status.
+- [Study-first maintenance agreement](STUDY-MAINTENANCE-MODE.md) — repository-maintenance responsibilities and approval rules.
+- [Review checklist](../../docs/REVIEW-CHECKLIST.md) — legal, syllabus, question-bank and navigation checks.
+
+All BNS-1 material remains inside this subject directory. Drafts are not labelled complete until their statutory coverage, syllabus fit and exam resources have been reviewed.
