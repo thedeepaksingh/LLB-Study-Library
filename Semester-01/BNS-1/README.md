@@ -20,6 +20,7 @@
 - [Day 6 — State, public tranquillity, women and children](Day-06-State-Public-Tranquillity-Women-Children/README.md)
 - [Day 7 — Revision and mock test](Day-07-Revision-and-Mock-Test/README.md)
 - [Complete syllabus teaching notes — learn the prescribed topics directly](Complete-Notes/COMPLETE-SYLLABUS-TEACHING-NOTES.md)
+- [Core Bare Act extracts — actual wording of selected sections with ingredient notes](Bare-Act-and-References/CORE-BARE-ACT-EXTRACTS.md)
 - [BNS section-wise learning guide — provision numbers and plain-English ingredients](Bare-Act-and-References/BNS-SECTION-WISE-LEARNING-GUIDE.md)
 - [Case-law casebook — facts, issues, holdings, principles and BNS connections](Case-Laws/CASE-LAW-CASEBOOK.md)
 - [Worked exam practice problems and answers](Question-Bank/EXAM-PRACTICE-PROBLEMS-WITH-WORKED-ANSWERS.md)
