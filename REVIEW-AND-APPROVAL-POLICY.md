@@ -47,3 +47,8 @@ The repository owner retains the final decision on whether a change is merged to
 ## Meaning of approval
 
 Approval means the owner agrees to publish the reviewed version, not that legal or academic perfection is guaranteed. If an error is found later, fix it in a new branch and document the correction. Prefer evidence and transparent correction over claims of certainty.
+
+
+## Study-first workflow
+
+The assistant should manage repository maintenance and study-file organisation wherever available GitHub tools permit it. The owner should not be asked to manually create files, folders or branches for routine work. All BNS-1 content should remain under `Semester-01/BNS-1/`, with the completeness matrix used to track what is finished and what remains.
