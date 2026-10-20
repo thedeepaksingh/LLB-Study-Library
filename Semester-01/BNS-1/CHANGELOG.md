@@ -8,3 +8,7 @@
 
 ## Preservation rule
 Add future materials in new topic/question files or append sections. Do not erase existing learning history or question-bank entries when adding content.
+## 2026-10-20 — Navigation and question-bank separation
+- Added separate shelves for verified PYQs, predicted questions, practice questions and answer keys.
+- Added topic finder, section finder, progress tracker and revision-sheet index.
+- Added preservation instructions to the subject dashboard and master index.
