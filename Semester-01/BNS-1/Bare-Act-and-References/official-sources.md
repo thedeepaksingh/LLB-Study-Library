@@ -23,3 +23,14 @@
 |---|---|---|---|
 | 2026-10-20 | India Code BNS record and PDF | Statutory source | Recheck before exam |
 | 2026-10-20 | CCSU-hosted syllabus PDF | Topic mapping | Confirm batch applicability |
+
+## Direct learning material now kept inside this subject folder
+Students do not have to open an outside website to begin learning these topics:
+- [Core Bare Act Extracts](CORE-BARE-ACT-EXTRACTS.md) — selected operative wording, ingredient notes and high-value exceptions.
+- [BNS Section-Wise Learning Guide](BNS-SECTION-WISE-LEARNING-GUIDE.md) — topic-by-topic section index for the CCSU syllabus.
+- [Complete Syllabus Teaching Notes](../Complete-Notes/COMPLETE-SYLLABUS-TEACHING-NOTES.md) — plain-English lesson across all syllabus areas.
+- [Case-Law Casebook](../Case-Laws/CASE-LAW-CASEBOOK.md) — facts, issues, principles and BNS connections.
+- [Worked Exam Practice](../Question-Bank/EXAM-PRACTICE-PROBLEMS-WITH-WORKED-ANSWERS.md) — original questions with worked answers.
+
+## Source/accuracy record
+The teaching pack was drafted against the CCSU Board of Studies (Law) Paper IV syllabus (proceedings dated 24 August 2024), the published BNS text hosted by BPRD, and NCRB's New Criminal Laws compendium and BNS–IPC section table. Leading judgments are identified by case name and citation, but their study summaries remain paraphrases; for a formal citation or disputed legal point, consult the full reported judgment. BNS numbering does not make former-IPC case law automatically conclusive under every current provision. The materials are educational drafts and must not be represented as perfect or independently certified.
