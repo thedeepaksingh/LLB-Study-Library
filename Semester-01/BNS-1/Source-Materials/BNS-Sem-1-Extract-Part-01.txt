@@ -1,0 +1,3000 @@
+<PARSED TEXT FOR PAGE: 1 / 748>
+/Context: BNS — LLB 1st Semester Study Structure
+We should cover the paper in this order:
+
+   1. Introduction to BNS, 2023
+          ○ Background and objectives
+          ○ BNS vs IPC
+          ○ Important definitions
+          ○ Extent and application
+          ○ General principles of criminal liability
+   2. Punishments
+          ○ Types of punishments
+          ○ Imprisonment
+          ○ Fine
+          ○ Forfeiture
+          ○ Community service
+          ○ Enhanced punishment and related principles
+   3. General Exceptions
+          ○ Mistake of fact
+          ○ Judicial acts
+          ○ Accident
+          ○ Necessity
+          ○ Infancy
+          ○ Unsoundness of mind
+          ○ Intoxication
+          ○ Consent
+          ○ Good-faith acts
+   4. Right of Private Defence
+          ○ Defence of body
+          ○ Defence of property
+          ○ When the right begins and ends
+          ○ Limits of private defence
+   5. Abetment
+          ○ Instigation
+          ○ Conspiracy
+          ○ Intentional aid
+          ○ Liability of abettor
+   6. Criminal Conspiracy
+   7. Attempt
+          ○ Preparation vs attempt
+          ○ Attempt to commit offences
+          ○ Punishment for attempt
+   8. Offences Against the Human Body
+          ○ Culpable homicide
+          ○ Murder
+          ○ Death caused by negligence
+          ○ Hurt and grievous hurt
+<PARSED TEXT FOR PAGE: 2 / 748>
+       ○ Wrongful restraint and confinement
+       ○ Assault
+       ○ Kidnapping
+       ○ Abduction
+       ○ Trafficking
+9. Offences Against Women and Children
+       ○ Rape
+       ○ Sexual offences
+       ○ Sexual harassment
+       ○ Assault/criminal force against women
+       ○ Stalking
+       ○ Voyeurism
+       ○ Dowry death
+       ○ Cruelty
+       ○ Offences against children
+10. Offences Against Property
+       ○ Theft
+       ○ Extortion
+       ○ Robbery
+       ○ Dacoity
+       ○ Criminal misappropriation
+       ○ Criminal breach of trust
+       ○ Receiving stolen property
+       ○ Cheating
+       ○ Mischief
+       ○ Criminal trespass
+11. Offences Relating to Documents and Property Marks
+       ○ Forgery
+       ○ Making false documents
+       ○ Using forged documents
+       ○ Property marks
+12. Offences Against the State
+       ○ Waging war
+       ○ Acts endangering sovereignty, unity and integrity of India
+       ○ Related offences
+13. Offences Relating to Religion
+14. Offences Affecting Public Tranquillity
+       ○ Unlawful assembly
+       ○ Rioting
+       ○ Affray
+       ○ Common object
+15. Offences by or Relating to Public Servants
+16. Offences Relating to Elections
+17. Offences Relating to Marriage
+18. Defamation and Criminal Intimidation
+       ○ Defamation
+       ○ Criminal intimidation
+       ○ Intentional insult
+       ○ Public mischief-related provisions
+19. Important BNS–IPC Comparisons
+       ○ Old IPC provision → corresponding BNS provision
+<PARSED TEXT FOR PAGE: 3 / 748>
+          ○ New offences
+          ○ Changed punishments
+          ○ Major conceptual changes
+   20. Important Case Laws
+          ○ IPC-era Supreme Court decisions that continue to help explain corresponding
+             BNS principles
+          ○ Principle established by each case
+          ○ How to use it in an examination answer
+
+
+
+
+PART I — INTRODUCTION TO BNS
+1. What is BNS?
+Bharatiya Nyaya Sanhita, 2023 (BNS) is India's principal substantive criminal law dealing with
+offences and punishments.
+
+It replaced the Indian Penal Code, 1860 (IPC) from 1 July 2024. The official statute describes
+BNS as an Act to consolidate and amend provisions relating to offences and matters connected
+with or incidental to them.
+
+Three new criminal laws
+You should immediately remember this distinction:
+
+
+     Law               Replaced                          Subject
+
+
+ BNS, 2023     IPC, 1860                    Substantive criminal law / offences
+
+
+ BNSS,         CrPC, 1973                   Criminal procedure
+ 2023
+
+
+ BSA, 2023     Indian Evidence Act, 1872    Law of evidence
+
+
+The official India Code records BNS as Act 45 of 2023, BNSS as Act 46, and BSA as Act 47.
+
+⭐ Remember
+BNS = What is a crime + punishment
+<PARSED TEXT FOR PAGE: 4 / 748>
+BNSS = How a criminal case proceeds
+
+BSA = How facts are proved
+
+This distinction is extremely important in LLB.
+
+
+
+
+2. BNS vs IPC — Basic Comparison
+        Basis               IPC, 1860                                  BNS, 2023
+
+
+ Full name           Indian Penal Code            Bharatiya Nyaya Sanhita
+
+
+ Year                1860                         2023
+
+
+ Act No.             —                            45 of 2023
+
+
+ Effective date      Replaced                     1 July 2024
+
+
+ Nature              Substantive criminal         Substantive criminal law
+                     law
+
+
+ Total structure     23 chapters, 511             20 chapters, 358 sections
+                     sections
+
+
+ Approach            Colonial-era                 Revised/consolidated criminal code
+                     codification
+
+
+ Community           Not a general IPC            Expressly included
+ service             punishment
+
+
+ Organised crime     No comprehensive IPC         Specifically addressed
+                     provision
+
+
+ Terrorist act       Mainly dealt with            Express provision
+                     through special laws
+
+
+ Mob/group-          No equivalent BNS            Specific provision
+<PARSED TEXT FOR PAGE: 5 / 748>
+ related killing    formulation
+
+
+ Sedition           IPC §124A                  Replaced by a different provision dealing with
+                                               acts endangering sovereignty, unity and integrity
+
+
+The official BNS arrangement begins with Chapter I—Preliminary, Chapter II—Punishments,
+and Chapter III—General Exceptions.
+
+
+
+
+3. Structure of BNS
+This is something I want you to learn before jumping into individual offences.
+
+
+Chapter I — Preliminary
+Sections 1–3
+
+Includes:
+
+   ●    Short title
+   ●    Commencement
+   ●    Application
+   ●    Definitions
+   ●    General explanations
+
+
+
+
+Chapter II — Of Punishments
+Sections 4–13
+
+Includes:
+
+   ●    Types of punishment
+   ●    Commutation
+   ●    Fractions of terms
+   ●    Rigorous/simple imprisonment
+   ●    Fine
+   ●    Solitary confinement
+   ●    Enhanced punishment after previous conviction
+
+The official BNS text specifically lists community service among the punishments under §4.
+<PARSED TEXT FOR PAGE: 6 / 748>
+Chapter III — General Exceptions
+Sections 14–44
+
+This is a very important examination area.
+
+Includes:
+
+   ●   Acts done under legal obligation
+   ●   Judicial acts
+   ●   Accident
+   ●   Necessity
+   ●   Children
+   ●   Unsoundness of mind
+   ●   Intoxication
+   ●   Consent
+   ●   Good faith
+   ●   Compulsion
+   ●   Slight harm
+
+
+
+
+Chapter IV — Abetment, Criminal Conspiracy and Attempt
+Sections 45–62
+
+Three major concepts:
+
+       Abetment → Conspiracy → Attempt
+
+These are frequently examined together.
+
+
+
+
+Chapter V — Offences Against Woman and Child
+This is another major BNS area.
+
+Includes offences concerning:
+
+   ●   Sexual offences
+   ●   Rape
+   ●   Sexual harassment
+   ●   Assault
+   ●   Stalking
+   ●   Voyeurism
+   ●   Dowry death
+   ●   Cruelty
+   ●   Marriage-related offences
+<PARSED TEXT FOR PAGE: 7 / 748>
+   ●    Offences against children
+
+
+
+
+Chapter VI — Offences Affecting the Human Body
+Includes:
+
+   ●    Culpable homicide
+   ●    Murder
+   ●    Causing death by negligence
+   ●    Hurt
+   ●    Grievous hurt
+   ●    Wrongful restraint
+   ●    Wrongful confinement
+   ●    Criminal force
+   ●    Assault
+   ●    Kidnapping
+   ●    Abduction
+   ●    Trafficking
+   ●    Organised crime
+   ●    Terrorist acts
+
+For example, the official BNS text places organised crime at §111 and terrorist act at §113,
+while hurt begins at §114.
+
+
+
+
+4. The Golden IPC → BNS Principle
+Don't approach BNS as:
+
+       "IPC section number + something = BNS section."
+
+That will cause confusion.
+
+Instead:
+
+Old law
+IPC §299
+ ↓
+ Culpable homicide
+
+New law
+<PARSED TEXT FOR PAGE: 8 / 748>
+BNS §100
+↓
+Culpable homicide
+
+But then ask:
+
+Has the wording changed?
+Have ingredients changed?
+Has punishment changed?
+Has a new exception been introduced?
+Has another IPC provision been merged into it?
+
+That is how we will study it.
+
+
+
+
+5. First Important IPC → BNS Table
+We'll progressively build a much larger master table, but start with these:
+
+
+                      Offence / concept                                IPC    BNS
+
+
+ Culpable homicide                                              §299          §100
+
+
+ Murder                                                         §300          §101
+
+
+ Punishment for murder                                          §302          §103
+
+
+ Punishment for culpable homicide not amounting to              §304          §105
+ murder
+
+
+ Attempt to murder                                              §307          §109
+
+
+ Hurt                                                           §319          §114
+
+
+ Voluntarily causing hurt                                       §321/323      §115
+
+
+ Grievous hurt                                                  §320          §116
+
+
+ Voluntarily causing grievous hurt                              §322/325      §117
+<PARSED TEXT FOR PAGE: 9 / 748>
+ Wrongful restraint                                            §339            §126
+
+
+ Wrongful confinement                                          §340            §127
+
+
+ Kidnapping                                                    §359/360/361 §137
+
+
+ Abduction                                                     §362            §138
+
+
+ Theft                                                         §378            §303
+
+
+ Robbery                                                       §390            §309
+
+
+ Dacoity                                                       §391            §310
+
+
+ Criminal breach of trust                                      §405            §316
+
+
+ Cheating                                                      §415            §318
+
+
+ Criminal trespass                                             §441            §329
+
+
+ Defamation                                                    §499            §356
+
+
+Important: for several entries, the relationship isn't a simple "one IPC section became one BNS
+section." In the detailed notes I'll explain the exact correspondence and any changes rather than
+asking you to memorize misleading one-line conversions.
+
+
+
+
+6. What You Should Learn First
+Before we start the individual offences, I recommend this sequence:
+
+🔴 Priority 1 — Must Master
+   1. BNS §1–3 — Preliminary
+<PARSED TEXT FOR PAGE: 10 / 748>
+   2. BNS §4–13 — Punishments
+   3. BNS §14–44 — General Exceptions
+   4. BNS §45–62 — Abetment, Conspiracy & Attempt
+   5. BNS §100–124 — Culpable homicide, murder, hurt etc.
+   6. BNS §126–127 — Wrongful restraint/confinement
+   7. BNS §137–146 — Kidnapping, abduction etc.
+   8. Offences against women
+   9. Theft, robbery, dacoity
+   10. Cheating
+   11. Criminal breach of trust
+   12. Criminal trespass
+   13. Defamation
+   14. Organised crime
+   15. Terrorist act
+   16. Acts endangering sovereignty, unity and integrity of India
+
+🟠 Priority 2
+   ●   Public tranquillity
+   ●   Public servants
+   ●   Religion
+   ●   Elections
+   ●   Marriage-related offences
+   ●   Documents and property marks
+   ●   Miscellaneous offences
+
+🟢 Priority 3
+Detailed lesser-tested provisions and fine distinctions.
+<PARSED TEXT FOR PAGE: 11 / 748>
+BNS – BHARATIYA NYAYA SANHITA,
+2023
+LLB – SEMESTER I
+
+CHAPTER I – PRELIMINARY
+
+
+SECTION 1 – SHORT TITLE,
+COMMENCEMENT AND APPLICATION
+BNS Section: 1
+Corresponding IPC Provision: IPC Section 1
+
+🔴 MUST STUDY
+Section 1 deals with three basic matters:
+
+   1. Short title of the law
+   2. Commencement of the law
+   3. Territorial and extra-territorial application of the law
+
+
+
+
+1. Short Title
+The Act is called the:
+
+“Bharatiya Nyaya Sanhita, 2023”
+
+It may be abbreviated as BNS.
+
+The BNS replaced the Indian Penal Code, 1860 (IPC) as the principal substantive criminal law
+of India.
+
+
+
+
+2. Commencement of BNS
+<PARSED TEXT FOR PAGE: 12 / 748>
+BNS came into force on 1 July 2024, except the provision relating to Section 106(2), which was
+excluded from the commencement notification.
+
+⭐ EXAM POINT
+For examination purposes, remember:
+
+       BNS came into force on 1 July 2024.
+
+Therefore, offences committed after the commencement of BNS are ordinarily dealt with under
+BNS, subject to the rules governing the applicability of criminal law to acts committed before the
+change in law.
+
+
+
+
+3. Territorial Application
+BNS generally applies to a person who commits an act or omission contrary to its provisions
+within India.
+
+This reflects the basic principle of territorial jurisdiction in criminal law.
+
+Example
+A commits an offence in Delhi.
+
+Since the offence is committed within India, BNS applies, subject to the particular facts and
+other applicable laws.
+
+
+
+
+4. Extra-Territorial Application
+BNS also contains provisions dealing with certain acts committed outside India.
+
+This is important because criminal jurisdiction is not always restricted to offences physically
+committed within Indian territory.
+
+Section 1 extends the application of BNS to certain persons and situations outside India,
+including:
+
+   ●    An Indian citizen committing an offence outside India;
+   ●    A person on a ship or aircraft registered in India, wherever it may be;
+   ●    A person outside India who commits an offence targeting a computer resource located in
+        India.
+<PARSED TEXT FOR PAGE: 13 / 748>
+5. Offence Outside India by an Indian Citizen
+Where an Indian citizen commits an offence outside India, BNS may apply to that conduct.
+
+Example
+A, an Indian citizen, commits an offence in another country.
+
+The fact that the offence occurred outside Indian territory does not automatically prevent BNS
+from applying.
+
+
+
+
+6. Offence on Indian-Registered Ship or
+Aircraft
+BNS may also apply to offences committed by a person on:
+
+   ●   a ship registered in India, or
+   ●   an aircraft registered in India,
+
+regardless of where the ship or aircraft is located.
+
+Example
+A commits an offence on an aircraft registered in India while the aircraft is outside Indian
+territory.
+
+The extra-territorial application provisions of BNS may make the offender subject to BNS.
+
+
+
+
+7. Offence Targeting a Computer Resource
+in India
+This is one of the significant modern aspects of BNS.
+
+BNS extends to a person outside India who commits an offence targeting a computer resource
+located in India.
+
+Example
+A person sitting outside India unlawfully attacks a computer system located in India.
+<PARSED TEXT FOR PAGE: 14 / 748>
+The fact that the offender is physically outside India does not necessarily prevent application of
+BNS.
+
+⭐ EXAM POINT
+This reflects the increasing importance of cybercrime and digital jurisdiction.
+
+
+
+
+IPC → BNS COMPARISON
+                Particular                            IPC                         BNS
+
+ Short title                              Indian Penal Code, 1860      Bharatiya Nyaya Sanhita,
+                                                                       2023
+
+ Section                                  §1                           §1
+
+ Territorial application                  Yes                          Yes
+
+ Indian citizen committing offence        Covered                      Covered
+ outside India
+
+ Indian-registered ship/aircraft          Covered                      Covered
+
+ Computer resource located in India       No specific equivalent       Expressly addressed
+                                          wording
+
+ Nature                                   Older criminal code          New criminal code
+
+
+⚠️ IMPORTANT CHANGE
+The reference to an offence targeting a computer resource located in India reflects the
+modernisation of criminal jurisdiction in BNS.
+
+
+
+
+SECTION 1 – EXAM ANSWER
+Question:
+Explain the extent and application of the Bharatiya Nyaya Sanhita, 2023.
+
+Answer:
+<PARSED TEXT FOR PAGE: 15 / 748>
+Section 1 of the Bharatiya Nyaya Sanhita, 2023 deals with the short title, commencement and
+application of the Sanhita.
+
+The Act is called the Bharatiya Nyaya Sanhita, 2023 and came into force on 1 July 2024,
+subject to the notified exception concerning Section 106(2).
+
+The Sanhita generally applies to offences committed within India. It also has extra-territorial
+application in specified circumstances. It may apply to an Indian citizen who commits an offence
+outside India, to offences committed on a ship or aircraft registered in India, and to certain
+offences committed outside India which target a computer resource located in India.
+
+Thus, Section 1 establishes both the territorial and specified extra-territorial reach of BNS.
+
+
+
+
+🔄 IPC → BNS QUICK MEMORY
+IPC §1 → BNS §1
+
+Remember:
+        Section 1 = Where and when BNS applies
+
+
+
+
+📝 IMPORTANT EXAM QUESTIONS
+Short Questions
+   1.    What is the full name of BNS?
+   2.    When did BNS come into force?
+   3.    What does Section 1 of BNS deal with?
+   4.    Does BNS have extra-territorial application?
+   5.    Does BNS apply to offences targeting a computer resource in India?
+
+Long Questions
+   1. Explain the territorial and extra-territorial application of BNS, 2023.
+   2. Discuss Section 1 of BNS with reference to offences committed outside India.
+   3. Explain the application of BNS to Indian citizens committing offences outside
+      India.
+<PARSED TEXT FOR PAGE: 16 / 748>
+SECTION 2 – DEFINITIONS
+BNS Section: 2
+Corresponding IPC Provision: IPC Section 2 + relevant definitions spread through IPC §21
+and other provisions
+
+🔴 MUST STUDY
+Section 2 contains important definitions used throughout BNS.
+
+This section is particularly important because criminal law depends heavily upon the precise
+meaning of terms.
+
+Some important definitions include:
+
+   ●   Act
+   ●   Child
+   ●   Counterfeit
+   ●   Court
+   ●   Dishonestly
+   ●   Document
+   ●   Fraudulently
+   ●   Gender
+   ●   Good faith
+   ●   Government
+   ●   Harbour
+   ●   Judge
+   ●   Life
+   ●   Local authority
+   ●   Man
+   ●   Month and year
+   ●   Movable property
+   ●   Number
+   ●   Oath
+   ●   Offence
+   ●   Person
+   ●   Public
+   ●   Public servant
+   ●   Reason to believe
+   ●   Special law
+   ●   Voluntarily
+   ●   Wrongfully
+   ●   Woman
+
+
+
+
+2.1 “Act”
+The term act includes a series of acts as well as a single act.
+<PARSED TEXT FOR PAGE: 17 / 748>
+Therefore, an offence need not always consist of one isolated physical action.
+
+Example
+A performs several connected acts which together constitute the commission of an offence.
+
+The law may treat the series of acts collectively as an act.
+
+⭐ Remember:
+       Act includes a series of acts.
+
+
+
+
+2.2 “Child”
+Under BNS, a child means a person below the age of 18 years.
+
+⭐ EXAM POINT
+       Child = person below 18 years
+
+This definition is particularly relevant to offences involving children.
+
+
+
+
+2.3 “Dishonestly”
+A person is said to do something dishonestly when he does it with the intention of causing:
+
+   ●    wrongful gain to one person, or
+   ●    wrongful loss to another person.
+
+Formula
+Dishonestly = Intention to cause wrongful gain OR wrongful loss
+
+Example
+A takes B's property intending to obtain an unlawful benefit for himself.
+
+The act may be characterised as being done dishonestly.
+<PARSED TEXT FOR PAGE: 18 / 748>
+2.4 “Fraudulently”
+A person is said to do something fraudulently if he does it with the intention of defrauding.
+
+Important distinction
+Do not confuse:
+
+Dishonestly
+with
+Fraudulently
+
+               Dishonestly                          Fraudulently
+
+ Wrongful gain/loss                        Intention to defraud
+
+ Focus on gain or loss                     Focus on fraud
+
+ Frequently relevant to property           Relevant to fraudulent conduct
+ offences
+
+
+
+
+2.5 “Document”
+The concept of document is extremely important in modern criminal law.
+
+It includes a matter expressed or described upon any substance by means of:
+
+   ●   letters,
+   ●   figures,
+   ●   marks,
+   ●   or more than one of these means,
+
+which is intended to be used as evidence of that matter.
+
+The definition also accommodates modern forms of documentation, including electronic and
+digital records.
+
+⚠️ BNS MODERNISATION
+This is important because criminal offences involving documents now operate in an environment
+where evidence may exist digitally.
+<PARSED TEXT FOR PAGE: 19 / 748>
+2.6 “Good Faith”
+An act is not done or believed to be done in good faith merely because it is honestly done.
+
+The law requires due care and attention.
+
+⭐ Very Important
+       Good faith requires due care and attention.
+
+Therefore:
+
+Honesty alone ≠ Good faith
+
+Example
+A doctor honestly believes a particular treatment is appropriate but completely ignores obvious
+precautions that a reasonable professional should take.
+
+The mere fact that the doctor acted honestly does not automatically establish good faith.
+
+
+
+
+2.7 “Movable Property”
+Movable property includes property of every description except land and things attached to
+the earth or permanently fastened to anything attached to the earth.
+
+This definition becomes important in offences such as:
+
+   ●    theft,
+   ●    robbery,
+   ●    misappropriation,
+   ●    criminal breach of trust.
+
+
+
+
+2.8 “Person”
+The term person includes:
+
+   ●    a company,
+   ●    an association,
+   ●    or body of persons,
+<PARSED TEXT FOR PAGE: 20 / 748>
+whether incorporated or not.
+
+⭐ Exam relevance
+Criminal law is therefore not restricted to natural human beings for every purpose.
+
+
+
+
+2.9 “Public Servant”
+BNS provides an extensive definition of public servant.
+
+The concept covers persons holding various public offices or performing specified public
+functions.
+
+This becomes particularly relevant to offences:
+
+   ●   committed by public servants,
+   ●   involving public servants,
+   ●   involving public authority.
+
+
+
+
+2.10 “Voluntarily”
+A person is said to cause an effect voluntarily when he causes it by means whereby he
+intended to cause it, or by means which he knew or had reason to believe were likely to cause
+it.
+
+Example
+A intentionally strikes B with a weapon knowing that the blow is likely to cause serious injury.
+
+If the relevant consequence occurs, the concept of voluntarily causing that consequence
+becomes relevant.
+
+
+
+
+2.11 “Wrongfully”
+A person is said to do something wrongfully when he does it with the intention of causing
+wrongful gain to one person or wrongful loss to another, or causes such a result by
+unlawful means.
+<PARSED TEXT FOR PAGE: 21 / 748>
+The precise statutory wording should be learned from the provision when preparing a final
+examination answer.
+
+
+
+
+🔄 IPC → BNS — DEFINITIONS
+       Concept              IPC           BNS
+
+ Act                 §33                  §2
+
+ Dishonestly         §24                  §2
+
+ Fraudulently        §25                  §2
+
+ Good faith          §52                  §2
+
+ Movable property    §22                  §2
+
+ Person              §11                  §2
+
+ Public servant      §21                  §2
+
+ Voluntarily         §39                  §2
+
+ Wrongfully          §23                  §2
+
+ Child               Various provisions   §2
+
+
+⚠️ IMPORTANT
+Unlike IPC, where many general definitions were distributed across Sections 6–52, BNS
+consolidates its definitions in Section 2.
+
+
+
+
+📝2 IMPORTANT QUESTIONS — SECTION
+Short Questions
+   1.    Define “dishonestly” under BNS.
+   2.    What is meant by “fraudulently”?
+   3.    Define “good faith”.
+   4.    What is meant by “movable property”?
+<PARSED TEXT FOR PAGE: 22 / 748>
+   5.   Who is a public servant?
+   6.   What is meant by “voluntarily”?
+   7.   Who is a child under BNS?
+   8.   Distinguish between dishonest and fraudulent acts.
+
+Long Questions
+   1.   Explain the important definitions contained in Section 2 of BNS.
+   2.   Distinguish between “dishonestly” and “fraudulently”.
+   3.   Explain the meaning of “good faith” under BNS.
+   4.   Discuss the significance of statutory definitions in criminal law.
+
+
+
+
+SECTION 3 – GENERAL EXPLANATIONS
+BNS Section: 3
+Corresponding IPC: Mainly corresponding to the General Explanations in IPC Sections 6–
+52
+
+🔴 MUST STUDY
+Section 3 contains general explanations that apply to the interpretation and operation of BNS.
+
+These explanations are important because they prevent the need to repeat the same principles
+in every individual offence.
+
+
+
+
+3.1 General Explanations Apply Throughout BNS
+Unless the context indicates otherwise, the general explanations contained in BNS apply
+throughout the Sanhita.
+
+This is an important principle of statutory interpretation.
+
+
+
+
+3.2 Acts and Omissions
+Criminal liability may arise not only from a positive act, but in appropriate circumstances from an
+omission where the law imposes a duty to act.
+
+Example
+<PARSED TEXT FOR PAGE: 23 / 748>
+A person who has a legal duty to provide necessary care deliberately fails to perform that duty,
+resulting in the legally relevant consequence.
+
+The omission may therefore have criminal consequences where the relevant offence and legal
+duty are established.
+
+
+
+
+3.3 Common Intention / Joint Liability
+Where a criminal act is done by several persons in furtherance of the common intention of all,
+each person may be liable as if the act had been done by him alone.
+
+⭐ Very Important
+This is one of the most frequently tested principles in criminal law.
+
+IPC Reference
+
+IPC §34 → BNS §3(5)
+
+Example
+A and B jointly attack C pursuant to a common intention to cause his death.
+
+If the prosecution establishes the required common intention and participation, both may be
+held liable for the resulting act.
+
+
+
+
+3.4 Important Principle
+Mere presence at the scene of an offence does not automatically establish common
+intention.
+
+There must be sufficient evidence showing:
+
+   1. Participation;
+   2. Common intention; and
+   3. Criminal act done in furtherance of that common intention.
+
+
+
+
+⚖️ CASE LAW — COMMON INTENTION
+<PARSED TEXT FOR PAGE: 24 / 748>
+Barendra Kumar Ghosh v. King-Emperor
+The Supreme Court/Privy Council-era principle associated with common intention establishes
+that a person may be liable even though he did not personally perform the physical act
+constituting the offence, provided the requirements of joint liability/common intention are
+established.
+
+Mahbub Shah v. Emperor
+The case is important for understanding that common intention requires a meeting of minds,
+and it cannot simply be presumed from the fact that several persons were present.
+
+⭐ Exam use:
+Quote these cases when answering:
+
+        “Explain common intention and joint liability.”
+
+
+
+
+🔄 IPC → BNS
+  IPC                BNS                                      Principle
+
+ §34        §3(5)                    Acts done by several persons in furtherance of common
+                                     intention
+
+ §§6–       §3 and §2                General explanations/definitions
+ 52         framework
+
+
+
+
+⭐ CHAPTER 1 — QUICK REVISION
+Remember these:
+BNS §1
+→ Short title, commencement and application
+
+BNS §2
+→ Definitions
+
+BNS §3
+→ General explanations
+
+IPC conversion
+<PARSED TEXT FOR PAGE: 25 / 748>
+IPC §1 → BNS §1
+
+IPC §34 → BNS §3(5)
+
+IPC §299 → BNS §100
+
+IPC §300 → BNS §101
+
+These last two are not part of Chapter I, but keep them in your running memory map because
+they become central later.
+
+
+
+
+⭐QUESTIONS
+    CHAPTER 1 — MOST IMPORTANT
+
+5-Mark
+   1.   Explain the application of BNS.
+   2.   Define “dishonestly”.
+   3.   Define “fraudulently”.
+   4.   What is good faith?
+   5.   Explain common intention.
+   6.   Distinguish dishonest and fraudulent acts.
+
+10-Mark
+   1.   Explain the territorial and extra-territorial application of BNS.
+   2.   Discuss the important definitions under Section 2.
+   3.   Explain the principle of common intention under BNS.
+   4.   Discuss the significance of general explanations under BNS.
+
+15-Mark
+“BNS represents a transition from the IPC framework to a modern substantive criminal
+code.” Discuss with reference to the preliminary provisions of BNS.
+<PARSED TEXT FOR PAGE: 26 / 748>
+BNS – BHARATIYA NYAYA SANHITA,
+2023
+LLB – SEMESTER I
+
+CHAPTER II – OF PUNISHMENTS
+BNS Sections: 4–13
+
+🔴 EXAM PRIORITY: VERY HIGH
+This chapter is fundamental because it explains what punishments can be imposed under
+BNS, how punishment operates, and important rules concerning imprisonment, fine and
+enhanced punishment.
+
+
+
+
+1. SECTION 4 – PUNISHMENTS
+BNS Section: 4
+Corresponding IPC: IPC §53
+
+
+🔴 MUST STUDY
+Section 4 provides the punishments to which offenders are liable under BNS.
+
+The punishments are:
+
+   1. Death
+   2. Imprisonment for life
+   3. Imprisonment, which may be:
+         ○ Rigorous, or
+         ○ Simple
+   4. Forfeiture of property
+   5. Fine
+   6. Community service
+
+⭐ Important Change
+The express inclusion of community service is one of the significant changes introduced by
+BNS.
+<PARSED TEXT FOR PAGE: 27 / 748>
+1.1 Death
+Death penalty is the most severe punishment recognised by BNS.
+
+It is imposed only for offences where the relevant provision specifically authorises it.
+
+Constitutional position
+The death penalty has been upheld as constitutionally permissible, but the Supreme Court has
+repeatedly held that it should be imposed only in the “rarest of rare” cases.
+
+⚖️ Important Case
+Bachan Singh v. State of Punjab
+
+The Supreme Court established the rarest of rare doctrine for imposition of the death penalty.
+
+Exam point
+Do not write:
+
+      Death penalty can never be imposed.
+
+Instead write:
+
+      Death penalty is constitutionally permissible but its imposition is subject to the
+      principles developed by the Supreme Court, particularly the rarest of rare doctrine.
+
+
+
+
+1.2 Imprisonment for Life
+Imprisonment for life means imprisonment for the remainder of the offender's natural life, subject
+to lawful remission, commutation or other applicable provisions.
+
+⚠️ Important
+Do not automatically equate:
+
+      Life imprisonment = 14 years
+
+This is a common examination mistake.
+
+The 14-year concept arises in particular statutory contexts concerning release/remission and
+does not mean that every life sentence automatically terminates after 14 years.
+<PARSED TEXT FOR PAGE: 28 / 748>
+⚖️ Important Case
+Gopal Vinayak Godse v. State of Maharashtra
+The Supreme Court explained the legal nature of imprisonment for life.
+
+⭐ Exam point:
+      Life imprisonment ordinarily means imprisonment for the remainder of the convict's
+      natural life, subject to the law governing remission/commutation.
+
+
+
+
+1.3 Imprisonment
+BNS recognises two forms of imprisonment:
+
+A. Rigorous Imprisonment
+The offender is subjected to hard labour.
+
+B. Simple Imprisonment
+The offender is not subjected to hard labour.
+
+Comparison
+            Point                      Rigorous           Simple Imprisonment
+                                     Imprisonment
+ Nature                         Hard labour               No hard labour
+
+ Severity                       Generally more severe     Generally less severe
+
+ Relevant statutory provision   Depends upon offence      Depends upon offence
+
+
+
+
+1.4 Forfeiture of Property
+Forfeiture means deprivation of property as a punishment where the law authorises it.
+
+The property may be taken away from the offender according to the relevant statutory provision.
+<PARSED TEXT FOR PAGE: 29 / 748>
+⭐ Remember:
+       Forfeiture = legal deprivation of property.
+
+
+
+
+1.5 Fine
+A fine is a monetary punishment imposed by the court.
+
+The amount depends upon the relevant offence and statutory provision.
+
+Important issue
+A fine can sometimes be imposed:
+
+   ●    independently, or
+   ●    in addition to imprisonment.
+
+Whether a particular offence permits both depends upon its punishment provision.
+
+
+
+
+1.6 Community Service
+⭐ NEW / HIGH IMPORTANCE
+BNS expressly recognises community service as a punishment.
+
+Community service involves requiring the offender to perform service for the community as
+prescribed by law.
+
+This reflects an approach that allows certain less serious offences to be dealt with through a
+punishment other than conventional imprisonment or fine.
+
+⚠️ Exam Point
+Do not simply write:
+
+       Community service means helping society.
+
+Instead:
+
+       Community service is a legally recognised form of punishment under BNS, imposed
+       where the relevant provision authorises it.
+<PARSED TEXT FOR PAGE: 30 / 748>
+🔄 IPC → BNS
+          Particular                            IPC                            BNS
+
+ General punishment           §53                                      §4
+ provision
+
+ Death                        Yes                                      Yes
+
+ Life imprisonment            Yes                                      Yes
+
+ Rigorous imprisonment        Yes                                      Yes
+
+ Simple imprisonment          Yes                                      Yes
+
+ Forfeiture                   Yes                                      Yes
+
+ Fine                         Yes                                      Yes
+
+ Community service            ❌ Not included as a general              ✅ Expressly
+                              punishment under §53                     included
+
+
+
+
+2. SECTION 5 – COMMUTATION OF
+SENTENCE
+BNS Section: 5
+Corresponding IPC: IPC §54 and §55
+
+
+Meaning of Commutation
+Commutation means substitution of one form of punishment with another, generally of a less
+severe nature, according to law.
+
+For example, a sentence may be legally commuted from one form to another by the competent
+authority.
+
+⭐ Distinguish
+Commutation ≠ Pardon
+
+   ●     Commutation: substitution of one punishment for another.
+<PARSED TEXT FOR PAGE: 31 / 748>
+   ●   Pardon: complete forgiveness/removal of punishment in the constitutional/statutory
+       sense.
+
+
+
+
+3. SECTION 6 – FRACTIONS OF TERMS
+OF PUNISHMENT
+BNS Section: 6
+
+This provision deals with the calculation of fractions of terms of punishment for purposes
+specified by BNS.
+
+⭐ Important principle
+For certain calculations under BNS, imprisonment for life is treated in the manner specified
+by the section, rather than simply assuming that life imprisonment equals the number of years
+of the sentence.
+
+This provision should be read together with the relevant punishment and remission provisions.
+
+
+
+
+4. SECTION 7 – RIGOROUS OR SIMPLE
+IMPRISONMENT
+BNS Section: 7
+Corresponding IPC: IPC §60
+
+Where imprisonment is authorised as a punishment, the court may be required to determine
+whether it shall be:
+
+   ●   wholly rigorous;
+   ●   wholly simple; or
+   ●   partly rigorous and partly simple,
+
+where the relevant statutory conditions permit such determination.
+
+Example
+Suppose an offence is punishable with imprisonment of either description.
+
+The court may determine the appropriate nature of imprisonment according to the statutory
+framework and facts of the case.
+<PARSED TEXT FOR PAGE: 32 / 748>
+5. SECTION 8 – AMOUNT OF FINE,
+LIABILITY IN DEFAULT OF PAYMENT OF
+FINE, ETC.
+BNS Section: 8
+
+This section deals with important aspects concerning:
+
+   ●    amount of fine;
+   ●    imprisonment in default of payment;
+   ●    consequences associated with non-payment of fine.
+
+⭐ Important
+A fine and imprisonment in default of payment are conceptually different.
+
+If a person is sentenced to:
+
+       Imprisonment + fine
+
+and fails to pay the fine, the law may provide for imprisonment in default of payment.
+
+This is not the same thing as saying that the original substantive imprisonment has been
+replaced by the default imprisonment.
+
+
+
+
+6. SECTION 9 – LIMIT OF PUNISHMENT OF
+IMPRISONMENT IN CASE OF SEVERAL
+OFFENCES
+BNS Section: 9
+
+This becomes relevant where a person is convicted of several offences arising from the same
+or related conduct and the law provides for multiple punishments.
+
+The provision regulates the extent of imprisonment that may be imposed in such circumstances.
+
+⭐ Exam concept
+<PARSED TEXT FOR PAGE: 33 / 748>
+Always distinguish:
+
+Conviction for one offence
+
+from
+
+Conviction for several offences
+
+The sentencing consequences may differ.
+
+
+
+
+7. SECTION 10 – PUNISHMENT OF
+PERSON GUILTY OF ONE OF SEVERAL
+OFFENCES, JUDGMENT STATING THAT
+IT IS DOUBTFUL WHICH
+BNS Section: 10
+
+This provision applies where:
+
+   ●   the facts establish that the accused committed one of several offences,
+   ●   but the evidence does not establish conclusively which particular offence was
+       committed.
+
+The law provides a mechanism for determining punishment in such circumstances.
+
+Example
+The prosecution proves that A committed either offence X or offence Y, but the evidence leaves
+genuine doubt as to which of the two offences was committed.
+
+Section 10 addresses the sentencing situation.
+
+
+
+
+8. SECTION 11 – SOLITARY
+CONFINEMENT
+BNS Section: 11
+
+Solitary confinement means keeping a prisoner separately from other prisoners under legally
+prescribed conditions.
+<PARSED TEXT FOR PAGE: 34 / 748>
+It is an exceptional form of punishment and is subject to statutory limitations.
+
+⚠️ Important
+Solitary confinement is not unlimited.
+
+The law imposes restrictions on:
+
+   ●    duration;
+   ●    intervals;
+   ●    total period;
+   ●    manner of implementation.
+
+
+
+
+9. SECTION 12 – LIMIT OF SOLITARY
+CONFINEMENT
+BNS Section: 12
+
+This section places limitations on the extent to which solitary confinement can be imposed.
+
+⭐ Exam point
+When writing an answer on solitary confinement, do not discuss only its definition.
+
+Always mention:
+
+       The law places statutory limits on its duration and implementation.
+
+
+
+
+10. SECTION 13 – ENHANCED
+PUNISHMENT FOR CERTAIN OFFENCES
+AFTER PREVIOUS CONVICTION
+BNS Section: 13
+
+This provision deals with enhanced punishment in specified circumstances where an offender
+has a previous conviction for certain offences.
+
+Basic principle
+<PARSED TEXT FOR PAGE: 35 / 748>
+A repeat offender may face a more severe punishment where the statutory conditions are
+satisfied.
+
+This reflects the principle of recidivism.
+
+Recidivism
+Recidivism means repetition of criminal behaviour, particularly after a previous conviction.
+
+Example
+A is convicted of an offence.
+
+After serving the relevant punishment, A commits another specified offence covered by the
+enhanced-punishment provision.
+
+If the statutory conditions are satisfied, the subsequent offence may attract enhanced
+punishment.
+
+
+
+
+🔄 IPC → BNS — CHAPTER II
+This is your first important conversion table.
+
+ BNS    Corresponding IPC                             Subject
+
+ §4     §53                      Punishments
+
+ §5     §§54–55                  Commutation
+
+ §6     §57                      Fractions of terms
+
+ §7     §60                      Rigorous/simple imprisonment
+
+ §8     §63–70                   Fine and related provisions
+
+ §9     §71                      Limit where several offences are involved
+
+ §10    §72                      Doubt as to which offence was committed
+
+ §11    §73                      Solitary confinement
+
+ §12    §74                      Limit of solitary confinement
+
+ §13    §75                      Enhanced punishment after previous
+                                 conviction
+<PARSED TEXT FOR PAGE: 36 / 748>
+⭐ Memorise this sequence:
+       BNS 4–13 = Punishments
+
+and broadly:
+
+       IPC 53–75 = corresponding punishment framework
+
+The correspondence is not always a literal one-section-to-one-section transfer, because
+BNS has reorganised provisions.
+
+
+
+
+⚖️PUNISHMENTS
+    IMPORTANT CASE LAWS —
+
+1. Bachan Singh v. State of Punjab
+Principle
+Death penalty should be imposed only in the rarest of rare cases, when the alternative option
+of life imprisonment is unquestionably foreclosed.
+
+Use in exam
+Use this case in answers concerning:
+
+   ●    Death penalty
+   ●    Constitutional validity of capital punishment
+   ●    Sentencing principles
+   ●    Rarest of rare doctrine
+
+
+
+
+2. Machhi Singh v. State of Punjab
+The Supreme Court further explained the application of the rarest of rare principle and
+identified circumstances relevant to determining whether a case falls within that category.
+
+Use
+       Death penalty / sentencing jurisprudence.
+<PARSED TEXT FOR PAGE: 37 / 748>
+3. Mithu v. State of Punjab
+The Supreme Court considered the constitutional validity of mandatory death penalty under the
+IPC framework and held that a mandatory death penalty provision was unconstitutional.
+
+⭐ Exam relevance
+Shows the importance of judicial discretion in sentencing.
+
+
+
+
+4. Gopal Vinayak Godse v. State of Maharashtra
+Important authority concerning the nature of life imprisonment.
+
+Principle
+Life imprisonment ordinarily means imprisonment for the remainder of the prisoner's natural life,
+subject to applicable remission/commutation laws.
+
+
+
+
+⭐ VERY IMPORTANT DIFFERENCES
+Life Imprisonment vs 14 Years
+            Life Imprisonment                                     14 Years
+
+ Generally means remainder of natural        A specific period relevant under particular
+ life                                        statutory rules
+
+ Not automatically limited to 14 years       Does not automatically mean every life sentence
+                                             ends after 14 years
+
+ Remission/commutation may affect            Depends on applicable law
+ actual custody
+
+
+🔴 EXAM WARNING
+Never write:
+
+      “Life imprisonment means 14 years.”
+
+That statement is legally inaccurate.
+<PARSED TEXT FOR PAGE: 38 / 748>
+⭐IMPRISONMENT
+    RIGOROUS VS SIMPLE
+
+           Basis                     Rigorous                           Simple
+
+ Meaning                  Imprisonment with hard labour   Imprisonment without hard labour
+
+ Nature                   More severe                     Less severe
+
+ Purpose                  Punitive                        Punitive
+
+ Statutory authorisation Required                         Required
+
+
+
+
+⭐PARDON
+    COMMUTATION VS REMISSION VS
+
+This is an excellent short-note question.
+
+Commutation
+Change in the form of punishment.
+
+Example:
+
+A more severe punishment is substituted with a less severe one.
+
+Remission
+Reduction in the period of sentence without changing its character.
+
+Pardon
+Complete forgiveness/removal of the punishment, subject to constitutional/statutory
+authority.
+
+Easy memory trick
+      Commutation = Change
+      Remission = Reduce
+      Pardon = Forgive
+<PARSED TEXT FOR PAGE: 39 / 748>
+📝 IMPORTANT EXAM QUESTIONS
+2–5 Marks
+   1. What are the punishments under BNS?
+   2. What is community service?
+   3. What is rigorous imprisonment?
+   4. What is simple imprisonment?
+   5. What is life imprisonment?
+   6. What is commutation?
+   7. What is solitary confinement?
+   8. What is recidivism?
+   9. What is forfeiture of property?
+   10. Distinguish rigorous and simple imprisonment.
+
+
+
+
+10 Marks
+Question 1
+Explain the different kinds of punishment recognised under BNS.
+
+Answer structure:
+   1. Introduction
+   2. BNS §4
+   3. Death
+   4. Life imprisonment
+   5. Rigorous imprisonment
+   6. Simple imprisonment
+   7. Forfeiture
+   8. Fine
+   9. Community service
+   10. Conclusion
+
+
+
+
+Question 2
+Discuss the concept of community service under BNS and explain its significance.
+<PARSED TEXT FOR PAGE: 40 / 748>
+Question 3
+Explain the difference between rigorous imprisonment and simple imprisonment.
+
+
+
+
+Question 4
+Explain the concept of solitary confinement and discuss its statutory limitations.
+
+
+
+
+15 Marks
+⭐ Question 1
+“Punishment is an essential component of criminal justice.” Discuss the various
+punishments provided under the Bharatiya Nyaya Sanhita, 2023.
+
+⭐ Question 2
+Discuss the sentencing framework under BNS with special reference to death penalty,
+life imprisonment, imprisonment, fine and community service.
+
+⭐ Question 3
+Explain the doctrine of rarest of rare cases with the help of leading judicial decisions.
+
+
+
+
+🧠 CHAPTER II — ONE-PAGE REVISION
+BNS §§4–13 = PUNISHMENTS
+
+§4 → Types of punishment
+§5 → Commutation
+§6 → Fractions of terms
+§7 → Rigorous/simple imprisonment
+§8 → Fine and default
+§9 → Several offences
+§10 → Doubt as to which offence
+§11 → Solitary confinement
+§12 → Limit of solitary confinement
+§13 → Enhanced punishment after previous conviction
+<PARSED TEXT FOR PAGE: 41 / 748>
+⭐ Most important
+§4 — Punishments
+§5 — Commutation
+§7 — Rigorous/Simple imprisonment
+§8 — Fine
+§11–12 — Solitary confinement
+§13 — Previous conviction
+
+🔄 IPC Memory Map
+IPC §53 → BNS §4
+
+IPC §§54–55 → BNS §5
+
+IPC §60 → BNS §7
+
+IPC §§63–70 → BNS §8
+
+IPC §73–74 → BNS §§11–12
+
+IPC §75 → BNS §13
+
+
+
+
+⭐ CCSU EXAM FOCUS
+For this chapter, I would prioritise:
+
+Tier 1 — Must prepare completely
+
+    ●   Kinds of punishment
+    ●   Community service
+    ●   Death penalty
+    ●   Life imprisonment
+    ●   Rigorous vs simple imprisonment
+    ●   Commutation
+    ●   Solitary confinement
+
+Tier 2 — Prepare for short/medium questions
+
+    ●   Fine
+    ●   Default imprisonment
+    ●   Several offences
+    ●   Previous conviction and enhanced punishment
+
+Tier 3 — Section-number revision
+<PARSED TEXT FOR PAGE: 42 / 748>
+●   §§4–13 in sequence
+●   IPC corresponding provisions
+<PARSED TEXT FOR PAGE: 43 / 748>
+BNS – BHARATIYA NYAYA SANHITA,
+2023
+LLB – SEMESTER I
+
+CHAPTER III – GENERAL EXCEPTIONS
+BNS Sections: 14–44
+
+🔴 EXAM PRIORITY: VERY HIGH
+General Exceptions are among the most important concepts in substantive criminal law.
+They explain circumstances in which an act that would otherwise constitute an offence is not
+treated as criminal.
+
+The official BNS arrangement places Sections 14–44 under Chapter III, General Exceptions.
+
+
+
+
+1. MEANING OF GENERAL EXCEPTIONS
+Normally, when the ingredients of an offence are proved, criminal liability follows.
+
+However, the law recognises circumstances in which a person should not be held criminally
+liable, despite the apparent commission of an act.
+
+These circumstances are called General Exceptions.
+
+Examples
+A person may avoid criminal liability where:
+
+   ●   the act was done under a legal obligation;
+   ●   it was a genuine accident;
+   ●   the person was legally incapable of understanding the nature of the act;
+   ●   the person was a child below the prescribed age;
+   ●   the act was done in the exercise of lawful private defence;
+   ●   the act was done with legally valid consent in circumstances recognised by law.
+
+⭐ Basic principle
+<PARSED TEXT FOR PAGE: 44 / 748>
+      General Exceptions operate as defences to criminal liability where their
+      statutory conditions are satisfied.
+
+
+
+
+2. SECTION 14 – ACT DONE BY A
+PERSON BOUND, OR BY MISTAKE OF
+FACT BELIEVING HIMSELF BOUND, BY
+LAW
+BNS Section: 14
+Corresponding IPC: §76
+
+🔴 MUST STUDY
+Section 14 protects a person who:
+
+   1. is actually bound by law to do an act; or
+   2. because of a mistake of fact, in good faith believes that he is bound by law to do the
+      act.
+
+However, the mistake must be a mistake of fact, not a mistake of law.
+
+
+
+
+2.1 Mistake of Fact
+A person may be protected where his mistake concerns a factual circumstance.
+
+Example
+A police officer receives a lawful order to arrest Y.
+
+After making reasonable enquiry, A honestly and in good faith believes Z is Y and arrests Z.
+
+A may receive the protection of Section 14 because his mistake concerns identity—a fact.
+
+The BNS itself provides an illustration substantially along these lines.
+
+
+
+
+2.2 Mistake of Law
+A person cannot ordinarily escape criminal liability merely by saying:
+<PARSED TEXT FOR PAGE: 45 / 748>
+       “I did not know that the law prohibited my act.”
+
+⭐ Maxim
+       Ignorantia juris non excusat
+
+Meaning:
+
+       Ignorance of law is no excuse.
+
+
+
+
+2.3 Mistake of Fact vs Mistake of Law
+                  Mistake of Fact                                 Mistake of Law
+
+ Error concerning a factual circumstance             Error concerning what the law says
+
+ May attract statutory protection                    Generally no protection
+
+ Example: mistaken identity                          Example: believing an offence is not
+                                                     prohibited
+
+ Recognised under §14 where conditions are           Not sufficient under §14
+ satisfied
+
+
+⭐ EXAM POINT
+Always mention:
+
+       The protection is available for mistake of fact, not mistake of law.
+
+
+
+
+3. SECTION 15 – ACT OF JUDGE WHEN
+ACTING JUDICIALLY
+BNS Section: 15
+Corresponding IPC: §77
+
+A Judge is protected where the act is done:
+
+   ●    while acting judicially; and
+   ●    in exercise of a power which is given by law, or which the Judge in good faith believes to
+        be given by law.
+<PARSED TEXT FOR PAGE: 46 / 748>
+Example
+A Judge passes a judicial order while exercising a power that the Judge believes in good faith to
+be legally available.
+
+The judicial act is protected under the statutory conditions.
+
+⭐ Principle
+       Judicial acts performed within the scope of lawful judicial authority are protected.
+
+
+
+
+4. SECTION 16 – ACT DONE PURSUANT
+TO JUDGMENT OR ORDER OF COURT
+BNS Section: 16
+Corresponding IPC: §78
+
+An act done:
+
+   ●    pursuant to a judgment or order of a Court, or
+   ●    warranted by such judgment or order,
+
+is protected while that judgment/order remains in force, provided the person carrying it out in
+good faith believes that the Court had jurisdiction.
+
+Important distinction
+Section 15 concerns:
+
+       Act of the Judge
+
+Section 16 concerns:
+
+       Act done pursuant to the Court's judgment or order
+
+
+
+
+5. SECTION 17 – ACT DONE BY A
+PERSON JUSTIFIED, OR BY MISTAKE OF
+<PARSED TEXT FOR PAGE: 47 / 748>
+FACT BELIEVING HIMSELF JUSTIFIED, BY
+LAW
+BNS Section: 17
+Corresponding IPC: §79
+
+A person is protected where:
+
+   ●    he is justified by law in doing the act; or
+   ●    because of a mistake of fact, and not mistake of law, he in good faith believes that he is
+        justified by law.
+
+
+
+
+SECTION 14 vs SECTION 17
+This distinction is very important for exams.
+
+             Section 14                              Section 17
+
+ Person believes he is bound by         Person believes he is justified by
+ law                                    law
+ Focus on legal duty                    Focus on legal justification
+
+ IPC §76                                IPC §79
+
+ Mistake of fact may protect            Mistake of fact may protect
+
+
+Memory trick
+       §14 = Bound by law
+
+       §17 = Justified by law
+
+
+
+
+6. SECTION 18 – ACCIDENT IN DOING A
+LAWFUL ACT
+BNS Section: 18
+Corresponding IPC: §80
+<PARSED TEXT FOR PAGE: 48 / 748>
+🔴 IMPORTANT
+An act is not an offence when it is done:
+
+   1.    accidentally;
+   2.    without criminal intention or knowledge;
+   3.    while doing a lawful act;
+   4.    in a lawful manner;
+   5.    by lawful means; and
+   6.    with proper care and caution.
+
+Formula
+        Lawful act + lawful manner + lawful means + proper care + accident + no
+        criminal intent/knowledge = protection
+
+
+
+
+Example
+A is chopping wood with proper care and caution.
+
+A tool unexpectedly slips and injures B.
+
+If all statutory conditions are satisfied, A may be protected under the accident exception.
+
+
+
+
+⚠️ Important
+Simply saying:
+
+        “It was an accident”
+
+is not enough.
+
+The prosecution/defence must be examined against the statutory requirements.
+
+
+
+
+7. SECTION 19 – ACT LIKELY TO CAUSE
+HARM, BUT DONE WITHOUT CRIMINAL
+INTENT, AND TO PREVENT OTHER HARM
+<PARSED TEXT FOR PAGE: 49 / 748>
+BNS Section: 19
+Corresponding IPC: §81
+
+This is commonly associated with the principle of necessity.
+
+An act may be protected where:
+
+   ●    it is likely to cause harm;
+   ●    it is done without criminal intention to cause harm;
+   ●    it is done in good faith;
+   ●    and it is done to prevent or avoid another harm.
+
+
+
+
+Example
+A sees a vehicle about to run over several people.
+
+A pushes a person out of the vehicle's path, causing that person some injury, but thereby
+prevents a much greater harm.
+
+The circumstances may fall within the principle of necessity if statutory conditions are satisfied.
+
+
+
+
+8. SECTION 20 – ACT OF A CHILD UNDER
+SEVEN YEARS OF AGE
+BNS Section: 20
+Corresponding IPC: §82
+
+🔴 MUST MEMORISE
+       A child below 7 years cannot be criminally liable under this provision.
+
+This is an absolute statutory incapacity based on age.
+
+Legal principle
+The law presumes that a child below seven lacks the required criminal capacity.
+<PARSED TEXT FOR PAGE: 50 / 748>
+9. SECTION 21 – ACT OF A CHILD ABOVE
+SEVEN AND UNDER TWELVE YEARS OF
+AGE OF IMMATURE UNDERSTANDING
+BNS Section: 21
+Corresponding IPC: §83
+
+This is different from Section 20.
+
+A child:
+
+      above 7 but under 12
+
+is protected where the child has not attained sufficient maturity of understanding to judge
+the nature and consequences of the conduct on that occasion.
+
+
+
+
+SECTION 20 vs SECTION 21
+                 Section 20                                 Section 21
+
+ Below 7 years                              Above 7 and below 12
+
+ Absolute protection                        Conditional protection
+
+ No need to prove immature                  Immature understanding must be
+ understanding                              established
+ IPC §82                                    IPC §83
+
+
+⭐ Memory
+      Below 7 → Complete incapacity
+
+      7–12 → Check maturity
+
+
+
+
+10. SECTION 22 – ACT OF A PERSON OF
+UNSOUND MIND
+<PARSED TEXT FOR PAGE: 51 / 748>
+BNS Section: 22
+Corresponding IPC: §84
+
+🔴 VERY IMPORTANT
+A person is protected where, at the time of doing the act, because of unsoundness of mind,
+the person is incapable of:
+
+    1. knowing the nature of the act, or
+    2. knowing that what he is doing is wrong or contrary to law.
+
+
+
+
+10.1 Legal Insanity vs Medical Insanity
+This is one of the most important distinctions in criminal law.
+
+Medical insanity
+A medical/psychiatric condition diagnosed by medical science.
+
+Legal insanity
+The specific mental incapacity required by the criminal law at the time of commission of the
+act.
+
+⭐ Important
+       Every medically insane person is not necessarily legally insane.
+
+The question is whether the statutory test is satisfied at the relevant time.
+
+
+
+
+10.2 Time of Insanity
+The critical point is:
+
+       The mental condition at the time of commission of the act.
+
+A person having a history of mental illness does not automatically qualify for the defence.
+<PARSED TEXT FOR PAGE: 52 / 748>
+⚖️MINDCASE LAW — UNSOUNDNESS OF
+Dahyabhai Chhaganbhai Thakkar v. State of Gujarat
+The Supreme Court discussed the burden relating to the plea of insanity.
+
+Principle
+The accused bears the burden of bringing the case within the statutory exception, but the
+prosecution continues to bear the ultimate burden of proving the offence beyond reasonable
+doubt.
+
+Exam use
+Use this case in:
+
+       Defence of insanity / Section 22
+
+
+
+
+McNaghten's Principles
+The traditional legal test of insanity is associated with the McNaghten Rules.
+
+The central idea is whether, because of mental disease, the accused was incapable of knowing:
+
+   ●    the nature and quality of the act; or
+   ●    that the act was wrong.
+
+These principles influenced the development of the Indian statutory rule now reflected in BNS
+§22.
+
+
+
+
+11. SECTION 23 – ACT OF PERSON
+INCAPABLE OF JUDGMENT BY REASON
+OF INTOXICATION CAUSED AGAINST HIS
+WILL
+<PARSED TEXT FOR PAGE: 53 / 748>
+BNS Section: 23
+Corresponding IPC: §85
+
+A person may receive protection where:
+
+   1. the person was intoxicated;
+   2. intoxication was caused without his knowledge or against his will; and
+   3. because of that intoxication, he was incapable of understanding the nature of the act or
+      that it was wrong/contrary to law.
+
+
+
+
+Example
+A is unknowingly given an intoxicating substance.
+
+While affected, A becomes incapable of understanding the nature of his conduct.
+
+The statutory defence may apply if the other conditions are satisfied.
+
+
+
+
+12. SECTION 24 – OFFENCE REQUIRING
+PARTICULAR INTENT OR KNOWLEDGE
+COMMITTED BY ONE WHO IS
+INTOXICATED
+BNS Section: 24
+Corresponding IPC: §86
+
+This provision deals with voluntary intoxication and offences requiring a particular:
+
+   ●   intent; or
+   ●   knowledge.
+
+⭐ Important principle
+Voluntary intoxication is generally not a blanket defence to criminal liability.
+
+The law deals specifically with the question of intent and knowledge.
+<PARSED TEXT FOR PAGE: 54 / 748>
+SECTION 23 vs SECTION 24
+                     Section 23                                     Section 24
+
+ Intoxication caused against person's              Deals with intoxication where the person is
+ will/without knowledge                            intoxicated
+
+ Defence may be available if incapacity is         Addresses offences requiring particular
+ established                                       intent/knowledge
+
+ IPC §85                                           IPC §86
+
+
+⭐ Exam warning
+Do not write:
+
+       “An intoxicated person is not responsible for his acts.”
+
+That is incorrect.
+
+
+
+
+13. SECTION 25 – ACT NOT INTENDED
+AND NOT KNOWN TO BE LIKELY TO
+CAUSE DEATH OR GRIEVOUS HURT,
+DONE BY CONSENT
+BNS Section: 25
+Corresponding IPC: §87
+
+This provision concerns acts:
+
+   ●    not intended to cause death or grievous hurt; and
+   ●    not known to be likely to cause death or grievous hurt;
+
+where harm occurs in circumstances involving consent.
+
+Example
+Two adults voluntarily participate in a lawful physical activity where minor injury is reasonably
+foreseeable, but there is no intention or knowledge that death or grievous hurt is likely.
+<PARSED TEXT FOR PAGE: 55 / 748>
+14. SECTION 26 – ACT DONE IN GOOD
+FAITH FOR BENEFIT OF PERSON
+WITHOUT CONSENT
+BNS Section: 26
+Corresponding IPC: §88
+
+This is an important medical/beneficial act principle.
+
+An act may be protected where it is:
+
+   ●   done in good faith;
+   ●   for the benefit of a person;
+   ●   without that person's consent; and
+   ●   the circumstances satisfy the statutory requirements.
+
+Example
+A person is unconscious and requires immediate treatment.
+
+A doctor performs a necessary emergency procedure in good faith for the patient's benefit when
+consent cannot practically be obtained.
+
+The statutory exception may apply.
+
+
+
+
+15. SECTION 27 – ACT DONE IN GOOD
+FAITH FOR BENEFIT OF CHILD OR
+PERSON OF UNSOUND MIND, BY, OR BY
+CONSENT OF, GUARDIAN
+BNS Section: 27
+Corresponding IPC: §89
+
+This provision deals with acts done in good faith for the benefit of:
+
+   ●   a child; or
+   ●   a person of unsound mind,
+
+by or with the consent of the legally relevant guardian/person.
+<PARSED TEXT FOR PAGE: 56 / 748>
+⚠️ Important
+The provision has statutory limitations and should not be interpreted as giving unrestricted
+authority to cause harm merely because an act is claimed to be beneficial.
+
+
+
+
+16. SECTION 28 – CONSENT KNOWN TO
+BE GIVEN UNDER FEAR OR
+MISCONCEPTION
+BNS Section: 28
+Corresponding IPC: §90
+
+🔴 VERY IMPORTANT
+Consent is not legally valid for purposes of the relevant exceptions where it is given under
+circumstances such as:
+
+   ●   fear of injury; or
+   ●   misconception of fact,
+
+and the offender knows or has reason to believe that the consent was given because of that
+fear or misconception.
+
+The section also deals with consent given by persons who, due to mental incapacity or
+intoxication, cannot understand the nature and consequence of what they consent to.
+
+
+
+
+17. SECTION 29 – EXCLUSION OF ACTS
+WHICH ARE OFFENCES INDEPENDENTLY
+OF HARM CAUSED
+BNS Section: 29
+Corresponding IPC: §91
+
+Consent-based exceptions do not apply where the act is independently criminal irrespective of
+the harm caused.
+
+⭐ Principle
+<PARSED TEXT FOR PAGE: 57 / 748>
+        Consent cannot legalise every offence.
+
+
+
+
+18. SECTION 30 – ACTS DONE IN GOOD
+FAITH FOR BENEFIT OF A PERSON
+WITHOUT CONSENT
+BNS Section: 30
+Corresponding IPC: §92
+
+This deals with situations where:
+
+    ●    consent cannot be obtained;
+    ●    the act is done in good faith;
+    ●    and it is intended for the benefit of the person.
+
+It operates subject to statutory limitations.
+
+
+
+
+19. SECTION 31 – COMMUNICATION
+MADE IN GOOD FAITH
+BNS Section: 31
+Corresponding IPC: §93
+
+A communication made in good faith for the benefit of the person to whom it is made is
+protected in circumstances recognised by the provision.
+
+Example
+A doctor communicates serious information to a patient in good faith because disclosure is
+considered necessary for the patient's benefit.
+
+
+
+
+20. SECTION 32 – ACT TO WHICH A
+PERSON IS COMPELLED BY THREATS
+<PARSED TEXT FOR PAGE: 58 / 748>
+BNS Section: 32
+Corresponding IPC: §94
+
+This is the defence of duress/compulsion by threats.
+
+A person may receive protection where compelled to act by threats creating the statutory
+conditions.
+
+⚠️ Exception
+The protection does not extend to every offence.
+
+Certain extremely serious offences are excluded.
+
+⭐ Exam point
+Do not treat:
+
+      “I was threatened”
+
+as automatically sufficient.
+
+The precise statutory requirements must be satisfied.
+
+
+
+
+21. SECTION 33 – ACT CAUSING SLIGHT
+HARM
+BNS Section: 33
+Corresponding IPC: §95
+
+The law recognises that criminal courts should not ordinarily treat every trivial or insignificant
+harm as a criminal offence.
+
+Where the harm is so slight that a person of ordinary sense and temper would not complain of it,
+the statutory exception may apply.
+
+Legal principle
+      De minimis non curat lex
+
+Meaning:
+
+      The law does not concern itself with trifles.
+<PARSED TEXT FOR PAGE: 59 / 748>
+22. SECTION 34 – THINGS DONE IN
+PRIVATE DEFENCE
+BNS Section: 34
+Corresponding IPC: §96
+
+🔴 EXTREMELY IMPORTANT
+Section 34 establishes the basic principle:
+
+       Nothing is an offence which is done in the exercise of the right of private
+       defence.
+
+The detailed rules are contained in the following sections.
+
+
+
+
+23. SECTION 35 – THINGS DONE IN
+PRIVATE DEFENCE OF BODY AND
+PROPERTY
+BNS Section: 35
+Corresponding IPC: §97
+
+A person has a right of private defence of:
+
+A. His own body
+and
+
+B. The body of any other person
+The right also extends to:
+
+C. Property
+against specified offences involving:
+
+   ●    human body;
+   ●    movable property;
+   ●    immovable property.
+<PARSED TEXT FOR PAGE: 60 / 748>
+24. SECTION 36 – RIGHT OF PRIVATE
+DEFENCE AGAINST ACT OF PERSON OF
+UNSOUND MIND, ETC.
+BNS Section: 36
+Corresponding IPC: §98
+
+The right of private defence can arise even where the person posing the threat is legally
+incapable of criminal responsibility because of circumstances such as:
+
+    ●    infancy;
+    ●    unsoundness of mind;
+    ●    intoxication;
+    ●    mistake.
+
+⭐ Principle
+        The right of private defence depends upon the nature of the threat, not merely upon
+        the criminal liability of the aggressor.
+
+
+
+
+25. SECTION 37 – ACTS AGAINST WHICH
+THERE IS NO RIGHT OF PRIVATE
+DEFENCE
+BNS Section: 37
+Corresponding IPC: §99
+
+🔴 VERY IMPORTANT
+The right of private defence has limitations.
+
+There is no unlimited right to inflict harm.
+
+The provision restricts the defence in specified circumstances, including situations where:
+
+    ●    there is no reasonable apprehension of death or grievous hurt;
+    ●    there is sufficient opportunity to seek protection from public authorities;
+    ●    the force used exceeds what is legally permitted.
+
+⭐ Golden principle
+<PARSED TEXT FOR PAGE: 61 / 748>
+       Private defence is defensive, not retaliatory.
+
+It is meant to protect a person or property, not to take revenge.
+
+
+
+
+26. SECTION 38 – WHEN RIGHT OF
+PRIVATE DEFENCE OF BODY EXTENDS
+TO CAUSING DEATH
+BNS Section: 38
+Corresponding IPC: §100
+
+The right of private defence of the body can extend to causing death where the circumstances
+specified by law exist.
+
+These include apprehension of serious offences such as:
+
+   ●    death;
+   ●    grievous hurt;
+   ●    rape;
+   ●    kidnapping or abduction;
+   ●    wrongful confinement under circumstances creating serious danger;
+   ●    certain acts involving acid attack.
+
+⭐ Important
+The right to cause death is exceptional.
+
+It does not arise merely because someone has insulted, threatened or caused minor harm.
+
+
+
+
+27. SECTION 39 – WHEN SUCH RIGHT
+EXTENDS TO CAUSING ANY HARM
+OTHER THAN DEATH
+BNS Section: 39
+Corresponding IPC: §101
+
+Where the circumstances do not justify causing death, the right of private defence may still
+permit causing harm short of death, subject to the statutory conditions.
+<PARSED TEXT FOR PAGE: 62 / 748>
+Simple distinction
+
+§38 → Death may be caused
+
+§39 → Harm other than death
+
+
+
+
+28. SECTION 40 – COMMENCEMENT AND
+CONTINUANCE OF RIGHT OF PRIVATE
+DEFENCE OF BODY
+BNS Section: 40
+Corresponding IPC: §102
+
+The right begins when a reasonable apprehension of danger to the body arises.
+
+It continues as long as that apprehension continues.
+
+⭐ Important
+The right does not require waiting until the actual attack has occurred.
+
+
+
+
+29. SECTION 41 – WHEN RIGHT OF
+PRIVATE DEFENCE OF PROPERTY
+EXTENDS TO CAUSING DEATH
+BNS Section: 41
+Corresponding IPC: §103
+
+In specified serious property-related situations, the right of private defence of property may
+extend to causing death.
+
+These include certain circumstances involving:
+
+   ●   robbery;
+   ●   house-breaking after sunset and before sunrise;
+   ●   mischief by fire/explosive to certain property;
+   ●   theft/mischief/house-trespass under circumstances creating reasonable apprehension of
+       death or grievous hurt.
+<PARSED TEXT FOR PAGE: 63 / 748>
+30. SECTION 42 – WHEN SUCH RIGHT
+EXTENDS TO CAUSING ANY HARM
+OTHER THAN DEATH
+BNS Section: 42
+Corresponding IPC: §104
+
+Where the circumstances do not fall within Section 41, the right of private defence of property
+may extend to causing harm other than death, subject to the statutory conditions.
+
+
+
+
+31. SECTION 43 – COMMENCEMENT AND
+CONTINUANCE OF RIGHT OF PRIVATE
+DEFENCE OF PROPERTY
+BNS Section: 43
+Corresponding IPC: §105
+
+The right of private defence of property begins and continues according to the circumstances
+and nature of the threat.
+
+Different rules apply depending upon whether the conduct involves:
+
+   ●   theft;
+   ●   robbery;
+   ●   criminal trespass;
+   ●   house-breaking;
+   ●   mischief.
+
+⭐ Exam point
+The right is not automatically available indefinitely merely because property was previously
+threatened.
+<PARSED TEXT FOR PAGE: 64 / 748>
+32. SECTION 44 – RIGHT OF PRIVATE
+DEFENCE AGAINST DEADLY ASSAULT
+WHEN THERE IS RISK OF HARM TO AN
+INNOCENT PERSON
+BNS Section: 44
+Corresponding IPC: §106
+
+This is a specialised private-defence provision.
+
+It applies where a person faces a deadly assault and cannot effectively exercise private
+defence without creating some risk of harm to an innocent person.
+
+The law recognises the difficult situation and provides protection subject to its conditions.
+
+
+
+
+🔄TABLE
+   CHAPTER III — COMPLETE IPC → BNS
+
+ BNS     IPC                                         Subject
+
+ §14    §76     Person bound by law / mistake of fact
+
+ §15    §77     Judicial acts
+
+ §16    §78     Act pursuant to Court order
+
+ §17    §79     Justified by law / mistake of fact
+
+ §18    §80     Accident
+
+ §19    §81     Necessity / prevention of greater harm
+
+ §20    §82     Child below 7
+
+ §21    §83     Child 7–12 of immature understanding
+
+ §22    §84     Unsoundness of mind
+
+ §23    §85     Involuntary intoxication
+
+ §24    §86     Intoxication and particular intent/knowledge
+<PARSED TEXT FOR PAGE: 65 / 748>
+§25   §87    Consent — acts not intended/known likely to cause death or grievous
+             hurt
+§26   §88    Good faith for benefit without consent
+
+§27   §89    Benefit of child/person of unsound mind
+
+§28   §90    Consent under fear/misconception
+
+§29   §91    Acts independently criminal
+
+§30   §92    Good faith for benefit without consent
+
+§31   §93    Good-faith communication
+
+§32   §94    Compulsion by threats
+
+§33   §95    Slight harm
+
+§34   §96    Private defence
+
+§35   §97    Defence of body/property
+
+§36   §98    Defence against acts of incapable persons
+
+§37   §99    Limits on private defence
+
+§38   §100   Private defence of body extending to death
+
+§39   §101   Defence causing harm other than death
+
+§40   §102   Commencement/continuance—body
+
+§41   §103   Defence of property extending to death
+
+§42   §104   Defence of property causing harm other than death
+
+§43   §105   Commencement/continuance—property
+
+§44   §106   Deadly assault and risk to innocent person
+
+
+⭐revision
+    This table is worth keeping separately in your final IPC → BNS
+          document.
+
+
+
+
+⚖️GENERAL
+    MUST-KNOW CASE LAWS —
+          EXCEPTIONS
+<PARSED TEXT FOR PAGE: 66 / 748>
+1. Dahyabhai Chhaganbhai Thakkar v. State of Gujarat
+Topic: Insanity
+
+2. R v. McNaghten
+Topic: Legal insanity / McNaghten principles
+
+3. Darshan Singh v. State of Punjab
+Topic: Right of private defence
+
+4. James Martin v. State of Kerala
+Topic: Private defence
+
+5. Puran Singh v. State of Punjab
+Topic: Right of private defence
+
+
+
+
+⭐ MOST IMPORTANT DISTINCTIONS
+1. Mistake of Fact vs Mistake of Law
+Fact → May provide protection
+
+Law → Generally no excuse
+
+
+
+
+2. Section 14 vs Section 17
+§14 → Believed himself bound by law
+
+§17 → Believed himself justified by law
+
+
+
+
+3. Child Below 7 vs Child 7–12
+§20 → Absolute incapacity
+<PARSED TEXT FOR PAGE: 67 / 748>
+§21 → Depends on maturity
+
+
+
+
+4. Medical Insanity vs Legal Insanity
+Medical insanity → Medical condition
+
+Legal insanity → Statutory criminal-law test
+
+
+
+
+5. Voluntary vs Involuntary Intoxication
+§23 → Against will / without knowledge
+
+§24 → Intoxication and particular intent/knowledge
+
+
+
+
+6. Private Defence vs Revenge
+Private defence → Protection
+
+Revenge → Retaliation
+
+⭐ Memorise:
+        Private defence is a shield, not a sword.
+
+
+
+
+📝 MOST IMPORTANT EXAM QUESTIONS
+5 Marks
+   1.    What are General Exceptions?
+   2.    Explain mistake of fact.
+   3.    Distinguish mistake of fact and mistake of law.
+   4.    Explain the accident exception.
+   5.    What is the defence of necessity?
+   6.    Explain the rule relating to children below seven.
+   7.    Explain immature understanding under BNS.
+<PARSED TEXT FOR PAGE: 68 / 748>
+   8. What is legal insanity?
+   9. What is involuntary intoxication?
+   10. What is slight harm?
+   11. What is private defence?
+   12. Explain the principle of de minimis.
+   13. What is consent under BNS?
+   14. What is compulsion by threats?
+
+
+
+
+10 Marks
+   1.   Explain the defence of insanity under BNS.
+   2.   Discuss the law relating to intoxication.
+   3.   Explain mistake of fact as a General Exception.
+   4.   Discuss the law relating to consent under BNS.
+   5.   Explain the right of private defence of body and property.
+   6.   Distinguish private defence from retaliation.
+   7.   Explain the statutory protection available to children.
+   8.   Discuss the defence of necessity.
+
+
+
+
+🔴QUESTIONS
+   15-MARK HIGH-PROBABILITY
+
+Question 1
+Explain the General Exceptions under BNS and discuss their importance in determining
+criminal liability.
+
+Question 2
+Explain the defence of unsoundness of mind. Distinguish medical insanity from legal
+insanity with the help of judicial decisions.
+
+Question 3
+Discuss the right of private defence of body and property under BNS. When can the right
+extend to causing death?
+
+Question 4
+Explain the distinction between mistake of fact and mistake of law. Discuss the relevant
+provisions of BNS.
+<PARSED TEXT FOR PAGE: 69 / 748>
+Question 5
+Discuss the law relating to consent as a General Exception under BNS.
+
+
+
+
+🧠REVISION
+   CHAPTER III — ULTRA-QUICK
+
+§§14–19
+Lawful acts / mistake / accident / necessity
+
+§§20–21
+Children
+
+§22
+Unsoundness of mind
+
+§§23–24
+Intoxication
+
+§§25–31
+Consent / good faith / communication
+
+§§32–33
+Compulsion / slight harm
+
+§§34–44
+PRIVATE DEFENCE
+
+
+
+
+🔥 THE 10 SECTIONS YOU MUST KNOW
+If you are short on time, make these your first priority:
+<PARSED TEXT FOR PAGE: 70 / 748>
+§14 — Mistake of fact
+§18 — Accident
+§19 — Necessity
+§20 — Child below 7
+§21 — Child 7–12
+§22 — Unsoundness of mind
+§23–24 — Intoxication
+§28 — Consent under fear/misconception
+§34–44 — Private defence
+
+And among these, §22 and §§34–44 deserve especially strong preparation.
+<PARSED TEXT FOR PAGE: 71 / 748>
+BNS – BHARATIYA NYAYA SANHITA,
+2023
+LLB – SEMESTER I
+
+CHAPTER IV – ABETMENT, CRIMINAL
+CONSPIRACY AND ATTEMPT
+BNS Sections: 45–62
+
+🔴 EXAM PRIORITY: VERY HIGH
+This chapter contains three foundational concepts of criminal liability:
+
+   1. Abetment
+   2. Criminal conspiracy
+   3. Attempt
+
+These concepts are important because a person can incur criminal liability even where he does
+not personally complete the principal offence.
+
+
+
+
+PART A – ABETMENT
+
+SECTION 45 – ABETMENT OF A THING
+BNS Section: 45
+Corresponding IPC: §107
+
+🔴 MUST STUDY
+A person abets the doing of a thing if he:
+
+   1. instigates another person to do that thing; or
+   2. engages with one or more persons in a conspiracy for doing that thing, provided an act
+      or illegal omission takes place in pursuance of that conspiracy; or
+   3. intentionally aids, by an act or illegal omission, the doing of that thing.
+<PARSED TEXT FOR PAGE: 72 / 748>
+Therefore:
+
+        Abetment = Instigation + Conspiracy + Intentional Aid
+
+⭐ Memorise this formula
+I + C + A = Abetment
+
+
+
+
+1. INSTIGATION
+Instigation means provoking, inciting, urging or encouraging another person to do an act.
+
+It may be:
+
+    ●    direct; or
+    ●    indirect.
+
+Example
+A tells B:
+
+        “Go and kill C. I will take care of everything afterwards.”
+
+If A's conduct amounts to intentional encouragement or provocation leading to the offence, A
+may be liable for abetment by instigation.
+
+
+
+
+2. CONSPIRACY AS A FORM OF
+ABETMENT
+Abetment may also occur where a person:
+
+    ●    joins a conspiracy with another person or persons; and
+    ●    an act or illegal omission occurs in pursuance of that conspiracy.
+
+⚠️ Important distinction
+Conspiracy under Section 61 is itself a substantive offence.
+
+But conspiracy can also constitute one method of abetment under Section 45.
+
+Do not confuse the two.
+<PARSED TEXT FOR PAGE: 73 / 748>
+3. INTENTIONAL AID
+A person may abet an offence by intentionally helping its commission.
+
+Aid may be provided through:
+
+   ●   a positive act; or
+   ●   an illegal omission.
+
+Example
+A knows that B intends to commit robbery and intentionally provides B with the keys needed to
+enter the premises.
+
+A may have intentionally aided the offence.
+
+
+
+
+SECTION 45 — IPC → BNS
+        Provision             IPC    BNS
+
+ Abetment of a thing          §107   §45
+
+ Instigation                  §107   §45
+
+ Conspiracy as                §107   §45
+ abetment
+ Intentional aid              §107   §45
+
+
+
+
+SECTION 46 – ABETTOR
+BNS Section: 46
+Corresponding IPC: §108
+
+An abettor is a person who abets:
+
+   ●   the commission of an offence; or
+   ●   an act which would be an offence if committed by a person capable of committing an
+       offence with the same intention or knowledge as that of the abettor.
+<PARSED TEXT FOR PAGE: 74 / 748>
+⭐ Important
+The person who actually commits the principal offence is not necessarily the only person who
+can be criminally liable.
+
+The abettor may independently incur liability.
+
+
+
+
+SECTION 47 – ABETMENT IN INDIA OF
+OFFENCE OUTSIDE INDIA
+BNS Section: 47
+Corresponding IPC: §108A
+
+This provision addresses situations where:
+
+       The act of abetment occurs in India, but the offence is committed outside
+       India.
+
+Example
+A, while in India, intentionally assists B in committing an offence in another country.
+
+Where the statutory requirements are fulfilled, BNS may apply to A's abetment.
+
+⭐ Exam point
+       Abetment can have an extra-territorial dimension.
+
+
+
+
+SECTION 48 – ABETMENT OUTSIDE INDIA
+FOR OFFENCE IN INDIA
+BNS Section: 48
