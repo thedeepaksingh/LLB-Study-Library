@@ -3,6 +3,8 @@
 ## Source record
 - **Submitted filename:** `BNS-Sem 1.docx`
 - **Source type:** Word document
+- **Original file size:** 1,293,193 bytes
+- **Original file SHA-256:** `9370cf06abc7b837d3c6346344ecd4d5de5bfceede9fe01b7177c75893fa9694`
 - **Word document properties checked locally:** 748 rendered/extracted pages; 14,257 paragraphs; 187 tables; 6 embedded images; 29 sections; approximately 88,820 words in paragraph/table-cell text.
 - **Parsed extraction size:** 29,651 ordered parser lines, including page markers when exposed by the parser.
 - **Policy:** Source wording is preserved. No legal corrections, spell corrections, restructuring, summarisation or claims of independent verification have been applied to the text archive.
