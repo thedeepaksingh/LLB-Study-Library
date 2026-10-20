@@ -102,3 +102,16 @@ A topic may be labelled **Verified** only after:
 - [ ] review results are included in the PR.
 
 The owner must authorise the specific PR before changes are merged into main. No process can guarantee perfection; the goal is traceable, repeatable error reduction.
+
+
+## E. Direct-learning pack added on a feature branch
+The following teaching resources have been drafted on `content/bns1-direct-learning-pack-2026-10-20`. They are available for owner review in the proposed change set and are **not yet in `main` unless the PR is approved and merged**.
+
+| Resource | What it contains | Status |
+|---|---|---|
+| [Complete syllabus teaching notes](Complete-Notes/COMPLETE-SYLLABUS-TEACHING-NOTES.md) | Plain-English explanations of every syllabus area, statutory sections, key distinctions and answer structure | Expanded draft; review pending |
+| [BNS section-wise learning guide](Bare-Act-and-References/BNS-SECTION-WISE-LEARNING-GUIDE.md) | Core BNS section mapping, ingredients, topic-by-topic lookup and legacy IPC concordance | Expanded draft; exact text and amendment review pending |
+| [Case-law casebook](Case-Laws/CASE-LAW-CASEBOOK.md) | Case facts, issue, principle, BNS syllabus connection and exam-use notes | Expanded draft; primary-report verification pending |
+| [Worked exam practice](Question-Bank/EXAM-PRACTICE-PROBLEMS-WITH-WORKED-ANSWERS.md) | Original long-answer plans, short notes and 12 hypothetical problems with worked answers | Practice draft; examiner-style review pending |
+
+The existence of these files is not a claim of perfect or final coverage. As the materials are reviewed, topic status should be upgraded only against the checklist in section D above. No added hypothetical may be registered as a verified PYQ.
