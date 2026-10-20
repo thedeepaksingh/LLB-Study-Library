@@ -21,3 +21,10 @@ These questions are not verified previous-year questions. Link every later quest
 - [Predicted questions](Predicted-Questions/README.md) — syllabus-based, not historical claims
 - [Practice questions](Practice-Questions/README.md) — original self-test exercises
 - [Answer keys](Answer-Keys/README.md) — kept separate to support testing
+
+
+## Separate question sets
+
+- [Predicted long-answer questions](predicted-long-answers.md) — syllabus-based predictions, not confirmed past questions.
+- [Original practice problems](practice-problems.md) — hypothetical problem questions for application of law.
+- [Verified PYQ register](verified-pyq-register.md) — only record a verified question after checking the actual paper.
