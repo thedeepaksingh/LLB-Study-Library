@@ -26,3 +26,7 @@ Read the full provision and relevant definitions in the [official BNS Act](../Ba
 5. Apply group-liability rules to a short hypothetical.
 
 These are practice prompts, not verified PYQs.
+
+## Detailed lesson
+
+Read the expanded [DAY-02 detailed lesson](lesson.md) for explanations, statutory starting points, comparisons and practice questions.
