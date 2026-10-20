@@ -29,3 +29,7 @@ For every offence, note the exact statutory wording, ingredients, exceptions, pu
 5. Explain offences against children that are included in the prescribed syllabus.
 
 These are not verified PYQs. See the [official source register](../Bare-Act-and-References/official-sources.md).
+
+## Detailed lesson
+
+Read the expanded [DAY-06 detailed lesson](lesson.md) for State/public-tranquillity topics and prescribed offences against women and children.
