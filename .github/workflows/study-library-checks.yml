@@ -1,0 +1,27 @@
+name: Study library checks
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  markdown-links:
+    name: Validate changed Markdown links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out PR branch and history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate local Markdown links in changed files
+        run: python scripts/check_study_library.py --changed-from origin/main
