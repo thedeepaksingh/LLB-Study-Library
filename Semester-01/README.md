@@ -7,3 +7,8 @@ This folder contains all Semester 1 subjects under the applicable CCSU LL.B. syl
 
 ## Adding another subject
 Create a separate subject folder with its official paper code, syllabus, subject dashboard, topic notes, question bank, model answers, sources and changelog. Confirm the user's batch-specific syllabus before populating an additional subject.
+
+
+## Other subjects
+
+Use the [Semester 1 subject confirmation register](OTHER-SUBJECTS-TO-CONFIRM.md) to add all remaining papers once the applicable official syllabus and batch are confirmed.
