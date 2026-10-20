@@ -27,3 +27,4 @@ Add future materials in new topic/question files or append sections. Do not eras
 - **Source/accuracy note:** CCSU syllabus, BNS structure/section mapping, NCRB/BPRD compendium and selected reported decisions were used to ground the material. Most precedents were decided under IPC; current BNS wording controls. The collection remains an educational draft and is not labelled fully verified.
 - **Important current-law note:** BNS section 106(2) was excluded from commencement and is stated as uncommenced as at 20 October 2026; section 106(1) is treated separately.
 - **Question provenance:** all new worked problems are original practice material, not verified PYQs.
+- Follow-up within the same proposed branch: added selected verbatim Bare Act extracts with ingredient notes, linked the core extracts from the Section Finder and dashboard, added topic-relevant case anchors to Day 1–Day 6 lessons, linked the worked-question set and expanded the official source register.
