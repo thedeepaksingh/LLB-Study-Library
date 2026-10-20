@@ -5,12 +5,19 @@ This folder preserves source materials supplied for the BNS-1 subject separately
 ## Source received
 - **Filename:** `BNS-Sem 1.docx`
 - **Description:** LLB Semester I — Bharatiya Nyaya Sanhita, 2023 study material
-- **Original format:** Microsoft Word (.docx)
+- **Original format:** Microsoft Word (.docx)  
+- **Source-file SHA-256:** `9370cf06abc7b837d3c6346344ecd4d5de5bfceede9fe01b7177c75893fa9694`  
+- **Original file size:** 1,293,193 bytes
 - **Source file characteristics inspected:** 748 pages, 14,257 Word paragraphs, 187 Word tables and 6 embedded images.
 - **Extracted text size:** The available document text extraction contains 29,651 ordered extraction lines. The archive is split into numbered text parts for repository size and review convenience.
 - **Preservation rule:** Do not silently rewrite, fact-check, correct, summarise or replace source wording in this archive. Preserve original ordering. If a correction or clarification is needed, add a separate note or teaching document and record it in the changelog.
 
 ## Extracted text archive
+- [Extraction manifest and line ranges](SOURCE-EXTRACTION-MANIFEST.md)
+- [Text transcribed from embedded images](EMBEDDED-IMAGE-TEXT-TRANSCRIPT.md)
+- [Reusable source-ingestion template](SOURCE-INGESTION-TEMPLATE.md)
+
+
 The parts below are consecutive ranges of the text extraction. Page markers are included where the document parser emitted them. Tables, headings and paragraph layout are represented as extracted text. A plain-text extraction cannot fully reproduce the original Word layout, page design, embedded image pixels or exact table geometry; the submitted Word file remains the original source in the conversation Library. Do not describe the text transcript as a bit-for-bit replacement of the original .docx.
 
 - [Part 01](BNS-Sem-1-Extract-Part-01.txt)
