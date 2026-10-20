@@ -52,3 +52,10 @@ A PYQ-VERIFIED label requires the actual paper to have been inspected and its ye
 ## Changes after approval
 
 After a merge, record the merge/PR link and commit in the root changelog. Keep old material in Git history and do not delete question entries merely because new versions exist. For material corrections, explain what changed and why.
+
+
+## Study-first maintenance agreement
+
+The owner should be able to focus on learning, not manual repository operations. The assistant handles file organisation, branch creation, updates, index maintenance, source logging and PR preparation when the GitHub connection permits it. Do not ask the owner to edit Markdown or run Git commands as part of routine content work unless a required capability is genuinely unavailable.
+
+Keep every subject's complete study collection inside that subject's folder. For BNS-1, the canonical location is `Semester-01/BNS-1/`; use its subfolders for topic-specific navigation and keep the dashboard/completeness matrix linked to everything. The existence of a file is not proof that the topic is complete.
