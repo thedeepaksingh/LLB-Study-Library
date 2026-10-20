@@ -136,3 +136,10 @@ Introduction → relevant legal concept/provision → essential ingredients → 
 Use the enacted BNS text and the applicable CCSU syllabus. See [official sources and verification log](../Bare-Act-and-References/official-sources.md).
 
 [Back to BNS-1 dashboard](../README.md) · [Seven-day plan](../00-7-Day-Study-Plan.md)
+
+## Case-law anchors to learn with Day 1
+- **Nathulal v State of Madhya Pradesh, AIR 1966 SC 43:** mens rea is generally presumed unless the statutory scheme excludes it; the case illustrates why a court must read the particular offence provision.
+- **State of Maharashtra v Mayer Hans George, AIR 1965 SC 722:** the statutory framework may exclude a conventional mens rea requirement in a particular regulatory offence. Read it alongside *Nathulal* rather than as a universal rule.
+- These are legacy authorities decided outside the BNS. The current section's wording controls.
+
+Read the full facts, issue, principle and exam application in [Case-Law Casebook](../Case-Laws/CASE-LAW-CASEBOOK.md) and connect them to the [Complete Syllabus Teaching Notes](../Complete-Notes/COMPLETE-SYLLABUS-TEACHING-NOTES.md).
