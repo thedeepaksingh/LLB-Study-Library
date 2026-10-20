@@ -90,3 +90,12 @@ Kidnapping and abduction have distinct statutory definitions. Analyse who was mo
 - [ ] I verified the punishment provisions independently.
 
 [Official source](../Bare-Act-and-References/official-sources.md)
+
+
+## Case-law anchors for this lesson
+- **State of Andhra Pradesh v Rayavarapu Punnayya, (1976) 4 SCC 382:** culpable homicide is the broader category; murder is the narrower and more serious category. Analyse statutory clauses and exceptions before classifying.
+- **Virsa Singh v State of Punjab, AIR 1958 SC 465:** under the former IPC provision concerning bodily injury sufficient in the ordinary course to cause death, the Court separated proof of the particular intended injury from its objective sufficiency to cause death.
+- **K.M. Nanavati v State of Maharashtra, AIR 1962 SC 605:** grave and sudden provocation has legal conditions; emotional upset does not automatically satisfy the murder exception.
+- These judgments interpreted the former IPC. Read BNS sections 100–106 and their exact text before applying the principles.
+
+See the [Case-Law Casebook](../Case-Laws/CASE-LAW-CASEBOOK.md) for facts and holdings. For operative wording, begin with [Core Bare Act Extracts](../Bare-Act-and-References/CORE-BARE-ACT-EXTRACTS.md) and then the [Section-Wise Learning Guide](../Bare-Act-and-References/BNS-SECTION-WISE-LEARNING-GUIDE.md).
