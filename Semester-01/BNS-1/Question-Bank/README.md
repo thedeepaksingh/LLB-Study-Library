@@ -14,3 +14,10 @@
 5. Distinguish a criminal wrong from a civil wrong.
 
 These questions are not verified previous-year questions. Link every later question to its topic note and model answer. Keep original question text and source information when recording actual papers.
+
+
+## Separate shelves
+- [Verified PYQs](Verified-PYQ/README.md) — only after inspection of the actual paper
+- [Predicted questions](Predicted-Questions/README.md) — syllabus-based, not historical claims
+- [Practice questions](Practice-Questions/README.md) — original self-test exercises
+- [Answer keys](Answer-Keys/README.md) — kept separate to support testing
