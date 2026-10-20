@@ -115,3 +115,9 @@ The following teaching resources have been drafted on `content/bns1-direct-learn
 | [Worked exam practice](Question-Bank/EXAM-PRACTICE-PROBLEMS-WITH-WORKED-ANSWERS.md) | Original long-answer plans, short notes and 12 hypothetical problems with worked answers | Practice draft; examiner-style review pending |
 
 The existence of these files is not a claim of perfect or final coverage. As the materials are reviewed, topic status should be upgraded only against the checklist in section D above. No added hypothetical may be registered as a verified PYQ.
+
+
+## F. User-supplied source archive
+The user-supplied `BNS-Sem 1.docx` has been text-extracted into ten numbered parts on `source/bns-sem1-source-preservation-2026-10-20`. See [Source Materials](Source-Materials/README.md), [Extraction Manifest](Source-Materials/SOURCE-EXTRACTION-MANIFEST.md), [embedded-image text transcript](Source-Materials/EMBEDDED-IMAGE-TEXT-TRANSCRIPT.md), and the [reusable intake template](Source-Materials/SOURCE-INGESTION-TEMPLATE.md).
+
+**Status:** Source-preservation draft, not content-verified. No source wording or section labels were changed. The text extraction does not preserve original Word layout or image pixels; the original DOCX remains in the conversation Library. Do not treat claims from the supplied source as legally verified merely because they are archived.
