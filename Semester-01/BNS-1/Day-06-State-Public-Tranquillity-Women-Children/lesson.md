@@ -57,3 +57,13 @@ Some offences may have complex statutory conditions. Do not shorten a definition
 - [ ] Any case law is accurate, relevant and cited to a reliable source.
 
 [Official syllabus](../01-Syllabus-and-Sources/official-syllabus.md) · [Official legislation](../Bare-Act-and-References/official-sources.md)
+
+
+## Case-law anchors for this lesson
+- **Lalji v State of Uttar Pradesh, (1989) 1 SCC 437:** unlawful-assembly liability may apply without proof that every member personally performed an overt act, but membership and statutory common-object conditions must be proved.
+- **Masalti v State of Uttar Pradesh, AIR 1965 SC 202:** group-offence cases require careful assessment of identification, membership and the applicable statutory conditions.
+- **State of Punjab v Gurmit Singh, (1996) 2 SCC 384:** sexual-offence evidence must be evaluated sensitively and without a rigid assumption that corroboration is always required.
+- **Satbir Singh v State of Haryana, (2021) 6 SCC 1:** “soon before” in the former dowry-death framework is contextual and requires a live/proximate link, not a fixed rule of immediate timing.
+- All cases are legacy authorities. Apply current BNS provisions, particularly sections 152, 189–194 and 63–99. Do not call section 152 a simple re-numbering of former IPC section 124A.
+
+For full case notes, read the [Case-Law Casebook](../Case-Laws/CASE-LAW-CASEBOOK.md). Read the current wording in the [BNS Section-Wise Learning Guide](../Bare-Act-and-References/BNS-SECTION-WISE-LEARNING-GUIDE.md).
