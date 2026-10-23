@@ -73,3 +73,16 @@ These future-semester pages are blank templates. Populate specific subject names
 - [Review and approval policy](REVIEW-AND-APPROVAL-POLICY.md)
 - [Review checklist](docs/REVIEW-CHECKLIST.md)
 - [Repository changelog](CHANGELOG.md)
+
+
+## Semester 1 — all subject dashboards and direct-learning notes
+- [Semester 1 dashboard and all papers](Semester-01/README.md)
+- [K-1001 Jurisprudence–I — complete teaching notes](Semester-01/Jurisprudence-I/Complete-Notes/COMPLETE-SYLLABUS-TEACHING-NOTES.md) · [casebook](Semester-01/Jurisprudence-I/Case-Laws/CASE-LAW-CASEBOOK.md) · [worked practice](Semester-01/Jurisprudence-I/Question-Bank/EXAM-PRACTICE-PROBLEMS-WITH-WORKED-ANSWERS.md)
+- [K-1002 Constitutional Law of India–I — complete teaching notes](Semester-01/Constitutional-Law-I/Complete-Notes/COMPLETE-SYLLABUS-TEACHING-NOTES.md) · [Article-wise guide](Semester-01/Constitutional-Law-I/References/ARTICLE-WISE-LEARNING-GUIDE.md) · [casebook](Semester-01/Constitutional-Law-I/Case-Laws/CASE-LAW-CASEBOOK.md)
+- [K-1003 Law of Torts & Consumer Protection — complete teaching notes](Semester-01/Law-of-Torts/Complete-Notes/COMPLETE-SYLLABUS-TEACHING-NOTES.md) · [doctrine and statute guide](Semester-01/Law-of-Torts/References/STATUTE-AND-DOCTRINE-REFERENCE-GUIDE.md) · [casebook](Semester-01/Law-of-Torts/Case-Laws/CASE-LAW-CASEBOOK.md)
+- [K-1005 Contract–I — complete teaching notes](Semester-01/Contract-I/Complete-Notes/COMPLETE-SYLLABUS-TEACHING-NOTES.md) · [Indian Contract Act section guide](Semester-01/Contract-I/References/INDIAN-CONTRACT-ACT-SECTION-GUIDE.md) · [casebook](Semester-01/Contract-I/Case-Laws/CASE-LAW-CASEBOOK.md)
+- [K-1006 BNS-1 — existing subject dashboard](Semester-01/BNS-1/README.md)
+- [Semester-wide completeness matrix](Semester-01/CONTENT-COMPLETENESS-MATRIX.md)
+- [Semester 1 subject register and batch confirmation](Semester-01/OTHER-SUBJECTS-TO-CONFIRM.md)
+
+All new worked question sets are marked original practice, not verified previous-year questions. The materials remain educational drafts pending independent subject review and confirmation of the syllabus applicable to the student's admission batch.
