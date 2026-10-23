@@ -45,3 +45,14 @@ Do not rewrite or delete historical entries. If an entry needs correction, appen
 - **Files:** added direct full-syllabus teaching notes, BNS section-wise learning guide, 22-case casebook, and original worked exam problems/answers; updated subject navigation, section finder, case-law dashboard and subject changelog.
 - **Purpose:** replace a link-heavy framework with actual study text, statutory ingredients, section numbers, case facts/holdings and application problems in the same BNS-1 location.
 - **Limitations:** summaries need continuing legal review; IPC-era cases are not represented as automatic interpretations of BNS. Practice questions are not claimed to be actual CCSU PYQs. The direct-learning pack has not been merged to main.
+
+
+### 2026-10-23 — Direct-learning packs for remaining Semester 1 subjects proposed
+- **Branch:** `content/semester1-other-subjects-2026-10-23`
+- **Status:** Draft pull request for owner review; not merged to `main`.
+- **Affected area:** Semester 1 — K-1001 Jurisprudence–I, K-1002 Constitutional Law of India–I, K-1003 Law of Torts & Consumer Protection Law, and K-1005 Contract–I.
+- **Added:** syllabus/source maps, study plans, complete teaching notes, theory/statute/article guides, case-law casebooks, original worked practice questions and per-subject completeness matrices/changelogs; Semester 1 and master navigation updated.
+- **Sources checked:** CCSU-hosted three-year LL.B. syllabus; CCSU January 2026 examination schedule; Government of India Constitution of India edition (2024); India Code Consumer Protection Act, 2019 and Indian Contract Act, 1872; Department of Consumer Affairs 2021 consumer commission jurisdiction rules.
+- **Study/content status:** expanded teaching drafts. Current legal and case-law verification, faculty review and the student's batch-specific syllabus confirmation remain pending.
+- **Question provenance:** worked problems are original practice, not verified CCSU PYQs.
+- **Validation limit:** repository link/structure checks do not guarantee legal correctness. Do not mark as fully verified solely because these files exist.
